@@ -60,34 +60,6 @@ class Client(commands.Bot):
         Logger.info("Bot is now ready and online!")
         Logger.info("-----------------------------")
 
-    async def on_message(self, message: discord.Message):
-        try:
-            # If the message is not in the inactivity channel, ignore it.
-            if message.channel.id != self.inactivity_channel:
-                return
-            # If the message is authored by the bot, ignore it.
-            if message.author.bot:
-                Logger.debug(f"Ignoring message from self in inactivity_channel: {message.author}")
-                return
-            # Check if the message is a slash command (starts with "/").
-            # Inactivity channel only allows slash commands.
-            if not message.content.startswith("/"):
-                await message.delete()  # Delete the message
-                # Send a temporary message in the channel to notify the user.
-                warn_msg = (
-                    f"{message.author.mention} Only slash commands are allowed in this channel. "
-                    "The only allowed commands are: /register, /change-name, /change-status."
-                )
-                await message.channel.send(content=warn_msg, delete_after=10)
-                Logger.debug(
-                    f"Deleted message from {message.author} in inactivity_channel. "
-                    f"Content was: {message.content}"
-                )
-        except Exception as e:
-            Logger.error("Failed to process on_message for inactivity_channel: " + str(e))
-        # Continue processing other commands if needed.
-        await self.process_commands(message)
-
     async def LoadCogs(self):
         Logger.info("Loading Cogs...")
         cogs_dir = Path("cogs")
