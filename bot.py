@@ -6,12 +6,20 @@ from pathlib import Path
 import json
 import shutil
 
-# Set this variable to False to disable clearing of the .\logs directory on startup.
-clear_logs_on_start = True
+# Load settings from settings.json.
+settings_path = Path("./settings.json")
+with open(settings_path, "r", encoding="utf-8") as f:
+    settings = json.load(f)
+    # Get the bot token from the settings.json file.
+    bot_token = settings["bot"]["bot_token"]
+    # Get guild settings from the nested guild key.
+    guild_id = settings["guild"]["guild_id"]
+    # Get bot environment
+    environment = settings["bot"]["environment"]
 
 # Clear the logs directory BEFORE the Logger is loaded.
 logs_dir = Path("./logs")
-if clear_logs_on_start and logs_dir.exists():
+if environment == "development":
     try:
         shutil.rmtree(logs_dir)
         print(f"Cleared the logs directory: {logs_dir}")
@@ -26,12 +34,13 @@ Logger.set_debug(True)
 
 # Clear all __pycache__ directories in the root and subdirectories.
 pycache_dirs = list(Path(".").rglob("__pycache__"))
-for pycache in pycache_dirs:
-    try:
-        shutil.rmtree(pycache)
-        Logger.debug(f"Deleted __pycache__ directory: {pycache}")
-    except Exception as e:
-        Logger.error(f"Failed to delete __pycache__ directory at {pycache}: {e}")
+if environment == "development":
+    for pycache in pycache_dirs:
+        try:
+            shutil.rmtree(pycache)
+            Logger.debug(f"Deleted __pycache__ directory: {pycache}")
+        except Exception as e:
+            Logger.error(f"Failed to delete __pycache__ directory at {pycache}: {e}")
 
 # Determine the command prefix: default to "!" if not provided by parameters.
 command_prefix = "!"
@@ -97,15 +106,6 @@ class Client(commands.Bot):
         self.tree.copy_global_to(guild=discord.Object(id=guild_id))
         await self.tree.sync(guild=discord.Object(id=guild_id))
         Logger.info("Commands are now synced!")
-
-# Load settings from settings.json.
-settings_path = Path("./settings.json")
-with open(settings_path, "r", encoding="utf-8") as f:
-    settings = json.load(f)
-    # Get the bot token from the settings.json file.
-    bot_token = settings["bot"]["bot_token"]
-    # Get guild settings from the nested guild key.
-    guild_id = settings["guild"]["guild_id"]
 
 client = Client()
 client.guild_id = guild_id  # Assign the guild ID to the bot instance.
