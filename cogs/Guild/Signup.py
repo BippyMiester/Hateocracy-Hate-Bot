@@ -56,20 +56,18 @@ def save_waitlist(waitlist: list) -> None:
         Logger.error("Error saving waitlist.json: " + str(e))
 
 # Function to update the waitlist embed message.
+# It uses the stored waitlist_message_id and waitlist_channel_id from settings["waitlist"].
 async def update_waitlist_embed(bot: commands.Bot, waitlist: list, settings: dict):
     try:
-        # Get the waitlist_message_id and test_channel from the cached settings.
-        waitlist_message_id = settings.get("guild", {}).get("waitlist_message_id", 0)
-        if waitlist_message_id == 0:
-            Logger.error("Waitlist embed message ID is not set in settings.json.")
+        waitlist_message_id = settings.get("waitlist", {}).get("waitlist_message_id", 0)
+        channel_id = settings.get("waitlist", {}).get("waitlist_channel_id")
+        if waitlist_message_id == 0 or channel_id is None:
+            Logger.error("Waitlist embed message ID or channel ID is not set in settings.json.")
             return
-
-        test_channel_id = settings.get("guild", {}).get("test_channel")
-        channel = bot.get_channel(test_channel_id)
+        channel = bot.get_channel(channel_id)
         if channel is None:
-            Logger.error("Test channel not found during waitlist embed update.")
+            Logger.error("Waitlist channel not found during embed update.")
             return
-
         message = await channel.fetch_message(waitlist_message_id)
         # Construct the updated embed.
         mentions = []
@@ -78,16 +76,19 @@ async def update_waitlist_embed(bot: commands.Bot, waitlist: list, settings: dic
             mentions.append(user.mention)
         waitlist_str = "\n".join(mentions) if mentions else "No Players Yet..."
         player_count = len(waitlist)
-        # Create a new embed using the current embed as basis.
-        embed = message.embeds[0]
-        embed_dict = embed.to_dict()
-        if "fields" in embed_dict and embed_dict["fields"]:
-            embed_dict["fields"][0]["value"] = waitlist_str
+        # Use the existing embed as a basis (or create a new one if absent).
+        embed = message.embeds[0] if message.embeds else discord.Embed(
+            title="Hateocracy 2 Guild Waitlist",
+            description="Click below to sign up for the Hateocracy 2 guild waitlist",
+            color=discord.Color.blue()
+        )
+        if embed.fields:
+            embed.set_field_at(0, name="Current Waitlist", value=waitlist_str, inline=False)
         else:
-            embed_dict["fields"] = [{"name": "Current Waitlist", "value": waitlist_str, "inline": False}]
-        embed_dict["footer"] = {"text": f"Players {player_count}/30"}
-        new_embed = discord.Embed.from_dict(embed_dict)
-        await message.edit(embed=new_embed, view=WaitlistView(bot, settings))
+            embed.add_field(name="Current Waitlist", value=waitlist_str, inline=False)
+        embed.set_footer(text=f"Players {player_count}/30")
+        # Edit the message with the updated embed and persistent view.
+        await message.edit(embed=embed, view=WaitlistView(bot, settings))
         Logger.info(f"Updated waitlist embed message (ID: {waitlist_message_id}) with {player_count} player(s).")
     except Exception as e:
         Logger.error("Error updating waitlist embed: " + str(e))
@@ -95,7 +96,7 @@ async def update_waitlist_embed(bot: commands.Bot, waitlist: list, settings: dic
 # Define a view with buttons for joining and leaving the waitlist.
 class WaitlistView(discord.ui.View):
     def __init__(self, bot: commands.Bot, settings: dict):
-        # Set timeout to None for persistent view and ensure buttons have custom_ids for persistence.
+        # Set timeout to None for a persistent view.
         super().__init__(timeout=None)
         self.bot = bot
         self.settings = settings
@@ -112,7 +113,15 @@ class WaitlistView(discord.ui.View):
             waitlist.append(user_id)
             save_waitlist(waitlist)
             Logger.info(f"User {interaction.user} added to waitlist.")
-            # Update the embed message using cached settings.
+            # Add the waitlist role to the user.
+            waitlist_role_id = self.settings.get("waitlist", {}).get("waitlist_role")
+            if waitlist_role_id and interaction.guild:
+                role = interaction.guild.get_role(waitlist_role_id)
+                if role:
+                    await interaction.user.add_roles(role, reason="Joined waitlist")
+                    Logger.info(f"Assigned waitlist role to {interaction.user}.")
+                else:
+                    Logger.error("Waitlist role not found in the guild.")
             await update_waitlist_embed(self.bot, waitlist, self.settings)
             await interaction.response.send_message("You have joined the waitlist.", ephemeral=True)
         except Exception as e:
@@ -131,7 +140,15 @@ class WaitlistView(discord.ui.View):
             waitlist.remove(user_id)
             save_waitlist(waitlist)
             Logger.info(f"User {interaction.user} removed from waitlist.")
-            # Update the embed message using cached settings.
+            # Remove the waitlist role from the user.
+            waitlist_role_id = self.settings.get("waitlist", {}).get("waitlist_role")
+            if waitlist_role_id and interaction.guild:
+                role = interaction.guild.get_role(waitlist_role_id)
+                if role:
+                    await interaction.user.remove_roles(role, reason="Left waitlist")
+                    Logger.info(f"Removed waitlist role from {interaction.user}.")
+                else:
+                    Logger.error("Waitlist role not found in the guild.")
             await update_waitlist_embed(self.bot, waitlist, self.settings)
             await interaction.response.send_message("You have left the waitlist.", ephemeral=True)
         except Exception as e:
@@ -143,27 +160,41 @@ class Signup(commands.Cog):
         self.bot = bot
         # Load settings only once and store them.
         self.settings = load_settings()
-        # Cache the test channel ID from the settings.
-        self.test_channel = self.settings.get("guild", {}).get("test_channel")
-        # Register persistent view so that interactions for the waitlist persist through restarts.
+        # Cache the admin and developer role IDs from the guild settings.
+        self.admin_role = self.settings.get("guild", {}).get("admin_role")
+        self.developer_role = self.settings.get("guild", {}).get("developer_role")
+        # Register persistent view so that interactions persist through restarts.
         self.bot.add_view(WaitlistView(self.bot, self.settings))
 
-    # Command to post the waitlist embed in the test channel if not already posted.
-    @app_commands.command(name="signup", description="Post waitlist embed into test channel")
+    # Command to post the waitlist embed in the channel where the command was run.
+    # Restricted to users with admin or developer roles.
+    @app_commands.command(name="signup", description="Post waitlist embed into current channel")
     async def signup(self, interaction: discord.Interaction):
         await interaction.response.defer(ephemeral=True)
+        # Check if the user has admin or developer role.
+        has_permission = False
+        member: discord.Member = interaction.user
+        for role in member.roles:
+            if role.id in {self.admin_role, self.developer_role}:
+                has_permission = True
+                break
+        if not has_permission:
+            Logger.info(f"User {member} attempted to run /signup without proper permissions.")
+            await interaction.followup.send("You do not have permission to perform this action.", ephemeral=True)
+            return
+
         try:
-            waitlist_message_id = self.settings.get("guild", {}).get("waitlist_message_id", 0)
-            # Check if the embed has already been posted.
+            waitlist_message_id = self.settings.get("waitlist", {}).get("waitlist_message_id", 0)
             if waitlist_message_id != 0:
                 Logger.info(f"Waitlist embed already exists with message ID {waitlist_message_id}.")
                 await interaction.followup.send("Waitlist embed already exists.", ephemeral=True)
                 return
 
-            channel = self.bot.get_channel(self.test_channel)
+            # Post embed in the channel where the command was run.
+            channel = interaction.channel
             if channel is None:
-                Logger.error("Test channel not found when attempting to post waitlist embed.")
-                await interaction.followup.send("Test channel not accessible.", ephemeral=True)
+                Logger.error("Channel not found when attempting to post waitlist embed.")
+                await interaction.followup.send("Channel not accessible.", ephemeral=True)
                 return
 
             # Create the waitlist embed.
@@ -174,13 +205,13 @@ class Signup(commands.Cog):
             )
             embed.add_field(name="Current Waitlist", value="No Players Yet...", inline=False)
             embed.set_footer(text="Players 0/30")
-
             view = WaitlistView(self.bot, self.settings)
             message = await channel.send(embed=embed, view=view)
-            Logger.info(f"Posted new waitlist embed in test channel with message ID {message.id}.")
-
-            # Update settings.json with the new waitlist_message_id.
-            self.settings["guild"]["waitlist_message_id"] = message.id
+            Logger.info(f"Posted new waitlist embed in channel {channel.id} with message ID {message.id}.")
+            # Update settings.json with the new waitlist_message_id and waitlist_channel_id.
+            self.settings.setdefault("waitlist", {})
+            self.settings["waitlist"]["waitlist_message_id"] = message.id
+            self.settings["waitlist"]["waitlist_channel_id"] = channel.id
             save_settings(self.settings)
             await interaction.followup.send("Waitlist embed posted successfully.", ephemeral=True)
         except Exception as e:
