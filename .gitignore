@@ -2,13 +2,7 @@ settings.json
 logs/
 
 # Ignore all files in the data directory
-/data/*
-
-# Do not ignore the directory itself
-!/data/
-
-# Do not ignore any subdirectories within data (allows empty subdirectories to be committed)
-!/data/**/
+data/
 
 # Created by https://www.toptal.com/developers/gitignore/api/python
 # Edit at https://www.toptal.com/developers/gitignore?templates=python
