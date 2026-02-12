@@ -55,20 +55,23 @@ def save_waitlist(waitlist: list) -> None:
         Logger.error("Error saving waitlist.json: " + str(e))
 
 # Function to update the original waitlist embed.
-# This function updates the embed with a cleared waitlist and restores the join/leave buttons.
+# This function re-reads the settings file so that it uses an updated waitlist_message_id and waitlist_channel_id.
 async def update_waitlist_embed(bot: commands.Bot, settings: dict):
     try:
-        waitlist_message_id = settings.get("guild", {}).get("waitlist_message_id", 0)
+        # Reload settings to get the most up-to-date values.
+        updated_settings = load_settings()
+        waitlist_message_id = updated_settings.get("waitlist", {}).get("waitlist_message_id", 0)
         if waitlist_message_id == 0:
             Logger.error("Waitlist embed message ID is not set in settings.json.")
             return
-
-        test_channel_id = settings.get("guild", {}).get("test_channel")
-        channel = bot.get_channel(test_channel_id)
-        if channel is None:
-            Logger.error("Test channel not found during waitlist embed update.")
+        channel_id = updated_settings.get("waitlist", {}).get("waitlist_channel_id")
+        if not channel_id:
+            Logger.error("Waitlist channel ID is not set in settings.json.")
             return
-
+        channel = bot.get_channel(channel_id)
+        if channel is None:
+            Logger.error("Waitlist channel not found during waitlist embed update.")
+            return
         message = await channel.fetch_message(waitlist_message_id)
         # Prepare the updated embed content.
         embed = discord.Embed(
@@ -78,10 +81,9 @@ async def update_waitlist_embed(bot: commands.Bot, settings: dict):
         )
         embed.add_field(name="Current Waitlist", value="No Players Yet...", inline=False)
         embed.set_footer(text="Players 0/30")
-
         # Import the original WaitlistView from the Signup cog to restore join/leave buttons.
-        from cogs.Guild.Signup import WaitlistView  # Ensure this import works; the file must be in the correct path.
-        view = WaitlistView(bot, settings)
+        from cogs.Guild.Signup import WaitlistView  # Ensure the path is correct.
+        view = WaitlistView(bot, updated_settings)
         await message.edit(embed=embed, view=view)
         Logger.info(f"Waitlist embed (ID: {waitlist_message_id}) updated (cleared) successfully.")
     except Exception as e:
@@ -101,17 +103,13 @@ class ConfirmResetView(discord.ui.View):
             # Clear the waitlist file.
             save_waitlist([])  # Write an empty list to clear the waitlist.
             Logger.info(f"Waitlist file cleared by {interaction.user} via reset command.")
-
             # Update the original signup embed (restoring the join/leave buttons).
             await update_waitlist_embed(self.bot, self.settings)
-
-            # Send an ephemeral confirmation message.
-            await interaction.response.send_message("Waitlist has been reset.", ephemeral=True, delete_after=2)
+            # Send an ephemeral confirmation message without delete_after (ephemeral messages auto-delete).
+            await interaction.response.send_message("Waitlist has been reset.", ephemeral=True)
             Logger.info("Waitlist reset confirmed by user " + str(interaction.user))
         except Exception as e:
             Logger.error("Error in confirm_reset callback: " + str(e))
-            # If the interaction was already responded to, we cannot send another response.
-            # So we log the error without sending another message.
     
     async def on_timeout(self):
         pass
@@ -122,11 +120,9 @@ class SignupClear(commands.Cog):
         self.bot = bot
         # Load settings once and cache them.
         self.settings = load_settings()
-        # Cache role IDs for admin and developer from settings.
+        # Cache role IDs for admin and developer from settings["guild"].
         self.admin_role = self.settings.get("guild", {}).get("admin_role")
         self.developer_role = self.settings.get("guild", {}).get("developer_role")
-        # Cache the test channel ID.
-        self.test_channel = self.settings.get("guild", {}).get("test_channel")
         # Register the persistent view for confirmation so that it works through restarts.
         self.bot.add_view(ConfirmResetView(self.bot, self.settings))
 
@@ -144,14 +140,12 @@ class SignupClear(commands.Cog):
             Logger.info(f"User {member} attempted to run /signup-clear without proper permissions.")
             await interaction.response.send_message("You do not have permission to perform this action.", ephemeral=True)
             return
-
         # Send an ephemeral confirmation message with the persistent reset button.
         confirm_view = ConfirmResetView(self.bot, self.settings)
         await interaction.response.send_message(
             "Are you sure you want to reset the waitlist? Click the button below to confirm.",
             view=confirm_view,
-            ephemeral=True,
-            delete_after=10
+            ephemeral=True
         )
         Logger.info(f"/signup-clear command invoked by authorized user {member}.")
 
