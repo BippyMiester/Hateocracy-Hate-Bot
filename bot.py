@@ -10,12 +10,21 @@ import shutil
 settings_path = Path("./settings.json")
 with open(settings_path, "r", encoding="utf-8") as f:
     settings = json.load(f)
-    # Get the bot token from the settings.json file.
-    bot_token = settings["bot"]["bot_token"]
-    # Get guild settings from the nested guild key.
-    guild_id = settings["guild"]["guild_id"]
     # Get bot environment
     environment = settings["bot"]["environment"]
+    
+    if environment == "development":
+        # Get the bot token from the settings.json file.
+        bot_token = settings["bot"]["bot_token_development"]
+        guild_id = settings["guild_development"]["guild_id"]
+    else:
+        # Get the bot token from the settings.json file.
+        # Get guild settings from the nested guild key.
+        bot_token = settings["bot"]["bot_token_production"]
+        guild_id = settings["guild_production"]["guild_id"]
+    
+    
+    
 
 # Clear the logs directory BEFORE the Logger is loaded.
 logs_dir = Path("./logs")
