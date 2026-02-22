@@ -2,7 +2,9 @@ settings.json
 logs/
 
 # Ignore all files in the data directory
-data/
+data/*
+!data/wiki/
+!data/wiki/**
 
 # Created by https://www.toptal.com/developers/gitignore/api/python
 # Edit at https://www.toptal.com/developers/gitignore?templates=python
