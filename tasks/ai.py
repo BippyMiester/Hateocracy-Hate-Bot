@@ -48,13 +48,124 @@ def remove_stopwords(text: str) -> str:
     filtered_tokens = [word for word in tokens if word not in custom_stop_words]
     return ' '.join(filtered_tokens)
 
+# File path for storing AI responses ratings.
+AI_RESPONSES_FILE = Path("./data/ai_responses.json")
+
+def load_ai_responses():
+    if AI_RESPONSES_FILE.exists():
+        try:
+            with open(AI_RESPONSES_FILE, "r", encoding="utf-8") as f:
+                return json.load(f)
+        except Exception as e:
+            Logger.error(f"Error loading {AI_RESPONSES_FILE}: {e}")
+            return {}
+    else:
+        return {}
+
+def save_ai_responses(data: dict):
+    try:
+        with open(AI_RESPONSES_FILE, "w", encoding="utf-8") as f:
+            json.dump(data, f, indent=4)
+        Logger.debug("Saved AI responses data.")
+    except Exception as e:
+        Logger.error(f"Error saving {AI_RESPONSES_FILE}: {e}")
+
+# Persistent Feedback View for rating the AI response.
+class FeedbackView(discord.ui.View):
+    def __init__(self, message_id: int):
+        # Set timeout to None for persistence.
+        super().__init__(timeout=None)
+        self.message_id = str(message_id)
+
+    @discord.ui.button(label="Good", style=discord.ButtonStyle.green, custom_id="ai_feedback_good")
+    async def good_button(self, interaction: discord.Interaction, button: discord.ui.Button):
+        user_id = interaction.user.id
+        data = load_ai_responses()
+        entry = data.get(self.message_id)
+        if not entry:
+            await interaction.response.send_message("Feedback entry not found.", ephemeral=True)
+            return
+        if user_id in entry["users"]:
+            await interaction.response.send_message("You have already voted.", ephemeral=True)
+            return
+        entry["good"] += 1
+        entry["users"].append(user_id)
+        save_ai_responses(data)
+        await interaction.response.send_message("Thanks for your feedback!", ephemeral=True)
+
+    @discord.ui.button(label="Needs Work", style=discord.ButtonStyle.red, custom_id="ai_feedback_bad")
+    async def bad_button(self, interaction: discord.Interaction, button: discord.ui.Button):
+        user_id = interaction.user.id
+        data = load_ai_responses()
+        entry = data.get(self.message_id)
+        if not entry:
+            await interaction.response.send_message("Feedback entry not found.", ephemeral=True)
+            return
+        if user_id in entry["users"]:
+            await interaction.response.send_message("You have already voted.", ephemeral=True)
+            return
+        entry["bad"] += 1
+        entry["users"].append(user_id)
+        save_ai_responses(data)
+        await interaction.response.send_message("Thanks for your feedback!", ephemeral=True)
+
+def update_currently_processing(value: bool, settings_path: Path):
+    try:
+        with open(settings_path, "r", encoding="utf-8") as f:
+            settings_local = json.load(f)
+        settings_local["ai"]["currently_processing"] = value
+        with open(settings_path, "w", encoding="utf-8") as f:
+            json.dump(settings_local, f, indent=4)
+        Logger.info(f"Set currently_processing to {value} in settings.json")
+    except Exception as e:
+        Logger.error(f"Error updating settings.json: {e}")
+
+async def call_openai(system_prompt: str, user_text: str, max_tokens: int) -> str:
+    from openai import AsyncOpenAI
+    client = AsyncOpenAI(api_key=openai_api_key)
+    tokens = word_tokenize(user_text)
+    if len(tokens) > max_input_tokens:
+        Logger.warning(f"Truncating user input from {len(tokens)} tokens to {max_input_tokens} tokens.")
+        tokens = tokens[:max_input_tokens]
+        user_text = ' '.join(tokens)
+    Logger.info(f"Final user text token count: {len(word_tokenize(user_text))} tokens.")
+    messages = [
+        {"role": "system", "content": system_prompt},
+        {"role": "user", "content": user_text}
+    ]
+    
+    async def run_api():
+        update_currently_processing(True, SETTINGS_PATH)
+        try:
+            completion = await client.chat.completions.create(
+                model=model,
+                messages=messages,
+                temperature=1,
+                max_completion_tokens=max_tokens
+            )
+            Logger.debug(f"Raw OpenAI response: {completion.model_dump()}")
+            finish_reason = completion.choices[0].finish_reason
+            Logger.info(f"OpenAI finish_reason: {finish_reason}")
+            result = completion.choices[0].message.content.strip()
+            return result
+        finally:
+            update_currently_processing(False, SETTINGS_PATH)
+    
+    # Wrap run_api using asyncio.to_thread.
+    result = await asyncio.to_thread(lambda: asyncio.run(run_api()))
+    Logger.info(f"OpenAI returned a response of length {len(result)}")
+    if not result or result.isspace():
+        Logger.error("OpenAI returned an empty response.")
+        raise Exception("Empty response from OpenAI")
+    return result
+
 class AITask(commands.Cog):
     def __init__(self, bot: commands.Bot):
         self.bot = bot
 
     async def pong(self, message: discord.Message):
         Logger.debug(f"Executing pong in AITask for user {message.author} in channel {message.channel.id}")
-        # Load settings to retrieve AI configuration.
+        # Load settings.
         settings_path = Path("./settings.json")
         try:
             with open(settings_path, "r", encoding="utf-8") as f:
@@ -66,8 +177,7 @@ class AITask(commands.Cog):
             await message.channel.send("Something went wrong. Error Code: AITASK001")
             return
 
-        # If an API request is already running, skip processing.
-        if currently_processing is True:
+        if currently_processing:
             Logger.info("Currently processing OpenAI API request, skipping AITask Pong message.")
             return
 
@@ -89,9 +199,8 @@ class AITask(commands.Cog):
                 })
         except Exception as e:
             Logger.error(f"Error fetching previous messages: {e}")
-            # Proceed with empty previous_messages
         
-        # Query the local knowledge base using ChromaDB.
+        # Query local knowledge base using ChromaDB.
         context_info = ""
         try:
             Logger.info("Querying local knowledge base for additional context...")
@@ -102,7 +211,6 @@ class AITask(commands.Cog):
                 )
             )
             collection = client.get_collection("wiki")
-            # Use the new API parameter "query_texts" (expects a list).
             query_results = await asyncio.to_thread(
                 lambda: collection.query(query_texts=[message.content], n_results=3, include=["documents"])
             )
@@ -112,12 +220,14 @@ class AITask(commands.Cog):
                     context_info = "\n\n".join(documents_list[0])
                 else:
                     context_info = "\n\n".join(documents_list)
+            # Replace newlines with spaces.
+            context_info = " ".join(context_info.split())
             Logger.info(f"Retrieved knowledge base context with {len(context_info.split())} tokens.")
         except Exception as e:
             Logger.error(f"Error querying knowledge base: {e}")
             context_info = ""
 
-        # Construct the final payload that includes context.
+        # Construct final payload.
         user_payload = {
             "original_message": original_message,
             "previous_messages": previous_messages,
@@ -128,67 +238,49 @@ class AITask(commands.Cog):
         user_text = json.dumps(user_payload, indent=4)
         Logger.info(f"Constructed user_text payload for OpenAI API:\n{user_text}")
 
-        # Helper function to update only the "currently_processing" value.
-        def update_currently_processing(value: bool):
-            try:
-                with open(settings_path, "r", encoding="utf-8") as f:
-                    settings_local = json.load(f)
-                settings_local["ai"]["currently_processing"] = value
-                with open(settings_path, "w", encoding="utf-8") as f:
-                    json.dump(settings_local, f, indent=4)
-                Logger.info(f"Set currently_processing to {value} in settings.json")
-            except Exception as e:
-                Logger.error(f"Error updating settings.json: {e}")
-
-        async def call_openai(system_prompt: str, user_text: str, max_tokens: int) -> str:
-            from openai import AsyncOpenAI
-            client = AsyncOpenAI(api_key=openai_api_key)
-            tokens = word_tokenize(user_text)
-            if len(tokens) > max_input_tokens:
-                Logger.warning(f"Truncating user input from {len(tokens)} tokens to {max_input_tokens} tokens.")
-                tokens = tokens[:max_input_tokens]
-                user_text = ' '.join(tokens)
-            Logger.info(f"Final user text token count: {len(word_tokenize(user_text))} tokens.")
-            messages = [
-                {"role": "system", "content": system_prompt},
-                {"role": "user", "content": user_text}
-            ]
-            
-            async def run_api():
-                update_currently_processing(True)
-                try:
-                    completion = await client.chat.completions.create(
-                        model=model,
-                        messages=messages,
-                        temperature=1,
-                        max_completion_tokens=max_tokens
-                    )
-                    Logger.debug(f"Raw OpenAI response: {completion.model_dump()}")
-                    finish_reason = completion.choices[0].finish_reason
-                    Logger.info(f"OpenAI finish_reason: {finish_reason}")
-                    result = completion.choices[0].message.content.strip()
-                    return result
-                finally:
-                    update_currently_processing(False)
-            
-            # Wrap the run_api call with asyncio.to_thread to avoid heartbeats issues.
-            result = await asyncio.to_thread(lambda: asyncio.run(run_api()))
-            Logger.info(f"OpenAI returned a response of length {len(result)}")
-            if not result or result.isspace():
-                Logger.error("OpenAI returned an empty response.")
-                raise Exception("Empty response from OpenAI")
-            return result
-
         try:
             Logger.debug(f"Calling OpenAI API for user {message.author} with payload.")
             openai_reply = await call_openai(system_prompt, user_text, max_completion_tokens)
-            await message.channel.send(openai_reply)
-            Logger.info(f"Replied with AI response to user {message.author} in channel {message.channel.id}")
         except Exception as e:
             Logger.error(f"Error in OpenAI API call: {e}")
             await message.channel.send("Something went wrong. Error Code: AITASK002")
+            return
+
+        # Send OpenAI response with persistent feedback buttons.
+        try:
+            response_message = await message.channel.send(openai_reply, view=FeedbackView(0))
+            # Create a new entry in the ai_responses file.
+            ai_data = load_ai_responses()
+            ai_data[str(response_message.id)] = {
+                "original_message": message.content,
+                "openai_response": openai_reply,
+                "good": 0,
+                "bad": 0,
+                "users": []
+            }
+            save_ai_responses(ai_data)
+            # Update the view with the actual message id.
+            feedback_view = FeedbackView(response_message.id)
+            await response_message.edit(view=feedback_view)
+            self.bot.add_view(feedback_view)
+            Logger.info(f"Feedback view added for message id: {response_message.id}")
+        except Exception as e:
+            Logger.error(f"Error sending feedback view: {e}")
+
+# On startup, register persistent feedback views from stored AI responses.
+async def register_persistent_views(bot: commands.Bot):
+    ai_data = load_ai_responses()
+    for message_id in ai_data.keys():
+        try:
+            view = FeedbackView(int(message_id))
+            bot.add_view(view)
+            Logger.info(f"Registered persistent feedback view for message id: {message_id}")
+        except Exception as e:
+            Logger.error(f"Error registering persistent view for message id {message_id}: {e}")
 
 async def setup(bot: commands.Bot):
     cog = AITask(bot)
     await bot.add_cog(cog)
     Logger.info("AITask cog loaded from tasks/ai.py")
+    # Register persistent views so that feedback buttons work after restarts.
+    await register_persistent_views(bot)
