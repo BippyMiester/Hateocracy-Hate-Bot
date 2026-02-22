@@ -1,5 +1,5 @@
 Missiles Radius
-Unlocked after Missile Explosion. Increase the radius of the missiles explosion. Has 20 levels.
+Unlocked Missile Explosion . Increase radius missiles explosion . 20 levels .
 Level
 Time
 Cost
@@ -18,11 +18,11 @@ Value
 1,050,000
 0.45
 4
-2d  1h 47m
+2d 1h 47m
 2,000,000
 0.50
 5
-2d  6h 42m
+2d 6h 42m
 4,780,000
 0.55
 6
@@ -34,7 +34,7 @@ Value
 23,130,000
 0.65
 8
-3d  7h 52m
+3d 7h 52m
 44,020,000
 0.70
 9
@@ -54,7 +54,7 @@ Value
 301,670,000
 0.90
 13
-8d  3h 16m
+8d 3h 16m
 438,100,000
 0.95
 14
@@ -66,19 +66,19 @@ Value
 849,060,000
 1.05
 16
-14d  7h  3m
+14d 7h 3m
 1,140,000,000
 1.10
 17
-17d  2h 48m
+17d 2h 48m
 1,510,000,000
 1.15
 18
-20d  9h 26m
+20d 9h 26m
 1,960,000,000
 1.20
 19
-24d  4h  0m
+24d 4h 0m
 2,500,000,000
 1.25
 20

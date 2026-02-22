@@ -19,5 +19,5 @@ Max Lv 7
 Recharge Nuke
 Max Lv 7
 Card Mastery
-(1 lab per card)
+( 1 lab per card )
 Max Lv 9

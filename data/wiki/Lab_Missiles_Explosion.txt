@@ -1,5 +1,5 @@
 Missiles Explosion
-Missiles deal area of effect damage (AOE) damaging surrounding enemies. Has 1 level. Unlocks Missile Radius after completion. Starting radius is 0.30.
+Missiles deal area effect damage ( AOE ) damaging surrounding enemies . 1 level . Unlocks Missile Radius completion . Starting radius 0.30 .
 Level
 Time
 Cost

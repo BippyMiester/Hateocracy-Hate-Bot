@@ -1,11 +1,11 @@
 Elite Enemies
-Elite enemies include Vampire, Ray and Scatter. There is a limit of only 1 spawn per wave or up to 2 at higher waves. All Elite enemies are immune to Orbs, Death Ray, Shockwave and Black Hole. Elite enemies will drop
+Elite enemies include Vampire , Ray Scatter . limit 1 spawn per wave 2 higher waves . Elite enemies immune Orbs , Death Ray , Shockwave Black Hole . Elite enemies drop
 Elite Cells
-when defeated. The on screen Limit per Elite type is 8. Scatter children do not count towards this limit.
-Elite enemies share a total % spawn split between the 3 types, the spawn % are: 1%, 4%, 9%, 16%, 25%, 36%, 49%, 64%, 81% and 100%.  The table below shows the percent per elite as shown in game. There is a hidden 0.33 repeating when the value is not divisible by 3.
-The displayed chance jumps from 33% to 100% once the background chance for a second elite per wave also reaches 100%. Meaning if the chance says 33%, you’re guaranteed at least one, possibly two elites per wave. If it says 100%, you’re guaranteed two elite per wave.
+defeated . screen Limit per Elite type 8 . Scatter children count towards limit .
+Elite enemies share total % spawn split 3 types , spawn % : 1 % , 4 % , 9 % , 16 % , 25 % , 36 % , 49 % , 64 % , 81 % 100 % . table shows percent per elite shown game . hidden 0.33 repeating value divisible 3 .
+displayed chance jumps 33 % 100 % background chance second elite per wave also reaches 100 % . Meaning chance says 33 % , ’ guaranteed least one , possibly two elites per wave . says 100 % , ’ guaranteed two elite per wave .
 Single Elite Enemy spawns
-Table below shows the rate when 1 elite enemy can spawn.
+Table shows rate 1 elite enemy spawn .
 T1
 T2
 T3
@@ -48,7 +48,7 @@ T21
 0
 0
 0
-0.33%
+0.33 %
 500
 450
 405
@@ -70,7 +70,7 @@ T21
 30
 27
 24
-1.33%
+1.33 %
 1000
 900
 810
@@ -92,7 +92,7 @@ T21
 75
 68
 61
-3%
+3 %
 1500
 1350
 1215
@@ -114,7 +114,7 @@ T21
 150
 135
 122
-5%
+5 %
 2000
 1800
 1620
@@ -136,7 +136,7 @@ T21
 225
 203
 182
-8%
+8 %
 3000
 2700
 2430
@@ -158,7 +158,7 @@ T21
 300
 270
 243
-12%
+12 %
 4000
 3600
 3240
@@ -180,7 +180,7 @@ T21
 450
 405
 365
-16%
+16 %
 5000
 4500
 4050
@@ -202,7 +202,7 @@ T21
 600
 540
 486
-21%
+21 %
 6000
 5400
 4860
@@ -224,7 +224,7 @@ T21
 750
 675
 608
-27%
+27 %
 7000
 6300
 5670
@@ -246,7 +246,7 @@ T21
 901
 811
 729
-33%
+33 %
 8000
 7200
 6480
@@ -269,7 +269,7 @@ T21
 946
 851
 Double Elite Enemy Spawns
-The below table shows the rate when a 2nd elite enemy can spawn.
+table shows rate 2nd elite enemy spawn .
 T1
 T2
 T3
@@ -291,7 +291,7 @@ T18
 T19
 T20
 T21
-0.33%
+0.33 %
 8000
 7200
 6480
@@ -313,7 +313,7 @@ T21
 1051
 946
 851
-1.33%
+1.33 %
 9000
 8100
 7290
@@ -335,7 +335,7 @@ T21
 1201
 1081
 973
-3%
+3 %
 10000
 9000
 8100
@@ -357,7 +357,7 @@ T21
 1351
 1216
 1094
-5%
+5 %
 11000
 9900
 8910
@@ -379,7 +379,7 @@ T21
 1501
 1351
 1216
-8%
+8 %
 12000
 10800
 9720
@@ -401,7 +401,7 @@ T21
 1651
 1486
 1337
-12%
+12 %
 13000
 11700
 10530
@@ -423,7 +423,7 @@ T21
 1801
 1621
 1459
-16%
+16 %
 14000
 12600
 11340
@@ -445,7 +445,7 @@ T21
 1951
 1756
 1580
-21%
+21 %
 15000
 13500
 12150
@@ -467,7 +467,7 @@ T21
 2101
 1891
 1702
-27%
+27 %
 16000
 14400
 12960
@@ -489,7 +489,7 @@ T21
 2251
 2026
 1824
-33%
+33 %
 17000
 15300
 13770

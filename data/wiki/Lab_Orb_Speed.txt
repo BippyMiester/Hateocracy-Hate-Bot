@@ -1,24 +1,24 @@
 Orb Speed
-Unlocked at tier 3 wave 80. There are 20 upgrades. The upgrades add to the orb speed workshop values.
+Unlocked tier 3 wave 80 . 20 upgrades . upgrades add orb speed workshop values .
 Level
 Time
 Cost
 Expand
 Value
 1
-0d  1h 19m
+0d 1h 19m
 15,000
 0.10
 2
-0d  3h  1m
+0d 3h 1m
 22,500
 0.20
 3
-0d  4h 52m
+0d 4h 52m
 105,740
 0.30
 4
-0d  7h  8m
+0d 7h 8m
 474,530
 0.40
 5
@@ -34,7 +34,7 @@ Value
 7,780,000
 0.70
 8
-1d  3h 31m
+1d 3h 31m
 14,620,000
 0.80
 9
@@ -42,7 +42,7 @@ Value
 25,250,000
 0.90
 10
-2d  2h 28m
+2d 2h 28m
 40,900,000
 1.00
 11
@@ -54,7 +54,7 @@ Value
 93,080,000
 1.20
 13
-4d 16h  7m
+4d 16h 7m
 132,970,000
 1.30
 14
@@ -62,15 +62,15 @@ Value
 184,610,000
 1.40
 15
-7d  9h 59m
+7d 9h 59m
 250,140,000
 1.50
 16
-9d  4h 12m
+9d 4h 12m
 331,900,000
 1.60
 17
-11d  5h 26m
+11d 5h 26m
 432,430,000
 1.70
 18
@@ -78,7 +78,7 @@ Value
 554,440,000
 1.80
 19
-16d  7h 40m
+16d 7h 40m
 700,850,000
 1.90
 20

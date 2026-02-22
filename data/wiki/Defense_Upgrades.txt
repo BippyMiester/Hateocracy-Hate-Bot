@@ -1,10 +1,10 @@
 Description
-Defense upgrades are workshops that focus on increasing the tower's ability to survive. These upgrades range from increasing tower health to reducing damage or preventing death.
+Defense upgrades workshops focus increasing tower 's ability survive . upgrades range increasing tower health reducing damage preventing death .
 Workshop Upgrades
 Defense Upgrades
 Health
 Health Regen
-Defense %
+Defense %
 Defense Absolute
 Thorn Damage
 Lifesteal

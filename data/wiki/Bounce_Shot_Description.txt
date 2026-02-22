@@ -10,21 +10,21 @@ Bounce Shot Targets
 2.3
 Bounce Shot Range
 Description
-Gives the tower a chance for their projectiles to bounce after hitting an enemy a certain number of times when enemies are in range.
+Gives tower chance projectiles bounce hitting enemy certain number times enemies range .
 Workshop
-Unlocked in
+Unlocked
 workshop
-for 10000 coins after unlocking
+10000 coins unlocking
 Rapid Fire
-. Unlocks Bounce Shot Chance, Bounce Shot Targets and Bounce Shot Range.
+. Unlocks Bounce Shot Chance , Bounce Shot Targets Bounce Shot Range .
 Bounce Shot Chance
-Chance for a projectile to bounce to another enemy after hitting. There are 85 levels in the workshop. Each level increases the chance by 0.80% for a maximum chance of 68.00%.
+Chance projectile bounce another enemy hitting . 85 levels workshop . level increases chance 0.80 % maximum chance 68.00 % .
 Bounce Shot Targets
-Number of times a projectile can bounce from enemy to enemy. There are 7 levels in the workshop with each level adding 1 target. The base number of targets is 1 and has a maximum of 8 targets. The maximum targets can be increased to 14 using the Bounce Shot
+Number times projectile bounce enemy enemy . 7 levels workshop level adding 1 target . base number targets 1 maximum 8 targets . maximum targets increased 14 using Bounce Shot
 perk
-. Enemies targeted by bounce shot cannot be hit toward the tower with
+. Enemies targeted bounce shot hit toward tower
 knockback
 Bounce Shot Range
-Range that a projectile can bounce from enemy to enemy if activated. There are 60 levels with each level increasing the range by 0.1m. The starting value is 2.0m and has a maximum distance of 8.0m. Once a target has been selected by bounce shot, the projectile will chase that enemy even if it has been knocked farther than the maximum bounce range.
+Range projectile bounce enemy enemy activated . 60 levels level increasing range 0.1m . starting value 2.0m maximum distance 8.0m . target selected bounce shot , projectile chase enemy even knocked farther maximum bounce range .
 1
 8

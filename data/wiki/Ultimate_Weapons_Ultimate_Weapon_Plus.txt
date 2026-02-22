@@ -1,7 +1,7 @@
 Ultimate Weapon Plus
-Ultimate Weapon Plus abilities are additional abilities you can use to further improve your Ultimate Weapons and their base abilities.
+Ultimate Weapon Plus abilities additional abilities use improve Ultimate Weapons base abilities .
 Unlocking
-Ultimate Weapon Plus abilities can only be unlocked when all 9 Ultimate Weapons are unlocked. Unlike buying Ultimate Weapons, you can buy Ultimate Weapon Plus abilities in any order you want. Each time you buy an ability, the cost for the next ability will increase. The level of the ability once unlocked will be level 0.
+Ultimate Weapon Plus abilities unlocked 9 Ultimate Weapons unlocked . Unlike buying Ultimate Weapons , buy Ultimate Weapon Plus abilities order want . time buy ability , cost next ability increase . level ability unlocked level 0 .
 Unlock
 1
 2
@@ -23,9 +23,9 @@ Cost
 2900
 3800
 Abilities
-Abilities can be upgraded 10 times. The level of the ability once unlocked will be level 0. The cost of upgrades currently follow 1 of 3 price trees.
+Abilities upgraded 10 times . level ability unlocked level 0 . cost upgrades currently follow 1 3 price trees .
 300 Base Scaling
-Total Cost: 23800
+Total Cost : 23800
 Unlock
 300
 375
@@ -43,7 +43,7 @@ Unlock
 4300
 Chain Lightning
 Smite
-Every Chain Lightning Hit has a {Chain Lightning Chance}% chance to do extra damage equal to X% the current wave HP (Max hits: 100/enemy)
+Every Chain Lightning Hit { Chain Lightning Chance } % chance extra damage equal X % current wave HP ( Max hits : 100/enemy )
 0.05
 0.1
 0.15
@@ -58,7 +58,7 @@ Every Chain Lightning Hit has a {Chain Lightning Chance}% chance to do extra dam
 0.6
 Smart Missiles
 Cover Fire
-Launch an additional Smart Missile every x seconds.
+Launch additional Smart Missile every x seconds .
 13
 12
 11
@@ -73,24 +73,24 @@ Launch an additional Smart Missile every x seconds.
 2
 Poison Swamp
 Death Creep
-Every time PS damage ticks, it is increased by x% of its base damage.
-120%
-190%
-260%
-330%
-400%
-470%
-540%
-610%
-680%
-750%
-820%
-890%
-960%
-1030%
-1110%
+Every time PS damage ticks , increased x % base damage .
+120 %
+190 %
+260 %
+330 %
+400 %
+470 %
+540 %
+610 %
+680 %
+750 %
+820 %
+890 %
+960 %
+1030 %
+1110 %
 300 Base Scaling
-Total Cost: 18570
+Total Cost : 18570
 Unlock
 300
 360
@@ -108,25 +108,25 @@ Unlock
 4150
 Golden Tower
 Golden Combo
-After Golden Tower finishes, gain extra cash and coins of x% per enemy killed.
-0.03%
-0.06%
-0.09%
-0.12%
-0.15%
-0.18%
-0.21%
-0.24%
-0.27%
-0.30%
-0.33%
-0.36%
-0.39%
-0.42%
-0.45%
+Golden Tower finishes , gain extra cash coins x % per enemy killed .
+0.03 %
+0.06 %
+0.09 %
+0.12 %
+0.15 %
+0.18 %
+0.21 %
+0.24 %
+0.27 %
+0.30 %
+0.33 %
+0.36 %
+0.39 %
+0.42 %
+0.45 %
 Inner Land Mines
 Charged Mines
-The damage of Inner Land Mines increases X times per second as long as they are alive.
+damage Inner Land Mines increases X times per second long alive .
 0.50
 1.5
 2.9
@@ -143,7 +143,7 @@ The damage of Inner Land Mines increases X times per second as long as they are 
 44.7
 50.9
 400 Base Scaling
-Total Cost: 19050
+Total Cost : 19050
 Unlock
 400
 500
@@ -161,7 +161,7 @@ Unlock
 2700
 Death Wave
 Kill Wall
-Each Effect Wave hit amplifies the Death Wave damage store by x (additively).
+Effect Wave hit amplifies Death Wave damage store x ( additively ) .
 3
 4
 6
@@ -179,7 +179,7 @@ Each Effect Wave hit amplifies the Death Wave damage store by x (additively).
 108
 Black Hole
 Consume
-Each Black Hole deals X% the current wave HP to every enemy affected at the end of its activation.
+Black Hole deals X % current wave HP every enemy affected end activation .
 5
 10
 15
@@ -197,7 +197,7 @@ Each Black Hole deals X% the current wave HP to every enemy affected at the end 
 75
 Chrono Field
 Chrono Loop
-Enemies affected by Chrono Field spiral towards the tower with a rotation rate of X
+Enemies affected Chrono Field spiral towards tower rotation rate X
 0.1
 0.15
 0.2
@@ -214,7 +214,7 @@ Enemies affected by Chrono Field spiral towards the tower with a rotation rate o
 0.75
 Spotlight
 Light Range
-Spotlight damage bonus is boosted by X times your damage/meter (Note: this depends on your tower range).
+Spotlight damage bonus boosted X times damage/meter ( Note : depends tower range ) .
 0.01
 0.02
 0.03

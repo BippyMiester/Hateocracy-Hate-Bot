@@ -8,16 +8,16 @@ Super Crit Chance
 2.2
 Super Crit Mult
 Description
-Super Criticals is a chance for your tower to do additional critical damage when your tower has landed a critical hit.
+Super Criticals chance tower additional critical damage tower landed critical hit .
 Workshop
-Unlocked in the
+Unlocked
 Workshop
-for 100 Mil coins after
+100 Mil coins
 Bounce Shot
-. Unlocks Super Crit Chance and Super Crit Mult.
+. Unlocks Super Crit Chance Super Crit Mult .
 Super Crit Chance
-Chance for a super critical hit, if critical hit chance succeeds. There are 100 levels with each level adding 0.2%. The maximum Super Crit Chance is 20.00% from the workshop.
+Chance super critical hit , critical hit chance succeeds . 100 levels level adding 0.2 % . maximum Super Crit Chance 20.00 % workshop .
 Super Crit Mult
-Super critical hit damage multiplier. There are 120 upgrades in the workshop with a base multiplier of 1.2 that increases by 0.1 per level for a maximum of 13.2. Your total crit multiplier when landing a super crit will be:
+Super critical hit damage multiplier . 120 upgrades workshop base multiplier 1.2 increases 0.1 per level maximum 13.2 . total crit multiplier landing super crit :
 Critical Factor
-x Super Crit Mult.
+x Super Crit Mult .

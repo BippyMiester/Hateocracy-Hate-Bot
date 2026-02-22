@@ -1,7 +1,7 @@
 Description
-Waves Increases by 10 each time, for a certain number of waves or up to your highest wave you reached in the current Tier you are running. A Boss spawns every waves and no coins are earned during Intro Sprint.
+Waves Increases 10 time , certain number waves highest wave reached current Tier running . Boss spawns every waves coins earned Intro Sprint .
 Use
-There are some conditions to this card not listed in the description. Bosses can’t drop modules or reroll dice while it is running. Only 20% of Cells are earned during Intro Sprint waves. Intro Sprint acts as 9 Wave Skips, which affects cash, free-upgrades, and Enemy Level Skips. Demon Mode, Nuke, and Missile Barrage can not be manually activated during the sprinting phase.
-Intro Sprint can be canceled early by clicking on the Intro Sprint Icon that will appear under the players cash/coin/gem totals in top left of screen.
+conditions card listed description . Bosses ’ drop modules reroll dice running . 20 % Cells earned Intro Sprint waves . Intro Sprint acts 9 Wave Skips , affects cash , free-upgrades , Enemy Level Skips . Demon Mode , Nuke , Missile Barrage manually activated sprinting phase .
+Intro Sprint canceled early clicking Intro Sprint Icon appear players cash/coin/gem totals top left screen .
 1
 8

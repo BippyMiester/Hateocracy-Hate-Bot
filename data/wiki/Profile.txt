@@ -1,14 +1,14 @@
 Description
-The player profile is a menu that allows players to display their achievements to other players during tournaments.
+player profile menu allows players display achievements players tournaments .
 Accessing
-To access the player profile, click on the tower on the home menu
+access player profile , click tower home menu
 Display
-The profile allows players to select a
+profile allows players select
 tower skin
-along with 5
+along 5
 relics
-to display. These selections are cosmetic only and do not make relics or skins active.
-The profile menu also displays your highest
+display . selections cosmetic make relics skins active .
+profile menu also displays highest
 tournament
-ranking and highest tier and wave. You may change your tournament name in this menu as well.
-Profiles now include the guild you are currently active in. (this was added in v26.0)
+ranking highest tier wave . may change tournament name menu well .
+Profiles include guild currently active . ( added v26.0 )

@@ -1,5 +1,5 @@
 Missile Barrage
-Unlock missile barrage. Once per run launch a barrage of missiles at the same time. This ability is manually activated during a round with a base amount of 20 missiles. Has 1 level. Unlocks Missile Barrage Quantity after completion.
+Unlock missile barrage . per run launch barrage missiles time . ability manually activated round base amount 20 missiles . 1 level . Unlocks Missile Barrage Quantity completion .
 Level
 Time
 Cost

@@ -1,5 +1,5 @@
 Ultimate Weapon Plus - Chrono Loop
-Ultimate Weapon Plus abilities can only be unlocked when all 9 Ultimate Weapons are purchased. Enemies affected by Chrono Field will spiral around the tower based on the rotation rate.
+Ultimate Weapon Plus abilities unlocked 9 Ultimate Weapons purchased . Enemies affected Chrono Field spiral around tower based rotation rate .
 Cost
 Expand
 UW+ Cost Table
@@ -52,15 +52,15 @@ Value
 0.75
 N/A
 Chrono Loop Mechanics
-The following is accredited to Priesten, yournicknm, and Tremnen:
-CF+ exerts a tangental force on enemies within CF Range, causing them to spiral around the tower as they approach. The rotation rate stated in-game for each CF+ level is the theta value (θ), or the distance measured in radians traveled per 2 seconds. With low enough enemy speeds, enemies will appear to be perpetually in orbit around the tower, having faster orbital cycles with higher CF+ levels
-CF+ Analysis by Priesten, yournicknm, and Tremnen
+following accredited Priesten , yournicknm , Tremnen :
+CF+ exerts tangental force enemies within CF Range , causing spiral around tower approach . rotation rate stated in-game CF+ level theta value ( θ ) , distance measured radians traveled per 2 seconds . low enough enemy speeds , enemies appear perpetually orbit around tower , faster orbital cycles higher CF+ levels
+CF+ Analysis Priesten , yournicknm , Tremnen
 Expand
 CF+ Level
-Rotation Rate (radians per 2 seconds)
-Rotation Rate (degrees per second)
+Rotation Rate ( radians per 2 seconds )
+Rotation Rate ( degrees per second )
 Full Orbit Time
-Hidden CF+ Slow%
+Hidden CF+ Slow %
 Original Enemy Speed
 New Enemy Speed
 Enemy Speed Rate
@@ -71,7 +71,7 @@ Enemy Speed Rate
 0.025
 10
 9.75
-2.6% slower
+2.6 % slower
 1
 0.15
 4.297183463
@@ -79,7 +79,7 @@ Enemy Speed Rate
 0.05
 10
 9.5
-5.3% slower
+5.3 % slower
 2
 0.2
 5.729577951
@@ -87,7 +87,7 @@ Enemy Speed Rate
 0.1
 10
 9
-11.1% slower
+11.1 % slower
 3
 0.25
 7.161972439
@@ -95,7 +95,7 @@ Enemy Speed Rate
 0.15
 10
 8.5
-17.6% slower
+17.6 % slower
 4
 0.3
 8.594366927
@@ -103,7 +103,7 @@ Enemy Speed Rate
 0.2
 10
 8
-25% slower
+25 % slower
 5
 0.35
 10.02676141
@@ -111,7 +111,7 @@ Enemy Speed Rate
 0.25
 10
 7.5
-33.3% slower
+33.3 % slower
 6
 0.4
 11.4591559
@@ -119,7 +119,7 @@ Enemy Speed Rate
 0.3
 10
 7
-42.9% slower
+42.9 % slower
 7
 0.45
 12.89155039
@@ -127,7 +127,7 @@ Enemy Speed Rate
 0.35
 10
 6.5
-53.8% slower
+53.8 % slower
 8
 0.5
 14.32394488
@@ -135,7 +135,7 @@ Enemy Speed Rate
 0.4
 10
 6
-66.7% slower
+66.7 % slower
 9
 0.55
 15.75633937
@@ -143,7 +143,7 @@ Enemy Speed Rate
 0.45
 10
 5.5
-81.8% slower
+81.8 % slower
 10
 0.6
 17.18873385
@@ -151,7 +151,7 @@ Enemy Speed Rate
 0.5
 10
 5
-100% slower
+100 % slower
 11
 0.65
 18.62112834
@@ -159,7 +159,7 @@ Enemy Speed Rate
 0.55
 10
 4.5
-122.2% slower
+122.2 % slower
 12
 0.7
 20.05352283
@@ -167,7 +167,7 @@ Enemy Speed Rate
 0.6
 10
 4
-150% slower
+150 % slower
 13
 0.75
 21.48591732
@@ -175,6 +175,6 @@ Enemy Speed Rate
 0.65
 10
 3.5
-185.7% slower
+185.7 % slower
 1
 8

@@ -8,14 +8,14 @@ Rapid Fire Chance
 2.2
 Rapid Fire Duration
 Description
-Rapid Fire gives the tower a chance to fire x4 faster for a set time.
+Rapid Fire gives tower chance fire x4 faster set time .
 Workshop
-Unlocked in the
+Unlocked
 workshop
-for 1500 coins after
+1500 coins
 Multishot
-. Unlocks Rapid Fire Chance and Rapid Fire Duration.
+. Unlocks Rapid Fire Chance Rapid Fire Duration .
 Rapid Fire Chance
-Chance to fire x4 as fast as normal for a duration. There are 85 levels that increase the chance by 0.40% for a maximum chance of 34.00% to activate rapid fire.
+Chance fire x4 fast normal duration . 85 levels increase chance 0.40 % maximum chance 34.00 % activate rapid fire .
 Rapid Fire Duration
-Duration or rapid fire when activated. There are 99 levels in the workshop that increase the duration by [x] for a maximum duration of 5.55 seconds.
+Duration rapid fire activated . 99 levels workshop increase duration [ x ] maximum duration 5.55 seconds .

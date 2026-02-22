@@ -2,102 +2,102 @@ Contents
 1
 Description
 1.1
-Death Wave (Reworked) - Patch 24.3
+Death Wave ( Reworked ) - Patch 24.3
 1.1.1
-Core Mechanics:
+Core Mechanics :
 1.1.2
-Effect Waves:
+Effect Waves :
 1.1.3
-Damage Scaling and Synergies:
+Damage Scaling Synergies :
 2
 Workshop
 3
 Labs
 4
 Description
-Death Wave (Reworked) - Patch 24.3
+Death Wave ( Reworked ) - Patch 24.3
 Death Wave
-has undergone a significant rework as of Patch 24.3, introducing new mechanics while retaining some of the benefits of its previous version.
+undergone significant rework Patch 24.3 , introducing new mechanics retaining benefits previous version .
 Edit
-(2025-01-14): As of now, the coin and cells bonus are applied to both the kills from the
+( 2025-01-14 ) : , coin cells bonus applied kills
 Death Wave
-and as an absolute debuff from the
+absolute debuff
 Effect waves
-, this is confirmed in game both in the research descriptions for both of these effects and in the ultimate weapon's detail screen.
-Core Mechanics:
-Death Wave:
-The Death Wave is a single, powerful wave that deals damage based on a "damage pool."
-Damage Pool:
-This pool accumulates damage through multiple activations, rather than resetting with each new use, signaled by the Death Wave taking on a blue tint. The damage pool only decreases by the exact amount required to destroy enemies, factoring in any bonuses. This can deal damage through armored enemies.
-Persistence:
-The Death Wave remains active within your tower’s range until the damage pool is depleted.
-Effect Waves:
-Effect Waves:
-Before the Death Wave strikes, it is preceded by a series of Effect Waves, offering various utilities to enhance the effectiveness of the Death Wave. The number of Effect Waves is determined by the "Quantity" stat, now referred to as "Effect Waves." Despite appearances, the animation is purely aesthetic, with any effects triggering immediately while the Effect Waves are being fired, effectively turning the Effect Wave quantity into a duration.
-Utilities Provided by Effect Waves:
-Coin Bonus:
-Enemies hit by an Effect Wave or the Death Wave drop additional coins upon destruction.
-Health Bonus:
-Each enemy hit increases your max health by 0.05% when destroyed.
-Cell Bonus:
-Elite enemies struck yield additional cells.
-Damage Amplification:
-Each Effect Wave hit increases the damage dealt by the Death Wave to that enemy. Starts at 5x at base.
-Armor Stripping:
-Effect Waves strip armor from enemies, reducing their defenses against the Death Wave.
-Range and Interval:
-Effect Waves have an infinite range and occur at 4-second intervals (undocumented, but visually seen: or at a frequency such that the Effect Waves and Kill Wall all fit within the cooldown).
-Damage Scaling and Synergies:
-Damage Scaling:
-Adjustments have been made to damage scaling, with significant improvements to the damage module substat (exact values not yet disclosed).
-Kill Wall Synergy:
-The Kill Wall ability drastically enhances the Death Wave’s damage, using the number of enemies hit by Effect Waves to boost its power based on the Kill Wall’s strength.
-Random Ultimate Weapon Perk:
-The Random Ultimate Weapon version of Death Wave retains the base health bonus, coin bonus, and damage amplification, but does not include the Cell Bonus or Armor Stripping features.
+, confirmed game research descriptions effects ultimate weapon 's detail screen .
+Core Mechanics :
+Death Wave :
+Death Wave single , powerful wave deals damage based `` damage pool . ``
+Damage Pool :
+pool accumulates damage multiple activations , rather resetting new use , signaled Death Wave taking blue tint . damage pool decreases exact amount required destroy enemies , factoring bonuses . deal damage armored enemies .
+Persistence :
+Death Wave remains active within tower ’ range damage pool depleted .
+Effect Waves :
+Effect Waves :
+Death Wave strikes , preceded series Effect Waves , offering various utilities enhance effectiveness Death Wave . number Effect Waves determined `` Quantity `` stat , referred `` Effect Waves . `` Despite appearances , animation purely aesthetic , effects triggering immediately Effect Waves fired , effectively turning Effect Wave quantity duration .
+Utilities Provided Effect Waves :
+Coin Bonus :
+Enemies hit Effect Wave Death Wave drop additional coins upon destruction .
+Health Bonus :
+enemy hit increases max health 0.05 % destroyed .
+Cell Bonus :
+Elite enemies struck yield additional cells .
+Damage Amplification :
+Effect Wave hit increases damage dealt Death Wave enemy . Starts 5x base .
+Armor Stripping :
+Effect Waves strip armor enemies , reducing defenses Death Wave .
+Range Interval :
+Effect Waves infinite range occur 4-second intervals ( undocumented , visually seen : frequency Effect Waves Kill Wall fit within cooldown ) .
+Damage Scaling Synergies :
+Damage Scaling :
+Adjustments made damage scaling , significant improvements damage module substat ( exact values yet disclosed ) .
+Kill Wall Synergy :
+Kill Wall ability drastically enhances Death Wave ’ damage , using number enemies hit Effect Waves boost power based Kill Wall ’ strength .
+Random Ultimate Weapon Perk :
+Random Ultimate Weapon version Death Wave retains base health bonus , coin bonus , damage amplification , include Cell Bonus Armor Stripping features .
 Workshop
 Basic Upgrades
 Ultimate Weapon Plus
 Basic Upgrades
-Basic upgrades for all Ultimate Weapons are located in the Ultimate Weapon menu after unlocking the Ultimate Weapon. Unlocking Death Wave allows the player to upgrade Damage, Effect Wave Quantity and Cooldown using stones.
+Basic upgrades Ultimate Weapons located Ultimate Weapon menu unlocking Ultimate Weapon . Unlocking Death Wave allows player upgrade Damage , Effect Wave Quantity Cooldown using stones .
 Costs
-Damage has 30 levels, Effect Wave Quantity has 4 levels and Cooldown has 25 levels. The total stone cost is 29,391.
+Damage 30 levels , Effect Wave Quantity 4 levels Cooldown 25 levels . total stone cost 29,391 .
 Damage
 Stones
-(Damage)
+( Damage )
 Effect Wave Quantity
 Stones
-(Effect Wave Quantity)
+( Effect Wave Quantity )
 Cooldown
 Expand
 Stones
-(Cooldown)
+( Cooldown )
 2x
 0
-1#
+1 #
 0
 300s
 0
 3x
 5
-2#
+2 #
 200
 290s
 8
 5x
 11
-3#
+3 #
 500
 280s
 24
 9x
 17
-4#
+4 #
 850
 270s
 40
 14x
 23
-5#
+5 #
 1400
 260s
 56
@@ -200,7 +200,7 @@ Total
 2,950
 8850
 Ultimate Weapon Plus - Kill Wall
-Each Effect Wave hit amplifies the Death Wave damage store by X (additively)
+Effect Wave hit amplifies Death Wave damage store X ( additively )
 Cost
 Expand
 UW+ Cost Table
@@ -255,16 +255,15 @@ Value
 Labs
 Unlock
 labs
-in
 Milestones
-at tier 3 wave 250. Unlocks all 5 DW upgrades.
+tier 3 wave 250 . Unlocks 5 DW upgrades .
 Death Wave Health
 Death Wave Coins Bonus
 Death Wave Cells Bonus
 Death Wave Damage Amplifier
 Death Wave Armor Stripping
 Death Wave Health
-Maximum health bonus from killing enemies marked/killed by Death Wave increased (Max of 12.5x Base). Bonus health is tracked during a round by clicking on health in the workshop (Will not display until at least one level of Death Wave Health Lab is researched).
+Maximum health bonus killing enemies marked/killed Death Wave increased ( Max 12.5x Base ) . Bonus health tracked round clicking health workshop ( display least one level Death Wave Health Lab researched ) .
 Level
 Time
 Cost
@@ -273,125 +272,125 @@ Value
 1
 0d 19h 59m 59s
 250,000
-525%
+525 %
 2
 1d 4h 21m 9s
 560,000
-550%
+550 %
 3
 1d 12h 53m 11s
 1,100,000
-575%
+575 %
 4
 1d 21h 54m 33s
 2,800,000
-600%
+600 %
 5
 2d 7h 49m 19s
 7,750,000
-625%
+625 %
 6
 2d 19h 6m 5s
 19,540,000
-650%
+650 %
 7
 3d 8h 17m 16s
 43,580,000
-675%
+675 %
 8
 3d 23h 58m 44s
 87,410,000
-700%
+700 %
 9
 4d 18h 49m 30s
 160,910,000
-725%
+725 %
 10
 5d 17h 31m 29s
 276,620,000
-750%
+750 %
 11
 7d 4h 48m 55s
 334,620,000
-775%
+775 %
 12
 7d 14h 48m 11s
 347,440,000
-800%
+800 %
 13
 8d 1h 1m 58s
 363,460,000
-825%
+825 %
 14
 8d 11h 30m 53s
 383,110,000
-850%
+850 %
 15
 8d 22h 15m 35s
 406,870,000
-875%
+875 %
 16
 9d 9h 16m 39s
 435,210,000
-900%
+900 %
 17
 9d 20h 34m 39s
 468,640,000
-925%
+925 %
 18
 10d 8h 10m 10s
 507,670,000
-950%
+950 %
 19
 10d 20h 3m 42s
 552,830,000
-975%
+975 %
 20
 11d 8h 15m 49s
 604,680,000
-1000%
+1000 %
 21
 11d 20h 46m 59s
 663,770,000
-1025%
+1025 %
 22
 12d 9h 37m 43s
 730,690,000
-1050%
+1050 %
 23
 12d 22h 48m 31s
 806,040,000
-1075%
+1075 %
 24
 13d 12h 19m 49s
 890,410,000
-1100%
+1100 %
 25
 14d 2h 12m 6s
 984,430,000
-1125%
+1125 %
 26
 14d 16h 25m 49s
 1,090,000,000
-1150%
+1150 %
 27
 15d 7h 1m 25s
 1,200,000,000
-1175%
+1175 %
 28
 15d 21h 59m 19s
 1,330,000,000
-1200%
+1200 %
 29
 16d 13h 19m 57s
 1,470,000,000
-1225%
+1225 %
 30
 17d 5h 3m 44s
 1,620,000,000
-1250%
+1250 %
 Death Wave Coins Bonus
-Extra coin bonus applied to enemies hit by effect waves or killed by death wave. Has 20 levels.
+Extra coin bonus applied enemies hit effect waves killed death wave . 20 levels .
 Level
 Time
 Cost
@@ -414,7 +413,7 @@ Value
 2,800,000
 1.70
 5
-2d 7h 49m 19s
+2d 7h 49m 19s
 7,750,000
 1.75
 6
@@ -422,7 +421,7 @@ Value
 19,540,000
 1.80
 7
-3d 8h 17m 16s
+3d 8h 17m 16s
 43,580,000
 1.85
 8
@@ -478,7 +477,7 @@ Value
 8,840,000,000
 2.50
 Death Wave Cell Bonus
-Extra cell bonus applied to enemies hit by effect waves or killed by death wave(Max of 3x cell bonus). Has 20 levels.
+Extra cell bonus applied enemies hit effect waves killed death wave ( Max 3x cell bonus ) . 20 levels .
 Level
 Time
 Cost
@@ -565,7 +564,7 @@ Value
 2,220,000,000,000
 3.00
 Death Wave Damage Amplifier
-Each Effect Wave hit on a given enemy will boost the damage that enemy takes from the Death Wave (Max of +50x per Effect Wave). Has 30 levels.
+Effect Wave hit given enemy boost damage enemy takes Death Wave ( Max +50x per Effect Wave ) . 30 levels .
 Level
 Time
 Cost
@@ -692,8 +691,8 @@ Value
 12,780,000,000,000,000
 50.00
 Death Wave Armor Stripping
-Each Effect Wave hit will strip some amount of armor from an enemy (Max reduction of 10). Has 10 levels.
-Example: If a battle condition gives 10 armor(the enemy will block the first 10 attacks it receives) and you have level 5 lab for Armor Stripping, after being hit by an effect wave the enemy armor will go to 5 and only block 5 hits instead of 10.
+Effect Wave hit strip amount armor enemy ( Max reduction 10 ) . 10 levels .
+Example : battle condition gives 10 armor ( enemy block first 10 attacks receives ) level 5 lab Armor Stripping , hit effect wave enemy armor go 5 block 5 hits instead 10 .
 Level
 Time
 Cost
@@ -761,7 +760,7 @@ Rend Armor Mult
 Defense Upgrades
 Health
 Health Regen
-Defense %
+Defense %
 Defense Absolute
 Thorn Damage
 Lifesteal
@@ -811,7 +810,7 @@ Workshop Utility Discount
 Labs Coin Discount
 Labs Speed
 Buy multiplier
-More Round Stats
+Round Stats
 Target Priority
 Card Presets
 Workshop Respec
@@ -851,7 +850,7 @@ Cash Per Wave
 Coins/Kill Bonus
 Interest
 Max Interest
-Package After Boss
+Package Boss
 Recovery Package Amount
 Recovery Package Max
 Recovery Package Chance
@@ -862,7 +861,7 @@ Missiles Explosion
 Missile Radius
 Chrono Field Duration
 Chrono Field Damage Reduction
-Chrono Field Reduction %
+Chrono Field Reduction %
 Swamp Radius
 Swamp Stun
 Swamp Stun Chance
@@ -961,7 +960,7 @@ Core Effect Bans
 Assist Module Labs
 Battle Condition Research
 Battle Condition Reduction
-Group 1: Resistances
-Group 2: Enemy/Spawn Buffs
-Group 3: Enemy Ultimates
-Group 4: Durations/Reductions
+Group 1 : Resistances
+Group 2 : Enemy/Spawn Buffs
+Group 3 : Enemy Ultimates
+Group 4 : Durations/Reductions

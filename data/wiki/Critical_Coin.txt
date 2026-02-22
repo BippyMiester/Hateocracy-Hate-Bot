@@ -1,19 +1,17 @@
 Description
-Gives a chance for basic enemies to drop coins when killed with critical hits.
+Gives chance basic enemies drop coins killed critical hits .
 Use
-The critical coin
+critical coin
 card
-allows basic enemies to drop 1 coin at base. The coin earned is increased by all multipliers that increase
+allows basic enemies drop 1 coin base . coin earned increased multipliers increase
 coins per kill
-. For the purpose of crit coins, the following is counted as a critical kill:
+. purpose crit coins , following counted critical kill :
 Critical hit
 Super critical
-Damage factoring crit/super crit factor and chance (
+Damage factoring crit/super crit factor chance (
 Ultimate Weapons
-and
 Land Mines
-Weapons that instantly kill enemies (
+Weapons instantly kill enemies (
 orbs
-and
 death ray
-Ultimate Weapon, Land Mine, Orb and Death Ray kills will not count as critical hits for events despite counting for critical coin.
+Ultimate Weapon , Land Mine , Orb Death Ray kills count critical hits events despite counting critical coin .

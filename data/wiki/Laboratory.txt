@@ -2,7 +2,7 @@ Contents
 1
 Description
 2
-Amount Of Labs
+Amount Labs
 2.1
 Cost
 3
@@ -10,20 +10,19 @@ Rushing Labs
 4
 Lab Upgrades
 Description
-The in-game icon.
-The laboratory, or short "the labs", is a place where you can buy upgrades (different than those of the Workshop). These upgrades consist of scaling upgrades, max cap upgrades and more.
-Most importantly they use an additional currency: your time. Every lab upgrade has a coin cost, and a time that it takes to complete, occupying one lab for that duration. It is therefore advised to try to keep your labs running at all times as as you progress in the game there will come a point where coins are no longer the bottleneck to progress, but time and labs are.
-Amount Of Labs
-3 Different Lab States from top to bottom: Inactive, Active, Locked
-The max amount of labs you can have is 5.
+in-game icon .
+laboratory , short `` labs `` , place buy upgrades ( different Workshop ) . upgrades consist scaling upgrades , max cap upgrades .
+importantly use additional currency : time . Every lab upgrade coin cost , time takes complete , occupying one lab duration . therefore advised try keep labs running times progress game come point coins longer bottleneck progress , time labs .
+Amount Labs
+3 Different Lab States top bottom : Inactive , Active , Locked
+max amount labs 5 .
 Cost
-To get all 5 you have to pay 4900
+get 5 pay 4900
 Gems
-in total.
-Even though they cost a lot of gems without real money payments, it is advised to unlock all of them over time, or at least 4. More information can be found
-here
+total .
+Even though cost lot gems without real money payments , advised unlock time , least 4 . information found
 Lab 1
-unlocked for free upon reaching wave 30 in T1 for the first time.
+unlocked free upon reaching wave 30 T1 first time .
 Lab 2
 100 gems
 Lab 3
@@ -33,16 +32,16 @@ Lab 4
 Lab 5
 3000 gems
 Rushing Labs
-Labs can also be
+Labs also
 rushed
 using
 Gems
-Prior to version 0.17 of the game rushing cost 1 gem for every 8 minutes of lab time skipped. With version 0.17 the developers overhauled this system, massively reducing the rushing costs for long durations.
-These tables were provided by TechTree, more detailed ones are being researched. Emphasis editor, bolded values show changed costs.
+Prior version 0.17 game rushing cost 1 gem every 8 minutes lab time skipped . version 0.17 developers overhauled system , massively reducing rushing costs long durations .
+tables provided TechTree , detailed ones researched . Emphasis editor , bolded values show changed costs .
 Version 0.16
 Time
-Time (in seconds)
-Cost (in gems)
+Time ( seconds )
+Cost ( gems )
 0 seconds
 0
 0
@@ -66,8 +65,8 @@ Cost (in gems)
 5400
 Version 0.17
 Time
-Time (in seconds)
-Cost (in gems)
+Time ( seconds )
+Cost ( gems )
 Discount applied
 0 seconds
 0
@@ -98,8 +97,7 @@ Discount applied
 3550
 0.66
 Lab Upgrades
-To find a list of lab upgrades, check
-this
-page.
+find list lab upgrades , check
+page .
 1
 8

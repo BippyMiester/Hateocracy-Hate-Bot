@@ -12,7 +12,7 @@ Interest
 Max Lv 99
 Max Interest
 Max Lv 15
-Package After Boss
+Package Boss
 Max Lv 1
 Recovery Package Amount
 Max Lv 20

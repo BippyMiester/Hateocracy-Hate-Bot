@@ -27,40 +27,39 @@ Land Mine Damage
 Labs
 8
 Overview
-A defense workshop that has a chance to spawn, dealing damage to all enemies in range when triggered.
+defense workshop chance spawn , dealing damage enemies range triggered .
 Land Mine Chance
-Chance of enemies dropping a land mine.
+Chance enemies dropping land mine .
 Workshop
-Unlocked in
+Unlocked
 workshop
-for 400,000 coins with Land Mine Damage and Land Mine Radius after
+400,000 coins Land Mine Damage Land Mine Radius
 Shockwave Size
-and
 Shockwave Frequency
-. There are 50 upgrades that increase the chance by 0.60% for each upgrade for a maximum of 30.00% chance to spawn. Once spawned, the land mine will explode after a set time that can be increased with the Land Mine Decay lab.
+. 50 upgrades increase chance 0.60 % upgrade maximum 30.00 % chance spawn . spawned , land mine explode set time increased Land Mine Decay lab .
 Land Mine Damage
-Percent of tower damage dealt by land mines (Accounts for crit/super crit factor and chance).
+Percent tower damage dealt land mines ( Accounts crit/super crit factor chance ) .
 Workshop
-Unlocked in workshop for 400,000 coins with Land Mine Chance and Land Mine Radius after Shockwave Size and Shockwave Frequency. There are 200 upgrades with a base value of 100%. Each level increases damage by 10% for a maximum of 2100% damage.
+Unlocked workshop 400,000 coins Land Mine Chance Land Mine Radius Shockwave Size Shockwave Frequency . 200 upgrades base value 100 % . level increases damage 10 % maximum 2100 % damage .
 Card
-The Land Mine Stun
+Land Mine Stun
 card
-gives land mines the ability to stun non-boss enemies in land mine range when they explode.
+gives land mines ability stun non-boss enemies land mine range explode .
 Damage Calculation
-Land mine damage is using an average crit factor and average super crit factor based on the activation chances. The damage can be calculated with the following formula:
-Land Mine Damage = Land Mine Damage % *
+Land mine damage using average crit factor average super crit factor based activation chances . damage calculated following formula :
+Land Mine Damage = Land Mine Damage % *
 Damage
-* (1 +
+* ( 1 +
 Critical Factor
 Critical Chance
-) * (1 +
+) * ( 1 +
 Super Crit Mult
 Super Crit Chance
-* Crit Chance)
+* Crit Chance )
 Land Mine Radius
-Explosion radius of land mines
+Explosion radius land mines
 Workshop
-Unlocked in workshop for 400,000 coins with Land Mine Chance and Land Mine Damage after Shockwave Size and Shockwave Frequency. There are 50 upgrades for a total of 1.50.
+Unlocked workshop 400,000 coins Land Mine Chance Land Mine Damage Shockwave Size Shockwave Frequency . 50 upgrades total 1.50 .
 Cost
 Land Mine Chance
 Land Mine Damage
@@ -72,203 +71,203 @@ Cost
 Expand
 Total Cost
 1
-0.60%
+0.60 %
 500.00
 500.00
 2
-1.20%
+1.20 %
 755.00
 1.25K
 3
-1.80%
+1.80 %
 1.05K
 2.30K
 4
-2.40%
+2.40 %
 1.41K
 3.71K
 5
-3.00%
+3.00 %
 1.91K
 5.62K
 6
-3.60%
+3.60 %
 2.59K
 8.21K
 7
-4.20%
+4.20 %
 3.50K
 11.71K
 8
-4.80%
+4.80 %
 4.71K
 16.41K
 9
-5.40%
+5.40 %
 6.26K
 22.68K
 10
-6.00%
+6.00 %
 8.24K
 30.91K
 11
-6.60%
+6.60 %
 10.69K
 41.60K
 12
-7.20%
+7.20 %
 13.68K
 55.28K
 13
-7.80%
+7.80 %
 17.28K
 72.56K
 14
-8.40%
+8.40 %
 21.55K
 94.10K
 15
-9.00%
+9.00 %
 26.56K
 120.66K
 16
-9.60%
+9.60 %
 32.38K
 153.05K
 17
-10.20%
+10.20 %
 39.09K
 192.14K
 18
-10.80%
+10.80 %
 46.74K
 238.88K
 19
-11.40%
+11.40 %
 55.42K
 294.30K
 20
-12.00%
+12.00 %
 65.19K
 359.50K
 21
-12.60%
+12.60 %
 76.14K
 435.63K
 22
-13.20%
+13.20 %
 88.32K
 523.96K
 23
-13.80%
+13.80 %
 101.83K
 625.79K
 24
-14.40%
+14.40 %
 116.73K
 742.51K
 25
-15.00%
+15.00 %
 133.10K
 875.61K
 26
-15.60%
+15.60 %
 151.01K
 1.03M
 27
-16.20%
+16.20 %
 170.55K
 1.20M
 28
-16.80%
+16.80 %
 191.80K
 1.39M
 29
-17.40%
+17.40 %
 214.82K
 1.60M
 30
-18.00%
+18.00 %
 239.71K
 1.84M
 31
-18.60%
+18.60 %
 266.54K
 2.11M
 32
-19.20%
+19.20 %
 295.39K
 2.41M
 33
-19.80%
+19.80 %
 326.35K
 2.73M
 34
-20.40%
+20.40 %
 359.49K
 3.09M
 35
-21.00%
+21.00 %
 394.90K
 3.49M
 36
-21.60%
+21.60 %
 432.66K
 3.92M
 37
-22.20%
+22.20 %
 472.85K
 4.39M
 38
-22.80%
+22.80 %
 515.56K
 4.91M
 39
-23.40%
+23.40 %
 560.87K
 5.47M
 40
-24.00%
+24.00 %
 608.87K
 6.08M
 41
-24.60%
+24.60 %
 659.63K
 6.74M
 42
-25.20%
+25.20 %
 713.26K
 7.45M
 43
-25.80%
+25.80 %
 769.82K
 8.22M
 44
-26.40%
+26.40 %
 829.42K
 9.05M
 45
-27.00%
+27.00 %
 892.12K
 9.94M
 46
-27.60%
+27.60 %
 958.04K
 10.90M
 47
-28.20%
+28.20 %
 1.03M
 11.93M
 48
-28.80%
+28.80 %
 1.10M
 13.03M
 49
-29.40%
+29.40 %
 1.18M
 14.20M
 50
-30.00%
+30.00 %
 1.26M
 15.46M
 Land Mine Damage
@@ -278,87 +277,87 @@ Cost
 Expand
 Total Cost
 1
-110.00%
+110.00 %
 500.00
 500.00
 10
-200.00%
+200.00 %
 8.24K
 30.91K
 20
-300.00%
+300.00 %
 65.19K
 359.50K
 30
-400.00%
+400.00 %
 239.71K
 1.84M
 40
-500.00%
+500.00 %
 608.87K
 6.08M
 50
-600.00%
+600.00 %
 1.26M
 15.46M
 60
-700.00%
+700.00 %
 2.33M
 33.77M
 70
-800.00%
+800.00 %
 3.85M
 65.00M
 80
-900.00%
+900.00 %
 6.22M
 115.74M
 90
-1000.00%
+1000.00 %
 9.10M
 193.15M
 100
-1100.00%
+1100.00 %
 25.57M
 414.26M
 110
-1200.00%
+1200.00 %
 93.90M
 1.24B
 120
-1300.00%
+1300.00 %
 372.95M
 4.54B
 130
-1400.00%
+1400.00 %
 1.89B
 20.62B
 140
-1500.00%
+1500.00 %
 9.61B
 107.25B
 150
-1600.00%
+1600.00 %
 48.00B
 543.04B
 160
-1700.00%
+1700.00 %
 274.16B
 3.05T
 170
-1800.00%
+1800.00 %
 1.33T
 15.29T
 180
-1900.00%
+1900.00 %
 7.75T
 80.90T
 190
-2000.00%
+2000.00 %
 36.90T
 422.85T
 200
-2100.00%
+2100.00 %
 217.61T
 2.45q
 Land Mine Radius
@@ -569,7 +568,7 @@ Total Cost
 77.52B
 Workshop Enhancement
 Land Mine Damage
-Requires 5 trillion coins to be spent on defense enhancements to unlock. Increases Land Mine Damage multiplier by x1 when unlocked and increases by 0.06x per level. Has a maximum level of 400 for a 25x bonus.
+Requires 5 trillion coins spent defense enhancements unlock . Increases Land Mine Damage multiplier x1 unlocked increases 0.06x per level . maximum level 400 25x bonus .
 Level
 Value
 Coins
@@ -745,24 +744,23 @@ Land Mine Damage Research
 Land Mine Decay
 Unlock
 Lab
-in
 Milestones
-at Tier 6 Wave 30. Increase the amount of time before land mines explode without being hit. Has 35 upgrades
+Tier 6 Wave 30 . Increase amount time land mines explode without hit . 35 upgrades
 Level
 Time
 Cost
 Expand
 Value
 1
-0d  1h 39m
+0d 1h 39m
 25,000
 0.5
 2
-0d  5h  1m
+0d 5h 1m
 40,000
 1.0
 3
-0d  8h 33m
+0d 8h 33m
 231,980
 1.5
 4
@@ -778,7 +776,7 @@ Value
 10,180,000
 3.0
 7
-1d  7h 57m
+1d 7h 57m
 22,240,000
 3.5
 8
@@ -786,31 +784,31 @@ Value
 43,100,000
 4.0
 9
-2d  8h 29m
+2d 8h 29m
 76,500,000
 4.5
 10
-3d  2h 11m
+3d 2h 11m
 126,910,000
 5.0
 11
-4d  0h 29m
+4d 0h 29m
 199,600,000
 5.5
 12
-5d  4h 10m
+5d 4h 10m
 300,680,000
 6.0
 13
-6d 14h  3m
+6d 14h 3m
 437,080,000
 6.5
 14
-8d  7h  1m
+8d 7h 1m
 616,620,000
 7.0
 15
-10d  7h 58m
+10d 7h 58m
 848,010,000
 7.5
 16
@@ -838,11 +836,11 @@ Value
 3,930,000,000
 10.5
 22
-37d  8h 52m
+37d 8h 52m
 4,850,000,000
 11.0
 23
-43d 14h  7m
+43d 14h 7m
 5,920,000,000
 11.5
 24
@@ -850,15 +848,15 @@ Value
 7,170,000,000
 12.0
 25
-58d  6h 30m
+58d 6h 30m
 8,610,000,000
 12.5
 26
-66d 20h  5m
+66d 20h 5m
 10,260,000,000
 13.0
 27
-76d  6h 57m
+76d 6h 57m
 12,140,000,000
 13.5
 28
@@ -866,15 +864,15 @@ Value
 14,280,000,000
 14.0
 29
-98d  1h 38m
+98d 1h 38m
 16,700,000,000
 14.5
 30
-110d 12h  8m
+110d 12h 8m
 19,420,000,000
 15.0
 31
-124d  1h 12m
+124d 1h 12m
 22,470,000,000
 15.5
 32
@@ -896,94 +894,93 @@ Value
 Land Mine Damage
 Unlock
 Lab
-in
 Milestones
-at tier 6 wave 30. Increases the amount of damage land mine deals by an additional percent. Has 20 levels.
+tier 6 wave 30 . Increases amount damage land mine deals additional percent . 20 levels .
 Level
 Time
 Cost
 Expand
 Value
 1
-0d  1h 39m
+0d 1h 39m
 25,000
-10%
+10 %
 2
-0d  5h  1m
+0d 5h 1m
 40,000
-20%
+20 %
 3
-0d  8h 33m
+0d 8h 33m
 231,980
-30%
+30 %
 4
 0d 12h 34m
 1,170,000
-40%
+40 %
 5
 0d 17h 29m
 3,930,000
-50%
+50 %
 6
 0d 23h 46m
 10,180,000
-60%
+60 %
 7
-1d  7h 57m
+1d 7h 57m
 22,240,000
-70%
+70 %
 8
 1d 18h 38m
 43,100,000
-80%
+80 %
 9
-2d  8h 29m
+2d 8h 29m
 76,500,000
-90%
+90 %
 10
-3d  2h 11m
+3d 2h 11m
 126,910,000
-100%
+100 %
 11
-4d  0h 29m
+4d 0h 29m
 199,600,000
-110%
+110 %
 12
-5d  4h 10m
+5d 4h 10m
 300,680,000
-120%
+120 %
 13
-6d 14h  3m
+6d 14h 3m
 437,080,000
-130%
+130 %
 14
-8d  7h  1m
+8d 7h 1m
 616,620,000
-140%
+140 %
 15
-10d  7h 58m
+10d 7h 58m
 848,010,000
-150%
+150 %
 16
 12d 17h 49m
 1,140,000,000
-160%
+160 %
 17
 15d 13h 34m
 1,510,000,000
-170%
+170 %
 18
 18d 20h 12m
 1,950,000,000
-180%
+180 %
 19
 22d 14h 46m
 2,500,000,000
-190%
+190 %
 20
 26d 22h 20m
 3,150,000,000
-200%
+200 %
 Workshop Upgrades
 Attack Upgrades
 Damage
@@ -1006,7 +1003,7 @@ Rend Armor Mult
 Defense Upgrades
 Health
 Health Regen
-Defense %
+Defense %
 Defense Absolute
 Thorn Damage
 Lifesteal

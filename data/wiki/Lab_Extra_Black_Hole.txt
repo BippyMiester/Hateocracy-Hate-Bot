@@ -1,10 +1,10 @@
 Extra Black Hole
-A 2nd black hole will spawn when Black Hole is active. The 2nd black hole will always spawn on the opposite side of the tower. The 2nd black hole has the same stats and abilities of the original black hole.
+2nd black hole spawn Black Hole active . 2nd black hole always spawn opposite side tower . 2nd black hole stats abilities original black hole .
 Level
 Time
 Cost
 Value
 1
-17d  8h 39m
+17d 8h 39m
 15,000,000,000
 Unlocked

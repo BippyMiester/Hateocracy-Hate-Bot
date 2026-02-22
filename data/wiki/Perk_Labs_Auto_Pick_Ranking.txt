@@ -1,11 +1,11 @@
 00:07
 Auto Pick Ranking
-Unlocks in Milestones at tier 6 wave 10 and after
+Unlocks Milestones tier 6 wave 10
 Auto Pick Perks
-completed. Allows players to prioritize which perks
+completed . Allows players prioritize perks
 Auto Pick Perks
-will select from the list of available perks. Each lab level allows prioritization of an additional perk. Has 32 levels.
-Auto Pick Ranking supercedes First Perk Choice. Ex: if first choice is perk waves required but the Golden Tower perk is ranked above it and both are available as first perk, Golden Tower will be taken instead.
+select list available perks . lab level allows prioritization additional perk . 32 levels .
+Auto Pick Ranking supercedes First Perk Choice . Ex : first choice perk waves required Golden Tower perk ranked available first perk , Golden Tower taken instead .
 Level
 Time
 Cost

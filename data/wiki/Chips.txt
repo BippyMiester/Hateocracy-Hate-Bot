@@ -1,5 +1,5 @@
-The guardian appears to target the enemies closest to it when a chip activates, and also appears to have a limited range. If nothing is sufficiently close at time of activation, the chip will not activate. If your chip has multiple targets, it will still activate even if fewer targets are in range than its maximum. Chips do not respect target priority or attempt to target 'ideal targets' for their type of chip.
-The following Chips and their upgrade values are values observed by upgrades that have been performed by players in game. These values do not include predicted ones that assume the curve never changes with later upgrades; though with Bots and UWs there is reason to expect that there is no curve and upgrades and their costs are linear until maximized.
+guardian appears target enemies closest chip activates , also appears limited range . nothing sufficiently close time activation , chip activate . chip multiple targets , still activate even fewer targets range maximum . Chips respect target priority attempt target 'ideal targets ' type chip .
+following Chips upgrade values values observed upgrades performed players game . values include predicted ones assume curve never changes later upgrades ; though Bots UWs reason expect curve upgrades costs linear maximized .
 Contents
 1
 Attack Chip
@@ -28,11 +28,11 @@ Scout Chip
 6.1
 Upgrades
 Attack Chip
-Tower Guardian attacks enemies with the most missing health, dealing a percentage of their lost health as damage (50% damage to bosses)
-In theory this chip may be able to operate similar to a
+Tower Guardian attacks enemies missing health , dealing percentage lost health damage ( 50 % damage bosses )
+theory chip may able operate similar
 Plasma Cannon
-for non boss enemies, as the damage is percentage based and with sufficient investment it could lead to multiple target, high damage and constant / faster attacks. This all needs to be confirmed with further testing, once sufficient upgrades have been purchased.
-There is a red sphere orbiting around the Guardian just before Attack activates.
+non boss enemies , damage percentage based sufficient investment could lead multiple target , high damage constant / faster attacks . needs confirmed testing , sufficient upgrades purchased .
+red sphere orbiting around Guardian Attack activates .
 Upgrades
 Percentage
 Bits
@@ -41,103 +41,103 @@ Bits
 Targets
 Expand
 Bits
-1%
+1 %
 0
 120s
 0
 1
 0
-2%
+2 %
 25
 119s
 1
 2
 100
-3%
+3 %
 50
 118s
 2
 3
 200
-4%
+4 %
 75
 117s
 3
 4
 300
-5%
+5 %
 100
 116s
 4
 5
 400
-6%
+6 %
 125
 115s
 5
 6
 500
-7%
+7 %
 150
 114s
 6
 7
 600
-8%
+8 %
 175
 113s
 7
 8
 700
-9%
+9 %
 200
 112s
 8
 9
 800
-10%
+10 %
 225
 111s
 9
 10
 900
-11%
+11 %
 250
 110s
 10
-12%
+12 %
 275
 109s
 11
-13%
+13 %
 300
 108s
 12
-14%
+14 %
 325
 107s
 13
-15%
+15 %
 350
 106s
 14
-16%
+16 %
 375
 105s
 15
-17%
+17 %
 400
 104s
 16
-18%
+18 %
 425
 103s
 17
-19%
+19 %
 450
 102s
 18
-20%
+20 %
 475
 101s
 19
@@ -288,9 +288,9 @@ Total
 4095
 4500
 Ally Chip
-Converts an enemy into an Ally recovery Package that can heal the tower beyond the maximum recovery limit. Ally Recovery Packages are different than regular recovery packages and do not count towards effects like the Galaxy Compressor  module.
+Converts enemy Ally recovery Package heal tower beyond maximum recovery limit . Ally Recovery Packages different regular recovery packages count towards effects like Galaxy Compressor module .
 Upgrades
-Total bits needed is 14470 which takes 71 weeks to obtain
+Total bits needed 14470 takes 71 weeks obtain
 Recovery Amount
 Bits
 Cooldown
@@ -298,301 +298,301 @@ Bits
 Max Recovey
 Expand
 Bits
-1%
+1 %
 0
 120s
 0
 1.1x
 0
-2%
+2 %
 10
 119s
 1
 1.2x
 1
-3%
+3 %
 15
 118s
 2
 1.3x
 2
-4%
+4 %
 20
 117s
 3
 1.4x
 3
-5%
+5 %
 25
 116s
 4
 1.5x
 4
-6%
+6 %
 30
 115s
 5
 1.6x
 5
-7%
+7 %
 35
 114s
 6
 1.7x
 6
-8%
+8 %
 40
 113s
 7
 1.8x
 7
-9%
+9 %
 45
 112s
 8
 1.9x
 8
-10%
+10 %
 50
 111s
 9
 2.0x
 9
-11%
+11 %
 55
 110s
 10
 2.1x
 10
-12%
+12 %
 60
 109s
 11
 2.2x
 11
-13%
+13 %
 65
 108s
 12
 2.3x
 12
-14%
+14 %
 70
 107s
 13
 2.4x
 13
-15%
+15 %
 75
 106s
 14
 2.5x
 14
-16%
+16 %
 80
 105s
 15
 2.6x
 15
-17%
+17 %
 85
 104s
 16
 2.7x
 16
-18%
+18 %
 90
 103s
 17
 2.8x
 17
-19%
+19 %
 95
 102s
 18
 2.9x
 18
-20%
+20 %
 100
 101s
 19
 3.0x
 19
-21%
+21 %
 105
 100s
 20
 3.1x
 20
-22%
+22 %
 110
 99s
 21
 3.2x
 21
-23%
+23 %
 115
 98s
 22
 3.3x
 22
-24%
+24 %
 120
 97s
 23
 3.4x
 23
-25%
+25 %
 125
 96s
 24
 3.5x
 24
-26%
+26 %
 130
 95s
 25
 3.6x
 25
-27%
+27 %
 135
 94s
 26
 3.7x
 26
-28%
+28 %
 140
 93s
 27
 3.8x
 27
-29%
+29 %
 145
 92s
 28
 3.9x
 28
-30%
+30 %
 150
 91s
 29
 4.0x
 29
-31%
+31 %
 155
 90s
 30
 4.1x
 30
-32%
+32 %
 160
 89s
 31
 4.2x
 31
-33%
+33 %
 165
 88s
 32
 4.3x
 32
-34%
+34 %
 170
 87s
 33
 4.4x
 33
-35%
+35 %
 175
 86s
 34
 4.5x
 34
-36%
+36 %
 180
 85s
 35
 4.6x
 35
-37%
+37 %
 185
 84s
 36
 4.7x
 36
-38%
+38 %
 190
 83s
 37
 4.8x
 37
-39%
+39 %
 195
 82s
 38
 4.9x
 38
-40%
+40 %
 200
 81s
 39
 5.0x
 39
-41%
+41 %
 205
 80s
 40
 5.1x
 40
-42%
+42 %
 210
 79s
 41
 5.2x
 41
-43%
+43 %
 215
 78s
 42
 5.3x
 42
-44%
+44 %
 220
 77s
 43
 5.4x
 43
-45%
+45 %
 225
 76s
 44
 5.5x
 44
-46%
+46 %
 230
 75s
 45
 5.6x
 45
-47%
+47 %
 235
 74s
 46
 5.7x
 46
-48%
+48 %
 240
 73s
 47
 5.8x
 47
-49%
+49 %
 245
 72s
 48
 5.9x
 48
-50%
+50 %
 250
 71s
 49
@@ -765,8 +765,8 @@ Total
 4095
 4005
 Bounty Chip
-Tower guardian places a bounty on nearby non-common enemies causing them to grant more coins on death.
-Bounty amount is based on all currently active coin multipliers on target enemies when they are killed, multiplied by Bounty's Multiplier stat; Golden Bot, Death Wave, Golden Tower, Black Hole, Spotlight, etc will all increase the amount of coins gained.
+Tower guardian places bounty nearby non-common enemies causing grant coins death .
+Bounty amount based currently active coin multipliers target enemies killed , multiplied Bounty 's Multiplier stat ; Golden Bot , Death Wave , Golden Tower , Black Hole , Spotlight , etc increase amount coins gained .
 Upgrades
 Multiplier
 Bits
@@ -1118,11 +1118,11 @@ x0.99
 x1.00
 99
 Fetch Chip
-The Tower Guardian locates and retrieves hidden loot: coin, Gems, Medals, Shards and Modules.
+Tower Guardian locates retrieves hidden loot : coin , Gems , Medals , Shards Modules .
 Droptable
 Item
 Chance
-(%)
+( % )
 Daily Cap
 Gems
 4
@@ -1159,281 +1159,281 @@ Expand
 Bits
 120s
 0
-10%
+10 %
 0
-2%
+2 %
 0
 119s
 2
-11%
+11 %
 20
-3%
+3 %
 10
 118s
 4
-12%
+12 %
 25
-4%
+4 %
 15
 117s
 6
-13%
+13 %
 30
-5%
+5 %
 20
 116s
 8
-14%
+14 %
 35
-6%
+6 %
 25
 115s
 10
-15%
+15 %
 40
-7%
+7 %
 30
 114s
 12
-16%
+16 %
 45
-8%
+8 %
 35
 113s
 14
-17%
+17 %
 50
-9%
+9 %
 40
 112s
 16
-18%
+18 %
 55
-10%
+10 %
 45
 111s
 18
-19%
+19 %
 60
-11%
+11 %
 50
 110s
 20
-20%
+20 %
 65
-12%
+12 %
 55
 109s
 22
-21%
+21 %
 70
-13%
+13 %
 60
 108s
 24
-22%
+22 %
 75
-14%
+14 %
 65
 107s
 26
-23%
+23 %
 80
-15%
+15 %
 70
 106s
 28
-24%
+24 %
 85
-16%
+16 %
 75
 105s
 30
-25%
+25 %
 90
-17%
+17 %
 80
 104s
 32
-26%
+26 %
 95
-18%
+18 %
 85
 103s
 34
-27%
+27 %
 100
-19%
+19 %
 90
 102s
 36
-28%
+28 %
 105
-20%
+20 %
 95
 101s
 38
-29%
+29 %
 110
-21%
+21 %
 100
 100s
 40
-30%
+30 %
 115
-22%
+22 %
 105
 99s
 42
-31%
+31 %
 120
-23%
+23 %
 110
 98s
 44
-32%
+32 %
 125
-24%
+24 %
 115
 97s
 46
-33%
+33 %
 130
-25%
+25 %
 120
 96s
 48
-34%
+34 %
 135
-26%
+26 %
 125
 95s
 50
-35%
+35 %
 140
-27%
+27 %
 130
 94s
 52
-36%
+36 %
 145
-28%
+28 %
 135
 93s
 54
-37%
+37 %
 150
-29%
+29 %
 140
 92s
 56
-38%
+38 %
 155
-30%
+30 %
 145
 91s
 58
-39%
+39 %
 160
-31%
+31 %
 150
 90s
 60
-40%
+40 %
 165
-32%
+32 %
 155
 89s
 62
-41%
+41 %
 170
-33%
+33 %
 160
 88s
 64
-42%
+42 %
 175
-34%
+34 %
 165
 87s
 66
-43%
+43 %
 180
-35%
+35 %
 170
 86s
 68
-44%
+44 %
 185
-36%
+36 %
 175
 85s
 70
-45%
+45 %
 190
-37%
+37 %
 180
 84s
 72
-46%
+46 %
 195
-38%
+38 %
 185
 83s
 74
-47%
+47 %
 200
-39%
+39 %
 190
 82s
 76
-48%
+48 %
 205
-40%
+40 %
 195
 81s
 78
-49%
+49 %
 210
-41%
+41 %
 200
 80s
 80
-50%
+50 %
 215
-42%
+42 %
 205
 79s
 82
-43%
+43 %
 210
 78s
 84
-44%
+44 %
 215
 77s
 86
-45%
+45 %
 220
 76s
 88
-46%
+46 %
 225
 75s
 90
-47%
+47 %
 230
 74s
 92
-48%
+48 %
 235
 73s
 94
-49%
+49 %
 240
 72s
 96
-50%
+50 %
 245
 71s
 98
@@ -1461,12 +1461,12 @@ Bits
 120
 Estimated optimal Fetch chip upgrade
 Summon Chip
-The Summon Chip spawns 2 enemies per second while active, of type Basic, Tank, Ranged, and Fast. Additionally, the Summon Chip gives a cash bonus to all killed enemies while active, not just those summoned. The summoned enemies will not gain Ultimate Status, even if the
+Summon Chip spawns 2 enemies per second active , type Basic , Tank , Ranged , Fast . Additionally , Summon Chip gives cash bonus killed enemies active , summoned . summoned enemies gain Ultimate Status , even
 Battle Condition
-of their type is active.
-The chip launched in Season 5, with an incorrect description, causing confusion. This was quickly corrected on The Tower
+type active .
+chip launched Season 5 , incorrect description , causing confusion . quickly corrected Tower
 Discord
-server.
+server .
 Upgrades
 Cooldown
 Bits
@@ -1707,7 +1707,7 @@ Total
 Total
 14,200 Bits
 Scout Chip
-Scouts enemies on screen. While active, all enemies are treated as being farther from the Tower for damage calculations.
+Scouts enemies screen . active , enemies treated farther Tower damage calculations .
 Upgrades
 Cooldown
 Bits

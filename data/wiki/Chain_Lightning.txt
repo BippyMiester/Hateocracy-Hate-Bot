@@ -7,99 +7,99 @@ Workshop
 Labs
 4
 Description
-Percent chance on enemy hit to spawn a number chain lightnings, dealing a percent of tower damage (accounts for crit/super crit factor and chance).
+Percent chance enemy hit spawn number chain lightnings , dealing percent tower damage ( accounts crit/super crit factor chance ) .
 Workshop
 Basic Upgrades
 Ultimate Weapon Plus
 Basic Upgrades
-Basic upgrades for all Ultimate Weapons are located in the
+Basic upgrades Ultimate Weapons located
 Ultimate Weapon
-menu after unlocking the Ultimate Weapon. Unlocking Chain Lightning allows the player to upgrade Damage, Quantity and Chance using stones.
+menu unlocking Ultimate Weapon . Unlocking Chain Lightning allows player upgrade Damage , Quantity Chance using stones .
 Costs
-Damage has 31 levels, Quantity has 4 levels and Chance has 15 levels. The total stones to max is 18,375.
+Damage 31 levels , Quantity 4 levels Chance 15 levels . total stones max 18,375 .
 Damage
 Stones
-(Damage)
+( Damage )
 Quantity
 Stones
-(Quantity)
+( Quantity )
 Chance
 Expand
 Stones
-(Chance)
+( Chance )
 2x
 0
-1#
+1 #
 0
-5.0%
+5.0 %
 0
 3x
 5
-2#
+2 #
 30
-6.5%
+6.5 %
 8
 5x
 11
-3#
+3 #
 75
-8.0%
+8.0 %
 26
 9x
 17
-4#
+4 #
 150
-9.5%
+9.5 %
 44
 14x
 23
-5#
+5 #
 400
-11.0%
+11.0 %
 62
 22x
 29
-12.5%
+12.5 %
 80
 32x
 35
-14.0%
+14.0 %
 98
 46x
 41
-15.5%
+15.5 %
 116
 63x
 47
-17.0%
+17.0 %
 134
 85x
 53
-18.5%
+18.5 %
 152
 113x
 61
-20.0%
+20.0 %
 170
 148x
 71
-21.5%
+21.5 %
 188
 191x
 84
-23.0%
+23.0 %
 206
 244x
 100
-24.5%
+24.5 %
 224
 309x
 120
-26.0%
+26.0 %
 242
 387x
 144
-27.5%
+27.5 %
 260
 482x
 174
@@ -138,7 +138,7 @@ TOTAL
 655
 2010
 Ultimate Weapon Plus - Smite
-Ultimate Weapon Plus abilities can only be unlocked once all 9 Ultimate Weapons are purchased. Every Chain Lightning has a chance equal to Chain Lightning Chance to do extra damage equal to a multiple of the current wave HP. Activates up to 100 times per enemy.
+Ultimate Weapon Plus abilities unlocked 9 Ultimate Weapons purchased . Every Chain Lightning chance equal Chain Lightning Chance extra damage equal multiple current wave HP . Activates 100 times per enemy .
 Cost
 Expand
 UW+ Cost Table
@@ -193,16 +193,15 @@ N/A
 Labs
 Unlock
 labs
-in
 Milestones
-at tier 7 wave 60. Initially unlocks Chain Lightning Shock. Unlocks Shock Chance and Shock Multiplier after Chain Lightning Shock level 1.
+tier 7 wave 60 . Initially unlocks Chain Lightning Shock . Unlocks Shock Chance Shock Multiplier Chain Lightning Shock level 1 .
 Chain Lightning Shock
 Shock Chance
 Shock Multiplier
 Chain Thunder
 Lightning Amplifier-Scatter
 Chain Lightning Shock
-Chance to apply shock to enemies hit by chain lightning causing enemies to receive more damage. Has 1 level. Chance starts at 2.50% and the multiplier starts at x1.10.
+Chance apply shock enemies hit chain lightning causing enemies receive damage . 1 level . Chance starts 2.50 % multiplier starts x1.10 .
 Level
 TIme
 Cost
@@ -212,145 +211,145 @@ Value
 950,000
 Unlocked
 Shock Chance
-Chance Chain Lightning will apply shock to enemies. Has 30 levels.
+Chance Chain Lightning apply shock enemies . 30 levels .
 Level
 TIme
 Cost
 Expand
 Value
 1
-0d 20h  0m
+0d 20h 0m
 250,000
-3.00%
+3.00 %
 2
-1d  4h 21m
+1d 4h 21m
 560,000
-3.50%
+3.50 %
 3
 1d 12h 53m
 1,100,000
-4.00%
+4.00 %
 4
 1d 21h 54m
 2,800,000
-4.50%
+4.50 %
 5
-2d  7h 49m
+2d 7h 49m
 7,750,000
-5.00%
+5.00 %
 6
-2d 19h  6m
+2d 19h 6m
 19,540,000
-5.50%
+5.50 %
 7
-3d  8h 17m
+3d 8h 17m
 43,580,000
-6.00%
+6.00 %
 8
 3d 23h 58m
 87,410,000
-6.50%
+6.50 %
 9
 4d 18h 49m
 160,910,000
-7.00%
+7.00 %
 10
 5d 17h 31m
 276,620,000
-7.50%
+7.50 %
 11
 6d 20h 49m
 449,930,000
-8.00%
+8.00 %
 12
-8d  5h 30m
+8d 5h 30m
 699,340,000
-8.50%
+8.50 %
 13
 9d 20h 23m
 1,050,000,000
-9.00%
+9.00 %
 14
 11d 18h 21m
 1,520,000,000
-9.50%
+9.50 %
 15
-14d  0h 18m
+14d 0h 18m
 2,140,000,000
-10.00%
+10.00 %
 16
-16d 15h  9m
+16d 15h 9m
 2,950,000,000
-10.50%
+10.50 %
 17
 19d 15h 54m
 3,980,000,000
-11.00%
+11.00 %
 18
-23d  3h 32m
+23d 3h 32m
 5,270,000,000
-11.50%
+11.50 %
 19
-27d  3h  6m
+27d 3h 6m
 6,880,000,000
-12.00%
+12.00 %
 20
 31d 15h 40m
 8,840,000,000
-12.50%
+12.50 %
 21
 36d 18h 19m
 11,220,000,000
-13.00%
+13.00 %
 22
 42d 12h 12m
 14,080,000,000
-13.50%
+13.50 %
 23
 48d 22h 27m
 17,480,000,000
-14.00%
+14.00 %
 24
-56d  2h 16m
+56d 2h 16m
 21,490,000,000
-14.50%
+14.50 %
 25
-64d  0h 50m
+64d 0h 50m
 26,190,000,000
-15.00%
+15.00 %
 26
 72d 19h 25m
 31,660,000,000
-15.50%
+15.50 %
 27
 82d 11h 17m
 37,990,000,000
-16.00%
+16.00 %
 28
-93d  1h 41m
+93d 1h 41m
 45,280,000,000
-16.50%
+16.50 %
 29
 104d 15h 58m
 53,620,000,000
-17.00%
+17.00 %
 30
-117d  7h 28m
+117d 7h 28m
 63,130,000,000
-17.50%
+17.50 %
 Shock Multiplier
-The extra damage enemies affected by shock receive. Has 14 levels
+extra damage enemies affected shock receive . 14 levels
 Level
 TIme
 Cost
 Expand
 Value
 1
-0d 20h  0m
+0d 20h 0m
 250,000
 1.14
 2
-1d  4h 21m
+1d 4h 21m
 560,000
 1.18
 3
@@ -362,15 +361,15 @@ Value
 2,800,000
 1.26
 5
-2d  7h 49m
+2d 7h 49m
 7,750,000
 1.30
 6
-2d 19h  6m
+2d 19h 6m
 19,540,000
 1.34
 7
-3d  8h 17m
+3d 8h 17m
 43,580,000
 1.38
 8
@@ -390,7 +389,7 @@ Value
 449,930,000
 1.54
 12
-8d  5h 30m
+8d 5h 30m
 699,340,000
 1.58
 13
@@ -401,133 +400,133 @@ Value
 11d 18h 21m
 1,520,000,000
 1.66
-Unlocks lab in Milestone at tier 16 wave 60. Enemy Damage reduced by 10% for every 6% of health an enemy lost from Chain Lightning Damage up to a max percent. Has 30 levels increasing max reduction by 3% per level for a max reduction of 90%.
+Unlocks lab Milestone tier 16 wave 60 . Enemy Damage reduced 10 % every 6 % health enemy lost Chain Lightning Damage max percent . 30 levels increasing max reduction 3 % per level max reduction 90 % .
 level
 Time
 Cost
 Expand
 Value
 1
-8d  7h  59m
+8d 7h 59m
 100.00B
-3%
+3 %
 2
-9d  8h  0m
+9d 8h 0m
 150.00B
-6%
+6 %
 3
-10d  10h  52m
+10d 10h 52m
 225.00B
-9%
+9 %
 4
-11d  16h  59m
+11d 16h 59m
 337.50B
-12%
+12 %
 5
-13d  2h  42m
+13d 2h 42m
 506.25B
-15%
+15 %
 6
-14d  16h  28m
+14d 16h 28m
 759.38B
-18%
+18 %
 7
-16d  10h  45m
+16d 10h 45m
 1.14T
-21%
+21 %
 8
-18d  10h  8m
+18d 10h 8m
 1.71T
-24%
+24 %
 9
-20d  15h  11m
+20d 15h 11m
 2.56T
-27%
+27 %
 10
-23d  2h  36m
+23d 2h 36m
 3.84T
-30%
+30 %
 11
-25d  21h  10m
+25d 21h 10m
 5.77T
-33%
+33 %
 12
-28d  23h  42m
+28d 23h 42m
 8.65T
-36%
+36 %
 13
-32d  11h  11m
+32d 11h 11m
 12.97T
-39%
+39 %
 14
-36d  8h  41m
+36d 8h 41m
 19.46T
-42%
+42 %
 15
-40d  17h  25m
+40d 17h 25m
 29.19T
-45%
+45 %
 16
-45d  14h  42m
+45d 14h 42m
 43.79T
-48%
+48 %
 17
-51d  2h  4m
+51d 2h 4m
 65.68T
-51%
+51 %
 18
-57d  5h  12m
+57d 5h 12m
 98.53T
-54%
+54 %
 19
-64d  1h  59m
+64d 1h 59m
 147.79T
-57%
+57 %
 20
-71d  18h  33m
+71d 18h 33m
 221.68T
-60%
+60 %
 21
-80d  9h  15m
+80d 9h 15m
 332.53T
-63%
+63 %
 22
-90d  46m  11s
+90d 46m 11s
 498.79T
-66%
+66 %
 23
-100d  20h  3m
+100d 20h 3m
 748.18T
-69%
+69 %
 24
-112d  22h  28m
+112d 22h 28m
 1.12q
-72%
+72 %
 25
-126d  11h  43m
+126d 11h 43m
 1.68q
-75%
+75 %
 26
-141d  16h  0m
+141d 16h 0m
 2.53q
-78%
+78 %
 27
-158d  16h  0m
+158d 16h 0m
 3.79q
-81%
+81 %
 28
-177d  16h  58m
+177d 16h 58m
 5.68q
-84%
+84 %
 29
-199d  46m  25s
+199d 46m 25s
 8.52q
-87%
+87 %
 30
-222d  21h  59m
+222d 21h 59m
 12.78q
-90%
-Unlock Lab in Milestones on tier 16 wave 60. Increases damage chain lightning damage done to scatters by each consecutive hit as an additive bonus. This means all values will be 1+ higher than shown to add to the original 1x damage from the first hit.
+90 %
+Unlock Lab Milestones tier 16 wave 60 . Increases damage chain lightning damage done scatters consecutive hit additive bonus . means values 1+ higher shown add original 1x damage first hit .
 level
 Time
 Cost
@@ -675,7 +674,7 @@ Rend Armor Mult
 Defense Upgrades
 Health
 Health Regen
-Defense %
+Defense %
 Defense Absolute
 Thorn Damage
 Lifesteal

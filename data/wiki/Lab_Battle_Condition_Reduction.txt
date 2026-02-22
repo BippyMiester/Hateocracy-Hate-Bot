@@ -1,5 +1,5 @@
 Battle Condition Reduction
-Unlocks T18W1000. Reduces the effect of active battle conditions by [x]%. Does not Apply to the Ultimate Weapon Duration Battle Condition. Has 10 levels.
+Unlocks T18W1000 . Reduces effect active battle conditions [ x ] % . Apply Ultimate Weapon Duration Battle Condition . 10 levels .
 Level
 Time
 Cost

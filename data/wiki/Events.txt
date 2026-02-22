@@ -26,15 +26,15 @@ Bots Description
 4.5.3
 Bot Respec
 Description
-Events are a series of challenges that reward medals when completed. Unlocked in
+Events series challenges reward medals completed . Unlocked
 Milestones
-on tier 1 wave 70.
+tier 1 wave 70 .
 Event Cycle
-Events occur on a 2 week cycle. They last for 2 weeks with the first 8 days giving new missions and 6 days without any new missions. When the running event ends, the next one will immediately begin.
+Events occur 2 week cycle . last 2 weeks first 8 days giving new missions 6 days without new missions . running event ends , next one immediately begin .
 Missions
-All event missions have  3 tiers to complete. Each tier will have a higher requirement and provide an increasing amount of medals.
-There are 7 missions unlocked on the first day with 2 missions added everyday for the next 7  days. Missions will remain until the end of the event.
-Possible missions (incomplete):
+event missions 3 tiers complete . tier higher requirement provide increasing amount medals .
+7 missions unlocked first day 2 missions added everyday next 7 days . Missions remain end event .
+Possible missions ( incomplete ) :
 Mission
 1
 2
@@ -42,12 +42,12 @@ Mission
 Note
 Expand
 Tips
-Always there
-Log in for X days
+Always
+Log X days
 7
 10
 13
-Participate in X tournaments
+Participate X tournaments
 1
 2
 3
@@ -55,17 +55,17 @@ Buy X cards
 20
 40
 80
-Automatically completes when all cards are maxed
-Get the free gem reward in store X times
+Automatically completes cards maxed
+Get free gem reward store X times
 7
 10
 13
-Have a total research time of X (rushed labs count)
+total research time X ( rushed labs count )
 12d
 30d
 90d
-Actual time is lower before completing a couple of times [verify]
-Unlock all 5 labs before spending gems to speed up labs; all five labs running at 1.5x speed will complete this mission
+Actual time lower completing couple times [ verify ]
+Unlock 5 labs spending gems speed labs ; five labs running 1.5x speed complete mission
 Base missions
 Kill X Common Enemies
 50K
@@ -87,17 +87,17 @@ Kill X vampire enemies
 150
 500
 2500
-More elites spawn later in rounds, so farming elites on earlier tiers may help
+elites spawn later rounds , farming elites earlier tiers may help
 Kill X Scatter enemies
 4500
 15000
 75000
-The split of enemies count. So each spawn provides 31 kills, needing 146/484/2420 spawns
+split enemies count . spawn provides 31 kills , needing 146/484/2420 spawns
 Kill X ray enemies
 150
 500
 2500
-Reach wave X on any tier
+Reach wave X tier
 600
 2000
 3500
@@ -109,28 +109,28 @@ Buy X Workshop Upgrades
 50
 150
 400
-Automatically completes when workshop is maxed
-Reach wave X without any card equiped on tier Y or above
+Automatically completes workshop maxed
+Reach wave X without card equiped tier
 20
 40
 60
-Y is your max unlocked tier, minus 2, up to Tier 14
-Take no damage for X consecutive waves
+max unlocked tier , minus 2 , Tier 14
+Take damage X consecutive waves
 100
 250
 1200
-Invest in Defense Absolute
-Kill X Bosses outside of Tower range
+Invest Defense Absolute
+Kill X Bosses outside Tower range
 3
 8
 15
-Bounce Shot, Death Wave and Missiles are some ways to do this
+Bounce Shot , Death Wave Missiles ways
 Obtain X Modules
 40
 80
 160
-Merging modules does not count
-Obtain X modules by merging
+Merging modules count
+Obtain X modules merging
 10
 20
 40
@@ -143,29 +143,29 @@ Claim Ad Gems X times
 25
 60
 Workshop based missions
-Hit X enemies with critical hits
+Hit X enemies critical hits
 15K
 400K
 30M
-Hits on the same enemy count
+Hits enemy count
 Get X free upgrades
 3000
 6000
 15000
-Use Intro Skip Card if available to accelerate this process, restarting once max Intro Skip wave is reached
+Use Intro Skip Card available accelerate process , restarting max Intro Skip wave reached
 Keep X consecutive waves getting max Interest
 60
 300
 500
-Hit X enemies with workshop Land Mines
+Hit X enemies workshop Land Mines
 3000
 10000
 40000
-Kill X enemies with workshop Land Mines
+Kill X enemies workshop Land Mines
 750
 2500
 10000
-Kill X Enemies with orbs
+Kill X Enemies orbs
 1000
 4000
 40000
@@ -173,18 +173,18 @@ Obtain X Recovery Packages
 400
 2000
 6000
-Death Defy at least X times on the same round
+Death Defy least X times round
 2
 3
 5
-Equip Energy Shield and Second Wind and unequip Armor Modules and defensive cards to ensure hits are lethal and can trigger Death Defy
+Equip Energy Shield Second Wind unequip Armor Modules defensive cards ensure hits lethal trigger Death Defy
 Card based
 Stun X enemies using land mine stun card
 50k
 200k
 900k
-Keeping more enemies on screen, helps stun more enemies faster
-Kill X enemies with Death Ray
+Keeping enemies screen , helps stun enemies faster
+Kill X enemies Death Ray
 3K
 15K
 75K
@@ -192,75 +192,75 @@ Kill X enemies using nuke
 100
 250
 2000
-Try to deactivate as much killing as possible, removing cards that increase damage or kill enemies, equiping range card to get enemies out of orb range if that is a problem. Equip Enemy Balance card to increase enemies. Then fire a nuke as soon as there are about 120 (cap) enemies on screen, end the round and start another
-Hit a boss with energy net X times
+Try deactivate much killing possible , removing cards increase damage kill enemies , equiping range card get enemies orb range problem . Equip Enemy Balance card increase enemies . fire nuke soon 120 ( cap ) enemies screen , end round start another
+Hit boss energy net X times
 25
 80
 250
-Let Energy Shield save you from an attack X times
+Let Energy Shield save attack X times
 10
 30
 80
-Kill X enemies while in Demon Mode
+Kill X enemies Demon Mode
 300
 2000
 20K
-Skip a total of X waves
+Skip total X waves
 30
 100
 500
-Either Wave Skip or Intro Sprint works
+Either Wave Skip Intro Sprint works
 Ultimate weapons based
-Hit the same enemy with X Smart Missiles
+Hit enemy X Smart Missiles
 4
 10
 25
-Kill X Enemies in Spotlight
+Kill X Enemies Spotlight
 5k
 50K
 500K
-Kill X enemies while Golden Tower is active
+Kill X enemies Golden Tower active
 4k
 25k
 250k
-Kill X enemies with Inner Land Mines
+Kill X enemies Inner Land Mines
 30
 80
 250
-Kill X enemies with Death Wave
+Kill X enemies Death Wave
 250
 2.5K
 25k
-Kill X enemies slowed down by Chrono Field
+Kill X enemies slowed Chrono Field
 2.5K
 20k
 120k
-Have X enemies in the same Black Hole
+X enemies Black Hole
 5
 13
 21
-Poison X enemies with Poison Swamp
+Poison X enemies Poison Swamp
 2k
 10K
 60K
-Hit X enemies with Inner Land Mines
+Hit X enemies Inner Land Mines
 75
 250
 1000
-Kill X enemies with Smart Missiles
+Kill X enemies Smart Missiles
 250
 1K
 15K
-Hit X enemies with Chain Lightning
+Hit X enemies Chain Lightning
 3K
 20K
 400K
-Hit X enemies with Death Wave
+Hit X enemies Death Wave
 2.5K
 25K
 250k
 Rewards
-Completing event missions will reward medals. As medals are collected, you will gain credit toward unlocking relics. You do not need to spend medals to claim relics.* Medals carried over or earned from daily mission boxes do not count toward relic progress.
+Completing event missions reward medals . medals collected , gain credit toward unlocking relics . need spend medals claim relics . * Medals carried earned daily mission boxes count toward relic progress .
 Tier
 1
 2
@@ -269,31 +269,31 @@ Medals
 10
 15
 20
-Amounts doubled when the event booster is purchased. Event boosters need to be purchased for each event you want rewards doubled. Additionally, there are 2 Premium relics per event that are available with the event pass.
+Amounts doubled event booster purchased . Event boosters need purchased event want rewards doubled . Additionally , 2 Premium relics per event available event pass .
 Relic
 1
-(rare)
+( rare )
 Premium 1
-(rare)
+( rare )
 2
-(epic)
+( epic )
 Premium 2
-(epic)
+( epic )
 Medals Aquired
 350
 550
 700
 1100
-Medals acquired with the event booster count toward the total required for relics.
+Medals acquired event booster count toward total required relics .
 Event Shop
-Event shop is where medals can be spent. The shop will remain open even when there is no active event. The shop offers currencies,
+Event shop medals spent . shop remain open even active event . shop offers currencies ,
 themes
-, relics, songs and bots.
+, relics , songs bots .
 Currencies
-Gems, stones and shards are available to be purchased each event. The cost increases each purchase and will reset at the beginning of the next event. Exchanging medals will give 150 gems, 15 stones or 250 shards.
-There are 4 types of shards available for purchase corresponding with each
+Gems , stones shards available purchased event . cost increases purchase reset beginning next event . Exchanging medals give 150 gems , 15 stones 250 shards .
+4 types shards available purchase corresponding
 Module
-type. Each purchase of shards will increase the cost of the other types.
+type . purchase shards increase cost types .
 Quantity Purchased
 1
 2
@@ -312,24 +312,24 @@ Medal Cost
 380
 Themes
 Themes
-will rotate each event. Themes are available for a limited time and can be missed. Themes have returned in the past but there is no certainty a theme will return in the future. Once purchased, theme will be available for use forever. There will be 1 tower theme available for 150 medals and 1 background for 250 medals.
+rotate event . Themes available limited time missed . Themes returned past certainty theme return future . purchased , theme available use forever . 1 tower theme available 150 medals 1 background 250 medals .
 Relics
-For example, on  2024-09-16, had relics for purchase with medals for this
-"Event – Volcano."
-The relics are at the price-points of 200 and 500 medals. The relics are also designated as
-'limited,'
-so they may be unique to the event that sponsors them.
-Relics are also earned for completing events. Earning 350 medals unlocks the first-tier Relic. Earning 700 medals unlocks the second (and final) tier Relic. Purchasing the event pass unlocks access to 2 extra relics, one at 550 medals and another at 1100 medals.
+example , 2024-09-16 , relics purchase medals
+`` Event – Volcano . ``
+relics price-points 200 500 medals . relics also designated
+'limited , '
+may unique event sponsors .
+Relics also earned completing events . Earning 350 medals unlocks first-tier Relic . Earning 700 medals unlocks second ( final ) tier Relic . Purchasing event pass unlocks access 2 extra relics , one 550 medals another 1100 medals .
 Songs
-There are 3 songs available. These songs do not cycle and cost 200 medals each. Each one provides a +0.6% coin bonus.
+3 songs available . songs cycle cost 200 medals . one provides +0.6 % coin bonus .
 Bots
-Bots can only be purchased exclusively with medals in the event shop. Bots purchased will not reset each event. The shop offers 4 bots:
+Bots purchased exclusively medals event shop . Bots purchased reset event . shop offers 4 bots :
 Flame
 Thunder
 Golden
 Amplify
-. The cost to unlock bots increases each time a bot is purchased.
-Bots can be turned off and on in the shop between rounds.
+. cost unlock bots increases time bot purchased .
+Bots turned shop rounds .
 Unlock Costs
 Quantity
 1
@@ -337,7 +337,7 @@ Quantity
 3
 4
 Cost
-(Medals)
+( Medals )
 150
 300
 600
@@ -346,36 +346,36 @@ Bots Description
 Bot
 Description
 Duration/Damage Reduction
-(Base)
+( Base )
 Cooldown
-(base)
+( base )
 Damage/ Linger/Bonus
-(Base)
+( Base )
 Range
-(Base)
+( Base )
 Flame
-Damage enemies in an area around the bot
-20%
+Damage enemies area around bot
+20 %
 75s
 50x
 30
 Thunder
-Stuns enemies in an area around the bot
+Stuns enemies area around bot
 5s
 120s
-20%
+20 %
 25
 Golden
-Enemies destroyed inside bot's range receive coin multiplier
+Enemies destroyed inside bot 's range receive coin multiplier
 20s
 120s
 x2.0
 20
 Amplify
-Amplify damage against enemies inside range
+Amplify damage enemies inside range
 20s
 120s
 x3.5
 25
 Bot Respec
-Bots and their spent medals can be refunded through a bot respec. Bot respec is available for 300 Gems once per event. Labs completed for bots are not refunded through a bot respec, only medal related upgrades/unlocks.
+Bots spent medals refunded bot respec . Bot respec available 300 Gems per event . Labs completed bots refunded bot respec , medal related upgrades/unlocks .

@@ -1,4 +1,4 @@
-Unlock lab in Milestones on tier 16 wave 50. Allows Swamp Rend to apply to other enemy types. Enemies will receive the same % effect as basics. Has 6 levels.
+Unlock lab Milestones tier 16 wave 50 . Allows Swamp Rend apply enemy types . Enemies receive % effect basics . 6 levels .
 Level
 Time
 Cost

@@ -1,5 +1,5 @@
 Golden Tower Duration
-Has 20 levels, each increasing the duration of Golden Tower, for a total duration increase of 20s.
+20 levels , increasing duration Golden Tower , total duration increase 20s .
 Level
 Time
 Cost
@@ -89,10 +89,10 @@ Value
 8
 35:30
 0:03
-1.87%
+1.87 %
 00:04
 35:27
 Pause
 Video Quality
-Auto (360p)
+Auto ( 360p )
 Advertisement

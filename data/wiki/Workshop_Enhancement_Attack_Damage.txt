@@ -1,5 +1,5 @@
 Damage
-Unlocked for free after Workshop Enhancements are researched. Starts at 1x and increases by 0.01x per level. Has a max of 400 levels for x5.
+Unlocked free Workshop Enhancements researched . Starts 1x increases 0.01x per level . max 400 levels x5 .
 Level
 Value
 Coins

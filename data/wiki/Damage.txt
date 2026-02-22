@@ -17,17 +17,17 @@ Cards
 Labs
 5
 Description
-Damage each projectile deals to enemies. Damage is the base state for calculating both tower projectiles and other abilities such as land mines and Ultimate Weapons.
+Damage projectile deals enemies . Damage base state calculating tower projectiles abilities land mines Ultimate Weapons .
 Workshop
-Unlocked in Workshop at the start of the game. Maximum of 6000 levels in the workshop. Damage can be increased using cards, relics, Modules and Workshop Enhancements.
+Unlocked Workshop start game . Maximum 6000 levels workshop . Damage increased using cards , relics , Modules Workshop Enhancements .
 Damage Formula
-To get the value used in game, avoid any rounding.
-Displayed damage = Workshop x Lab x Damage Card x (1 + Relics) x (1 + Cannon Module %) x Enhancements x Perk
+get value used game , avoid rounding .
+Displayed damage = Workshop x Lab x Damage Card x ( 1 + Relics ) x ( 1 + Cannon Module % ) x Enhancements x Perk
 1
 + Berserker
 2
-Perk = (1 + 0.15 x Quantity) x (1 + Standard Perk Bonus), Do not round answer.
-Berserker maxes at +700% damage factoring all other bonuses in the formula.
+Perk = ( 1 + 0.15 x Quantity ) x ( 1 + Standard Perk Bonus ) , round answer .
+Berserker maxes +700 % damage factoring bonuses formula .
 Workshop Costs
 Level
 Value
@@ -278,10 +278,10 @@ Total Cost
 71.11M
 5.10T
 816.09T
-A printout of values and average value growth of damage, health and health regeneration across the entire level range (0-6000) in steps of 100 levels, logarithmic scales. Values use primary y-axis on the left, growth uses secondary y-axis on the right.
+printout values average value growth damage , health health regeneration across entire level range ( 0-6000 ) steps 100 levels , logarithmic scales . Values use primary y-axis left , growth uses secondary y-axis right .
 Workshop Enhancement
 Damage
-Unlocked for free after Workshop Enhancements are researched. Starts at 1x and increases by 0.01x per level. Has a max of 400 levels for x5.
+Unlocked free Workshop Enhancements researched . Starts 1x increases 0.01x per level . max 400 levels x5 .
 Level
 Value
 Coins
@@ -452,88 +452,87 @@ Total Coins
 330.80Q
 15.29s
 Cards
-There are 3
+3
 cards
-that modify damage: Damage, Berserker and Super Tower. Card multipliers will be multiplied with other multipliers including other cards. Damage and Berserker will change the displayed workshop value. Super Tower modifies bullet damage on hit and does not change the workshop value. This also means Damage and Berserker increase
+modify damage : Damage , Berserker Super Tower . Card multipliers multiplied multipliers including cards . Damage Berserker change displayed workshop value . Super Tower modifies bullet damage hit change workshop value . also means Damage Berserker increase
 Ultimate Weapon
-damage and Super Tower does not. Card masteries introduce other ways to boost tower damage, and other cards such as UW Crit and Crit Chance can increase Ultimate Weapon damage.
+damage Super Tower . Card masteries introduce ways boost tower damage , cards UW Crit Crit Chance increase Ultimate Weapon damage .
 Damage
 Super tower
 Berserker
 Damage
-The Damage card is a common card that multiplies workshop damage by the card multiplier. The card has an increased % to be obtained as the first card you buy.
+Damage card common card multiplies workshop damage card multiplier . card increased % obtained first card buy .
 Super Tower
-Super tower is an epic card that temporarily increases Tower damage. The damage from Super Tower does not increase Ultimate Weapons or any ability that factors tower damage. Only tower projectiles damage is increased by the card. The card is a locked card that cannot be removed during a round
+Super tower epic card temporarily increases Tower damage . damage Super Tower increase Ultimate Weapons ability factors tower damage . tower projectiles damage increased card . card locked card removed round
 Berserker
-The Berserker card is an epic card that does not act as a multiplier. The card "absorbs" all of the damage you take. The card is not reducing your damage received but instead stores the total damage without reductions and multiplies the total received by the % based on card level. The % of damage is then added to your total damage with a limit of +700% or 8x base. Since it is added, increasing base damage can cause Berserker to no longer be maxed.
-Ex: damage taken 1,000,000, berserker 1%, tower damage after multipliers 1,000
+Berserker card epic card act multiplier . card `` absorbs `` damage take . card reducing damage received instead stores total damage without reductions multiplies total received % based card level . % damage added total damage limit +700 % 8x base . Since added , increasing base damage cause Berserker longer maxed .
+Ex : damage taken 1,000,000 , berserker 1 % , tower damage multipliers 1,000
 1,000,000×0.01 = 10,000 bonus damage stored
 1,000 x 7 = 7,000 limit
-10,000>7,000 so 7000 damage added, 3,000 unused.
-If damage is later increased to 2,000 w/o berserker, then limit = 2000 × 7 = 14,000. All bonus damage is used if no other damage was taken.
+10,000 > 7,000 7000 damage added , 3,000 unused .
+damage later increased 2,000 w/o berserker , limit = 2000 × 7 = 14,000 . bonus damage used damage taken .
 Labs
 Damage Research
 Damage
-Damage Lab is unlock damage lab with
+Damage Lab unlock damage lab
 labs
-in
 Milestones
-at tier 1. The damage lab will increase the increments for each level and the maximum value in the workshop.
+tier 1 . damage lab increase increments level maximum value workshop .
 Level
 Time
 Cost
 Expand
 Value
 1
-0d  0h  0m
+0d 0h 0m
 30
 1.02
 2
-0d  0h  6m
+0d 0h 6m
 71
 1.04
 3
-0d  0h 16m
+0d 0h 16m
 178
 1.06
 4
-0d  0h 31m
+0d 0h 31m
 398
 1.08
 5
-0d  0h 52m
+0d 0h 52m
 772
 1.10
 6
-0d  1h 20m
+0d 1h 20m
 1,340
 1.12
 7
-0d  1h 56m
+0d 1h 56m
 2,120
 1.14
 8
-0d  2h 39m
+0d 2h 39m
 3,170
 1.16
 9
-0d  3h 31m
+0d 3h 31m
 4,510
 1.18
 10
-0d  4h 32m
+0d 4h 32m
 6,170
 1.20
 11
-0d  5h 43m
+0d 5h 43m
 8,170
 1.22
 12
-0d  7h  3m
+0d 7h 3m
 10,560
 1.24
 13
-0d  8h 34m
+0d 8h 34m
 13,350
 1.26
 14
@@ -541,7 +540,7 @@ Value
 16,580
 1.28
 15
-0d 12h  7m
+0d 12h 7m
 20,270
 1.30
 16
@@ -561,15 +560,15 @@ Value
 40,160
 1.38
 20
-1d  0h 22m
+1d 0h 22m
 46,540
 1.40
 21
-1d  3h 26m
+1d 3h 26m
 53,530
 1.42
 22
-1d  6h 44m
+1d 6h 44m
 61,160
 1.44
 23
@@ -585,19 +584,19 @@ Value
 88,120
 1.50
 26
-1d 22h  7m
+1d 22h 7m
 98,530
 1.52
 27
-2d  2h 33m
+2d 2h 33m
 109,700
 1.54
 28
-2d  7h 13m
+2d 7h 13m
 121,650
 1.56
 29
-2d 12h  8m
+2d 12h 8m
 134,390
 1.58
 30
@@ -609,7 +608,7 @@ Value
 162,350
 1.62
 32
-3d  4h 23m
+3d 4h 23m
 177,620
 1.64
 33
@@ -625,7 +624,7 @@ Value
 228,820
 1.70
 36
-4d  5h 40m
+4d 5h 40m
 247,760
 1.72
 37
@@ -637,7 +636,7 @@ Value
 288,560
 1.76
 39
-5d  3h 28m
+5d 3h 28m
 310,470
 1.78
 40
@@ -649,7 +648,7 @@ Value
 357,390
 1.82
 42
-6d  3h 47m
+6d 3h 47m
 382,450
 1.84
 43
@@ -661,7 +660,7 @@ Value
 435,870
 1.88
 45
-7d  6h 42m
+7d 6h 42m
 464,260
 1.90
 46
@@ -669,7 +668,7 @@ Value
 493,810
 1.92
 47
-8d  2h  7m
+8d 2h 7m
 524,530
 1.94
 48
@@ -681,7 +680,7 @@ Value
 589,550
 1.98
 50
-9d  9h 31m
+9d 9h 31m
 623,890
 2.00
 51
@@ -689,7 +688,7 @@ Value
 659,490
 2.02
 52
-10d  8h  0m
+10d 8h 0m
 696,340
 2.04
 53
@@ -697,15 +696,15 @@ Value
 734,490
 2.06
 54
-11d  7h 45m
+11d 7h 45m
 773,940
 2.08
 55
-11d 20h  6m
+11d 20h 6m
 814,710
 2.10
 56
-12d  8h 46m
+12d 8h 46m
 856,830
 2.12
 57
@@ -713,11 +712,11 @@ Value
 900,300
 2.14
 58
-13d 11h  5m
+13d 11h 5m
 945,160
 2.16
 59
-14d  0h 44m
+14d 0h 44m
 991,410
 2.18
 60
@@ -725,7 +724,7 @@ Value
 1,040,000
 2.20
 61
-15d  5h  3m
+15d 5h 3m
 1,090,000
 2.22
 62
@@ -737,7 +736,7 @@ Value
 1,190,000
 2.26
 64
-17d  2h  1m
+17d 2h 1m
 1,240,000
 2.28
 65
@@ -745,11 +744,11 @@ Value
 1,300,000
 2.30
 66
-18d  9h 43m
+18d 9h 43m
 1,360,000
 2.32
 67
-19d  2h  5m
+19d 2h 5m
 1,410,000
 2.34
 68
@@ -761,11 +760,11 @@ Value
 1,530,000
 2.38
 70
-21d  5h 17m
+21d 5h 17m
 1,600,000
 2.40
 71
-21d 23h  4m
+21d 23h 4m
 1,660,000
 2.42
 72
@@ -777,11 +776,11 @@ Value
 1,800,000
 2.46
 74
-24d  6h 32m
+24d 6h 32m
 1,870,000
 2.48
 75
-25d  1h 46m
+25d 1h 46m
 1,940,000
 2.50
 76
@@ -801,19 +800,19 @@ Value
 2,240,000
 2.58
 80
-29d  7h 22m
+29d 7h 22m
 2,320,000
 2.60
 81
-30d  4h 48m
+30d 4h 48m
 2,400,000
 2.62
 82
-31d  2h 37m
+31d 2h 37m
 2,480,000
 2.64
 83
-32d  0h 49m
+32d 0h 49m
 2,570,000
 2.66
 84
@@ -837,7 +836,7 @@ Value
 3,020,000
 2.76
 89
-37d 22h  3m
+37d 22h 3m
 3,120,000
 2.78
 90
@@ -845,23 +844,23 @@ Value
 3,220,000
 2.80
 91
-40d  0h 15m
+40d 0h 15m
 3,320,000
 2.82
 92
-41d  1h 56m
+41d 1h 56m
 3,420,000
 2.84
 93
-42d  4h  1m
+42d 4h 1m
 3,520,000
 2.86
 94
-43d  6h 30m
+43d 6h 30m
 3,630,000
 2.88
 95
-44d  9h 23m
+44d 9h 23m
 3,740,000
 2.90
 96
@@ -877,138 +876,138 @@ Value
 4,070,000
 2.96
 99
-49d  0h 57m
+49d 0h 57m
 4,190,000
 2.98
 100
-50d  5h 52m
+50d 5h 52m
 4,310,000
 3.00
 Super Tower Bonus
-Super Tower Bonus lab unlocks in Milestones at tier 8 wave 300. Increases the multiplier on the Super Tower card. Has 30 levels.
+Super Tower Bonus lab unlocks Milestones tier 8 wave 300 . Increases multiplier Super Tower card . 30 levels .
 Level
 Time
 Cost
 Expand
 Value
 1
-0d  4h 59m
+0d 4h 59m
 2.00B
 1.03
 2
-0d  13h 21m
+0d 13h 21m
 3.01B
 1.06
 3
-0d  21h 53m
+0d 21h 53m
 4.07B
 1.09
 4
-1d   6h 54m
+1d 6h 54m
 5.33B
 1.12
 5
-1d  16h 49m
+1d 16h 49m
 6.97B
 1.15
 6
-2d   4h  6m
+2d 4h 6m
 9.26B
 1.18
 7
-2d  17h 17m
+2d 17h 17m
 12.53B
 1.21
 8
-3d   8h 58m
+3d 8h 58m
 17.13B
 1.24
 9
-4d   3h 49m
+4d 3h 49m
 23.51B
 1.27
 10
-5d   2h 31m
+5d 2h 31m
 32.14B
 1.30
 11
-6d   5h 49m
+6d 5h 49m
 43.55B
 1.33
 12
-7d  14h 30m
+7d 14h 30m
 58.32B
 1.36
 13
-9d   5h 23m
+9d 5h 23m
 77.08B
 1.39
 14
-11d   3h 21m
+11d 3h 21m
 100.50B
 1.42
 15
-13d   9h 18m
+13d 9h 18m
 129.31B
 1.45
 16
-16d   0h  9m
+16d 0h 9m
 164.27B
 1.48
 17
-19d   0h 54m
+19d 0h 54m
 206.20B
 1.51
 18
-22d  12h 32m
+22d 12h 32m
 255.96B
 1.54
 19
-26d  12h  6m
+26d 12h 6m
 314.45B
 1.57
 20
-31d   0h 40m
+31d 0h 40m
 382.60B
 1.60
 21
-36d   3h 19m
+36d 3h 19m
 461.42B
 1.63
 22
-41d  21h 12m
+41d 21h 12m
 551.94B
 1.66
 23
-48d   7h 27m
+48d 7h 27m
 655.21B
 1.69
 24
-55d  11h 16m
+55d 11h 16m
 772.37B
 1.72
 25
-63d   9h 50m
+63d 9h 50m
 904.56B
 1.75
 26
-72d   4h 25m
+72d 4h 25m
 1.05T
 1.78
 27
-81d  20h 17m
+81d 20h 17m
 1.22T
 1.81
 28
-92d  10h 41m
+92d 10h 41m
 1.40T
 1.84
 29
-104d  0h 58m
+104d 0h 58m
 1.61T
 1.87
 30
-116d  16h 28m
+116d 16h 28m
 1.83T
 1.90
 Workshops
@@ -1035,7 +1034,7 @@ Rend Armor Mult
 Defense Upgrades
 Health
 Health Regen
-Defense %
+Defense %
 Defense Absolute
 Thorn Damage
 Lifesteal
@@ -1107,7 +1106,7 @@ Workshop Utility Discount
 Labs Coin Discount
 Labs Speed
 Buy multiplier
-More Round Stats
+Round Stats
 Target Priority
 Card Presets
 Workshop Respec
@@ -1147,7 +1146,7 @@ Cash Per Wave
 Coins/Kill Bonus
 Interest
 Max Interest
-Package After Boss
+Package Boss
 Recovery Package Amount
 Recovery Package Max
 Recovery Package Chance
@@ -1158,7 +1157,7 @@ Missiles Explosion
 Missile Radius
 Chrono Field Duration
 Chrono Field Damage Reduction
-Chrono Field Reduction %
+Chrono Field Reduction %
 Swamp Radius
 Swamp Stun
 Swamp Stun Chance
@@ -1257,7 +1256,7 @@ Core Effect Bans
 Assist Module Labs
 Battle Condition Research
 Battle Condition Reduction
-Group 1: Resistances
-Group 2: Enemy/Spawn Buffs
-Group 3: Enemy Ultimates
-Group 4: Durations/Reductions
+Group 1 : Resistances
+Group 2 : Enemy/Spawn Buffs
+Group 3 : Enemy Ultimates
+Group 4 : Durations/Reductions

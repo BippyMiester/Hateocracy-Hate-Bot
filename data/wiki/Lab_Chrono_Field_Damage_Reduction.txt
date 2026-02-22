@@ -1,7 +1,7 @@
 Chrono Field Damage Reduction
-Reduces damage taken by the tower when chrono field is active. Reduction starts at 10%. Has 1 level. Unlocks Chrono Field Reduction % after completion. The reduction is taken on the enemy damage after
+Reduces damage taken tower chrono field active . Reduction starts 10 % . 1 level . Unlocks Chrono Field Reduction % completion . reduction taken enemy damage
 defense absolute
-is calculated.
+calculated .
 Level
 Time
 Cost

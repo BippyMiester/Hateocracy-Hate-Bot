@@ -1,5 +1,5 @@
 Ultimate Weapon Plus - Death Creep
-Ultimate Weapon Plus abilities can only be unlocked when all 9 Ultimate Weapons are purchased. Death Creep increases damage dealt by Poison Swamp for each tick by x% of Poison Swamp damage.
+Ultimate Weapon Plus abilities unlocked 9 Ultimate Weapons purchased . Death Creep increases damage dealt Poison Swamp tick x % Poison Swamp damage .
 Cost
 Expand
 UW+ Cost Table
@@ -36,18 +36,18 @@ Unlocked
 3700
 4300
 Value
-120%
-190%
-260%
-330%
-400%
-470%
-540%
-610%
-680%
-750%
-820%
-890%
-960%
-1030%
-1110%
+120 %
+190 %
+260 %
+330 %
+400 %
+470 %
+540 %
+610 %
+680 %
+750 %
+820 %
+890 %
+960 %
+1030 %
+1110 %

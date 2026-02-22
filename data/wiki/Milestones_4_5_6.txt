@@ -1,5 +1,5 @@
 Expand
-Tiers 4, 5 & 6
+Tiers 4 , 5 & 6
 Tier
 Tier 4
 Tier 5
@@ -28,7 +28,7 @@ Auto Pick Ranking
 30
 Workshop Respec
 150k Coins
-Defense %
+Defense %
 500k Coins
 Land Mine Damage
 900k Coins
@@ -175,11 +175,11 @@ Butterfly Skin
 Sheep Skin
 20 Stones
 4,500
-Relic: Damage +2%
+Relic : Damage +2 %
 25 Stones
-Relic: Health +1.5%
+Relic : Health +1.5 %
 25 Stones
-Relic: Defense Absolute +2%
+Relic : Defense Absolute +2 %
 25 Stones
 Totals
 50k Coins

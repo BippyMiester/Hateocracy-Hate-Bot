@@ -1,16 +1,16 @@
 Inner Mine Blast Radius
-Increases the area Inner Land Mines will damage when it is triggered. Has 20 levels.
+Increases area Inner Land Mines damage triggered . 20 levels .
 Level
 Time
 Cost
 Expand
 Value
 1
-0d 20h  0m
+0d 20h 0m
 250,000
 0.10
 2
-1d  4h 21m
+1d 4h 21m
 560,000
 0.20
 3
@@ -22,15 +22,15 @@ Value
 2,800,000
 0.40
 5
-2d  7h 49m
+2d 7h 49m
 7,750,000
 0.50
 6
-2d 19h  6m
+2d 19h 6m
 19,540,000
 0.60
 7
-3d  8h 17m
+3d 8h 17m
 43,580,000
 0.70
 8
@@ -50,7 +50,7 @@ Value
 449,930,000
 1.10
 12
-8d  5h 30m
+8d 5h 30m
 699,340,000
 1.20
 13
@@ -62,11 +62,11 @@ Value
 1,520,000,000
 1.40
 15
-14d  0h 18m
+14d 0h 18m
 2,140,000,000
 1.50
 16
-16d 15h  9m
+16d 15h 9m
 2,950,000,000
 1.60
 17
@@ -74,11 +74,11 @@ Value
 3,980,000,000
 1.70
 18
-23d  3h 32m
+23d 3h 32m
 5,270,000,000
 1.80
 19
-27d  3h  6m
+27d 3h 6m
 6,880,000,000
 1.90
 20

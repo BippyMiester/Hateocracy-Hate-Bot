@@ -1,5 +1,5 @@
 Expand
-Tiers 19, 20, & 21
+Tiers 19 , 20 , & 21
 Tier
 Tier 19
 Tier 20
@@ -63,7 +63,7 @@ Enhancement Coin Discount Lab
 80
 150 Gems
 120 Gems
-Area of Effect Card
+Area Effect Card
 140 Gems
 120 Gems
 120 Gems
@@ -166,11 +166,11 @@ Cyber Skin
 Eclipse
 110 Stones
 4,500
-Tower Damage +10%
+Tower Damage +10 %
 60 Stones
-Ultimate damage +8%
+Ultimate damage +8 %
 100 Stones
-Lab Speed +10%
+Lab Speed +10 %
 130 Stones
 Totals
 300b Coins
@@ -191,7 +191,7 @@ Totals
 505 Stones
 385 Stones
 740 Stones
-Group 1 BCs: Resistances
-Group 2 BCs: Enemy/spawn Buffs
-Group 3 BCs: Enemy Ultimates
-Group 4 BCs: Player Durations/Reductions
+Group 1 BCs : Resistances
+Group 2 BCs : Enemy/spawn Buffs
+Group 3 BCs : Enemy Ultimates
+Group 4 BCs : Player Durations/Reductions

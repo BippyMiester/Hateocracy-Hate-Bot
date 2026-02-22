@@ -1,9 +1,9 @@
 Attack Chip
-Tower Guardian attacks enemies with the most missing health, dealing a percentage of their lost health as damage (50% damage to bosses)
-In theory this chip may be able to operate similar to a
+Tower Guardian attacks enemies missing health , dealing percentage lost health damage ( 50 % damage bosses )
+theory chip may able operate similar
 Plasma Cannon
-for non boss enemies, as the damage is percentage based and with sufficient investment it could lead to multiple target, high damage and constant / faster attacks. This all needs to be confirmed with further testing, once sufficient upgrades have been purchased.
-There is a red sphere orbiting around the Guardian just before Attack activates.
+non boss enemies , damage percentage based sufficient investment could lead multiple target , high damage constant / faster attacks . needs confirmed testing , sufficient upgrades purchased .
+red sphere orbiting around Guardian Attack activates .
 Upgrades
 Percentage
 Bits
@@ -12,103 +12,103 @@ Bits
 Targets
 Expand
 Bits
-1%
+1 %
 0
 120s
 0
 1
 0
-2%
+2 %
 25
 119s
 1
 2
 100
-3%
+3 %
 50
 118s
 2
 3
 200
-4%
+4 %
 75
 117s
 3
 4
 300
-5%
+5 %
 100
 116s
 4
 5
 400
-6%
+6 %
 125
 115s
 5
 6
 500
-7%
+7 %
 150
 114s
 6
 7
 600
-8%
+8 %
 175
 113s
 7
 8
 700
-9%
+9 %
 200
 112s
 8
 9
 800
-10%
+10 %
 225
 111s
 9
 10
 900
-11%
+11 %
 250
 110s
 10
-12%
+12 %
 275
 109s
 11
-13%
+13 %
 300
 108s
 12
-14%
+14 %
 325
 107s
 13
-15%
+15 %
 350
 106s
 14
-16%
+16 %
 375
 105s
 15
-17%
+17 %
 400
 104s
 16
-18%
+18 %
 425
 103s
 17
-19%
+19 %
 450
 102s
 18
-20%
+20 %
 475
 101s
 19

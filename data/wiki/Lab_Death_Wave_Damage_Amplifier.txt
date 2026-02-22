@@ -1,5 +1,5 @@
 Death Wave Damage Amplifier
-Each Effect Wave hit on a given enemy will boost the damage that enemy takes from the Death Wave (Max of +50x per Effect Wave). Has 30 levels.
+Effect Wave hit given enemy boost damage enemy takes Death Wave ( Max +50x per Effect Wave ) . 30 levels .
 Level
 Time
 Cost
@@ -128,10 +128,10 @@ Value
 1
 8
 26:43
-1.99%
+1.99 %
 00:00
 26:43
 Video Quality
-Auto (360p)
-Ad: (28)
+Auto ( 360p )
+Ad : ( 28 )
 4

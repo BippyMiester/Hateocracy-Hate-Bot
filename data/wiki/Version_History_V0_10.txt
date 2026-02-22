@@ -15,14 +15,14 @@ Inner mines blast radius
 Inner mines rotation researches
 Chrono Field range research
 Changes
-Chrono field has a fresh new look
-Smart missiles base damage increased from 400 to 600%, increase per level from 40 to 60%
-Land mines base damage increased from 800 to 1200%, increase per level from 60 to 100%
-Enemy Balance card base benefit reduced from x1.5 to x1.3 cash bonus (the sheer number of extra enemies already give a lot of extra cash)
-Game end stats panel can now be accessed at the end of tournament rounds too
+Chrono field fresh new look
+Smart missiles base damage increased 400 600 % , increase per level 40 60 %
+Land mines base damage increased 800 1200 % , increase per level 60 100 %
+Enemy Balance card base benefit reduced x1.5 x1.3 cash bonus ( sheer number extra enemies already give lot extra cash )
+Game end stats panel accessed end tournament rounds
 Bugs
-Fixed O health visual bug when deathwave hp is active
-Fixed Golden Tower effect position on iOS
+Fixed health visual bug deathwave hp active
+Fixed Golden Tower effect position iOS
 Versions
 v0.27
 v0.26

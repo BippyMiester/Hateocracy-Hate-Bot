@@ -1,14 +1,14 @@
 Missile Barrage Quantity
-Increases Missiles launched during
+Increases Missiles launched
 Missile Barrage
-. Has 6 levels.
+. 6 levels .
 Level
 Time
 Cost
 Expand
 Value
 1
-0d 20h  0m
+0d 20h 0m
 750,000
 25
 2
@@ -28,6 +28,6 @@ Value
 13,900,000
 45
 6
-6d  1h 23m
+6d 1h 23m
 34,080,000
 50

@@ -10,7 +10,7 @@ Chrono Field Duration
 Max Lv 30
 Chrono Field Damage Reduction
 Max Lv 1
-Chrono Field Reduction %
+Chrono Field Reduction %
 Max Lv 30
 Swamp Radius
 Max Lv 30

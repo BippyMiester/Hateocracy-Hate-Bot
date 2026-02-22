@@ -1,5 +1,5 @@
 Super Crit Multi
-Requires 50 Trillion coins to be spent on enhancements to unlock. Increases Super Crit Multi by x1.0 when unlocked and increases by 0.1 per level. Has a maximum of 400 levels for a x5 multiplier.
+Requires 50 Trillion coins spent enhancements unlock . Increases Super Crit Multi x1.0 unlocked increases 0.1 per level . maximum 400 levels x5 multiplier .
 Level
 Value
 Coins
@@ -173,9 +173,9 @@ Total Coins
 8
 26:43
 0:07
-2.99%
+2.99 %
 00:07
 26:36
 Pause
 Video Quality
-Auto (360p)
+Auto ( 360p )

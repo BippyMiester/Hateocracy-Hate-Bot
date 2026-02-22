@@ -1,5 +1,5 @@
 Ultimate Weapon Plus - Smite
-Ultimate Weapon Plus abilities can only be unlocked once all 9 Ultimate Weapons are purchased. Every Chain Lightning has a chance equal to Chain Lightning Chance to do extra damage equal to a multiple of the current wave HP. Activates up to 100 times per enemy.
+Ultimate Weapon Plus abilities unlocked 9 Ultimate Weapons purchased . Every Chain Lightning chance equal Chain Lightning Chance extra damage equal multiple current wave HP . Activates 100 times per enemy .
 Cost
 Expand
 UW+ Cost Table

@@ -7,25 +7,25 @@ Workshop
 Labs
 4
 Description
-Turns the tower golden for a period of time after a period of time. While active you receive a multiplier cash and coins from enemy kills.
+Turns tower golden period time period time . active receive multiplier cash coins enemy kills .
 Workshop
 Basic Upgrades
 Ultimate Weapon Plus
 Basic Upgrades
-Basic upgrades for all Ultimate Weapons are located in the
+Basic upgrades Ultimate Weapons located
 Ultimate Weapon
-menu after unlocking the Ultimate Weapon. Unlocking Golden Tower will allow the player to upgrade Multiplier, Duration and Cooldown using stones.
+menu unlocking Ultimate Weapon . Unlocking Golden Tower allow player upgrade Multiplier , Duration Cooldown using stones .
 Costs
-Multiplier has 20 levels, Duration has 38 levels and Cooldown 20 has levels. Total stone cost is 27,186.
+Multiplier 20 levels , Duration 38 levels Cooldown 20 levels . Total stone cost 27,186 .
 Multiplier
 Stones
-(Multiplier)
+( Multiplier )
 Stones
-(Duration)
+( Duration )
 Cooldown
 Expand
 Stones
-(Cooldown)
+( Cooldown )
 5.0×
 0
 15s
@@ -193,9 +193,9 @@ Totals
 14,052
 4700
 Ultimate Weapon Plus - Golden Combo
-Ultimate Weapon Plus abilities can only be unlocked when all 9 Ultimate Weapons are unlocked. Golden Combo increases cash and coins earned after Golden Tower finishes by x% for each kill. The equation to determine the bonus is shown below:
-Bonus multiplier = ((1 + 0.0003 x (Level + 1))^Kill) - 1
-Golden Combo will only count killed enemies that spawned during the activation. Enemies that were alive before the current Golden tower activation will not be included in the kill count.
+Ultimate Weapon Plus abilities unlocked 9 Ultimate Weapons unlocked . Golden Combo increases cash coins earned Golden Tower finishes x % kill . equation determine bonus shown :
+Bonus multiplier = ( ( 1 + 0.0003 x ( Level + 1 ) ) ^Kill ) - 1
+Golden Combo count killed enemies spawned activation . Enemies alive current Golden tower activation included kill count .
 Cost
 Expand
 UW+ Cost Table
@@ -232,40 +232,39 @@ Unlocked
 3300
 4150
 Value
-0.03%
-0.06%
-0.09%
-0.12%
-0.15%
-0.18%
-0.21%
-0.24%
-0.27%
-0.30%
-0.33%
-0.36%
-0.39%
-0.42%
-0.45%
+0.03 %
+0.06 %
+0.09 %
+0.12 %
+0.15 %
+0.18 %
+0.21 %
+0.24 %
+0.27 %
+0.30 %
+0.33 %
+0.36 %
+0.39 %
+0.42 %
+0.45 %
 Final bonus
-The final bonus received very much depends on the duration of the GT.
-K = Kills during GT = Kills per second * duration = Kps * d
-B = Bonus multiplier = ((1 + 0.0003 x (Level + 1))^K) - 1
-I = Income during GT = K * income per mob
-T = Number of GT activations = Total duration / GT CD
-FI = Final income = T * (I + I * B) => T * I * (1 + B) => T * Kps * d * income per mob * ((1 + 0.0003 x (Level + 1))^(Kps * d))
-We can solve for FI(d+1) vs FI(d) as
-T * Kps * (d + 1) * income per mob * ((1 + 0.0003 x (Level + 1))^(Kps * (d+1)))
----------------------------------------------------------------------------
-T * Kps * d * income per mob * ((1 + 0.0003 x (Level + 1))^(Kps * d))
-Which reduces to
-(d + 1)
-------- * ((1 + 0.0003 x (Level + 1))^Kps)
-   d
-And thus we can make a table of the expected relative income when comparing both GT+ levels and duration:
-Relative income when comparing both GT+ levels and duration.
-Assumes 5s of mobs at the start of the GT+ that is not included the GT+ bonus and Kps=8.
-Numbers are relative to GT+10 at 60s.
+final bonus received much depends duration GT .
+K = Kills GT = Kills per second * duration = Kps *
+B = Bonus multiplier = ( ( 1 + 0.0003 x ( Level + 1 ) ) ^K ) - 1
+= Income GT = K * income per mob
+= Number GT activations = Total duration / GT CD
+FI = Final income = * ( + * B ) = > * * ( 1 + B ) = > * Kps * * income per mob * ( ( 1 + 0.0003 x ( Level + 1 ) ) ^ ( Kps * ) )
+solve FI ( d+1 ) vs FI ( )
+* Kps * ( + 1 ) * income per mob * ( ( 1 + 0.0003 x ( Level + 1 ) ) ^ ( Kps * ( d+1 ) ) )
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -
+* Kps * * income per mob * ( ( 1 + 0.0003 x ( Level + 1 ) ) ^ ( Kps * ) )
+reduces
+( + 1 )
+-- -- -- - * ( ( 1 + 0.0003 x ( Level + 1 ) ) ^Kps )
+thus make table expected relative income comparing GT+ levels duration :
+Relative income comparing GT+ levels duration .
+Assumes 5s mobs start GT+ included GT+ bonus Kps=8 .
+Numbers relative GT+10 60s .
 Expand
 Level/Duration
 1
@@ -729,16 +728,16 @@ Level/Duration
 1,613
 1,931
 2,310
-IE, at 40s duration a GT+10 is 213% better than a GT+1. At 80s duration it is 504% better income.
-Similarly, a GT+10 at 80s duration is 231% better than the one at 60s.
-100% GT uptime
-If GT is already at 100% uptime (such as when using MVN or GC), the calculation changes a bit.
-T = Number of GT activations = Total duration / d
-FI = Final income =T * (I + I * B) => T * I * (1 + B) => Total duration * Kps * income per mob * ((1 + 0.0003 x (Level + 1))^(Kps * d)
-Relative income when comparing both GT+ levels and duration for GT duration >= 100%.
-Assumes 5s of mobs at the start of the GT+ that is not included the GT+ bonus and Kps=8.
-Numbers are relative to GT+10 at 60s.
-You CANNOT compare the numbers in the above table with numbers in this table. That's like comparing apples to oranges. The calculations are based on difference premises.
+IE , 40s duration GT+10 213 % better GT+1 . 80s duration 504 % better income .
+Similarly , GT+10 80s duration 231 % better one 60s .
+100 % GT uptime
+GT already 100 % uptime ( using MVN GC ) , calculation changes bit .
+= Number GT activations = Total duration /
+FI = Final income =T * ( + * B ) = > * * ( 1 + B ) = > Total duration * Kps * income per mob * ( ( 1 + 0.0003 x ( Level + 1 ) ) ^ ( Kps * )
+Relative income comparing GT+ levels duration GT duration > = 100 % .
+Assumes 5s mobs start GT+ included GT+ bonus Kps=8 .
+Numbers relative GT+10 60s .
+compare numbers table numbers table . 's like comparing apples oranges . calculations based difference premises .
 Collapse
 Level/Duration
 1
@@ -982,17 +981,16 @@ Level/Duration
 1,183
 1,416
 1,694
-As can be seen, the GT+ level scales the same, but the duration loses some efficacy.
+seen , GT+ level scales , duration loses efficacy .
 Labs
 Unlocks
 labs
-in
 Milestones
-at tier 4 wave 200, unlocking Golden Tower bonus and Golden Tower Duration. Each lab increase the base level of their respective workshop stat.
+tier 4 wave 200 , unlocking Golden Tower bonus Golden Tower Duration . lab increase base level respective workshop stat .
 Golden Tower Bonus
 Golden Tower Duration
 Golden Tower Bonus
-Has 25 levels, with each level increasing the Golden Tower bonus by 0.15, for a total additional bonus of 3.75.
+25 levels , level increasing Golden Tower bonus 0.15 , total additional bonus 3.75 .
 Level
 Time
 Cost
@@ -1099,7 +1097,7 @@ Value
 26,190,000,000
 +3.75
 Golden Tower Duration
-Has 20 levels, each increasing the duration of Golden Tower, for a total duration increase of 20s.
+20 levels , increasing duration Golden Tower , total duration increase 20s .
 Level
 Time
 Cost
@@ -1207,7 +1205,7 @@ Rend Armor Mult
 Defense Upgrades
 Health
 Health Regen
-Defense %
+Defense %
 Defense Absolute
 Thorn Damage
 Lifesteal
@@ -1257,7 +1255,7 @@ Workshop Utility Discount
 Labs Coin Discount
 Labs Speed
 Buy multiplier
-More Round Stats
+Round Stats
 Target Priority
 Card Presets
 Workshop Respec
@@ -1297,7 +1295,7 @@ Cash Per Wave
 Coins/Kill Bonus
 Interest
 Max Interest
-Package After Boss
+Package Boss
 Recovery Package Amount
 Recovery Package Max
 Recovery Package Chance
@@ -1308,7 +1306,7 @@ Missiles Explosion
 Missile Radius
 Chrono Field Duration
 Chrono Field Damage Reduction
-Chrono Field Reduction %
+Chrono Field Reduction %
 Swamp Radius
 Swamp Stun
 Swamp Stun Chance
@@ -1407,7 +1405,7 @@ Core Effect Bans
 Assist Module Labs
 Battle Condition Research
 Battle Condition Reduction
-Group 1: Resistances
-Group 2: Enemy/Spawn Buffs
-Group 3: Enemy Ultimates
-Group 4: Durations/Reductions
+Group 1 : Resistances
+Group 2 : Enemy/Spawn Buffs
+Group 3 : Enemy Ultimates
+Group 4 : Durations/Reductions

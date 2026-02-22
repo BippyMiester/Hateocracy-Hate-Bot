@@ -1,14 +1,14 @@
-Health builds, also known as effective health builds (eHP), are builds for your tower where you prioritize health and damage reduction. Health builds are the most common and popular builds for early-game.
-Health scales much better for tier 1-9 than the later tiers. However, later game builds are required to be damage based for progress. For this reason, the guide will assume you plan to spec out of the build eventually and give guidance on how long to focus on certain upgrades.
+Health builds , also known effective health builds ( eHP ) , builds tower prioritize health damage reduction . Health builds common popular builds early-game .
+Health scales much better tier 1-9 later tiers . However , later game builds required damage based progress . reason , guide assume plan spec build eventually give guidance long focus certain upgrades .
 Contents
 1
-Strengths and Weakness
+Strengths Weakness
 1.1
 Strengths
 1.2
 Weaknesses
 2
-Required Unlocks to Start
+Required Unlocks Start
 2.1
 Workshop
 2.2
@@ -42,24 +42,24 @@ Ultimate Weapons
 4
 Round Information
 5
-Other Info
-Strengths and Weakness
+Info
+Strengths Weakness
 Strengths
-Cheap to start
-Has no required UWs to begin
-Makes early tier milestones and relics easier to unlock
+Cheap start
+required UWs begin
+Makes early tier milestones relics easier unlock
 Weaknesses
-Has difficulties killing protectors, especially early on
+difficulties killing protectors , especially early
 Low progress ceiling
-Can struggle to vampire enemies
-Required Unlocks to Start
+struggle vampire enemies
+Required Unlocks Start
 Workshop
-Attack - Unlock to Rapid Fire, Bounce Shot is optional
-Defense - Unlock to Orbs, Land Mines are optional to start
-Utility - Unlock to Free Upgrades.
-Ultimate Weapons - None, GT and BH are preferred unlocks that will speed up progress.
+Attack - Unlock Rapid Fire , Bounce Shot optional
+Defense - Unlock Orbs , Land Mines optional start
+Utility - Unlock Free Upgrades .
+Ultimate Weapons - None , GT BH preferred unlocks speed progress .
 Cards
-None are required, but a minimum of 6 slots is recommended for these cards:
+None required , minimum 6 slots recommended cards :
 Enemy Balance
 Coins
 Cash
@@ -67,65 +67,65 @@ Critical Coin
 Health
 Attack Speed
 Labs
-No upgrades are necessary, but it is recommended to have all five labs unlocked.
+upgrades necessary , recommended five labs unlocked .
 Bots
-None are required, but Golden Bot is recommended
+None required , Golden Bot recommended
 Modules
-None are required, but Wormhole Redirector will significantly help your survivability.
+None required , Wormhole Redirector significantly help survivability .
 Details
 Workshop
-The focus for the workshop should be to maximise the cheaper and shorter workshops, particularly on the defense tab. This allows Free Upgrades to hit upgrade Health more often during rounds. Once the short and cheap upgrades are upgraded, you will need to focus on upgrading Health and Damage.
-Many people prefer to keep the costs of Health and Damage at a ratio, usually 1:1 or 1:2, in favor of health. This is because eventually you can unlock Enemy Level Skip. You will want to upgrade both Enemy Attack Level Skip (EALS) and Enemy Health Level Skip (EHLS). EALS will help you survive more waves, while EHLS makes protectors easier to kill for longer. These are expensive upgrades and will not be a priority for some time.
+focus workshop maximise cheaper shorter workshops , particularly defense tab . allows Free Upgrades hit upgrade Health often rounds . short cheap upgrades upgraded , need focus upgrading Health Damage .
+Many people prefer keep costs Health Damage ratio , usually 1:1 1:2 , favor health . eventually unlock Enemy Level Skip . want upgrade Enemy Attack Level Skip ( EALS ) Enemy Health Level Skip ( EHLS ) . EALS help survive waves , EHLS makes protectors easier kill longer . expensive upgrades priority time .
 Labs
-This guide will assume a set-up of 5 labs. If you do not have all labs, it is recommended to unlock them so you can properly upgrade your build.
+guide assume set-up 5 labs . labs , recommended unlock properly upgrade build .
 Lab 1
-Game speed - max (lvl 7)
-Lab speed - max (lvl 99) (Lab speed was not recommended to max as it has pretty bad returns after certain levels, but with the addition of lab speedups it should be maxed (the last few levels of Super Crit Chance take a few years so imagine cutting that time down to a third - not factoring in lab speedups and lab speed relics))
+Game speed - max ( lvl 7 )
+Lab speed - max ( lvl 99 ) ( Lab speed recommended max pretty bad returns certain levels , addition lab speedups maxed ( last levels Super Crit Chance take years imagine cutting time third - factoring lab speedups lab speed relics ) )
 Lab 2
-Attack Speed - max (lvl 99) (Attack Speed factors into multiple aspects of the game. Increasing projectiles fires helps with knockback and damage per second. Knockback helps reduce the hits the tower takes which improves survival on all builds.
+Attack Speed - max ( lvl 99 ) ( Attack Speed factors multiple aspects game . Increasing projectiles fires helps knockback damage per second . Knockback helps reduce hits tower takes improves survival builds .
 Lab 3
-Health Lvl 40-50 (This prevents spending too long dedicated to a stat you don't need late game but help you progress now)
-Def % lvl 23 (Def % has a 98% hard cap, this can be reached in farming with a lvl 23 lab and a max lvl (25)
+Health Lvl 40-50 ( prevents spending long dedicated stat n't need late game help progress )
+Def % lvl 23 ( Def % 98 % hard cap , reached farming lvl 23 lab max lvl ( 25 )
 Standard Bonus Perk Lab
-+ max lvl Def% card and a Def% Stat on an ancestral
++ max lvl Def % card Def % Stat ancestral
 Module
-Orb Speed - Max (lvl 20) (Orbs are your primary killer, this helps)
-Extra orb adjuster - Max (lvl 1)
-Extra Extra Orbs - Max (lvl 2) (Expensive, expect this to be long term)
-BH Damage - Max (10)
+Orb Speed - Max ( lvl 20 ) ( Orbs primary killer , helps )
+Extra orb adjuster - Max ( lvl 1 )
+Extra Extra Orbs - Max ( lvl 2 ) ( Expensive , expect long term )
+BH Damage - Max ( 10 )
 Lab 4
 Cash Bonus Lvl 40-50
-Coins/Kill lvl 50-70 (Depends on when GT is unlocked)
-Golden Tower duration - Max (lvl 20)
-Golden Tower Bonus Lvl 20-25 (GT duration is more important, Bonus gets expensive and may not be worth maxing depending on your progress)
-BH Coin Bonus - Max (20)
-Spotlight Coin Bonus - Max (20)
-Perk Labs (all perk labs should be maxed except "Waves Required and Auto Perks, Waves Required should be a level of 4n+1, auto perks is up to you)
+Coins/Kill lvl 50-70 ( Depends GT unlocked )
+Golden Tower duration - Max ( lvl 20 )
+Golden Tower Bonus Lvl 20-25 ( GT duration important , Bonus gets expensive may worth maxing depending progress )
+BH Coin Bonus - Max ( 20 )
+Spotlight Coin Bonus - Max ( 20 )
+Perk Labs ( perk labs maxed except `` Waves Required Auto Perks , Waves Required level 4n+1 , auto perks )
 Lab 5
-Treat this as a flex spot. Enter items from 3&4. Also consider package after boss, Crit Factor, Damage and DPM labs as well. Crit factor and damage can help when you need help killing protectors.
+Treat flex spot . Enter items 3 & 4 . Also consider package boss , Crit Factor , Damage DPM labs well . Crit factor damage help need help killing protectors .
 Cards
-This guide will highlight certain cards for health builds. Other cards can help but this section will highlight key interactions and often overlooked interactions.
-Health - Obviously, nothing to add
-Extra defense - Helps build eHP (effective health)
-Extra Orbs - Primary killer for most mobs
-Attack Speed - See above in lab section
-Plasma Cannon - Lvl 1 reduces number of hits from bosses from 3 max to 2 with help from thorns, lvl 7 reduces it to 1 hit from bosses
-Damage/Berserker - Helps kill protectors by raising damage
-Avoid Energy Net, Energy net holds bosses in place and allows enemies more time to hide behind the boss, this can allow a range to get an extra hit in otherwise avoidable. This build kills bosses by taking hits.
+guide highlight certain cards health builds . cards help section highlight key interactions often overlooked interactions .
+Health - Obviously , nothing add
+Extra defense - Helps build eHP ( effective health )
+Extra Orbs - Primary killer mobs
+Attack Speed - See lab section
+Plasma Cannon - Lvl 1 reduces number hits bosses 3 max 2 help thorns , lvl 7 reduces 1 hit bosses
+Damage/Berserker - Helps kill protectors raising damage
+Avoid Energy Net , Energy net holds bosses place allows enemies time hide behind boss , allow range get extra hit otherwise avoidable . build kills bosses taking hits .
 Ultimate Weapons
-While there are no required UWs, the following 2 UW help basic health builds: Spotlight and Black Hole. Death Wave is a very useful HP build UW. Spotlight raises damage to help kill off protectors faster while also providing a coin boost.
-BH deals a % of enemy health over time which helps kill protectors efficiently with a well developed BH duration and damage lab. At max, BH can do 84% of enemy health each activation.
+required UWs , following 2 UW help basic health builds : Spotlight Black Hole . Death Wave useful HP build UW . Spotlight raises damage help kill protectors faster also providing coin boost .
+BH deals % enemy health time helps kill protectors efficiently well developed BH duration damage lab . max , BH 84 % enemy health activation .
 Round Information
-Most of your runs will be raising health to survive farther waves. The rule of thumb to figure out what will improve your run:
-If you get 1 hit by bosses: You need more health
-If you you die from multiple boss hits in a row, you need more lifesteal: AS, damage, crit factor.
-If you die from other enemies, you need more crowd control. For the purpose of this guide, that is through attack speed or orbs though there are multiple ways to reduce these hits.
-If protectors are allowing enemies to hit you, you need more damage.
-You can adjust this outside of rounds with coins and labs or in the next round by rebalancing your upgrades with cash.
-Other Info
-While 2 UWs were listed, Chrono Field is another UW that can help eHP builds. The issue with CF is the amount of stones required to max it and make it feel useful as well as the time needed on its labs. If you feel you are completing many of the items on this guide and are considering moving to another strategy, you may benefit from taking CF first and beginning the long labs. This UW is the best chip reduction in the game and helps the effectiveness of other upgrades that help avoid hits.
+runs raising health survive farther waves . rule thumb figure improve run :
+get 1 hit bosses : need health
+die multiple boss hits row , need lifesteal : , damage , crit factor .
+die enemies , need crowd control . purpose guide , attack speed orbs though multiple ways reduce hits .
+protectors allowing enemies hit , need damage .
+adjust outside rounds coins labs next round rebalancing upgrades cash .
+Info
+2 UWs listed , Chrono Field another UW help eHP builds . issue CF amount stones required max make feel useful well time needed labs . feel completing many items guide considering moving another strategy , may benefit taking CF first beginning long labs . UW best chip reduction game helps effectiveness upgrades help avoid hits .
 Garlic Thorns
-Will provide useful for destroying Vampires who may be responsible for many of your deaths.
-Orb Boss Hit lvl 1-3 + Lvl 6 PC reduces boss hits to 1 hit with thorns. lvl 1 requires 3 orbs hits, lvl 2 requires 2 orb hits and lvl 3 requires 1 orb hit. This lab is otherwise useless for HP builds. Doing this research is useful when you switch to a damage build.
+provide useful destroying Vampires may responsible many deaths .
+Orb Boss Hit lvl 1-3 + Lvl 6 PC reduces boss hits 1 hit thorns . lvl 1 requires 3 orbs hits , lvl 2 requires 2 orb hits lvl 3 requires 1 orb hit . lab otherwise useless HP builds . research useful switch damage build .
 1
 8

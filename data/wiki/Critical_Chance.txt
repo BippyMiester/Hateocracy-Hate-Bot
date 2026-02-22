@@ -19,46 +19,46 @@ Lab
 Critical Factor
 4
 Overview
-Criticals provide a chance to deal bonus damage to enemies.
+Criticals provide chance deal bonus damage enemies .
 Workshop
-Unlocked in
+Unlocked
 Workshop
-for free. Critical Chance and Critical Factor are unlocked at the start of the game.
+free . Critical Chance Critical Factor unlocked start game .
 Critical Chance
-Chance of each projectile to deal critical damage. Critical Chance has 79 levels in the workshop. Each level raises the chance by 1% for a maximum of 80% chance from the workshop.
+Chance projectile deal critical damage . Critical Chance 79 levels workshop . level raises chance 1 % maximum 80 % chance workshop .
 Source
 Initial / Lowest
-Number of
+Number
 Improvements
 Max Value
 Workshop
-1.00%
+1.00 %
 79
-80.0 %
+80.0 %
 Card
-5.00%
+5.00 %
 6
-11.00 %
+11.00 %
 Mastery
-1.00%
+1.00 %
 9
-10.00%
+10.00 %
 Sub-Module
-2.00 %
+2.00 %
 6
-10.00 %
+10.00 %
 Relics
-1.00 %
+1.00 %
 1
-1.00 %
+1.00 %
 Total
-1.00%
-100 % *
-If Critical Chance extends beyond 100%, this has only an impact on UW damage.
+1.00 %
+100 % *
+Critical Chance extends beyond 100 % , impact UW damage .
 Critical Factor
-Damage multiplier for critical hits. Critical Factor is used to calculate Ultimate Weapon critical hits when using the Ultimate Crit
+Damage multiplier critical hits . Critical Factor used calculate Ultimate Weapon critical hits using Ultimate Crit
 card
-. Has 150 levels with a base multiplier of 1.2 that increase the multiplier by 0.1 each level for a maximum of 16.2.
+. 150 levels base multiplier 1.2 increase multiplier 0.1 level maximum 16.2 .
 Costs
 Critical Chance
 Critical Factor
@@ -456,7 +456,7 @@ Total Cost
 259.20B
 Workshop Enhancement
 Critical Factor
-Requires 500 billion coins to be spent on enhancements to unlock. Increases Crit Factor by 1.0x when unlocked and increases by 0.1 per level. Has 400 levels for a maximum of x5.
+Requires 500 billion coins spent enhancements unlock . Increases Crit Factor 1.0x unlocked increases 0.1 per level . 400 levels maximum x5 .
 Level
 Value
 Coins
@@ -628,66 +628,65 @@ Total Coins
 15.29s
 Lab
 Critical Factor
-Critical Factor lab is unlocked with
+Critical Factor lab unlocked
 lab
-in
 Milestones
-at tier 1 wave 30. There are 99 levels. Each level increase the increments of the critical factor workshop and the maximum workshop value.
+tier 1 wave 30 . 99 levels . level increase increments critical factor workshop maximum workshop value .
 Level
 Time
 Cost
 Expand
 Value
 1
-0d  0h  0m
+0d 0h 0m
 30
 1.03
 2
-0d  0h  6m
+0d 0h 6m
 71
 1.06
 3
-0d  0h 16m
+0d 0h 16m
 178
 1.09
 4
-0d  0h 31m
+0d 0h 31m
 398
 1.12
 5
-0d  0h 52m
+0d 0h 52m
 772
 1.15
 6
-0d  1h 20m
+0d 1h 20m
 1,340
 1.18
 7
-0d  1h 56m
+0d 1h 56m
 2,120
 1.21
 8
-0d  2h 39m
+0d 2h 39m
 3,170
 1.24
 9
-0d  3h 31m
+0d 3h 31m
 4,510
 1.27
 10
-0d  4h 32m
+0d 4h 32m
 6,170
 1.30
 11
-0d  5h 43m
+0d 5h 43m
 8,170
 1.33
 12
-0d  7h  3m
+0d 7h 3m
 10,560
 1.36
 13
-0d  8h 34m
+0d 8h 34m
 13,350
 1.39
 14
@@ -695,7 +694,7 @@ Value
 16,580
 1.42
 15
-0d 12h  7m
+0d 12h 7m
 20,270
 1.45
 16
@@ -715,15 +714,15 @@ Value
 40,160
 1.57
 20
-1d  0h 22m
+1d 0h 22m
 46,540
 1.60
 21
-1d  3h 26m
+1d 3h 26m
 53,530
 1.63
 22
-1d  6h 44m
+1d 6h 44m
 61,160
 1.66
 23
@@ -739,19 +738,19 @@ Value
 88,120
 1.75
 26
-1d 22h  7m
+1d 22h 7m
 98,530
 1.78
 27
-2d  2h 33m
+2d 2h 33m
 109,700
 1.81
 28
-2d  7h 13m
+2d 7h 13m
 121,650
 1.84
 29
-2d 12h  8m
+2d 12h 8m
 134,390
 1.87
 30
@@ -763,7 +762,7 @@ Value
 162,350
 1.93
 32
-3d  4h 23m
+3d 4h 23m
 177,620
 1.96
 33
@@ -779,7 +778,7 @@ Value
 228,820
 2.05
 36
-4d  5h 40m
+4d 5h 40m
 247,760
 2.08
 37
@@ -791,7 +790,7 @@ Value
 288,560
 2.14
 39
-5d  3h 28m
+5d 3h 28m
 310,470
 2.17
 40
@@ -803,7 +802,7 @@ Value
 357,390
 2.23
 42
-6d  3h 47m
+6d 3h 47m
 382,450
 2.26
 43
@@ -815,7 +814,7 @@ Value
 435,870
 2.32
 45
-7d  6h 42m
+7d 6h 42m
 464,260
 2.35
 46
@@ -823,7 +822,7 @@ Value
 493,810
 2.38
 47
-8d  2h  7m
+8d 2h 7m
 524,530
 2.41
 48
@@ -835,7 +834,7 @@ Value
 589,550
 2.47
 50
-9d  9h 31m
+9d 9h 31m
 623,890
 2.50
 51
@@ -843,7 +842,7 @@ Value
 659,490
 2.53
 52
-10d  8h  0m
+10d 8h 0m
 696,340
 2.56
 53
@@ -851,15 +850,15 @@ Value
 734,490
 2.59
 54
-11d  7h 45m
+11d 7h 45m
 773,940
 2.62
 55
-11d 20h  6m
+11d 20h 6m
 814,710
 2.65
 56
-12d  8h 46m
+12d 8h 46m
 856,830
 2.68
 57
@@ -867,11 +866,11 @@ Value
 900,300
 2.71
 58
-13d 11h  5m
+13d 11h 5m
 945,160
 2.74
 59
-14d  0h 44m
+14d 0h 44m
 991,410
 2.77
 60
@@ -879,7 +878,7 @@ Value
 1,040,000
 2.80
 61
-15d  5h  3m
+15d 5h 3m
 1,090,000
 2.83
 62
@@ -891,7 +890,7 @@ Value
 1,190,000
 2.89
 64
-17d  2h  1m
+17d 2h 1m
 1,240,000
 2.92
 65
@@ -899,11 +898,11 @@ Value
 1,300,000
 2.95
 66
-18d  9h 43m
+18d 9h 43m
 1,360,000
 2.98
 67
-19d  2h  5m
+19d 2h 5m
 1,410,000
 3.01
 68
@@ -915,11 +914,11 @@ Value
 1,530,000
 3.07
 70
-21d  5h 17m
+21d 5h 17m
 1,600,000
 3.10
 71
-21d 23h  4m
+21d 23h 4m
 1,660,000
 3.13
 72
@@ -931,11 +930,11 @@ Value
 1,800,000
 3.19
 74
-24d  6h 32m
+24d 6h 32m
 1,870,000
 3.22
 75
-25d  1h 46m
+25d 1h 46m
 1,940,000
 3.25
 76
@@ -955,19 +954,19 @@ Value
 2,240,000
 3.37
 80
-29d  7h 22m
+29d 7h 22m
 2,320,000
 3.40
 81
-30d  4h 48m
+30d 4h 48m
 2,400,000
 3.43
 82
-31d  2h 37m
+31d 2h 37m
 2,480,000
 3.46
 83
-32d  0h 49m
+32d 0h 49m
 2,570,000
 3.49
 84
@@ -991,7 +990,7 @@ Value
 3,020,000
 3.64
 89
-37d 22h  3m
+37d 22h 3m
 3,120,000
 3.67
 90
@@ -999,23 +998,23 @@ Value
 3,220,000
 3.70
 91
-40d  0h 15m
+40d 0h 15m
 3,320,000
 3.73
 92
-41d  1h 56m
+41d 1h 56m
 3,420,000
 3.76
 93
-42d  4h  1m
+42d 4h 1m
 3,520,000
 3.79
 94
-43d  6h 30m
+43d 6h 30m
 3,630,000
 3.82
 95
-44d  9h 23m
+44d 9h 23m
 3,740,000
 3.85
 96
@@ -1031,7 +1030,7 @@ Value
 4,070,000
 3.94
 99
-49d  0h 57m
+49d 0h 57m
 4,190,000
 3.97
 Workshop
@@ -1058,7 +1057,7 @@ Rend Armor Mult
 Defense Upgrades
 Health
 Health Regen
-Defense %
+Defense %
 Defense Absolute
 Thorn Damage
 Lifesteal
@@ -1130,7 +1129,7 @@ Workshop Utility Discount
 Labs Coin Discount
 Labs Speed
 Buy multiplier
-More Round Stats
+Round Stats
 Target Priority
 Card Presets
 Workshop Respec
@@ -1170,7 +1169,7 @@ Cash Per Wave
 Coins/Kill Bonus
 Interest
 Max Interest
-Package After Boss
+Package Boss
 Recovery Package Amount
 Recovery Package Max
 Recovery Package Chance
@@ -1181,7 +1180,7 @@ Missiles Explosion
 Missile Radius
 Chrono Field Duration
 Chrono Field Damage Reduction
-Chrono Field Reduction %
+Chrono Field Reduction %
 Swamp Radius
 Swamp Stun
 Swamp Stun Chance
@@ -1280,7 +1279,7 @@ Core Effect Bans
 Assist Module Labs
 Battle Condition Research
 Battle Condition Reduction
-Group 1: Resistances
-Group 2: Enemy/Spawn Buffs
-Group 3: Enemy Ultimates
-Group 4: Durations/Reductions
+Group 1 : Resistances
+Group 2 : Enemy/Spawn Buffs
+Group 3 : Enemy Ultimates
+Group 4 : Durations/Reductions

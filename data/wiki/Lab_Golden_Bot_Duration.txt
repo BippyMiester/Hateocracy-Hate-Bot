@@ -1,5 +1,5 @@
 Golden Bot Duration
-Unlock Lab in Milestones at tier 10 wave 50. Cooldown Bot Duration increase the length of the bot activation. Has 20 levels increasing duration by 0.5s for a max increase of 10s.
+Unlock Lab Milestones tier 10 wave 50 . Cooldown Bot Duration increase length bot activation . 20 levels increasing duration 0.5s max increase 10s .
 Level
 Time
 Cost
@@ -89,9 +89,9 @@ Value
 8
 36:00
 0:01
-1.66%
+1.66 %
 00:01
 35:59
 Pause
 Video Quality
-Auto (360p)
+Auto ( 360p )

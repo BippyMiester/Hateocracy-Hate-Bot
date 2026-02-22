@@ -7,18 +7,18 @@ Workshop
 Lab
 4
 Description
-Smart Missiles are an
+Smart Missiles
 Ultimate Weapon
-. Launch a number of missiles after a period of time that track enemies and explode on impact. Deals a multiplier of tower damage (Accounts for crit/ super crit factor and chance)
+. Launch number missiles period time track enemies explode impact . Deals multiplier tower damage ( Accounts crit/ super crit factor chance )
 Workshop
 Basic Upgrades
 Ultimate Weapon Plus
 Basic Upgrades
-Basic upgrades for all Ultimate Weapons are located in the
+Basic upgrades Ultimate Weapons located
 Ultimate Weapon
-menu after unlocking the Ultimate Weapon. Unlocking grants the abilities to upgrade Damage, Quantity and Cooldown using stones.
+menu unlocking Ultimate Weapon . Unlocking grants abilities upgrade Damage , Quantity Cooldown using stones .
 Costs
-Damage has 30 levels, Quantity 15 has levels and Cooldown 16 has levels. The total stone cost is 24,407.
+Damage 30 levels , Quantity 15 levels Cooldown 16 levels . total stone cost 24,407 .
 Damage
 Cost
 Quantity
@@ -28,97 +28,97 @@ Expand
 Cost
 10x
 0
-5#
+5 #
 0
 180s
 0
 11x
 5
-6#
+6 #
 4
 170s
 8
 13x
 11
-7#
+7 #
 12
 160s
 24
 16x
 17
-8#
+8 #
 35
 150s
 40
 20x
 23
-9#
+9 #
 70
 140s
 56
 26x
 29
-10#
+10 #
 120
 130s
 72
 34x
 35
-11#
+11 #
 180
 120s
 88
 43x
 41
-12#
+12 #
 275
 110s
 104
 55x
 47
-13#
+13 #
 350
 100s
 120
 69x
 53
-14#
+14 #
 420
 90s
 136
 87x
 61
-15#
+15 #
 500
 80s
 152
 108x
 71
-16#
+16 #
 600
 70s
 168
 134x
 84
-17#
+17 #
 750
 60s
 184
 164x
 100
-18#
+18 #
 950
 50s
 200
 200x
 120
-19#
+19 #
 1200
 40s
 216
 243x
 144
-20#
+20 #
 1500
 30s
 232
@@ -159,7 +159,7 @@ Total
 6,966
 2,550
 Ultimate Weapon Plus - Cover Fire
-Ultimate Weapon Plus abilities can only be unlocked when all 9 Ultimate Weapons are purchased. Cover Fire launches a Smart Missile every x seconds.
+Ultimate Weapon Plus abilities unlocked 9 Ultimate Weapons purchased . Cover Fire launches Smart Missile every x seconds .
 Cost
 Expand
 UW+ Cost Table
@@ -214,9 +214,8 @@ N/A
 Lab
 Unlock
 labs
-in
 Milestones
-. Missile Despawn Time, Missile Amplifier, Missile Explosions and Missile Radius are unlocked at tier 7 wave 30. Missile Barrage and Missile Barrage Quantity are unlocked at tier 8 wave 50.
+. Missile Despawn Time , Missile Amplifier , Missile Explosions Missile Radius unlocked tier 7 wave 30 . Missile Barrage Missile Barrage Quantity unlocked tier 8 wave 50 .
 Missile Despawn Time
 Missile Amplifier
 Missiles Explosion
@@ -225,7 +224,7 @@ Missile Barrage
 Missile Barrage Quantity
 Recharge Missile Barrage
 Missile Despawn Time
-Increase time until missiles disappear without hitting an enemy. Has 20 levels.
+Increase time missiles disappear without hitting enemy . 20 levels .
 Level
 Time
 Cost
@@ -240,11 +239,11 @@ Value
 285,000
 2
 3
-1d  2h 53m
+1d 2h 53m
 496,980
 3
 4
-1d  6h 54m
+1d 6h 54m
 1,450,000
 4
 5
@@ -252,11 +251,11 @@ Value
 4,230,000
 5
 6
-1d 18h  6m
+1d 18h 6m
 10,500,000
 6
 7
-2d  2h 17m
+2d 2h 17m
 22,580,000
 7
 8
@@ -264,7 +263,7 @@ Value
 43,470,000
 8
 9
-3d  2h 49m
+3d 2h 49m
 76,880,000
 9
 10
@@ -280,23 +279,23 @@ Value
 301,120,000
 12
 13
-7d  8h 23m
+7d 8h 23m
 437,550,000
 13
 14
-9d  1h 21m
+9d 1h 21m
 617,110,000
 14
 15
-11d  2h 18m
+11d 2h 18m
 848,510,000
 15
 16
-13d 12h  9m
+13d 12h 9m
 1,140,000,000
 16
 17
-16d  7h 54m
+16d 7h 54m
 1,510,000,000
 17
 18
@@ -304,7 +303,7 @@ Value
 1,950,000,000
 18
 19
-23d  9h  6m
+23d 9h 6m
 2,500,000,000
 19
 20
@@ -312,7 +311,7 @@ Value
 3,150,000,000
 20
 Missile Amplifier
-Each missile hit on target will amplify the damage for the next missile on same target (additive). Has 25 levels.
+missile hit target amplify damage next missile target ( additive ) . 25 levels .
 Level
 Time
 Cost
@@ -323,7 +322,7 @@ Value
 500,000
 2.50
 2
-1d  4h 21m
+1d 4h 21m
 860,000
 4.00
 3
@@ -335,15 +334,15 @@ Value
 3,200,000
 7.00
 5
-2d  7h 49m
+2d 7h 49m
 8,200,000
 8.50
 6
-2d 19h  6m
+2d 19h 6m
 20,040,000
 10.00
 7
-3d  8h 17m
+3d 8h 17m
 44,130,000
 11.50
 8
@@ -363,7 +362,7 @@ Value
 450,680,000
 17.50
 12
-8d  5h 30m
+8d 5h 30m
 700,140,000
 19.00
 13
@@ -375,11 +374,11 @@ Value
 1,520,000,000
 22.00
 15
-14d  0h 18m
+14d 0h 18m
 2,140,000,000
 23.50
 16
-16d 15h  9m
+16d 15h 9m
 2,950,000,000
 25.00
 17
@@ -387,11 +386,11 @@ Value
 3,980,000,000
 26.50
 18
-23d  3h 32m
+23d 3h 32m
 5,270,000,000
 28.00
 19
-27d  3h  6m
+27d 3h 6m
 6,880,000,000
 29.50
 20
@@ -411,15 +410,15 @@ Value
 17,480,000,000
 35.50
 24
-56d  2h 16m
+56d 2h 16m
 21,490,000,000
 37.00
 25
-64d  0h 50m
+64d 0h 50m
 26,190,000,000
 38.50
 Missiles Explosion
-Missiles deal area of effect damage (AOE) damaging surrounding enemies. Has 1 level. Unlocks Missile Radius after completion. Starting radius is 0.30.
+Missiles deal area effect damage ( AOE ) damaging surrounding enemies . 1 level . Unlocks Missile Radius completion . Starting radius 0.30 .
 Level
 Time
 Cost
@@ -429,7 +428,7 @@ Value
 900,000
 Unlocked
 Missiles Radius
-Unlocked after Missile Explosion. Increase the radius of the missiles explosion. Has 20 levels.
+Unlocked Missile Explosion . Increase radius missiles explosion . 20 levels .
 Level
 Time
 Cost
@@ -448,11 +447,11 @@ Value
 1,050,000
 0.45
 4
-2d  1h 47m
+2d 1h 47m
 2,000,000
 0.50
 5
-2d  6h 42m
+2d 6h 42m
 4,780,000
 0.55
 6
@@ -464,7 +463,7 @@ Value
 23,130,000
 0.65
 8
-3d  7h 52m
+3d 7h 52m
 44,020,000
 0.70
 9
@@ -484,7 +483,7 @@ Value
 301,670,000
 0.90
 13
-8d  3h 16m
+8d 3h 16m
 438,100,000
 0.95
 14
@@ -496,19 +495,19 @@ Value
 849,060,000
 1.05
 16
-14d  7h  3m
+14d 7h 3m
 1,140,000,000
 1.10
 17
-17d  2h 48m
+17d 2h 48m
 1,510,000,000
 1.15
 18
-20d  9h 26m
+20d 9h 26m
 1,960,000,000
 1.20
 19
-24d  4h  0m
+24d 4h 0m
 2,500,000,000
 1.25
 20
@@ -516,7 +515,7 @@ Value
 3,150,000,000
 1.30
 Missile Barrage
-Unlock missile barrage. Once per run launch a barrage of missiles at the same time. This ability is manually activated during a round with a base amount of 20 missiles. Has 1 level. Unlocks Missile Barrage Quantity after completion.
+Unlock missile barrage . per run launch barrage missiles time . ability manually activated round base amount 20 missiles . 1 level . Unlocks Missile Barrage Quantity completion .
 Level
 Time
 Cost
@@ -526,16 +525,16 @@ Value
 1,500,000
 Unlocked
 Missile Barrage Quantity
-Increases Missiles launched during
+Increases Missiles launched
 Missile Barrage
-. Has 6 levels.
+. 6 levels .
 Level
 Time
 Cost
 Expand
 Value
 1
-0d 20h  0m
+0d 20h 0m
 750,000
 25
 2
@@ -555,46 +554,45 @@ Value
 13,900,000
 45
 6
-6d  1h 23m
+6d 1h 23m
 34,080,000
 50
 Recharge Missile Barrage
 Unlock
 Lab
-in
 Milestones
-at tier 14 wave 60. Allows Missile Barrage to recharge after a number of waves. Has 7 levels.
+tier 14 wave 60 . Allows Missile Barrage recharge number waves . 7 levels .
 Level
 Time
 Coins
 Expand
 Value
 1
-5d  5h  0m
+5d 5h 0m
 550,000,000,000
 1500
 2
-6d  14h  21m
+6d 14h 21m
 1,050,000,000,000
 1250
 3
-8d  54m  39s
+8d 54m 39s
 1,550,000,000,000
 1000
 4
-9d  23h  10m
+9d 23h 10m
 2,050,000,000,000
 750
 5
-14d  1h  58m
+14d 1h 58m
 2,560,000,000,000
 500
 6
-24d  19h  29m
+24d 19h 29m
 3,070,000,000,000
 350
 7
-51d  8h  12m
+51d 8h 12m
 3,600,000,000,000
 200
 Workshop Upgrades
@@ -619,7 +617,7 @@ Rend Armor Mult
 Defense Upgrades
 Health
 Health Regen
-Defense %
+Defense %
 Defense Absolute
 Thorn Damage
 Lifesteal

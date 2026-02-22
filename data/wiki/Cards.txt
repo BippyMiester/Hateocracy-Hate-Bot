@@ -9,7 +9,7 @@ Card Slots
 2.1
 Costs
 3
-Maxing A Card
+Maxing Card
 3.1
 Costs Per Star
 4
@@ -17,7 +17,7 @@ Buying Cards
 4.1
 Milestones
 5
-List of Cards
+List Cards
 5.1
 Common Cards
 5.2
@@ -27,24 +27,24 @@ Epic Cards
 6
 Card Mastery
 6.1
-Card Mastery Lab Time and Coins
+Card Mastery Lab Time Coins
 6.2
 Card Mastery Overview
 Description
-Cards are items that can be bought for 20
+Cards items bought 20
 Gems
-, which give a special effect based on what card you have equipped. You can only have a certain amount of cards equipped, depending on how many slots you have. A card can have a max level of 7.
+, give special effect based card equipped . certain amount cards equipped , depending many slots . card max level 7 .
 Locked Cards
-Cards can have a locked icon. When in a run, cards with this icon can never be removed until the round ends. It is possible to switch to other card presets containing all the same locked cards during a run, but any differences in locked cards will prevent the preset from being selected.
-When a boss or fleet enemy is alive, all cards become locked and cannot be changed until all bosses/fleet enemies are killed.
+Cards locked icon . run , cards icon never removed round ends . possible switch card presets containing locked cards run , differences locked cards prevent preset selected .
+boss fleet enemy alive , cards become locked changed bosses/fleet enemies killed .
 Card Slots
-The amount of cards you can have equipped depends on how many slots you have. The max amount of slots is 22 through
+amount cards equipped depends many slots . max amount slots 22
 Gems
-(for a total of 58,400
-Gems)
-, but 28 in total with the
+( total 58,400
+Gems )
+, 28 total
 Key
-upgrades in the harmony tech tree.
+upgrades harmony tech tree .
 Costs
 Expand
 Slot
@@ -93,50 +93,50 @@ Free
 8500
 22
 10000
-Maxing A Card
-To max a card you need 80 copies of 1 card, costing a total of 1600
+Maxing Card
+max card need 80 copies 1 card , costing total 1600
 Gems
-. You will obtain copies of cards when buying cards.
+. obtain copies cards buying cards .
 Costs Per Star
-1-star (unlock): 20 gems
-2-star: 3 copies, 40 gems - the unlock card will count as 1/3 toward 2-stars
-3-star: 5 copies, 100 gems
-4-star: 8 copies, 160 gems
-5-star: 12 copies, 240 gems
-6-star: 20 copies, 400 gems
-7-Star: 32 copies, 640 gems
-With a total of 31 cards, 49600 gems are needed to reach max level for all cards.
+1-star ( unlock ) : 20 gems
+2-star : 3 copies , 40 gems - unlock card count 1/3 toward 2-stars
+3-star : 5 copies , 100 gems
+4-star : 8 copies , 160 gems
+5-star : 12 copies , 240 gems
+6-star : 20 copies , 400 gems
+7-Star : 32 copies , 640 gems
+total 31 cards , 49600 gems needed reach max level cards .
 Buying Cards
-Cards can be 1 of 3 rarities: Common, Rare and Epic. When buying cards, the rarity is chosen first then a card is selected within that rarity. The chance of getting each rarity is:
-Common: 80%, Rare: 17%, epic: 3%.
-When card is maxed, you can no longer receive that card. Once all commons have been bought, the chance to buy a rare card is 97%. When all cards are purchased, you can no longer use the buy card button. The event mission to buy [x] cards will complete instantly after all cards are bought.
+Cards 1 3 rarities : Common , Rare Epic . buying cards , rarity chosen first card selected within rarity . chance getting rarity :
+Common : 80 % , Rare : 17 % , epic : 3 % .
+card maxed , longer receive card . commons bought , chance buy rare card 97 % . cards purchased , longer use buy card button . event mission buy [ x ] cards complete instantly cards bought .
 Milestones
-Some cards cannot be bought until they are unlocked in
+cards bought unlocked
 Milestones
-. If all other cards are maxed before these are unlocked, you will not be able to buy more cards until a Milestone is unlocked. These cards and their unlocks are:
+. cards maxed unlocked , able buy cards Milestone unlocked . cards unlocks :
 Recovery Package Chance - Rare - Tier 2 Wave 750
 Land Mine Stun - Rare - Tier 7 Wave 250
 Nuke - Epic - Tier 11 Wave 10
 Ultimate Crit - Epic - Tier 14 Wave 50
-Area of Effect - Epic - Tier 20 Wave 80
-Note:
-Despite anecdotal evidence, Death Ray DOES NOT have a lower draw rate than standard epics, and no special requirements are needed to draw it.
-List of Cards
+Area Effect - Epic - Tier 20 Wave 80
+Note :
+Despite anecdotal evidence , Death Ray lower draw rate standard epics , special requirements needed draw .
+List Cards
 Common Cards
 Rarity
 Name
 Description
-Lv. 1
-Lv. 2
-Lv. 3
-Lv. 4
-Lv. 5
-Lv. 6
+Lv . 1
+Lv . 2
+Lv . 3
+Lv . 4
+Lv . 5
+Lv . 6
 Expand
-Lv. 7
+Lv . 7
 Common
 Damage
-Increase tower damage by x #
+Increase tower damage x #
 1.50
 2.00
 2.40
@@ -146,7 +146,7 @@ Increase tower damage by x #
 4.00
 Common
 Attack Speed
-Increase tower attack speed by x #
+Increase tower attack speed x #
 1.25
 1.40
 1.55
@@ -156,7 +156,7 @@ Increase tower attack speed by x #
 2.15
 Common
 Health
-Increase tower health by x #
+Increase tower health x #
 1.50
 2.00
 2.40
@@ -166,7 +166,7 @@ Increase tower health by x #
 4.00
 Common
 Health Regen
-Increase tower health regen by x # / sec
+Increase tower health regen x # / sec
 1.40
 1.60
 1.80
@@ -176,7 +176,7 @@ Increase tower health regen by x # / sec
 2.60
 Common
 Range
-Increase tower range by x #
+Increase tower range x #
 1.15
 1.20
 1.25
@@ -186,7 +186,7 @@ Increase tower range by x #
 1.45
 Common
 Cash
-Increase all cash earned by x #
+Increase cash earned x #
 1.20
 1.40
 1.60
@@ -196,7 +196,7 @@ Increase all cash earned by x #
 2.40
 Common
 Coins
-Increase all coins earned by x #
+Increase coins earned x #
 1.15
 1.20
 1.25
@@ -206,27 +206,27 @@ Increase all coins earned by x #
 1.45
 Common
 Slow Aura
-All enemies in tower range speed decreased by #%
-13%
-16%
-19%
-22%
-25%
-28%
-31%
+enemies tower range speed decreased # %
+13 %
+16 %
+19 %
+22 %
+25 %
+28 %
+31 %
 Common
 Critical Chance
-Increase critical chance by +#%
-5%
-6%
-7%
-8%
-9%
-10%
-11%
+Increase critical chance + # %
+5 %
+6 %
+7 %
+8 %
+9 %
+10 %
+11 %
 Common
 Enemy Balance
-Increase enemies spawned each wave, cash earned per kill increased by x #
+Increase enemies spawned wave , cash earned per kill increased x #
 1.30
 1.40
 1.50
@@ -236,17 +236,17 @@ Increase enemies spawned each wave, cash earned per kill increased by x #
 1.90
 Common
 Extra Defense
-Increase defense percent by +#%
-5%
-6%
-7%
-8%
-9%
-10%
-11%
+Increase defense percent + # %
+5 %
+6 %
+7 %
+8 %
+9 %
+10 %
+11 %
 Common
 Fortress
-Increase defense absolute by x#
+Increase defense absolute x #
 1.30
 1.45
 1.60
@@ -258,27 +258,27 @@ Rare Cards
 Rarity
 Name
 Description
-Lv. 1
-Lv. 2
-Lv. 3
-Lv. 4
-Lv. 5
-Lv. 6
+Lv . 1
+Lv . 2
+Lv . 3
+Lv . 4
+Lv . 5
+Lv . 6
 Expand
-Lv. 7
+Lv . 7
 Rare
 Free Upgrades
-Increases all free upgrade chances per wave by #%
-4%
-5%
-6%
-7%
-8%
-9%
-10%
+Increases free upgrade chances per wave # %
+4 %
+5 %
+6 %
+7 %
+8 %
+9 %
+10 %
 Rare
 Extra Orb
-A spinning orb with a speed of # that destroys enemies on contact (except bosses)
+spinning orb speed # destroys enemies contact ( except bosses )
 .30
 .40
 .50
@@ -288,37 +288,37 @@ A spinning orb with a speed of # that destroys enemies on contact (except bosses
 0.90
 Rare
 Plasma Canon
-Fire one big plasma shot at a boss dropping its health by #%
-30%
-34%
-38%
-42%
-46%
-50%
-54%
+Fire one big plasma shot boss dropping health # %
+30 %
+34 %
+38 %
+42 %
+46 %
+50 %
+54 %
 Rare
 Critical Coin
-If a basic enemy dies from a critical shot it has a chance to drop coins of #%
-15%
-18%
-21%
-24%
-27%
-30%
-33%
+basic enemy dies critical shot chance drop coins # %
+15 %
+18 %
+21 %
+24 %
+27 %
+30 %
+33 %
 Rare
 Wave Skip
-Chance to skip a wave and earning coins and cash equal to the previous wave x1.10 of #%
-9%
-10%
-11%
-13%
-15%
-17%
-19%
+Chance skip wave earning coins cash equal previous wave x1.10 # %
+9 %
+10 %
+11 %
+13 %
+15 %
+17 %
+19 %
 Rare
 Intro Sprint
-Waves Increases by 10 each time, for the first [x] waves or up to your highest wave. A Boss spawns every waves and no coins are earned during Intro Sprint.
+Waves Increases 10 time , first [ x ] waves highest wave . Boss spawns every waves coins earned Intro Sprint .
 20
 30
 40
@@ -328,7 +328,7 @@ Waves Increases by 10 each time, for the first [x] waves or up to your highest w
 100
 Rare
 Land Mine Stun
-Land mines have a 40% chance to stun enemies for [x] sec (except bosses)
+Land mines 40 % chance stun enemies [ x ] sec ( except bosses )
 1.4
 1.8
 2.2
@@ -338,29 +338,29 @@ Land mines have a 40% chance to stun enemies for [x] sec (except bosses)
 3.8
 Rare
 Recovery Package Chance
-Increase recovery package spawn chance by [x]
-15%
-18%
-21%
-24%
-27%
-30%
-33%
+Increase recovery package spawn chance [ x ]
+15 %
+18 %
+21 %
+24 %
+27 %
+30 %
+33 %
 Epic Cards
 Rarity
 Name
 Description
-Lv. 1
-Lv. 2
-Lv. 3
-Lv. 4
-Lv. 5
-Lv. 6
+Lv . 1
+Lv . 2
+Lv . 3
+Lv . 4
+Lv . 5
+Lv . 6
 Expand
-Lv. 7
+Lv . 7
 Epic
 Death Ray
-A powerful ray that destroys enemies on contact (except bosses), with a duration of # sec
+powerful ray destroys enemies contact ( except bosses ) , duration # sec
 2.3 sec
 2.7 sec
 3.1 sec
@@ -370,7 +370,7 @@ A powerful ray that destroys enemies on contact (except bosses), with a duration
 4.9 sec
 Epic
 Energy Net
-Fire a special net at a boss immobilizing it for # sec
+Fire special net boss immobilizing # sec
 2.5 sec
 2.8 sec
 3.1 sec
@@ -380,7 +380,7 @@ Fire a special net at a boss immobilizing it for # sec
 4.3 sec
 Epic
 Super Tower
-The tower becomes super for 15 seconds, tower damage increased by x # (30 sec cooldown)
+tower becomes super 15 seconds , tower damage increased x # ( 30 sec cooldown )
 2.5
 2.9
 3.3
@@ -390,7 +390,7 @@ The tower becomes super for 15 seconds, tower damage increased by x # (30 sec co
 5.0
 Epic
 Second Wind
-Revive the tower with half health once per round and creates an invincible shield for [x] sec
+Revive tower half health per round creates invincible shield [ x ] sec
 10 sec
 15 sec
 20 sec
@@ -400,7 +400,7 @@ Revive the tower with half health once per round and creates an invincible shiel
 40 sec
 Epic
 Demon Mode
-Once per round, activate Demon mode, increasing the damage by x3 and becoming invincible for [x] sec
+per round , activate Demon mode , increasing damage x3 becoming invincible [ x ] sec
 180 sec
 200 sec
 220 sec
@@ -410,7 +410,7 @@ Once per round, activate Demon mode, increasing the damage by x3 and becoming in
 300 sec
 Epic
 Energy Shield
-Shield that ignores a single attack, replenishes after [x] min
+Shield ignores single attack , replenishes [ x ] min
 20 min
 18 min
 16 min
@@ -420,63 +420,63 @@ Shield that ignores a single attack, replenishes after [x] min
 8 min
 Epic
 Wave Accelerator
-Reduce the cooldown between waves by [x]
-30%
-34%
-38%
-42%
-46%
-50%
-54%
+Reduce cooldown waves [ x ]
+30 %
+34 %
+38 %
+42 %
+46 %
+50 %
+54 %
 Epic
 Berserker
 Increase
 damage
-by [x] of total damage absorbed this round (max of x8 tower damage)
-0.8%
-0.9%
-1.0%
-1.1%
-1.2%
-1.3%
-1.4%
+[ x ] total damage absorbed round ( max x8 tower damage )
+0.8 %
+0.9 %
+1.0 %
+1.1 %
+1.2 %
+1.3 %
+1.4 %
 Epic
 Ultimate Crit
 Ultimate weapons
-gain a [x] chance to deal critical damage of [Tower critical factor]
-1%
-1.33%
-1.66%
-2%
-2.33%
-2.66%
-3%
+gain [ x ] chance deal critical damage [ Tower critical factor ]
+1 %
+1.33 %
+1.66 %
+2 %
+2.33 %
+2.66 %
+3 %
 Epic
 Nuke
-Destroys [x] of enemies.
-25%
-35%
-45%
-55%
-65%
-80%
-100%
+Destroys [ x ] enemies .
+25 %
+35 %
+45 %
+55 %
+65 %
+80 %
+100 %
 Epic
-Area of Effect
-Increase area of effect damage for Inner Land Mine, Poison Swamp, Smart Missile, Flame Bot, and Land Mine by [x]
-5%
-8%
-11%
-14%
-17%
-20%
-25%
+Area Effect
+Increase area effect damage Inner Land Mine , Poison Swamp , Smart Missile , Flame Bot , Land Mine [ x ]
+5 %
+8 %
+11 %
+14 %
+17 %
+20 %
+25 %
 Card Mastery
-When 30
+30
 cards
-are maxed and the player has unlocked the Card Mastery Milestone at Tier 16, Wave 100, Card Masteries are unlocked. Card Masteries can be individually unlocked on the cards page. A card must be equipped to have that mastery effect active. Unlocking a Card Mastery costs a varying amount of stones and unlocks that card's Mastery Labs.
-Card Mastery Lab Time and Coins
-All card mastery labs have the same lab costs/time, shown below:
+maxed player unlocked Card Mastery Milestone Tier 16 , Wave 100 , Card Masteries unlocked . Card Masteries individually unlocked cards page . card must equipped mastery effect active . Unlocking Card Mastery costs varying amount stones unlocks card 's Mastery Labs .
+Card Mastery Lab Time Coins
+card mastery labs lab costs/time , shown :
 Level
 Time
 Expand
@@ -509,7 +509,7 @@ Coins
 104d 4h 0m 0s
 10.00q
 Card Mastery Overview
-Below is a table showing the different Card Masteries, their stone costs, and how the effects are amplified with levels:
+table showing different Card Masteries , stone costs , effects amplified levels :
 Card
 Mastery Description
 Stone Cost
@@ -590,18 +590,18 @@ x2.6
 x2.8
 x3
 Cash
-Adds chance for elites to drop reroll dice
+Adds chance elites drop reroll dice
 500
-0.4%
-0.8%
-1.2%
-1.6%
-2%
-2.4%
-2.8%
-3.2%
-3.6%
-4%
+0.4 %
+0.8 %
+1.2 %
+1.6 %
+2 %
+2.4 %
+2.8 %
+3.2 %
+3.6 %
+4 %
 Coins
 Increases card stat multiplier
 1250
@@ -629,44 +629,44 @@ x1.4
 x1.45
 x1.5
 Critical Chance
-Bonus to Crit Chance, super Crit chance, and Super Crit Factor
+Bonus Crit Chance , super Crit chance , Super Crit Factor
 750
-+1%
-+2%
-+3%
-+4%
-+5%
-+6%
-+7%
-+8%
-+9%
-+10%
++1 %
++2 %
++3 %
++4 %
++5 %
++6 %
++7 %
++8 %
++9 %
++10 %
 Enemy Balance
-Chance for double elite spawn
+Chance double elite spawn
 1000
-6%
-12%
-18%
-24%
-30%
-36%
-42%
-48%
-54%
-60%
+6 %
+12 %
+18 %
+24 %
+30 %
+36 %
+42 %
+48 %
+54 %
+60 %
 Extra Defense
 Increases card stat multiplier
 1000
-+0.7%
-+1.4%
-+2.1%
-+2.8%
-+3.5%
-+4.2%
-+4.9%
-+5.6%
-+6.3%
-+7.0%
++0.7 %
++1.4 %
++2.1 %
++2.8 %
++3.5 %
++4.2 %
++4.9 %
++5.6 %
++6.3 %
++7.0 %
 Fortress
 Reduces wall rebuild time
 750
@@ -681,7 +681,7 @@ Reduces wall rebuild time
 -90s
 -100s
 Free Upgrades
-Lock a stat from free ups
+Lock stat free ups
 500
 1
 2
@@ -707,46 +707,46 @@ x1.32
 x1.36
 x1.4
 Plasma Cannon
-Percent of plasma cannon applied to elites
+Percent plasma cannon applied elites
 1250
-5%
-10%
-15%
-20%
-25%
-30%
-35%
-40%
-45%
-50%
+5 %
+10 %
+15 %
+20 %
+25 %
+30 %
+35 %
+40 %
+45 %
+50 %
 Critical Coin
-Percent chance to drop two coins instead of one. [Critical coin only adds a 33% chance to drop 1 coin on Basics. This becomes 33% chance to drop 2 coins on Basics.]
+Percent chance drop two coins instead one . [ Critical coin adds 33 % chance drop 1 coin Basics . becomes 33 % chance drop 2 coins Basics . ]
 1000
-10%
-20%
-30%
-40%
-50%
-60%
-70%
-80%
-90%
-100%
+10 %
+20 %
+30 %
+40 %
+50 %
+60 %
+70 %
+80 %
+90 %
+100 %
 Wave Skip
-Chance to double wave skip
+Chance double wave skip
 1000
-10%
-15%
-20%
-25%
-30%
-35%
-40%
-45%
-50%
-55%
+10 %
+15 %
+20 %
+25 %
+30 %
+35 %
+40 %
+45 %
+50 %
+55 %
 Intro Sprint
-Increases how many waves it's active
+Increases many waves 's active
 1250
 x1.8
 x3.6
@@ -759,46 +759,46 @@ x14.4
 x16.2
 x18
 Land Mine Stun
-Chance stunned enemies will miss attacks
+Chance stunned enemies miss attacks
 1000
-2.5%
-5%
-7.5%
-10%
-12.5%
-15%
-17.5%
-20%
-22.5%
-25%
+2.5 %
+5 %
+7.5 %
+10 %
+12.5 %
+15 %
+17.5 %
+20 %
+22.5 %
+25 %
 Package Chance
-Packages have a chance to drop common modules
+Packages chance drop common modules
 1000
-0.4%
-0.8%
-1.2%
-1.6%
-2%
-2.4%
-2.8%
-3.2%
-3.6%
-4%
+0.4 %
+0.8 %
+1.2 %
+1.6 %
+2 %
+2.4 %
+2.8 %
+3.2 %
+3.6 %
+4 %
 Death Ray
 Death ray partially pierces protector shield
 750
-5%
-10%
-15%
-20%
-25%
-30%
-35%
-40%
-45%
-50%
+5 %
+10 %
+15 %
+20 %
+25 %
+30 %
+35 %
+40 %
+45 %
+50 %
 Energy Net
-Damage multi to bosses when trapped and 10s after
+Damage multi bosses trapped 10s
 750
 x2
 x4
@@ -811,7 +811,7 @@ x16
 x18
 x20
 Super Tower
-35% of super tower bonus is applied to UWs, reduces cooldown
+35 % super tower bonus applied UWs , reduces cooldown
 1000
 -3s
 -6s
@@ -824,7 +824,7 @@ Super Tower
 -27s
 -30s
 Second Wind
-Increases HP regen for 400 waves when triggered
+Increases HP regen 400 waves triggered
 1000
 x1.9
 x2.8
@@ -837,7 +837,7 @@ x8.2
 x9.1
 x10
 Demon Mode
-Lingering damage multi for 300 waves
+Lingering damage multi 300 waves
 1000
 x1.5
 x2
@@ -850,33 +850,33 @@ x5
 x5.5
 x6
 Energy Shield
-Energy shield activates a blast that repels all enemies back by a percent of tower max range and destroy[s] all enemy projectiles. The charge times of Rays are reset.
+Energy shield activates blast repels enemies back percent tower max range destroy [ ] enemy projectiles . charge times Rays reset .
 1000
-5%
-10%
-15%
-20%
-25%
-30%
-35%
-40%
-45%
-50%
+5 %
+10 %
+15 %
+20 %
+25 %
+30 %
+35 %
+40 %
+45 %
+50 %
 Wave Accelerator
 Increases spawn rate acceleration
 1000
-110%
-120%
-130%
-140%
-150%
-160%
-170%
-180%
-190%
-200%
+110 %
+120 %
+130 %
+140 %
+150 %
+160 %
+170 %
+180 %
+190 %
+200 %
 Berserker
-Increases damage cap from berserk to x500 for a limited time after death defy
+Increases damage cap berserk x500 limited time death defy
 750
 30s
 60s
@@ -891,45 +891,45 @@ Increases damage cap from berserk to x500 for a limited time after death defy
 Ultimate Crit
 Increases UW crit chance
 750
-+0.3%
-+0.7%
-+1.0%
-+1.3%
-+1.7%
-+2.0%
-+2.3%
-+2.7%
-+3.0%
-+3.3%
++0.3 %
++0.7 %
++1.0 %
++1.3 %
++1.7 %
++2.0 %
++2.3 %
++2.7 %
++3.0 %
++3.3 %
 Nuke
-Reduces enemy attack speed for 300 waves after Nuke use
+Reduces enemy attack speed 300 waves Nuke use
 750
-5%
-10%
-15%
-20%
-25%
-30%
-35%
-40%
-45%
-50%
-Area of Effect
-Increases Area of Effect radius
+5 %
+10 %
+15 %
+20 %
+25 %
+30 %
+35 %
+40 %
+45 %
+50 %
+Area Effect
+Increases Area Effect radius
 1000
-2.5%
-5%
-7.5%
-10%
-12.5%
-15%
-17.5%
-20%
-22.5%
-25%
-Here is the same information in a different format. Land Mine Stun is old scaling values(Click to expand):
-Overview of Card Masteries
-For in-depth analysis of Masteries, their impacts, as well as other info, please visit
+2.5 %
+5 %
+7.5 %
+10 %
+12.5 %
+15 %
+17.5 %
+20 %
+22.5 %
+25 %
+information different format . Land Mine Stun old scaling values ( Click expand ) :
+Overview Card Masteries
+in-depth analysis Masteries , impacts , well info , please visit
 Advanced Analysis
 1
 8

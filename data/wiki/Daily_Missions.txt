@@ -12,19 +12,18 @@ Lab
 4.1
 Reroll Daily Mission
 Description
-Daily missions are progress based challenges given every 8 hours. Completion of daily challenges provide coins and gems. Completing enough daily missions will earn access to weekly rewards.
+Daily missions progress based challenges given every 8 hours . Completion daily challenges provide coins gems . Completing enough daily missions earn access weekly rewards .
 Challenges
 Unlike
 events
-, daily missions are given based on player progress. This means you will only be given
+, daily missions given based player progress . means given
 card
-and
 ultimate weapon
-challenges when you have the corresponding unlock. Players will have different challenges than each other and are able to complete all challenges received.
+challenges corresponding unlock . Players different challenges able complete challenges received .
 Rewards
-Daily missions will give 3 gems and a number of coins and shards based on the highest tier unlocked. The highest tier unlocked will also impact coins from weekly rewards and guild rewards. The amount of shards per mission can be increased with the
+Daily missions give 3 gems number coins shards based highest tier unlocked . highest tier unlocked also impact coins weekly rewards guild rewards . amount shards per mission increased
 Daily Mission Shards
-lab.
+lab .
 Tier
 Coins
 Shards
@@ -92,7 +91,7 @@ N/A
 2.00 Bil
 90
 Weekly Rewards
-Weekly rewards are earned for every 5 daily missions completed until 35 missions complete. The rewards give coins, medals, gems and stones. The coin reward is based on your tier coin reward level from daily missions. The rewards can be re-earned each week.
+Weekly rewards earned every 5 daily missions completed 35 missions complete . rewards give coins , medals , gems stones . coin reward based tier coin reward level daily missions . rewards re-earned week .
 Weekly Missions
 Completed
 Coins
@@ -150,7 +149,7 @@ x64
 35
 Lab
 Reroll Daily Mission
-Allows missions to be rerolled for 5 gems. A different mission will always be rolled. Unlocked at Tier 4 Wave 30. Has 1 level.
+Allows missions rerolled 5 gems . different mission always rolled . Unlocked Tier 4 Wave 30 . 1 level .
 Level
 Time
 Cost

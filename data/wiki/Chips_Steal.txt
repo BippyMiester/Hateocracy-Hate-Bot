@@ -1,6 +1,6 @@
 Bounty Chip
-Tower guardian places a bounty on nearby non-common enemies causing them to grant more coins on death.
-Bounty amount is based on all currently active coin multipliers on target enemies when they are killed, multiplied by Bounty's Multiplier stat; Golden Bot, Death Wave, Golden Tower, Black Hole, Spotlight, etc will all increase the amount of coins gained.
+Tower guardian places bounty nearby non-common enemies causing grant coins death .
+Bounty amount based currently active coin multipliers target enemies killed , multiplied Bounty 's Multiplier stat ; Golden Bot , Death Wave , Golden Tower , Black Hole , Spotlight , etc increase amount coins gained .
 Upgrades
 Multiplier
 Bits

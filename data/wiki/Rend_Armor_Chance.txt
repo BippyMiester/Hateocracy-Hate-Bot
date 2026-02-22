@@ -19,17 +19,17 @@ Lab
 Rend Armor Max
 4
 Description
-Rend armor gives the chance to apply a damage multiplier. The multiplier is applied to single enemies and increases tower projectile damage only.
+Rend armor gives chance apply damage multiplier . multiplier applied single enemies increases tower projectile damage .
 Workshop
-Unlocked in the
+Unlocked
 workshop
-for 500,000,000,000 (500 Billion) coins after
+500,000,000,000 ( 500 Billion ) coins
 Super Critical
-. Unlocks Rend Armor Chance and Rend Armor Mult. Rend Armor provides a multiplier on effected enemies up to 800% of normal damage.
+. Unlocks Rend Armor Chance Rend Armor Mult . Rend Armor provides multiplier effected enemies 800 % normal damage .
 Rend Armor Chance
-Chance on enemy hit to permanently increase the damage that enemy takes from projectiles. There are 299 levels with each level increasing the chance by 0.10%. The starting chance is 0.10% and has a maximum of 30.00%.
+Chance enemy hit permanently increase damage enemy takes projectiles . 299 levels level increasing chance 0.10 % . starting chance 0.10 % maximum 30.00 % .
 Rend Armor Mult
-Amount of additional damage that the enemy takes. Rend can stack to a limit of 800.00%. There are 299 levels with each increasing the multiplier by 0.10% or 0.0010X. The starting value is 0.0010X and has a maximum value of 0.3000X. The multiplier only applies to tower projectiles. Damage from other sources are not modified by Rend Armor.
+Amount additional damage enemy takes . Rend stack limit 800.00 % . 299 levels increasing multiplier 0.10 % 0.0010X . starting value 0.0010X maximum value 0.3000X . multiplier applies tower projectiles . Damage sources modified Rend Armor .
 Cost
 Rend Armor Chance
 Rend Armor Mult
@@ -40,127 +40,127 @@ Cost
 Expand
 Total Cost
 1
-0.20%
+0.20 %
 600.00M
 0.00
 10
-1.10%
+1.10 %
 627.21M
 6.14B
 20
-2.10%
+2.10 %
 664.96M
 12.60B
 30
-3.10%
+3.10 %
 748.89M
 19.64B
 40
-4.10%
+4.10 %
 977.40M
 28.21B
 50
-5.10%
+5.10 %
 3.07B
 53.14B
 60
-6.10%
+6.10 %
 5.60B
 96.76B
 70
-7.10%
+7.10 %
 10.20B
 175.79B
 80
-8.10%
+8.10 %
 19.09B
 322.37B
 90
-9.10%
+9.10 %
 65.35B
 843.44B
 100
-10.10%
+10.10 %
 107.13B
 1.71T
 110
-11.10%
+11.10 %
 182.16B
 3.22T
 120
-12.10%
+12.10 %
 276.67B
 5.53T
 130
-13.10%
+13.10 %
 1.37T
 16.56T
 140
-14.10%
+14.10 %
 1.96T
 33.35T
 150
-15.10%
+15.10 %
 2.74T
 57.06T
 160
-16.10%
+16.10 %
 4.35T
 95.00T
 170
-17.10%
+17.10 %
 17.50T
 249.08T
 180
-18.10%
+18.10 %
 27.97T
 476.96T
 190
-19.10%
+19.10 %
 36.39T
 801.50T
 200
-20.10%
+20.10 %
 46.70T
 1.22q
 210
-21.10%
+21.10 %
 177.67T
 2.82q
 220
-22.10%
+22.10 %
 222.82T
 4.84q
 230
-23.10%
+23.10 %
 276.64T
 7.36q
 240
-24.10%
+24.10 %
 340.31T
 10.47q
 250
-25.10%
+25.10 %
 1.66q
 25.68q
 260
-26.10%
+26.10 %
 2.01q
 44.16q
 270
-27.10%
+27.10 %
 2.41q
 66.44q
 280
-28.10%
+28.10 %
 2.88q
 93.10q
 290
-29.10%
+29.10 %
 17.09q
 251.67q
 299
-30.00%
+30.00 %
 19.83q
 418.97q
 Rend Armor Mult
@@ -295,7 +295,7 @@ Total Cost
 418.97q
 Workshop Enhancement
 Rend Armor
-Requires 50 billion coins to be spent on damage enhancements to unlock. Applies a multiplier to Rend Max, chance, and Mult  of x1 when unlocked and increases by 0.01x per level. Has a maximum level of 400 for a 5x bonus.
+Requires 50 billion coins spent damage enhancements unlock . Applies multiplier Rend Max , chance , Mult x1 unlocked increases 0.01x per level . maximum level 400 5x bonus .
 Level
 Value
 Coins
@@ -469,9 +469,8 @@ Lab
 Rend Armor Max
 Unlock
 lab
-in
 Milestones
-at tier 13 wave 10. Each level increases the maximum multiplier Rend Armor can apply
+tier 13 wave 10 . level increases maximum multiplier Rend Armor apply
 Level
 Time
 Cost
@@ -480,123 +479,123 @@ Value
 1
 3d 11h 19m
 200,000,000,000
-825%
+825 %
 2
-4d  1h 14m
+4d 1h 14m
 240,000,000,000
-850%
+850 %
 3
 4d 15h 12m
 280,010,000,000
-875%
+875 %
 4
-5d  5h 13m
+5d 5h 13m
 320,030,000,000
-900%
+900 %
 5
 5d 19h 17m
 360,100,000,000
-925%
+925 %
 6
-6d  9h 26m
+6d 9h 26m
 400,230,000,000
-950%
+950 %
 7
 6d 23h 40m
 440,450,000,000
-975%
+975 %
 8
 7d 13h 57m
 480,810,000,000
-1000%
+1000 %
 9
-8d  4h 19m
+8d 4h 19m
 521,350,000,000
-1025%
+1025 %
 10
 8d 18h 46m
 562,110,000,000
-1050%
+1050 %
 11
-9d  9h 18m
+9d 9h 18m
 603,150,000,000
-1075%
+1075 %
 12
 9d 23h 54m
 644,530,000,000
-1100%
+1100 %
 13
 10d 14h 36m
 686,310,000,000
-1125%
+1125 %
 14
-11d  5h 22m
+11d 5h 22m
 728,550,000,000
-1150%
+1150 %
 15
 11d 20h 14m
 771,330,000,000
-1175%
+1175 %
 16
 12d 11h 11m
 814,730,000,000
-1200%
+1200 %
 17
-13d  2h 13m
+13d 2h 13m
 858,820,000,000
-1225%
+1225 %
 18
 13d 17h 20m
 903,700,000,000
-1250%
+1250 %
 19
-14d  8h 33m
+14d 8h 33m
 949,440,000,000
-1275%
+1275 %
 20
 14d 23h 52m
 996,160,000,000
-1300%
+1300 %
 21
 15d 15h 16m
 1,040,000,000,000
-1325%
+1325 %
 22
-16d  6h 45m
+16d 6h 45m
 1,090,000,000,000
-1350%
+1350 %
 23
 16d 22h 21m
 1,140,000,000,000
-1375%
+1375 %
 24
-17d 14h  2m
+17d 14h 2m
 1,190,000,000,000
-1400%
+1400 %
 25
-18d  5h 48m
+18d 5h 48m
 1,250,000,000,000
-1425%
+1425 %
 26
 18d 21h 41m
 1,300,000,000,000
-1450%
+1450 %
 27
 19d 13h 39m
 1,360,000,000,000
-1475%
+1475 %
 28
-20d  5h 44m
+20d 5h 44m
 1,420,000,000,000
-1500%
+1500 %
 29
 20d 21h 54m
 1,480,000,000,000
-1525%
+1525 %
 30
 21d 14h 10m
 1,540,000,000,000
-1550%
+1550 %
 Workshop Upgrades
 Attack Upgrades
 Damage
@@ -619,7 +618,7 @@ Rend Armor Mult
 Defense Upgrades
 Health
 Health Regen
-Defense %
+Defense %
 Defense Absolute
 Thorn Damage
 Lifesteal

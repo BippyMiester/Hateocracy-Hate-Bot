@@ -1,15 +1,15 @@
 Description
-Reduces the wave cooldown timer.
+Reduces wave cooldown timer .
 Use
-The Wave Accelerator
+Wave Accelerator
 card
-decreases the part of the wave when no enemies can spawn. This reduces the overall length of the round and decreases the amount of time enemies do not spawn. This also reduces time between bosses for
+decreases part wave enemies spawn . reduces overall length round decreases amount time enemies spawn . also reduces time bosses
 Energy Shield
-charges.
+charges .
 Card Mastery
-The card mastery for Wave Accelerator "shifts" the spawn rates of normal enemies to occur faster.
-Costs and Benefits
+card mastery Wave Accelerator `` shifts `` spawn rates normal enemies occur faster .
+Costs Benefits
 1000 Stones
 Increases spawn rate acceleration
-+110.0%+
-+10% / Level upgrade
++110.0 % +
++10 % / Level upgrade

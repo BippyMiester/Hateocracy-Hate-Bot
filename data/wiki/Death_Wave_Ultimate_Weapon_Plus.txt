@@ -1,5 +1,5 @@
 Ultimate Weapon Plus - Kill Wall
-Each Effect Wave hit amplifies the Death Wave damage store by X (additively)
+Effect Wave hit amplifies Death Wave damage store X ( additively )
 Cost
 Expand
 UW+ Cost Table

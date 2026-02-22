@@ -1,10 +1,10 @@
 Basic Upgrades
-Basic upgrades for all
+Basic upgrades
 Ultimate Weapons
-are located in the Ultimate Weapon menu after unlocking the Ultimate Weapon. Unlocking Inner Land Mines grants the abilities to upgrade Damage, Quantity and Cooldown using stones.
+located Ultimate Weapon menu unlocking Ultimate Weapon . Unlocking Inner Land Mines grants abilities upgrade Damage , Quantity Cooldown using stones .
 Cost
-Damage % has 30 levels, Quantity has 3 levels and Cooldown has 15 levels. The total stone cost is 13,522.
-Damage %
+Damage % 30 levels , Quantity 3 levels Cooldown 15 levels . total stone cost 13,522 .
+Damage %
 Cost
 Quantity
 Cost
@@ -13,25 +13,25 @@ Expand
 Cost
 10.00x
 0
-3#
+3 #
 0
 200s
 0
 11.00x
 5
-4#
+4 #
 50
 190s
 8
 13.00x
 11
-5#
+5 #
 125
 180s
 24
 16.00x
 17
-6#
+6 #
 250
 170s
 40

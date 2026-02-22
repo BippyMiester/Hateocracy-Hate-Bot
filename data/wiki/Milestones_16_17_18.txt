@@ -1,5 +1,5 @@
 Expand
-Tiers 16, 17 & 18
+Tiers 16 , 17 & 18
 Tier
 Tier 16
 Tier 17
@@ -168,11 +168,11 @@ Dragon Skin
 Rhino Skin
 110 Stones
 4,500
-Tower Health +10%
+Tower Health +10 %
 60 Stones
-Damage / Meter +10%
+Damage / Meter +10 %
 100 Stones
-Lab Speed +10%
+Lab Speed +10 %
 130 Stones
 Totals
 30b Coins

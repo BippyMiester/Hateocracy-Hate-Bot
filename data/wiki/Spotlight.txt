@@ -8,23 +8,23 @@ Labs
 4
 00:05
 Description
-Create a number of Spotlights that cover a number of degrees that spins around tower, enemies in the spotlight receive a multiplier to damage received.
+Create number Spotlights cover number degrees spins around tower , enemies spotlight receive multiplier damage received .
 Workshop
 Basic Upgrades
 Ultimate Weapon Plus
 Basic Upgrades
-Located in the
+Located
 Ultimate Weapon
-menu. Unlocking Spotlight allows the player to upgrade Bonus, Angle and Quantity using stones. Spotlight will multiply all damage sources that are not based on % of enemy health and are not based on wave stats.
+menu . Unlocking Spotlight allows player upgrade Bonus , Angle Quantity using stones . Spotlight multiply damage sources based % enemy health based wave stats .
 Costs
-Bonus has 25 levels, Angle has 60 levels and Quantity has 3 levels. The total stone cost is 42236.
+Bonus 25 levels , Angle 60 levels Quantity 3 levels . total stone cost 42236 .
 Bonus
-Stones(Bonus)
+Stones ( Bonus )
 Angle
-Stones(Angle)
+Stones ( Angle )
 Quantity
 Expand
-Stones(Quantity)
+Stones ( Quantity )
 8x
 0
 30
@@ -212,7 +212,7 @@ Total
 29690
 3,725
 Ultimate Weapon Plus - Light Range
-Ultimate Weapon Plus abilities can only be unlocked when all 9 Ultimate Weapons have been purchased. Spotlight damage bonus is boosted by a percent of damage per meter. Tower Range effects this ability.
+Ultimate Weapon Plus abilities unlocked 9 Ultimate Weapons purchased . Spotlight damage bonus boosted percent damage per meter . Tower Range effects ability .
 Cost
 Expand
 UW+ Cost Table
@@ -267,15 +267,14 @@ Value
 Labs
 Unlocks
 labs
-in
 Milestones
-. Spotlight Missiles is unlock at tier 3 wave 400. Spotlight Coin Bonus is unlocked on tier 7 wave 80.
+. Spotlight Missiles unlock tier 3 wave 400 . Spotlight Coin Bonus unlocked tier 7 wave 80 .
 Spotlight Missiles
 Spotlight Coin Bonus
 Spotlight Missiles
-Tower fires missiles from the tower after a period of time. Missile damage is determined by
+Tower fires missiles tower period time . Missile damage determined
 Smart Missiles
-damage. When Smart Missiles are not unlocked, they will do the base damage of 14x. When the lab is unlocked in milestones, the display will show that missiles are fired every 20 seconds. Spotlight will not fire missiles until the first level is unlocked and frequency is 19 seconds. Has 18 levels.
+damage . Smart Missiles unlocked , base damage 14x . lab unlocked milestones , display show missiles fired every 20 seconds . Spotlight fire missiles first level unlocked frequency 19 seconds . 18 levels .
 Level
 Time
 Cost
@@ -286,11 +285,11 @@ Value
 200,000,000
 19.00
 2
-7d  0h 20m
+7d 0h 20m
 200,313,514
 18.00
 3
-7d  8h 52m
+7d 8h 52m
 200,854,054
 17.00
 4
@@ -298,15 +297,15 @@ Value
 202,551,351
 16.00
 5
-8d  3h 48m
+8d 3h 48m
 207,502,703
 15.00
 6
-8d 15h  5m
+8d 15h 5m
 219,286,486
 14.00
 7
-9d  4h 17m
+9d 4h 17m
 243,329,730
 13.00
 8
@@ -326,7 +325,7 @@ Value
 649,686,486
 9.00
 12
-14d  1h 29m
+14d 1h 29m
 899,091,892
 8.00
 13
@@ -342,7 +341,7 @@ Value
 2,335,135,135
 5.00
 16
-22d 11h  8m
+22d 11h 8m
 3,145,945,946
 4.00
 17
@@ -354,7 +353,7 @@ Value
 5,470,270,270
 2.00
 Spotlight Coin Bonus
-Provides a coin multiplier to enemies killed in spotlight. Does not need to be killed by spotlight.
+Provides coin multiplier enemies killed spotlight . need killed spotlight .
 Level
 Time
 Cost
@@ -365,11 +364,11 @@ Value
 20,000,000
 1.10
 2
-2d  0h 21m
+2d 0h 21m
 21,405,405
 1.20
 3
-2d  8h 53m
+2d 8h 53m
 23,124,324
 1.30
 4
@@ -377,15 +376,15 @@ Value
 26,627,027
 1.40
 5
-3d  3h 49m
+3d 3h 49m
 35,837,838
 1.50
 6
-3d 15h  6m
+3d 15h 6m
 58,248,649
 1.60
 7
-4d  4h 17m
+4d 4h 17m
 106,162,162
 1.70
 8
@@ -405,7 +404,7 @@ Value
 1,030,000,000
 2.10
 12
-9d  1h 30m
+9d 1h 30m
 1,640,000,000
 2.20
 13
@@ -421,7 +420,7 @@ Value
 5,410,000,000
 2.50
 16
-17d 11h  9m
+17d 11h 9m
 7,630,000,000
 2.60
 17
@@ -433,7 +432,7 @@ Value
 14,230,000,000
 2.80
 19
-27d 23h  5m
+27d 23h 5m
 18,930,000,000
 2.90
 20
@@ -462,7 +461,7 @@ Rend Armor Mult
 Defense Upgrades
 Health
 Health Regen
-Defense %
+Defense %
 Defense Absolute
 Thorn Damage
 Lifesteal

@@ -1,5 +1,5 @@
 Wall Invincibility
-Has 10 upgrades. Wall will be invincible for a number of seconds after it rebuilds, up to 10 seconds.
+10 upgrades . Wall invincible number seconds rebuilds , 10 seconds .
 Level
 Time
 Cost

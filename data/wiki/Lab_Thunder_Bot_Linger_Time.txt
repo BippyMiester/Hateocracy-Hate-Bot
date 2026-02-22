@@ -1,5 +1,5 @@
 Thunder Bot Linger Time
-Unlock Lab In Milestones at tier 10 wave 60. Increase the duration of the linger effect by 0.5s per level. Has 20 levels for a total of 13 seconds.
+Unlock Lab Milestones tier 10 wave 60 . Increase duration linger effect 0.5s per level . 20 levels total 13 seconds .
 Level
 Time
 Cost

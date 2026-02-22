@@ -1,88 +1,88 @@
 Basic Upgrades
-Basic upgrades for all Ultimate Weapons are located in the
+Basic upgrades Ultimate Weapons located
 Ultimate Weapon
-menu after unlocking the Ultimate Weapon. Unlocking grants the abilities to upgrade Duration, Slow and Cooldown using stones.
-Chrono Field is unique in that it is the only Ultimate Weapon with a cooldown that can be active constantly. In fact, duration can last 10 seconds longer than cooldown at its lowest. Chrono Field effect cannot stack on itself. Any remaining time from the previous activation is wasted.
+menu unlocking Ultimate Weapon . Unlocking grants abilities upgrade Duration , Slow Cooldown using stones .
+Chrono Field unique Ultimate Weapon cooldown active constantly . fact , duration last 10 seconds longer cooldown lowest . Chrono Field effect stack . remaining time previous activation wasted .
 Cost
-Duration has 35 levels, Slow has 11 levels and Cooldown has 12 levels. The total stone cost is 9,946.
+Duration 35 levels , Slow 11 levels Cooldown 12 levels . total stone cost 9,946 .
 Stone
-(Duration)
+( Duration )
 Slow
 Stones
-(Slow)
+( Slow )
 Cooldown
 Expand
 Stone
-(Cooldown)
+( Cooldown )
 5s
 0
-20%
+20 %
 0
 180s
 0
 6s
 5
-25%
+25 %
 15
 170s
 10
 7s
 14
-30%
+30 %
 25
 160s
 31
 8s
 23
-35%
+35 %
 40
 150s
 52
 9s
 32
-40%
+40 %
 60
 140s
 73
 10s
 41
-45%
+45 %
 120
 130s
 94
 11s
 50
-50%
+50 %
 150
 120s
 115
 12s
 59
-55%
+55 %
 200
 110s
 136
 13s
 68
-60%
+60 %
 300
 100s
 157
 14s
 77
-65%
+65 %
 450
 90s
 178
 15s
 86
-70%
+70 %
 650
 80s
 199
 16s
 95
-75%
+75 %
 900
 70s
 220

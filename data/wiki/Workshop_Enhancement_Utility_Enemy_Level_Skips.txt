@@ -1,5 +1,5 @@
 Enemy Level Skips
-Requires 500 trillion coins to be spent on Utility enhancements to unlock. Increases Enemy Health and Enemy Damage Level Skip multiplier by x1 when unlocked and increases by 0.01x per level. Has a maximum level of 60 for a 1.6x bonus.
+Requires 500 trillion coins spent Utility enhancements unlock . Increases Enemy Health Enemy Damage Level Skip multiplier x1 unlocked increases 0.01x per level . maximum level 60 1.6x bonus .
 Level
 Value
 Coins

@@ -1,5 +1,5 @@
 Cells/Kill Bonus
-Requires 500 billion coins to be spent on Utility enhancements to unlock. Increases Cells/Kill by x1 when unlocked and increases by 0.01x per level. Has a maximum level of 200 for a 3x bonus.
+Requires 500 billion coins spent Utility enhancements unlock . Increases Cells/Kill x1 unlocked increases 0.01x per level . maximum level 200 3x bonus .
 Level
 Value
 Coins

@@ -47,94 +47,94 @@ Bugs
 Versions
 vO.13.0
 Perk System
-New perk system. Reach specified waves to choose from randomized options of powerful perks. Available tier 3 and higher
-7 new lab research options revolving around the perk system (wave requirement, perk bonus, ban perks, etc)
+New perk system . Reach specified waves choose randomized options powerful perks . Available tier 3 higher
+7 new lab research options revolving around perk system ( wave requirement , perk bonus , ban perks , etc )
 Balance
 Health regen exponential growth increased slightly
-Defense Absolute exponential growth increased slightly • Intro sprint card coin reduction increased from -60 to -80%
-Intro sprint card effects waves skipped now
-Workshop respec price increased from 100 to 150 gems
-Tank mass increased from 3 to 5 to reduce knockback against it
-Boss mass increased from 7 to 12
-Tournament rewards claim window increased from 24 to 36 hours
-Tournament info panel added to the tournament panel to explain exactly how they work better
+Defense Absolute exponential growth increased slightly • Intro sprint card coin reduction increased -60 -80 %
+Intro sprint card effects waves skipped
+Workshop respec price increased 100 150 gems
+Tank mass increased 3 5 reduce knockback
+Boss mass increased 7 12
+Tournament rewards claim window increased 24 36 hours
+Tournament info panel added tournament panel explain exactly work better
 vO.13.4
-Perk for health regen increased from x1.30 to x1.50
-Perk for free upgrade for all math fixed
-Perk for golden tower bonus reduced from x2.0 to x1.5
-Trade off perk for x2.0 coins but -50% tower health reduced to x1.8 coins Lab for standard perk bonus math fixed
-More translation fixes
+Perk health regen increased x1.30 x1.50
+Perk free upgrade math fixed
+Perk golden tower bonus reduced x2.0 x1.5
+Trade perk x2.0 coins -50 % tower health reduced x1.8 coins Lab standard perk bonus math fixed
+translation fixes
 v0.13.6
 Additions/Tweaks
-Added standard perk: +1 game speed
-Workshop buy multiplier now will be remembered between sessions
-Lab Hide Completed now will be remembered between sessions, also changed visual to better show that it is enabled
-Added a button on game end panel to show perks selected on last round
-Added extra buy multiplier x100. Added an extra level on the research to unlock it
+Added standard perk : +1 game speed
+Workshop buy multiplier remembered sessions
+Lab Hide Completed remembered sessions , also changed visual better show enabled
+Added button game end panel show perks selected last round
+Added extra buy multiplier x100 . Added extra level research unlock
 Balance
 Main Upgrades Balance
-Defense Absolute scaling increased slightly again
-Health Regen scaling increased slightly again
+Defense Absolute scaling increased slightly
+Health Regen scaling increased slightly
 Ultimate Weapons Balance
-Golden Tower coin bonus per level decreased from 1.0 to 0.8
-Golden Tower lab for coin bonus per level decreased from .20 to .15 Golden Tower coin bonus lab max level increased from 20 to 25 Smart missiles damage per level increased from 80 to 100%
-Inner land mines damage per level increased from 100 to 130% Inner land mines base cooldown reduced from 210 to 200 seconds Poison swamp base damage increased from 75 to 80%
-Poison swamp damage per level increased from 15 to 20%
+Golden Tower coin bonus per level decreased 1.0 0.8
+Golden Tower lab coin bonus per level decreased .20 .15 Golden Tower coin bonus lab max level increased 20 25 Smart missiles damage per level increased 80 100 %
+Inner land mines damage per level increased 100 130 % Inner land mines base cooldown reduced 210 200 seconds Poison swamp base damage increased 75 80 %
+Poison swamp damage per level increased 15 20 %
 Perks Balance
-Trade off perk for x5 health regen but -35% max tower health improved to x8 health regen but -30% max tower health
-Perk for more smart missiles increased from 3 to 4 missiles
-Perk for land mine damage increased from x2.50 to x3.50
-Perk for health regen increased again from x1.50 to x.160
-Trade off perk for x10 cash per wave but enemy kill don't give cash increased to x12 cash per wave Trade off perk for enemies speed -40% but enemies damage x2.5 changed to -45% speed
+Trade perk x5 health regen -35 % max tower health improved x8 health regen -30 % max tower health
+Perk smart missiles increased 3 4 missiles
+Perk land mine damage increased x2.50 x3.50
+Perk health regen increased x1.50 x.160
+Trade perk x10 cash per wave enemy kill n't give cash increased x12 cash per wave Trade perk enemies speed -40 % enemies damage x2.5 changed -45 % speed
 Bugs
-Fixed Chrono Field perk increased size not working
-Fixed death ray freezing occasionally (hopefully got it this time)
-Fixed perk visual slider button counting from start instead of last perk
-Fixed current wave enemy HP and attack not being affected by perks on wave panel Fixed wave skip text sometimes not showing up if there is too much text on screen
-Fixed workshop panels titles not being uppercase in other languages than english
-Translation fixes (mostly some showing in spanish when they shouldn't) Auto perk toggle causing crashes when no perks were left to pick
-Other bugs relating to occasional game crashes
+Fixed Chrono Field perk increased size working
+Fixed death ray freezing occasionally ( hopefully got time )
+Fixed perk visual slider button counting start instead last perk
+Fixed current wave enemy HP attack affected perks wave panel Fixed wave skip text sometimes showing much text screen
+Fixed workshop panels titles uppercase languages english
+Translation fixes ( mostly showing spanish n't ) Auto perk toggle causing crashes perks left pick
+bugs relating occasional game crashes
 vO.13.8
-iOS Cloud save added, access in settings panel (better system coming to android soon once this one seems stable)
+iOS Cloud save added , access settings panel ( better system coming android soon one seems stable )
 Bugs Squashed
 Perk progress slider fixed
-Trade off perk for x8 health regen but -70% max tower health buffed to -60% max tower health as initially intended
-More translation fixes
-Falling outside of the minimum tournament bracket now demotes and doesn't show an incorrect prize
-Research select panel background scaled correctly to device
+Trade perk x8 health regen -70 % max tower health buffed -60 % max tower health initially intended
+translation fixes
+Falling outside minimum tournament bracket demotes n't show incorrect prize
+Research select panel background scaled correctly device
 vO.13.9
-Quality of Life: Make autopick pick your "first perk❞ choice automatically if enabled
-Quality of Life: Toggle for ultimate weapons
-Quality of Life: When getting increase game speed perk, automatically max current game speed
-Quality of Life: Ability to tap labs research they can't afford. Make the next panel's research button
-inactive if they can't afford instead. Now the tile turns red if can't afford, and gold if already maxed. Increase ban perks max by 1 (expensive research)
-Ultimate weapons sometimes unlocking when they can't be afforded Translation fixes and additions like ultimate weapon descriptions
+Quality Life : Make autopick pick `` first perk❞ choice automatically enabled
+Quality Life : Toggle ultimate weapons
+Quality Life : getting increase game speed perk , automatically max current game speed
+Quality Life : Ability tap labs research ca n't afford . Make next panel 's research button
+inactive ca n't afford instead . tile turns red ca n't afford , gold already maxed . Increase ban perks max 1 ( expensive research )
+Ultimate weapons sometimes unlocking ca n't afforded Translation fixes additions like ultimate weapon descriptions
 vO.13.12
 New Lab Research
-Shockwave size (tier 3)
-Missile Barrage (tier 8)
-Missile Barrage Quantity (tier 8) Missile Amplifier (tier 7)
-Inner Mine Stun (tier 7)
+Shockwave size ( tier 3 )
+Missile Barrage ( tier 8 )
+Missile Barrage Quantity ( tier 8 ) Missile Amplifier ( tier 7 )
+Inner Mine Stun ( tier 7 )
 Features
-Replaced Google play services with new multiplatform cloud save on android
-Save files are now cross platform and can move between iOS and Android devices with a login
-Outside of rounds cards now show an open lock icon, to show which cards will be locked inside round
+Replaced Google play services new multiplatform cloud save android
+Save files cross platform move iOS Android devices login
+Outside rounds cards show open lock icon , show cards locked inside round
 Balance
-Tier 10 coin bonus increased by +0.1, Tier 11 coin bonus increased by +0.3.
+Tier 10 coin bonus increased +0.1 , Tier 11 coin bonus increased +0.3 .
 Bugs
-Not being able to select lab research that can be afforded sometimes Fixed 4th ban perk
-Poison swamp description for duration was incorrect
-Incorrect tier shown for tournament end round stats
-More translation fixes
+able select lab research afforded sometimes Fixed 4th ban perk
+Poison swamp description duration incorrect
+Incorrect tier shown tournament end round stats
+translation fixes
 vO.13.14
 Changes
-Ability to change card presets inside rounds if presets have the exact same locked cards
-Cash "$" symbol will become green when you have enough cash to reach max interest per wave
+Ability change card presets inside rounds presets exact locked cards
+Cash `` $ `` symbol become green enough cash reach max interest per wave
 Bugs
-Damage dealt to enemies not showing floating text
-Critical hits not showing text
+Damage dealt enemies showing floating text
+Critical hits showing text
 Purchase reliability increased
-Video ad reliability increased (I think)
+Video ad reliability increased ( think )
 Versions
 v0.27
 v0.26

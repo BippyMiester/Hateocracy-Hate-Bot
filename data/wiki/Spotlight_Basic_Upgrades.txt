@@ -1,16 +1,16 @@
 Basic Upgrades
-Located in the
+Located
 Ultimate Weapon
-menu. Unlocking Spotlight allows the player to upgrade Bonus, Angle and Quantity using stones. Spotlight will multiply all damage sources that are not based on % of enemy health and are not based on wave stats.
+menu . Unlocking Spotlight allows player upgrade Bonus , Angle Quantity using stones . Spotlight multiply damage sources based % enemy health based wave stats .
 Costs
-Bonus has 25 levels, Angle has 60 levels and Quantity has 3 levels. The total stone cost is 42236.
+Bonus 25 levels , Angle 60 levels Quantity 3 levels . total stone cost 42236 .
 Bonus
-Stones(Bonus)
+Stones ( Bonus )
 Angle
-Stones(Angle)
+Stones ( Angle )
 Quantity
 Expand
-Stones(Quantity)
+Stones ( Quantity )
 8x
 0
 30

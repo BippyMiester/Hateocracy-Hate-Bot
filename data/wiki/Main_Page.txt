@@ -1,7 +1,7 @@
-Welcome to The Tower - Idle Tower Defense Wiki!
-New and returning players looking to get up to speed quickly are encouraged to check out the
+Welcome Tower - Idle Tower Defense Wiki !
+New returning players looking get speed quickly encouraged check
 Guides
-section to get started!
+section get started !
 Categories
 Cards
 Currency
@@ -20,81 +20,81 @@ Tiers
 Ultimate Weapons
 Workshop Upgrades
 Announcements
-V27.3 Patch Notes - December 18, 2025,
-Hello Tower Defenders! We are rolling out our last minor update of the year now on Android, with iOS rolling out within the next day. This build should be fully available to everyone tomorrow. Here’s a look at the changes:
-New Toggles Menu,
-We have added a new "Toggles" menu to replace our current "Hit Texts" button in the Settings. Some existing buttons, such as 120FPS and Cinematic of Idle have moved into this menu, while Sound and Music will remain in the Settings menu. Here is a look at our current list of toggles:
-Added Auto Pause in Menus,
-Added Stone Confirmation,
-Turning off this toggle will remove the confirmation for stone purchases that costs 100 stones or more,
-Added Gem Confirmations,
-Same as Stones, but for Gem purchases equal to or greater than 200,
-Added Ranged Enemy Shooting Line,
-Added Show Cinematic Gems,
-Added Brighter Spotlight,
-Auto Restart has been removed from the end of round screen and added to this section for players who have unlocked this Vault upgrade,
-Lab Improvements,
-We have made some improvements to our Labs UI. To start, we made the lab sliders into actual sliders! Setting values has become easier, with an - and + symbol on either side to make incremental changes. Additionally, we've added a new Slider filter to the Research selection screen so you can see all labs that have sliders.
-Additionally, we have fixed an issue where some longer researches were not ticking properly. This was a floating-point number issue that was only apparently in some instances.
-Tournament Adjustments,
-We are adding two new permanent battle conditions to tournaments and adjusting our old Enemy Level Skip Reduction BC from all tournaments. Additionally, we are making tier scaling adjustments in Champions and Legends. Let’s dive into the changes:
+V27.3 Patch Notes - December 18 , 2025 ,
+Hello Tower Defenders ! rolling last minor update year Android , iOS rolling within next day . build fully available everyone tomorrow . ’ look changes :
+New Toggles Menu ,
+added new `` Toggles `` menu replace current `` Hit Texts `` button Settings . existing buttons , 120FPS Cinematic Idle moved menu , Sound Music remain Settings menu . look current list toggles :
+Added Auto Pause Menus ,
+Added Stone Confirmation ,
+Turning toggle remove confirmation stone purchases costs 100 stones ,
+Added Gem Confirmations ,
+Stones , Gem purchases equal greater 200 ,
+Added Ranged Enemy Shooting Line ,
+Added Show Cinematic Gems ,
+Added Brighter Spotlight ,
+Auto Restart removed end round screen added section players unlocked Vault upgrade ,
+Lab Improvements ,
+made improvements Labs UI . start , made lab sliders actual sliders ! Setting values become easier , - + symbol either side make incremental changes . Additionally , 've added new Slider filter Research selection screen see labs sliders .
+Additionally , fixed issue longer researches ticking properly . floating-point number issue apparently instances .
+Tournament Adjustments ,
+adding two new permanent battle conditions tournaments adjusting old Enemy Level Skip Reduction BC tournaments . Additionally , making tier scaling adjustments Champions Legends . Let ’ dive changes :
 Skip Decay
-Description: Enemy health and attack level skip chances are reduced by [VAL]% every [N] waves.
-VAL starts at 1% and is the value that the generic Battle Condition Reduction lab will impact.
-N is the number of waves it takes between activations of the BC, and this is what the level of the BC will impact.
-Finally, the level of the BC will change based on the tournament league and not increase in strength during the run, similar to how More Bosses works.
-Legends: Level 80 => Every 20 waves, lose 1% from ELS,
-Champion: Level 60 => Every 40 waves, lose 1% from ELS,
-Platinum: Level 40 => Every 60 waves, lose 1% from ELS,
-Gold: Level 20 => Every 80 waves, lose 1% from ELS,
+Description : Enemy health attack level skip chances reduced [ VAL ] % every [ N ] waves .
+VAL starts 1 % value generic Battle Condition Reduction lab impact .
+N number waves takes activations BC , level BC impact .
+Finally , level BC change based tournament league increase strength run , similar Bosses works .
+Legends : Level 80 = > Every 20 waves , lose 1 % ELS ,
+Champion : Level 60 = > Every 40 waves , lose 1 % ELS ,
+Platinum : Level 40 = > Every 60 waves , lose 1 % ELS ,
+Gold : Level 20 = > Every 80 waves , lose 1 % ELS ,
 Skip Reduction - Multiply
-Description: Enemy health and attack level skip chances are multiplied by x.[VAL],
-This new Battle Condition will be impacted by the existing Enemy Level Skip Reduction Lab (which has been renamed to Skip Reduction Lab).
-VAL is impacted by both BC labs (generic and specific) and is tied to the level of the Battle Condition:
-Legends: Level 55 => multiplied by x0.45,
-Champion: Level 40 => multiplied by x0.6,
-Platinum: Level 25 => multiplied by x0.75,
-Gold: Level 10 => multiplied by x0.9,
-Removing Enemy Level Skip Reduction,
-The previous ELS Reduction BC has been rebranded to Skip Reduction - Subtract. It has been removed from all tournaments. It will remain untouched on the normal tiers it was already a Battle Condition for. The Skip Reduction lab will still impact this Battle Condition
-Tier Scaling,
-Finally, we are changing the tier scaling in the Champions and Legends league. The tier scaling will change from [1/3/5/8/11/14] to [1/3/5/8/12/17]
-Changelog,
+Description : Enemy health attack level skip chances multiplied x . [ VAL ] ,
+new Battle Condition impacted existing Enemy Level Skip Reduction Lab ( renamed Skip Reduction Lab ) .
+VAL impacted BC labs ( generic specific ) tied level Battle Condition :
+Legends : Level 55 = > multiplied x0.45 ,
+Champion : Level 40 = > multiplied x0.6 ,
+Platinum : Level 25 = > multiplied x0.75 ,
+Gold : Level 10 = > multiplied x0.9 ,
+Removing Enemy Level Skip Reduction ,
+previous ELS Reduction BC rebranded Skip Reduction - Subtract . removed tournaments . remain untouched normal tiers already Battle Condition . Skip Reduction lab still impact Battle Condition
+Tier Scaling ,
+Finally , changing tier scaling Champions Legends league . tier scaling change [ 1/3/5/8/11/14 ] [ 1/3/5/8/12/17 ]
+Changelog ,
 Gameplay
-Added one more Card slots that cost gems (10,000),
-To avoid future Wall tunneling issues, the tower is now immune to all damage except from Vampires while the Wall is active,
-Enemy Level Skip Reduction has been renamed to Skip Reduction. In addition, it's impact on stats will now be visible in the utility workshop tab during a run.,
-Added functionality for Second Wind to spawn the Wall, invulnerable while the Second Wind timer is active,
-Added a 15 second period of invulnerability to Nuke activation,
-Changed the behavior of the Damage Reduction node in the Vault to not be applied while Intro Sprint is active,
-Improved behavior of Critical Coin Card so it always applies to Black Hole and Thorns,
-Increase the number of Fleets for ending long runs (one additional Fleet every 1000 waves after first wave instance),
-When Fleets are introduced at later waves, only one Fleet will drop rewards in that wave even if multiple Fleets are present,
-All 3 enhancement discount labs have had their formula changed from cost / (1 + %) to cost * (1 - %),
-Primordial Collapse no longer provides double benefit on the Wall and projectiles,
-UI,
-Added the functionality for players to hide pop-up confirmations for the rest of the session,
-Added a Pulsar Harvester stat to the Boss Breakdown that displays the amount of Level reduction applied instead of only the damage dealt,
-Change "End Round" button in the in-run menu to "Exit Battle", adjusted pop-up messaging,
-Added functionality for all menus to be viewable (but unchangeable) while mid run,
-The boss stats menu will now always show the health (and subsequent stats) of the most recently spawned boss.,
-Improved visual positioning of Card description in the Card selection screen,
-Other Changes,
-Rewrote the Golden Tower VFX from scratch to improve performance,
-Add behavior for unclaimed Guild rewards to be mailed to your inventory,
-Added the Support button to the Login panel,
-Bugfixes,
-Fixed an issue where notifications for tournament do not show up,
-Fixed an issue where your Tournament ranking displays wrong rank in reward declaration,
-Fixed an issue where the "Pick a Perk" prompt persists when perks are still exhausted,
-Fixed an unintended interaction with Pulsar Harvester and Orbital Augment, where equipping both OA and PH would reduce the damage of OA unintentionally,
-Fixed a visual issue where the Lab notification bubble appears before a player has unlocked Lab,
-Holiday Featured Module Banners,
-We are excited to share that for the next month, we will be doing featured module banners for each module type! Each week, we will be featuring one module type (like Cannon), and increase the drop rates for all Epic modules of that type. Here’s the timeline:
-December 21, 2025 4:00 PM to December 28, 2025 3:59 PM will feature Epic Core Modules
-December 28, 2025 4:00 PM to January 4, 2026 3:59 PM will feature Epic Cannon Modules
-January 4, 2026 4:00 PM to January 11, 2026 3:59 PM will feature Epic Generator Modules
-January 11, 2026 4:00 PM to January 18, 2026 3:59 PM will feature Epic Armor Modules
+Added one Card slots cost gems ( 10,000 ) ,
+avoid future Wall tunneling issues , tower immune damage except Vampires Wall active ,
+Enemy Level Skip Reduction renamed Skip Reduction . addition , 's impact stats visible utility workshop tab run . ,
+Added functionality Second Wind spawn Wall , invulnerable Second Wind timer active ,
+Added 15 second period invulnerability Nuke activation ,
+Changed behavior Damage Reduction node Vault applied Intro Sprint active ,
+Improved behavior Critical Coin Card always applies Black Hole Thorns ,
+Increase number Fleets ending long runs ( one additional Fleet every 1000 waves first wave instance ) ,
+Fleets introduced later waves , one Fleet drop rewards wave even multiple Fleets present ,
+3 enhancement discount labs formula changed cost / ( 1 + % ) cost * ( 1 - % ) ,
+Primordial Collapse longer provides double benefit Wall projectiles ,
+UI ,
+Added functionality players hide pop-up confirmations rest session ,
+Added Pulsar Harvester stat Boss Breakdown displays amount Level reduction applied instead damage dealt ,
+Change `` End Round `` button in-run menu `` Exit Battle `` , adjusted pop-up messaging ,
+Added functionality menus viewable ( unchangeable ) mid run ,
+boss stats menu always show health ( subsequent stats ) recently spawned boss . ,
+Improved visual positioning Card description Card selection screen ,
+Changes ,
+Rewrote Golden Tower VFX scratch improve performance ,
+Add behavior unclaimed Guild rewards mailed inventory ,
+Added Support button Login panel ,
+Bugfixes ,
+Fixed issue notifications tournament show ,
+Fixed issue Tournament ranking displays wrong rank reward declaration ,
+Fixed issue `` Pick Perk `` prompt persists perks still exhausted ,
+Fixed unintended interaction Pulsar Harvester Orbital Augment , equipping OA PH would reduce damage OA unintentionally ,
+Fixed visual issue Lab notification bubble appears player unlocked Lab ,
+Holiday Featured Module Banners ,
+excited share next month , featured module banners module type ! week , featuring one module type ( like Cannon ) , increase drop rates Epic modules type . ’ timeline :
+December 21 , 2025 4:00 PM December 28 , 2025 3:59 PM feature Epic Core Modules
+December 28 , 2025 4:00 PM January 4 , 2026 3:59 PM feature Epic Cannon Modules
+January 4 , 2026 4:00 PM January 11 , 2026 3:59 PM feature Epic Generator Modules
+January 11 , 2026 4:00 PM January 18 , 2026 3:59 PM feature Epic Armor Modules
 Advertisement
 Helpful Links
 Tech Tree Games
@@ -102,32 +102,32 @@ Web Store
 Google Play Store
 Apple App Store
 Discord
-If you've been removed from the Discord for whatever reason, please follow
-this link
+'ve removed Discord whatever reason , please follow
+link
 Reddit
-Tower.lol [Leaderboard]
-App-Icon in the Google Play Store
-App-Icon in the Apple App Store and the App itself
-Top Wiki Contributors (90 Days)
+Tower.lol [ Leaderboard ]
+App-Icon Google Play Store
+App-Icon Apple App Store App
+Top Wiki Contributors ( 90 Days )
 VCMomo
 : 48
 Lilbyrdie
 : 16
 TTG Support
 : 11
-My wife left me Jr.
+wife left Jr .
 : 9
 ChangelingRain
 : 8
-See the
+See
 Contributors
-page to learn more about contributing.
+page learn contributing .
 Acknowledgments
-Skye:
-Skye's Tools
-for providing most of the quantitative data presently found here.
-[Wiki does not endorse the use of Skye's Tools]
-Murky:
-Initial Wiki Founder and Maintainer from Nov 2021 - Aug 2024.
-Yugiohcd10:
-Wiki Maintainer from Aug 2024 - Sep 2025.
+Skye :
+Skye 's Tools
+providing quantitative data presently found .
+[ Wiki endorse use Skye 's Tools ]
+Murky :
+Initial Wiki Founder Maintainer Nov 2021 - Aug 2024 .
+Yugiohcd10 :
+Wiki Maintainer Aug 2024 - Sep 2025 .

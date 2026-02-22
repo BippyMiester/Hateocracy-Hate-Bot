@@ -2,16 +2,15 @@
 Flame Bot Cooldown
 Unlock
 lab
-in
 Milestones
-at tier 5 wave 60. Unlocks Flame Bot Cooldown which reduces the bot Cooldown by 1 second for each level. Has 25 levels for a 25 second reduction to cooldown.
+tier 5 wave 60 . Unlocks Flame Bot Cooldown reduces bot Cooldown 1 second level . 25 levels 25 second reduction cooldown .
 Level
 Time
 Cost
 Expand
 Value
 1
-1d  14h 53m
+1d 14h 53m
 30.00M
 -1
 2

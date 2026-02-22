@@ -1,18 +1,18 @@
 Basic Upgrades
-Basic upgrades for all Ultimate Weapons are located in the
+Basic upgrades Ultimate Weapons located
 Ultimate Weapon
-menu after unlocking the Ultimate Weapon. Unlocking Golden Tower will allow the player to upgrade Multiplier, Duration and Cooldown using stones.
+menu unlocking Ultimate Weapon . Unlocking Golden Tower allow player upgrade Multiplier , Duration Cooldown using stones .
 Costs
-Multiplier has 20 levels, Duration has 38 levels and Cooldown 20 has levels. Total stone cost is 27,186.
+Multiplier 20 levels , Duration 38 levels Cooldown 20 levels . Total stone cost 27,186 .
 Multiplier
 Stones
-(Multiplier)
+( Multiplier )
 Stones
-(Duration)
+( Duration )
 Cooldown
 Expand
 Stones
-(Cooldown)
+( Cooldown )
 5.0×
 0
 15s

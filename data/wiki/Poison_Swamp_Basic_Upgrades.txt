@@ -1,18 +1,18 @@
 Basic Upgrades
-Basic upgrades for all Ultimate Weapons are located in the
+Basic upgrades Ultimate Weapons located
 Ultimate Weapon
-menu after unlocking the Ultimate Weapon. Unlocking grants the abilities to upgrade Damage, Duration and Cooldown using stones. Enemies receive damage from 1 poison swamp when entering overlapping poison swamps.
+menu unlocking Ultimate Weapon . Unlocking grants abilities upgrade Damage , Duration Cooldown using stones . Enemies receive damage 1 poison swamp entering overlapping poison swamps .
 Costs
-Damage has 30 levels, Duration has 14 levels and Cooldown has 15 levels. The total stone cost is 19196.
+Damage 30 levels , Duration 14 levels Cooldown 15 levels . total stone cost 19196 .
 Damage
 Stones
-(Damage)
+( Damage )
 Stones
-(Duration)
+( Duration )
 Cooldown
 Expand
 Stones
-(Cooldown)
+( Cooldown )
 10.00x
 0
 30s

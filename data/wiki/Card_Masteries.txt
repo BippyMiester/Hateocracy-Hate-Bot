@@ -1,9 +1,9 @@
 Card Mastery
-When 30
+30
 cards
-are maxed and the player has unlocked the Card Mastery Milestone at Tier 16, Wave 100, Card Masteries are unlocked. Card Masteries can be individually unlocked on the cards page. A card must be equipped to have that mastery effect active. Unlocking a Card Mastery costs a varying amount of stones and unlocks that card's Mastery Labs.
-Card Mastery Lab Time and Coins
-All card mastery labs have the same lab costs/time, shown below:
+maxed player unlocked Card Mastery Milestone Tier 16 , Wave 100 , Card Masteries unlocked . Card Masteries individually unlocked cards page . card must equipped mastery effect active . Unlocking Card Mastery costs varying amount stones unlocks card 's Mastery Labs .
+Card Mastery Lab Time Coins
+card mastery labs lab costs/time , shown :
 Level
 Time
 Expand
@@ -36,7 +36,7 @@ Coins
 104d 4h 0m 0s
 10.00q
 Card Mastery Overview
-Below is a table showing the different Card Masteries, their stone costs, and how the effects are amplified with levels:
+table showing different Card Masteries , stone costs , effects amplified levels :
 Card
 Mastery Description
 Stone Cost
@@ -117,18 +117,18 @@ x2.6
 x2.8
 x3
 Cash
-Adds chance for elites to drop reroll dice
+Adds chance elites drop reroll dice
 500
-0.4%
-0.8%
-1.2%
-1.6%
-2%
-2.4%
-2.8%
-3.2%
-3.6%
-4%
+0.4 %
+0.8 %
+1.2 %
+1.6 %
+2 %
+2.4 %
+2.8 %
+3.2 %
+3.6 %
+4 %
 Coins
 Increases card stat multiplier
 1250
@@ -156,44 +156,44 @@ x1.4
 x1.45
 x1.5
 Critical Chance
-Bonus to Crit Chance, super Crit chance, and Super Crit Factor
+Bonus Crit Chance , super Crit chance , Super Crit Factor
 750
-+1%
-+2%
-+3%
-+4%
-+5%
-+6%
-+7%
-+8%
-+9%
-+10%
++1 %
++2 %
++3 %
++4 %
++5 %
++6 %
++7 %
++8 %
++9 %
++10 %
 Enemy Balance
-Chance for double elite spawn
+Chance double elite spawn
 1000
-6%
-12%
-18%
-24%
-30%
-36%
-42%
-48%
-54%
-60%
+6 %
+12 %
+18 %
+24 %
+30 %
+36 %
+42 %
+48 %
+54 %
+60 %
 Extra Defense
 Increases card stat multiplier
 1000
-+0.7%
-+1.4%
-+2.1%
-+2.8%
-+3.5%
-+4.2%
-+4.9%
-+5.6%
-+6.3%
-+7.0%
++0.7 %
++1.4 %
++2.1 %
++2.8 %
++3.5 %
++4.2 %
++4.9 %
++5.6 %
++6.3 %
++7.0 %
 Fortress
 Reduces wall rebuild time
 750
@@ -208,7 +208,7 @@ Reduces wall rebuild time
 -90s
 -100s
 Free Upgrades
-Lock a stat from free ups
+Lock stat free ups
 500
 1
 2
@@ -234,46 +234,46 @@ x1.32
 x1.36
 x1.4
 Plasma Cannon
-Percent of plasma cannon applied to elites
+Percent plasma cannon applied elites
 1250
-5%
-10%
-15%
-20%
-25%
-30%
-35%
-40%
-45%
-50%
+5 %
+10 %
+15 %
+20 %
+25 %
+30 %
+35 %
+40 %
+45 %
+50 %
 Critical Coin
-Percent chance to drop two coins instead of one. [Critical coin only adds a 33% chance to drop 1 coin on Basics. This becomes 33% chance to drop 2 coins on Basics.]
+Percent chance drop two coins instead one . [ Critical coin adds 33 % chance drop 1 coin Basics . becomes 33 % chance drop 2 coins Basics . ]
 1000
-10%
-20%
-30%
-40%
-50%
-60%
-70%
-80%
-90%
-100%
+10 %
+20 %
+30 %
+40 %
+50 %
+60 %
+70 %
+80 %
+90 %
+100 %
 Wave Skip
-Chance to double wave skip
+Chance double wave skip
 1000
-10%
-15%
-20%
-25%
-30%
-35%
-40%
-45%
-50%
-55%
+10 %
+15 %
+20 %
+25 %
+30 %
+35 %
+40 %
+45 %
+50 %
+55 %
 Intro Sprint
-Increases how many waves it's active
+Increases many waves 's active
 1250
 x1.8
 x3.6
@@ -286,46 +286,46 @@ x14.4
 x16.2
 x18
 Land Mine Stun
-Chance stunned enemies will miss attacks
+Chance stunned enemies miss attacks
 1000
-2.5%
-5%
-7.5%
-10%
-12.5%
-15%
-17.5%
-20%
-22.5%
-25%
+2.5 %
+5 %
+7.5 %
+10 %
+12.5 %
+15 %
+17.5 %
+20 %
+22.5 %
+25 %
 Package Chance
-Packages have a chance to drop common modules
+Packages chance drop common modules
 1000
-0.4%
-0.8%
-1.2%
-1.6%
-2%
-2.4%
-2.8%
-3.2%
-3.6%
-4%
+0.4 %
+0.8 %
+1.2 %
+1.6 %
+2 %
+2.4 %
+2.8 %
+3.2 %
+3.6 %
+4 %
 Death Ray
 Death ray partially pierces protector shield
 750
-5%
-10%
-15%
-20%
-25%
-30%
-35%
-40%
-45%
-50%
+5 %
+10 %
+15 %
+20 %
+25 %
+30 %
+35 %
+40 %
+45 %
+50 %
 Energy Net
-Damage multi to bosses when trapped and 10s after
+Damage multi bosses trapped 10s
 750
 x2
 x4
@@ -338,7 +338,7 @@ x16
 x18
 x20
 Super Tower
-35% of super tower bonus is applied to UWs, reduces cooldown
+35 % super tower bonus applied UWs , reduces cooldown
 1000
 -3s
 -6s
@@ -351,7 +351,7 @@ Super Tower
 -27s
 -30s
 Second Wind
-Increases HP regen for 400 waves when triggered
+Increases HP regen 400 waves triggered
 1000
 x1.9
 x2.8
@@ -364,7 +364,7 @@ x8.2
 x9.1
 x10
 Demon Mode
-Lingering damage multi for 300 waves
+Lingering damage multi 300 waves
 1000
 x1.5
 x2
@@ -377,33 +377,33 @@ x5
 x5.5
 x6
 Energy Shield
-Energy shield activates a blast that repels all enemies back by a percent of tower max range and destroy[s] all enemy projectiles. The charge times of Rays are reset.
+Energy shield activates blast repels enemies back percent tower max range destroy [ ] enemy projectiles . charge times Rays reset .
 1000
-5%
-10%
-15%
-20%
-25%
-30%
-35%
-40%
-45%
-50%
+5 %
+10 %
+15 %
+20 %
+25 %
+30 %
+35 %
+40 %
+45 %
+50 %
 Wave Accelerator
 Increases spawn rate acceleration
 1000
-110%
-120%
-130%
-140%
-150%
-160%
-170%
-180%
-190%
-200%
+110 %
+120 %
+130 %
+140 %
+150 %
+160 %
+170 %
+180 %
+190 %
+200 %
 Berserker
-Increases damage cap from berserk to x500 for a limited time after death defy
+Increases damage cap berserk x500 limited time death defy
 750
 30s
 60s
@@ -418,43 +418,43 @@ Increases damage cap from berserk to x500 for a limited time after death defy
 Ultimate Crit
 Increases UW crit chance
 750
-+0.3%
-+0.7%
-+1.0%
-+1.3%
-+1.7%
-+2.0%
-+2.3%
-+2.7%
-+3.0%
-+3.3%
++0.3 %
++0.7 %
++1.0 %
++1.3 %
++1.7 %
++2.0 %
++2.3 %
++2.7 %
++3.0 %
++3.3 %
 Nuke
-Reduces enemy attack speed for 300 waves after Nuke use
+Reduces enemy attack speed 300 waves Nuke use
 750
-5%
-10%
-15%
-20%
-25%
-30%
-35%
-40%
-45%
-50%
-Area of Effect
-Increases Area of Effect radius
+5 %
+10 %
+15 %
+20 %
+25 %
+30 %
+35 %
+40 %
+45 %
+50 %
+Area Effect
+Increases Area Effect radius
 1000
-2.5%
-5%
-7.5%
-10%
-12.5%
-15%
-17.5%
-20%
-22.5%
-25%
-Here is the same information in a different format. Land Mine Stun is old scaling values(Click to expand):
-Overview of Card Masteries
-For in-depth analysis of Masteries, their impacts, as well as other info, please visit
+2.5 %
+5 %
+7.5 %
+10 %
+12.5 %
+15 %
+17.5 %
+20 %
+22.5 %
+25 %
+information different format . Land Mine Stun old scaling values ( Click expand ) :
+Overview Card Masteries
+in-depth analysis Masteries , impacts , well info , please visit
 Advanced Analysis

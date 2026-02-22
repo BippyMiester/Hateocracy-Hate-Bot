@@ -1,8 +1,7 @@
-Unlocks with
+Unlocks
 labs
-in
 Milestones
-at tier 1 wave 30. There are maximum of 7 levels.
+tier 1 wave 30 . maximum 7 levels .
 Level
 Cost
 Time

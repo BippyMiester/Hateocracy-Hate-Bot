@@ -16,18 +16,18 @@ Cost
 Labs
 00:05
 Description
-Enemies destroyed inside bot's range receive coin multiplier.
+Enemies destroyed inside bot 's range receive coin multiplier .
 Unlocking/Upgrading
-Like all bots, Golden Bot is unlocked and upgraded in the
+Like bots , Golden Bot unlocked upgraded
 Event Shop
-menu. The unlock cost will depend on how many other bots have been purchased. Each of the 4 Golden Bot upgrades start with a base upgrade cost of 100 medals and increase by 40 medals each level.
-Increases the amount of time Golden Bot is active. Duration starts at 20 seconds and has 30 levels, with each level increasing the duration by 0.5 seconds. The maximum duration is 35 seconds without any labs. This can be further increased to 45 seconds with labs.
+menu . unlock cost depend many bots purchased . 4 Golden Bot upgrades start base upgrade cost 100 medals increase 40 medals level .
+Increases amount time Golden Bot active . Duration starts 20 seconds 30 levels , level increasing duration 0.5 seconds . maximum duration 35 seconds without labs . increased 45 seconds labs .
 Cooldown
-The amount of time between initial activations. Cooldown starts at 120 seconds and has 15 levels, with each level decreasing the cooldown by 3 seconds. The minimum cooldown is 75 seconds without any labs. This can be further reduced to 50 seconds with labs.
+amount time initial activations . Cooldown starts 120 seconds 15 levels , level decreasing cooldown 3 seconds . minimum cooldown 75 seconds without labs . reduced 50 seconds labs .
 Bonus
-Increases the coin bonus from enemies destroyed. Bonus starts at 2.0x bonus and has 30 levels, with each level increasing the bonus by 0.2x. The maximum bonus is 8.0x.
+Increases coin bonus enemies destroyed . Bonus starts 2.0x bonus 30 levels , level increasing bonus 0.2x . maximum bonus 8.0x .
 Range
-Increases the range the bot covers when active. Range is amplified by tower range. Ranges starts at 20m and has 15 levels, with each level increasing the range by 2m. The maximum range from these upgrades is 50m. This can be further increased with relics and vault upgrades. Additionally, the range of all bots is also amplified based on the tower's range.
+Increases range bot covers active . Range amplified tower range . Ranges starts 20m 15 levels , level increasing range 2m . maximum range upgrades 50m . increased relics vault upgrades . Additionally , range bots also amplified based tower 's range .
 Cost
 Level
 Cost
@@ -196,19 +196,18 @@ Golden Bot Duration
 Golden Bot Cooldown
 Unlock
 lab
-in
 Milestones
-at tier 5 wave 80. Unlocks Golden Bot Cooldown which reduces the bot Cooldown by 1 second for each level. Has 25 levels for a 25 second reduction to cooldown.
-This Lab has mention in the
+tier 5 wave 80 . Unlocks Golden Bot Cooldown reduces bot Cooldown 1 second level . 25 levels 25 second reduction cooldown .
+Lab mention
 Footguns
-section. Please consider.
+section . Please consider .
 Level
 Time
 Cost
 Expand
 Value
 1
-1d  14h 53m
+1d 14h 53m
 30.00M
 -1
 2
@@ -308,7 +307,7 @@ Value
 398.88B
 -25
 Golden Bot Duration
-Unlock Lab in Milestones at tier 10 wave 50. Cooldown Bot Duration increase the length of the bot activation. Has 20 levels increasing duration by 0.5s for a max increase of 10s.
+Unlock Lab Milestones tier 10 wave 50 . Cooldown Bot Duration increase length bot activation . 20 levels increasing duration 0.5s max increase 10s .
 Level
 Time
 Cost

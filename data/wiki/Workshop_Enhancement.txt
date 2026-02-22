@@ -1,7 +1,7 @@
 Workshop Enhancement
-Workshop Enhancements also have the same 3 types: Attack, Defense and Utility. New Enhancements of each are unlocked by spending coins on other enhancements of the same type.
+Workshop Enhancements also 3 types : Attack , Defense Utility . New Enhancements unlocked spending coins enhancements type .
 Unlock
-Workshop Enhancements are unlocked at tier 12 wave 60. Requires the Workshop Enhancement lab to be completed.
+Workshop Enhancements unlocked tier 12 wave 60 . Requires Workshop Enhancement lab completed .
 Level
 Time
 Cost
@@ -21,7 +21,7 @@ Damage/Meter
 Super Crit Multi
 Attack Speed
 Damage
-Unlocked for free after Workshop Enhancements are researched. Starts at 1x and increases by 0.01x per level. Has a max of 400 levels for x5.
+Unlocked free Workshop Enhancements researched . Starts 1x increases 0.01x per level . max 400 levels x5 .
 Level
 Value
 Coins
@@ -192,7 +192,7 @@ Total Coins
 330.80Q
 15.29s
 Rend Armor
-Requires 50 billion coins to be spent on damage enhancements to unlock. Applies a multiplier to Rend Max, chance, and Mult  of x1 when unlocked and increases by 0.01x per level. Has a maximum level of 400 for a 5x bonus.
+Requires 50 billion coins spent damage enhancements unlock . Applies multiplier Rend Max , chance , Mult x1 unlocked increases 0.01x per level . maximum level 400 5x bonus .
 Level
 Value
 Coins
@@ -363,7 +363,7 @@ Total Coins
 330.80Q
 15.29s
 Critical Factor
-Requires 500 billion coins to be spent on enhancements to unlock. Increases Crit Factor by 1.0x when unlocked and increases by 0.1 per level. Has 400 levels for a maximum of x5.
+Requires 500 billion coins spent enhancements unlock . Increases Crit Factor 1.0x unlocked increases 0.1 per level . 400 levels maximum x5 .
 Level
 Value
 Coins
@@ -534,7 +534,7 @@ Total Coins
 330.80Q
 15.29s
 Damage/Meter
-Requires 5 trillion coins to be spent on attack enhancements to unlock. Increases the Damage/Meter multiplier by x1 when unlocked and increases by 0.01x per level. Has a maximum level of 400 for a 5x bonus.
+Requires 5 trillion coins spent attack enhancements unlock . Increases Damage/Meter multiplier x1 unlocked increases 0.01x per level . maximum level 400 5x bonus .
 Level
 Value
 Coins
@@ -705,7 +705,7 @@ Total Coins
 330.80Q
 15.29s
 Super Crit Multi
-Requires 50 Trillion coins to be spent on enhancements to unlock. Increases Super Crit Multi by x1.0 when unlocked and increases by 0.1 per level. Has a maximum of 400 levels for a x5 multiplier.
+Requires 50 Trillion coins spent enhancements unlock . Increases Super Crit Multi x1.0 unlocked increases 0.1 per level . maximum 400 levels x5 multiplier .
 Level
 Value
 Coins
@@ -876,7 +876,7 @@ Total Coins
 330.80Q
 15.29s
 Attack Speed
-Requires 500 Trillion coins to be spent on enhancements to unlock. Increases Attack Speed by x1.0 when unlocked and increases by 0.01 per level. Has 75 levels for a max of 1.75x.
+Requires 500 Trillion coins spent enhancements unlock . Increases Attack Speed x1.0 unlocked increases 0.01 per level . 75 levels max 1.75x .
 Level
 Value
 Coins
@@ -1189,7 +1189,7 @@ Land Mines
 Wall Health
 Orb Size
 Health
-Health enhancement is unlocked for free after completing the Workshop Enhancement Labs. Increases Health by x1 when unlocked and increases by 0.01x per level. Has a maximum of 400 levels for a multiplier of x5.00.
+Health enhancement unlocked free completing Workshop Enhancement Labs . Increases Health x1 unlocked increases 0.01x per level . maximum 400 levels multiplier x5.00 .
 Level
 Value
 Coins
@@ -1360,7 +1360,7 @@ Total Coins
 330.80Q
 15.29s
 Health Regen
-Requires 50 billion coins to be spent on defense enhancements to unlock. Increases the health regen multiplier by x1 when unlocked and increases by 0.01x per level. Has a maximum level of 400 for a 5x bonus.
+Requires 50 billion coins spent defense enhancements unlock . Increases health regen multiplier x1 unlocked increases 0.01x per level . maximum level 400 5x bonus .
 Level
 Value
 Coins
@@ -1531,7 +1531,7 @@ Total Coins
 330.80Q
 15.29s
 Defense Absolute
-Requires 500 billion coins to be spent on defense enhancements to unlock. Increases the Defense Absolute multiplier by x1 when unlocked and increases by 0.01x per level. Has a maximum level of 400 for a 5x bonus.
+Requires 500 billion coins spent defense enhancements unlock . Increases Defense Absolute multiplier x1 unlocked increases 0.01x per level . maximum level 400 5x bonus .
 Level
 Value
 Coins
@@ -1702,7 +1702,7 @@ Total Coins
 330.80Q
 15.29s
 Land Mine Damage
-Requires 5 trillion coins to be spent on defense enhancements to unlock. Increases Land Mine Damage multiplier by x1 when unlocked and increases by 0.06x per level. Has a maximum level of 400 for a 25x bonus.
+Requires 5 trillion coins spent defense enhancements unlock . Increases Land Mine Damage multiplier x1 unlocked increases 0.06x per level . maximum level 400 25x bonus .
 Level
 Value
 Coins
@@ -1873,7 +1873,7 @@ Total Coins
 330.80Q
 15.29s
 Wall Health
-Requires 50 trillion coins to be spent on defense enhancements to unlock. Increases Wall Health by x1 when unlocked and increases by 0.01x per level. Has a maximum level of 400 for a 5x bonus.
+Requires 50 trillion coins spent defense enhancements unlock . Increases Wall Health x1 unlocked increases 0.01x per level . maximum level 400 5x bonus .
 Level
 Value
 Coins
@@ -2044,7 +2044,7 @@ Total Coins
 330.80Q
 15.29s
 Orb Size
-Requires 500 trillion coins to be spent on defense enhancements to unlock. Increases Orb Size by x1 when unlocked and increases by 0.01x per level. Has a maximum level of 200 for 3x orb size.
+Requires 500 trillion coins spent defense enhancements unlock . Increases Orb Size x1 unlocked increases 0.01x per level . maximum level 200 3x orb size .
 Level
 Value
 Coins
@@ -2141,7 +2141,7 @@ Free Upgrades
 Packages
 Enemy Level Skips
 Cash Bonus
-Cash Bonus enhancement is unlocked for free after completing the Workshop Enhancement Labs. Increases the Cash Bonus multiplier by x1 when unlocked and increases by 0.01x per level. The Cash workshop enhancement also increases the cash per wave, interest percentage, and max interest per wave amount by 1% each upgrade as well. Has a maximum level of 400 for a 5x bonus.
+Cash Bonus enhancement unlocked free completing Workshop Enhancement Labs . Increases Cash Bonus multiplier x1 unlocked increases 0.01x per level . Cash workshop enhancement also increases cash per wave , interest percentage , max interest per wave amount 1 % upgrade well . maximum level 400 5x bonus .
 Level
 Value
 Coins
@@ -2312,7 +2312,7 @@ Total Coins
 330.80Q
 15.29s
 Coin Bonus
-Requires 50 billion coins to be spent on Utility enhancements to unlock. Increases the Coin Bonus multiplier by x1 when unlocked and increases by 0.01x per level. Has a maximum level of 200 for a 3x bonus. Note: Coin Bonus enhancement affects tier bonus and Coins/kill. This means the overall benefit of Coin Bonus enhancement is squared.
+Requires 50 billion coins spent Utility enhancements unlock . Increases Coin Bonus multiplier x1 unlocked increases 0.01x per level . maximum level 200 3x bonus . Note : Coin Bonus enhancement affects tier bonus Coins/kill . means overall benefit Coin Bonus enhancement squared .
 Level
 Value
 Coins
@@ -3119,7 +3119,7 @@ Total Coins
 408.77Q
 11.19s
 Cells/Kill Bonus
-Requires 500 billion coins to be spent on Utility enhancements to unlock. Increases Cells/Kill by x1 when unlocked and increases by 0.01x per level. Has a maximum level of 200 for a 3x bonus.
+Requires 500 billion coins spent Utility enhancements unlock . Increases Cells/Kill x1 unlocked increases 0.01x per level . maximum level 200 3x bonus .
 Level
 Value
 Coins
@@ -3926,7 +3926,7 @@ Total Coins
 408.77Q
 11.19s
 Free Upgrades
-Requires 5 trillion coins to be spent on Utility enhancements to unlock. Increases all Free Upgrades by x1 when unlocked and increases by 0.01x per level. Has a maximum level of 100 for a 2x bonus.
+Requires 5 trillion coins spent Utility enhancements unlock . Increases Free Upgrades x1 unlocked increases 0.01x per level . maximum level 100 2x bonus .
 Level
 Value
 Coins
@@ -4333,7 +4333,7 @@ Total Coins
 1.58s
 16.97s
 Packages
-Requires 50 trillion coins to be spent on Utility enhancements to unlock. Increases Max Recovery Package and Recovery Amount by x1 when unlocked and increases by 0.01x per level. Has a maximum level of 300 for a 4x bonus.
+Requires 50 trillion coins spent Utility enhancements unlock . Increases Max Recovery Package Recovery Amount x1 unlocked increases 0.01x per level . maximum level 300 4x bonus .
 Level
 Value
 Coins
@@ -4464,7 +4464,7 @@ Total Coins
 34.88Q
 1.03s
 Enemy Level Skips
-Requires 500 trillion coins to be spent on Utility enhancements to unlock. Increases Enemy Health and Enemy Damage Level Skip multiplier by x1 when unlocked and increases by 0.01x per level. Has a maximum level of 60 for a 1.6x bonus.
+Requires 500 trillion coins spent Utility enhancements unlock . Increases Enemy Health Enemy Damage Level Skip multiplier x1 unlocked increases 0.01x per level . maximum level 60 1.6x bonus .
 Level
 Value
 Coins

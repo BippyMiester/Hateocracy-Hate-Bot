@@ -1,5 +1,5 @@
 Expand
-Tiers 13, 14 & 15
+Tiers 13 , 14 & 15
 Tier
 Tier 13
 Tier 14
@@ -42,7 +42,7 @@ Wall Fortification
 50
 15 Stones
 20 Stones
-Card:
+Card :
 UW Crit
 30 Stones
 30 Stones
@@ -170,11 +170,11 @@ Panda Skin
 Tech Tree Skin
 75 Stones
 4,500
-Coins +10%
+Coins +10 %
 45 Stones
-Tower Damage +10%
+Tower Damage +10 %
 60 Stones
-Critical Factor +10%
+Critical Factor +10 %
 100 Stones
 Totals
 300m Coins

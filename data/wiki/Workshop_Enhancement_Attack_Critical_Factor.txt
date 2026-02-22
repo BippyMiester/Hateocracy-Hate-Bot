@@ -1,5 +1,5 @@
 Critical Factor
-Requires 500 billion coins to be spent on enhancements to unlock. Increases Crit Factor by 1.0x when unlocked and increases by 0.1 per level. Has 400 levels for a maximum of x5.
+Requires 500 billion coins spent enhancements unlock . Increases Crit Factor 1.0x unlocked increases 0.1 per level . 400 levels maximum x5 .
 Level
 Value
 Coins

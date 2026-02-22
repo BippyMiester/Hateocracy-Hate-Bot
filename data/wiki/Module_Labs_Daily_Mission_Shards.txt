@@ -1,5 +1,5 @@
 Daily Mission Shards
-Unlock Lab in Milestones at tier 4 wave 70. Increases the Shards given by daily missions. Has 50 levels for an additional 50 extra shard for each mission.
+Unlock Lab Milestones tier 4 wave 70 . Increases Shards given daily missions . 50 levels additional 50 extra shard mission .
 Level
 Time
 Cost
@@ -41,7 +41,7 @@ Value
 1.5B
 +9
 10
-1d  20h 37m
+1d 20h 37m
 2.1B
 +10
 11
@@ -73,7 +73,7 @@ Value
 12.2B
 +17
 18
-2d  16h 57m
+2d 16h 57m
 14.7B
 +18
 19
@@ -105,7 +105,7 @@ Value
 41.4B
 +25
 26
-4d  2h 12m
+4d 2h 12m
 46.8B
 +26
 27
@@ -137,7 +137,7 @@ Value
 98.3B
 +33
 34
-6d  2h 34m
+6d 2h 34m
 107.8B
 +34
 35
@@ -169,7 +169,7 @@ Value
 192.0B
 +41
 42
-8d  19h 52m
+8d 19h 52m
 206.7B
 +42
 43
@@ -201,6 +201,6 @@ Value
 331.7B
 +49
 50
-12d  7h 36m
+12d 7h 36m
 352.9B
 +50

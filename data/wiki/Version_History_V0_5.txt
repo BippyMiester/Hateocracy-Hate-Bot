@@ -17,53 +17,53 @@ Minor Changes / Bugs
 Versions
 vO.5.0
 Features
-Translated into 8 new languages - check settings panel to switch to your native language
-New Card (common) - Enemy Balance
-New Card (rare) - Critical Coin
-New Card (epic) - Super Tower
-New Card (epic) - Second Wind
+Translated 8 new languages - check settings panel switch native language
+New Card ( common ) - Enemy Balance
+New Card ( rare ) - Critical Coin
+New Card ( epic ) - Super Tower
+New Card ( epic ) - Second Wind
 New Defense Upgrades - Land Mines
 New Defense Upgrade - Death Defy
 Balance
-Enemy base attack damage for higher tiers decreased, decreased more for highest tiers
-Smart Missiles: Cost of upgrading number of missiles reduced a lot
-Smart Missiles: Max missiles increased from 10 to 14
-Golden tower base cool down increased from 180 to 270 seconds, max level increased from 12 to 15
-Chain lightning base chance reduced from 10 to 5%, increase per level decreased from 3.0 to 1.5%
-Chain lightning Base damage increased from 40 to 70%, damage per level increased from 5 to 10%
-Ultimate weapon Land Mines renamed to Inner Land Mines
-Inner land mines explosion radius increased from .75 to .90
-Inner land mines base damage increased from 600 to 800%, increase per level from 40 to 50%
+Enemy base attack damage higher tiers decreased , decreased highest tiers
+Smart Missiles : Cost upgrading number missiles reduced lot
+Smart Missiles : Max missiles increased 10 14
+Golden tower base cool increased 180 270 seconds , max level increased 12 15
+Chain lightning base chance reduced 10 5 % , increase per level decreased 3.0 1.5 %
+Chain lightning Base damage increased 40 70 % , damage per level increased 5 10 %
+Ultimate weapon Land Mines renamed Inner Land Mines
+Inner land mines explosion radius increased .75 .90
+Inner land mines base damage increased 600 800 % , increase per level 40 50 %
 Inner land mine contact size increased slightly
-Death Wave base damage increased from 120 to 150%, upgrade per level from 10 to 15%
-Lifesteal increase per upgrade decreased from .15 to .14%
-Shockwave size increase per upgrade increased from .04 to .05
+Death Wave base damage increased 120 150 % , upgrade per level 10 15 %
+Lifesteal increase per upgrade decreased .15 .14 %
+Shockwave size increase per upgrade increased .04 .05
 Bugs
-Projectiles sometimes affecting the incorrect enemies when a block intercepts a shot
-Total coins on Battle panel not fitting in text box
-Notification for lab research completing firing by mistake
-Many other small bugs
+Projectiles sometimes affecting incorrect enemies block intercepts shot
+Total coins Battle panel fitting text box
+Notification lab research completing firing mistake
+Many small bugs
 v0.5.4
 Balance
-All ultimate weapons max damage level increased from 10 to 15
-Chain lightning base damage increased from 70 to 75%
-Chain lightning damage per level increased from 10 to 15%
-Death wave damage per level increased from 15 to 20%
-Inner land mines damage per level increased from 50 to 60%
+ultimate weapons max damage level increased 10 15
+Chain lightning base damage increased 70 75 %
+Chain lightning damage per level increased 10 15 %
+Death wave damage per level increased 15 20 %
+Inner land mines damage per level increased 50 60 %
 Minor Changes / Bugs
-iOS home panel avoid top notch of devices
-Added a confirmation window when rushing lab research that costs more than 20 gems.
-Added a confirmation window when swapping an unfinished research on the lab.
-Tournament Claim window is now automatically opened when the game is open and claim is available.
-Added Death defy count on game over screen
-Second wind wings are now visible until triggered in the round, to make clear that it is still available.
-Fixed an issue where Super Tower timer was still counting while the game is paused.
-Fixed an issue where swamps could disappear while the game was paused.
-Fixed an issue where land mines could immediately auto explode as soon the game was unpaused
-Fixed an issue where second wind invincible durations was still counting while the game was paused.
+iOS home panel avoid top notch devices
+Added confirmation window rushing lab research costs 20 gems .
+Added confirmation window swapping unfinished research lab .
+Tournament Claim window automatically opened game open claim available .
+Added Death defy count game screen
+Second wind wings visible triggered round , make clear still available .
+Fixed issue Super Tower timer still counting game paused .
+Fixed issue swamps could disappear game paused .
+Fixed issue land mines could immediately auto explode soon game unpaused
+Fixed issue second wind invincible durations still counting game paused .
 Translations fixed
-Labs fixed for those it was broken for
-Other minor stuff
+Labs fixed broken
+minor stuff
 Versions
 v0.27
 v0.26

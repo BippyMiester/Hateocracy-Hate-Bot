@@ -1,25 +1,25 @@
 Description
-Creates a Black Hole after a period of time that lasts a period of time that sucks enemies in, with a range of meters.
+Creates Black Hole period time lasts period time sucks enemies , range meters .
 Workshop
 Basic Upgrades
 Ultimate Weapon Plus
 Basic Upgrades
-Located in the
+Located
 Ultimate Weapon
-menu. Unlocking Black Hole allows the player to upgrade Size, Duration and Cooldown using stones.
+menu . Unlocking Black Hole allows player upgrade Size , Duration Cooldown using stones .
 Black Hole Distance
-Black hole distance from the tower is determined by tower range. Larger tower ranges will move the black hole further away from the tower. Black hole distance increases faster than tower range meaning the center of black hole will move further away from the tower range line as range increases.
+Black hole distance tower determined tower range . Larger tower ranges move black hole away tower . Black hole distance increases faster tower range meaning center black hole move away tower range line range increases .
 Costs
-Size has 20 levels, Duration has 23 levels, and Cooldown has 15 levels. The total stone cost is 9,723.
+Size 20 levels , Duration 23 levels , Cooldown 15 levels . total stone cost 9,723 .
 Size
 Stones
-(Size)
+( Size )
 Stones
-(Duration)
+( Duration )
 Cooldown
 Expand
 Stones
-(Cooldown)
+( Cooldown )
 30m
 0
 15s
@@ -147,7 +147,7 @@ Total
 5392
 2040
 Ultimate Weapon Plus - Consume
-Ultimate Weapon Plus abilities can only be unlocked when all 9 Ultimate Weapons are purchased. Each Black Hole deals a multiple of the current wave HP to every enemy affected at the end of its activation. Undocumented, unlocking Consume also increases the speed of the "pull" from Black hole towards the center.
+Ultimate Weapon Plus abilities unlocked 9 Ultimate Weapons purchased . Black Hole deals multiple current wave HP every enemy affected end activation . Undocumented , unlocking Consume also increases speed `` pull `` Black hole towards center .
 Cost
 Expand
 UW+ Cost Table
@@ -202,15 +202,14 @@ Value
 Labs
 Unlock
 labs
-in
 Milestones
-. Black Hole damage and Black Hole coin bonus are unlocked at tier 5 wave 150. Extra Black Hole is unlocked on tier 5 wave 500. Black Hole Disable Ranged Enemies is unlocked on tier 14 wave 20.
+. Black Hole damage Black Hole coin bonus unlocked tier 5 wave 150 . Extra Black Hole unlocked tier 5 wave 500 . Black Hole Disable Ranged Enemies unlocked tier 14 wave 20 .
 Black Hole Damage
 Black Hole Coin Bonus
 Extra Black Hole
 Black Hole Disable Ranged Enemies
 Black Hole Damage
-Black Hole will do a percent damage of enemy total health per second. Protectors do not reduce damage from Black Hole. Has 10 levels.
+Black Hole percent damage enemy total health per second . Protectors reduce damage Black Hole . 10 levels .
 Level
 Time
 Cost
@@ -219,45 +218,45 @@ Value
 1
 1d 15h 59m
 20,000,000
-0.20%
+0.20 %
 2
-2d  0h 21m
+2d 0h 21m
 20,810,000
-0.40%
+0.40 %
 3
-2d  8h 53m
+2d 8h 53m
 21,850,000
-0.60%
+0.60 %
 4
 2d 17h 54m
 24,050,000
-0.80%
+0.80 %
 5
-3d  3h 49m
+3d 3h 49m
 29,500,000
-1.00%
+1.00 %
 6
-3d 15h  6m
+3d 15h 6m
 41,790,000
-1.20%
+1.20 %
 7
-4d  4h 17m
+4d 4h 17m
 66,330,000
-1.40%
+1.40 %
 8
 4d 19h 58m
 110,660,000
-1.60%
+1.60 %
 9
 5d 14h 49m
 184,660,000
-1.80%
+1.80 %
 10
 6d 13h 31m
 300,870,000
-2.00%
+2.00 %
 Black Hole Coin Bonus
-Extra coins are earned by enemies killed within Black Hole. Enemies do not need to be killed by Black Hole to be given this bonus, nor do they need to be affected by its pull.
+Extra coins earned enemies killed within Black Hole . Enemies need killed Black Hole given bonus , need affected pull .
 Level
 Time
 Cost
@@ -268,11 +267,11 @@ Value
 20,000,000
 1.50x
 2
-2d  0h 21m
+2d 0h 21m
 21,405,405
 2.00x
 3
-2d  8h 53m
+2d 8h 53m
 23,124,324
 2.50x
 4
@@ -280,15 +279,15 @@ Value
 26,627,027
 3.00x
 5
-3d  3h 49m
+3d 3h 49m
 35,837,838
 3.50x
 6
-3d 15h  6m
+3d 15h 6m
 58,248,649
 4.00x
 7
-4d  4h 17m
+4d 4h 17m
 106,162,162
 4.50x
 8
@@ -308,7 +307,7 @@ Value
 1,030,000,000
 6.50x
 12
-9d  1h 30m
+9d 1h 30m
 1,640,000,000
 7.00x
 13
@@ -324,7 +323,7 @@ Value
 5,410,000,000
 8.50x
 16
-17d 11h  9m
+17d 11h 9m
 7,630,000,000
 9.00x
 17
@@ -336,7 +335,7 @@ Value
 14,230,000,000
 10.00x
 19
-27d 23h  5m
+27d 23h 5m
 18,930,000,000
 10.50x
 20
@@ -344,23 +343,23 @@ Value
 24,800,000,000
 11.00x
 Extra Black Hole
-A 2nd black hole will spawn when Black Hole is active. The 2nd black hole will always spawn on the opposite side of the tower. The 2nd black hole has the same stats and abilities of the original black hole.
+2nd black hole spawn Black Hole active . 2nd black hole always spawn opposite side tower . 2nd black hole stats abilities original black hole .
 Level
 Time
 Cost
 Value
 1
-17d  8h 39m
+17d 8h 39m
 15,000,000,000
 Unlocked
 Black Hole Disable Ranged Enemies
-Ranged enemies inside Black Holes will not be able to fire even when in range. Unlocks Tier 14 Wave 20.
+Ranged enemies inside Black Holes able fire even range . Unlocks Tier 14 Wave 20 .
 Level
 Time
 Cost
 Value
 1
-25d  9h 9m
+25d 9h 9m
 550,000,000,000
 Unlocked
 Workshop Upgrades
@@ -385,7 +384,7 @@ Rend Armor Mult
 Defense Upgrades
 Health
 Health Regen
-Defense %
+Defense %
 Defense Absolute
 Thorn Damage
 Lifesteal

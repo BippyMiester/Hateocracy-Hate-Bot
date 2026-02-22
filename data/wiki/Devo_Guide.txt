@@ -1,10 +1,10 @@
-Page is a WIP and only covers Basic Devo for now.
-*****This guide is no longer applicable/out of date as of version 0.24.4 due to a major update to the death wave ultimate weapon*****
+Page WIP covers Basic Devo .
+* * * * * guide longer applicable/out date version 0.24.4 due major update death wave ultimate weapon * * * * *
 f
-Devo refers to any variant of devolving (devo) your tower for the purpose of farming coins. Default devo aims to improve tower hp by up to x7 for the purpose of survivability.
+Devo refers variant devolving ( devo ) tower purpose farming coins . Default devo aims improve tower hp x7 purpose survivability .
 Contents
 1
-Types of Devo
+Types Devo
 2
 Full Devo Explanation
 3
@@ -18,9 +18,9 @@ Cards
 4
 Workshop
 4.1
-Stats to Max
+Stats Max
 4.2
-Stats to Ignore
+Stats Ignore
 4.3
 Optional Stats
 4.3.1
@@ -30,29 +30,29 @@ Special Notes
 6
 Early Devo
 6.1
-Tips and Tricks
+Tips Tricks
 7
 Surviving
-Types of Devo
-Max Devo, Crescent Devo, Orb Devo, LM Devo, SM Devo
+Types Devo
+Max Devo , Crescent Devo , Orb Devo , LM Devo , SM Devo
 Full Devo Explanation
-Devo is a state of “Devolving” your tower to a bare basic level in the majority of stats to limit as much as possible how many enemies your bullets are killing so that they stack up for DW to kill. At a basic level, this will allow you to max out the DW health bonus at x7. More advanced versions discussed will build off this for coin bonuses.
-Through High workshop damage and increasing some stats throughout the run you can maintain a devo state for quite a while through lifesteal alone.
+Devo state “ Devolving ” tower bare basic level majority stats limit much possible many enemies bullets killing stack DW kill . basic level , allow max DW health bonus x7 . advanced versions discussed build coin bonuses .
+High workshop damage increasing stats throughout run maintain devo state quite lifesteal alone .
 Requirements
-Recommended Lifetime coins begins at 1 bil but will be a smaller boost over blender. 10-15 bil is recommended.
+Recommended Lifetime coins begins 1 bil smaller boost blender . 10-15 bil recommended .
 UW Sync
-Black Hole and Golden Tower need to be synced in order to get substantial coin gains.
-Death Wave can be synced for Max Devo to be the most efficient.
-Smart Missile can be synced for SM Devo
+Black Hole Golden Tower need synced order get substantial coin gains .
+Death Wave synced Max Devo efficient .
+Smart Missile synced SM Devo
 Death Wave Investment
-You can go a variety of directions with DW.
-Note:
-Because of the introduction of modules, you can get away with less upgrades to DW and wave by leveling core and cannon modules and rerolling for higher rarity DW effects on modules.
-Minimal Investment - Either no upgrades or a few damage upgrades and 2nd wave. This will be entirely to get x7 HP and then transition to your farming method of choice. The more lifetime coins you have the easier x7 will be with a lower DW.
-Optimal Investment - 800 Stones to sync with GT and BH at 3:20 plus the minimal investment. The decreased sync will help reach x7 considerably and will unlock MaxDevo strategy.
-Note:
-By using Multiverse Nexus, you can get a sync earlier than the investment stated here. Because of the penalties to cooldown from this module, you will still want to sync them naturally if you go this route.
-Further Investment - While investing further will increase coin production, DW, GT and BH get expensive the lower you go. It is recommended to max Chrono Field prior to investing any further if you choose to do so.
+go variety directions DW .
+Note :
+introduction modules , get away less upgrades DW wave leveling core cannon modules rerolling higher rarity DW effects modules .
+Minimal Investment - Either upgrades damage upgrades 2nd wave . entirely get x7 HP transition farming method choice . lifetime coins easier x7 lower DW .
+Optimal Investment - 800 Stones sync GT BH 3:20 plus minimal investment . decreased sync help reach x7 considerably unlock MaxDevo strategy .
+Note :
+using Multiverse Nexus , get sync earlier investment stated . penalties cooldown module , still want sync naturally go route .
+Investment - investing increase coin production , DW , GT BH get expensive lower go . recommended max Chrono Field prior investing choose .
 Cards
 Enemy Balance
 Cash
@@ -60,45 +60,45 @@ Coins
 Crit Coin
 HP
 Fortress
-Def %
+Def %
 Damage
-Berzerker - Will SIGNIFICANTLY help DW
+Berzerker - SIGNIFICANTLY help DW
 Wave Skip
-For early devo you want to leave damage cards off and add them when DW cant kill anymore just to optimize your earlier waves.
-Crit Chance is great addition when you have more slots. ASPD card can boost lifesteal once bullets aren't one shotting enemies. You can test when to add it easily enough.
-Slow Aura can help soften how much damage you take.
+early devo want leave damage cards add DW cant kill anymore optimize earlier waves .
+Crit Chance great addition slots . ASPD card boost lifesteal bullets n't one shotting enemies . test add easily enough .
+Slow Aura help soften much damage take .
 Workshop
-Have the respec lab finished.
-You want to initially put equal levels into HP and Damage and enough Def Abs levels to get you at least a few hundred waves just to help you survive while you build HP.
-Then Upgrade HP twice as many levels as damage for a while until you can easily max HP in a run, then swap to Damage until damage and HP are the same levels then Damage twice as many as HP.
-Adding more Def Abs here and there can help as well.
-Stats to Max
-Defense %, Lifesteal, Cash Bonus, Cash / Wave, Coins/ Kill, Coins / Wave, Interest / Wave
-Stats to Ignore
-Attack Speed, Multishot Chance, Rapid Fire Chance, Bounce Shot Chance, ALL Free Upgrades, Land Mine Chance, Thorns, Range
+respec lab finished .
+want initially put equal levels HP Damage enough Def Abs levels get least hundred waves help survive build HP .
+Upgrade HP twice many levels damage easily max HP run , swap Damage damage HP levels Damage twice many HP .
+Adding Def Abs help well .
+Stats Max
+Defense % , Lifesteal , Cash Bonus , Cash / Wave , Coins/ Kill , Coins / Wave , Interest / Wave
+Stats Ignore
+Attack Speed , Multishot Chance , Rapid Fire Chance , Bounce Shot Chance , Free Upgrades , Land Mine Chance , Thorns , Range
 Optional Stats
-These are optional for things like lazy devo and making transition to blender or GC easier with cash during a run
+optional things like lazy devo making transition blender GC easier cash run
 Maxable
-Multi Shot Targets, Rapid Fire Duration, Bounce Shot Targets, Defy Death, Packages, Shock Wave Freq, Knockback Chance
-Crit Chance - You can max this for lazy devo, but early on will make getting x7 more difficult because your bullets will kill longer.
-Crit Factor - 100 Levels is fairly Cheap, only go higher if you can afford it easily
-DPM - 100 levels as well
-Thorns - DO NOT go to high, test various amounts during runs to find a sweet spot somewhere between 5% and 20% to start and you can do more with cash in a run
-Knockback Force-You can Max this but dont add multi shot chance during a run if you do. This will help transtions
+Multi Shot Targets , Rapid Fire Duration , Bounce Shot Targets , Defy Death , Packages , Shock Wave Freq , Knockback Chance
+Crit Chance - max lazy devo , early make getting x7 difficult bullets kill longer .
+Crit Factor - 100 Levels fairly Cheap , go higher afford easily
+DPM - 100 levels well
+Thorns - go high , test various amounts runs find sweet spot somewhere 5 % 20 % start cash run
+Knockback Force-You Max dont add multi shot chance run . help transtions
 Special Notes
-Orbs- You can Max orb speed and then add an orb or 2 in a run, or leave it alone. there are a lot of paths for orbs in devo
-Super Crit - Unlock this when it is easily affordable and do some cheap upgrades on it, then just max with cash. Will Drastically help your DW out
-Shockwave Size - 1.7-1.9 to help with orb devo
+Orbs- Max orb speed add orb 2 run , leave alone . lot paths orbs devo
+Super Crit - Unlock easily affordable cheap upgrades , max cash . Drastically help DW
+Shockwave Size - 1.7-1.9 help orb devo
 Early Devo
-Early devo is the default devo with the objective of maxing the HP multiplier. Devo can be rough without a lot of damage since it limits how much you can lifesteal and how long your DW can kill. You will need to start without crit chance and damage cards to maximize stacking enemies during lower waves, adding them in when you need them to keep killing.
-High Def Abs will really help out here so you are not receiving a ton of damage even in later waves.
-When you have enough coins to easily x7, you are ready to lazy devo where you can max certain stats and afk more.
-Tips and Tricks
-If you accidentally add too many bullets you can unequip your damage or berzerker card to let enemies stack up still. Just be careful of lifesteal. This works best if you have really high HP in workshop.
-Optimal Tower range is 40-45m. 30m is fine for Max Devo but likely too small for orb devo and you lose coin bot coverage due to both coin bot shrinking at smaller range and losing coin bot coverage of the orb line due to smaller travel pattern.
-Offsetting DW is no longer required and can actually lead to less coins early on in runs. But you can offset DW later in max devo to go further by turning DW off and turning it back on when there is about 5s of BH left, so that BH damage can soften them.
+Early devo default devo objective maxing HP multiplier . Devo rough without lot damage since limits much lifesteal long DW kill . need start without crit chance damage cards maximize stacking enemies lower waves , adding need keep killing .
+High Def Abs really help receiving ton damage even later waves .
+enough coins easily x7 , ready lazy devo max certain stats afk .
+Tips Tricks
+accidentally add many bullets unequip damage berzerker card let enemies stack still . careful lifesteal . works best really high HP workshop .
+Optimal Tower range 40-45m . 30m fine Max Devo likely small orb devo lose coin bot coverage due coin bot shrinking smaller range losing coin bot coverage orb line due smaller travel pattern .
+Offsetting DW longer required actually lead less coins early runs . offset DW later max devo go turning DW turning back 5s BH left , BH damage soften .
 Surviving
-The lower your lifetime coins is the more struggle there will be, but it gets easier. Def Abs is massive for surviving. With enough levels, you can go a few hundred waves without taking damage even on mid tiers.
-Eventually though you will be in lifesteal mode, so you slowly add attack speed, then bounce shot or rapid fire. Just test when to add them. When your workshop gets strong enough you can survive long enough that you can just wait and max attack speed instead of slowly increasing it.
+lower lifetime coins struggle , gets easier . Def Abs massive surviving . enough levels , go hundred waves without taking damage even mid tiers .
+Eventually though lifesteal mode , slowly add attack speed , bounce shot rapid fire . test add . workshop gets strong enough survive long enough wait max attack speed instead slowly increasing .
 1
 8

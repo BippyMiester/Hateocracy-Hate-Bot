@@ -9,1252 +9,1252 @@ Using Relics
 Relics
 00:08
 Description
-Relics are passive buffs to increase tower abilities.
+Relics passive buffs increase tower abilities .
 Unlock
-Relic unlocks can be viewed in the
+Relic unlocks viewed
 Themes Menu
-. There are 6 main methods of unlocking relics:
+. 6 main methods unlocking relics :
 Milestones
-on wave 4500
+wave 4500
 Tournament
 placement
 Event
 completion & store
 Guild
 store
-Years of gameplay
-Event store relics can only be obtained on event re-runs.
+Years gameplay
+Event store relics obtained event re-runs .
 Using Relics
-Relics are passive and used automatically after the relic is unlocked. The bonuses are additive with similar relics and multiplicative with other bonuses.
+Relics passive used automatically relic unlocked . bonuses additive similar relics multiplicative bonuses .
 Total Bonuses
 Collapse
-Misc.
+Misc .
 Total
 Lab speed
-71%
+71 %
 Bot Range
 10m
 Damage
 Total
 Damage
-97%
+97 %
 Ultimate Damage
-35%
+35 %
 Attack Speed
-9%
+9 %
 Crit Chance
-9%
+9 %
 Crit Factor
-98%
+98 %
 Damage/Meter
-69%
+69 %
 Super Critical Chance
-6%
+6 %
 Super Critical Mult
-5%
+5 %
 Rend Armor Mult
-2%
+2 %
 Defense
 Total
 Health
-103%
+103 %
 Health Regen
-23%
+23 %
 Defense
-4%
+4 %
 Defense Absolute
-72%
+72 %
 Thorns
-10%
+10 %
 Knockback Force
-19%
+19 %
 Orb Speed
-24%
+24 %
 Wall Rebuild
 -2s
 Utility
 Total
 Cash
-18%
+18 %
 Coins
-80%
+80 %
 Free Attack Upgrade
-8%
+8 %
 Free Defense Upgrade
-5%
+5 %
 Free Utility Upgrade
-4%
+4 %
 Recovery Amount
-14%
+14 %
 Enemy Attack Level Skip
-2%
+2 %
 Enemy Health Level Skip
-2%
+2 %
 Relics
-Nr. Order
+Nr . Order
 Relic
 Rarity
 Description
 Unlock Requirement
 1
-T:I Flux
+: Flux
 Rare
-Increase coins earned by 2%
-Milestone: Beat Wave 4500 in tier 1
+Increase coins earned 2 %
+Milestone : Beat Wave 4500 tier 1
 2
-T:II  Lumin
+: II Lumin
 Rare
-Increase lab speed by 1.5%
-Milestone: Beat Wave 4500 in tier 2
+Increase lab speed 1.5 %
+Milestone : Beat Wave 4500 tier 2
 3
-T:III  Pulse
+: III Pulse
 Rare
-Increase critical factor by 2%
-Milestone: Beat Wave 4500 in tier 3
+Increase critical factor 2 %
+Milestone : Beat Wave 4500 tier 3
 4
-T:IV  Harmonic
+: IV Harmonic
 Rare
-Increase tower damage by 2%
-Milestone: Beat Wave 4500 in tier 4
+Increase tower damage 2 %
+Milestone : Beat Wave 4500 tier 4
 5
-T:V Ether
+: V Ether
 Rare
-Increase tower health by 2%
-Milestone: Beat Wave 4500 in tier 5
+Increase tower health 2 %
+Milestone : Beat Wave 4500 tier 5
 6
-T:VI Nova
+: VI Nova
 Epic
-Increase defense absolute by 5%
-Milestone: Beat wave 4500 in  tier 6
+Increase defense absolute 5 %
+Milestone : Beat wave 4500 tier 6
 7
-T:VII Aether
+: VII Aether
 Epic
-Increase coins earned by 5%
-Milestone: Beat wave 4500 in  tier 7
+Increase coins earned 5 %
+Milestone : Beat wave 4500 tier 7
 8
-T:VIII Graviton
+: VIII Graviton
 Epic
-Increase damage/meter by 5%
-Milestone: Beat wave 4500 in  tier 8
+Increase damage/meter 5 %
+Milestone : Beat wave 4500 tier 8
 9
-T:IX Fusion
+: IX Fusion
 Epic
-Increase tower health by 5%
-Milestone: Beat wave 4500 in  tier 9
+Increase tower health 5 %
+Milestone : Beat wave 4500 tier 9
 10
-T:X Plasma
+: X Plasma
 Epic
-Increase damage/meter by 5%
-Milestone: Beat wave 4500 in  tier 10
+Increase damage/meter 5 %
+Milestone : Beat wave 4500 tier 10
 11
-T:XI  Resonance
+: XI Resonance
 Legendary
-Increase defense absolute by 10%
-Milestone: Beat wave 4500 in  tier 11
+Increase defense absolute 10 %
+Milestone : Beat wave 4500 tier 11
 12
-T:XII  Chrono
+: XII Chrono
 Legendary
-Increase lab speed by 10%
-Milestone: Beat wave 4500 in  tier 12
+Increase lab speed 10 %
+Milestone : Beat wave 4500 tier 12
 13
-T:XIII  Hyper
+: XIII Hyper
 Legendary
-Increase coins earned by 10%
-Milestone: Beat wave 4500 in  tier 13
+Increase coins earned 10 %
+Milestone : Beat wave 4500 tier 13
 14
-T:XIV  Arcane
+: XIV Arcane
 Legendary
-Increase tower damage by 10%
-Milestone: Beat wave 4500 in  tier 14
+Increase tower damage 10 %
+Milestone : Beat wave 4500 tier 14
 15
-T:XV  Celestial
+: XV Celestial
 Legendary
-Increase critical factor by 10%
-Milestone: Beat wave 4500 in  tier 15
+Increase critical factor 10 %
+Milestone : Beat wave 4500 tier 15
 16
-T:XVI Quantum
+: XVI Quantum
 Legendary
-Increase tower health by 10%
-Milestone: Beat wave 4500 in  tier 16
+Increase tower health 10 %
+Milestone : Beat wave 4500 tier 16
 17
-T:XVII Nebula
+: XVII Nebula
 Legendary
-Increase damage/meter by 10%
-Milestone: Beat wave 4500 in tier 17
+Increase damage/meter 10 %
+Milestone : Beat wave 4500 tier 17
 18
-T:XVIII Singularity
+: XVIII Singularity
 Legendary
-Increase lab speed by 10%
-Milestone: Beat wave 4500 in tier 18
+Increase lab speed 10 %
+Milestone : Beat wave 4500 tier 18
 19
-T:XIX Atomic
+: XIX Atomic
 Legendary
-Increase tower damage by 10%
-Milestone: Beat wave 4500 in tier 19
+Increase tower damage 10 %
+Milestone : Beat wave 4500 tier 19
 20
-T:XX Cyber
+: XX Cyber
 Legendary
-Increase ultimate damage by 8%
-Milestone: Beat wave 4500 in tier 20
+Increase ultimate damage 8 %
+Milestone : Beat wave 4500 tier 20
 21
-T:XXI Eclipse
+: XXI Eclipse
 Legendary
-Increase lab speed by 10%
-Milestone: Beat wave 4500 in tier 21
+Increase lab speed 10 %
+Milestone : Beat wave 4500 tier 21
 22
-Copper  Badge
+Copper Badge
 Rare
-Increase tower damage by 3%
-Tournament: Finish top 4 in copper
+Increase tower damage 3 %
+Tournament : Finish top 4 copper
 23
-Silver  Badge
+Silver Badge
 Rare
-Increase coins earned by 5%
-Tournament: Finish top 4 in silver
+Increase coins earned 5 %
+Tournament : Finish top 4 silver
 24
-Gold  Badge
+Gold Badge
 Epic
-Increase critical factor by 5%
-Tournament: Finish Top 4 in Gold
+Increase critical factor 5 %
+Tournament : Finish Top 4 Gold
 25
-Platinum  Badge
+Platinum Badge
 Epic
-Increase lab speed by 4%
-Tournament: Finish top 4 in  Platinum
+Increase lab speed 4 %
+Tournament : Finish top 4 Platinum
 26
-Champion  Badge
+Champion Badge
 Legendary
-Increase damage/meter by 10%
-Tournament: Finish top 4 in  Champion
+Increase damage/meter 10 %
+Tournament : Finish top 4 Champion
 27
-Tower  Master
+Tower Master
 Legendary
-Increase tower health by 10%
-Tournament: Finish top 4 in  Legends
+Increase tower health 10 %
+Tournament : Finish top 4 Legends
 28
 Legend Badge
 Legendary
-Increase critical factor by 10%
-Tournament: Win Legend
+Increase critical factor 10 %
+Tournament : Win Legend
 29
-1st Tower  Birthday
+1st Tower Birthday
 Rare
-Increase tower damage by 2%
-Play for 1 year
+Increase tower damage 2 %
+Play 1 year
 30
-2nd Tower  Birthday
+2nd Tower Birthday
 Rare
-Increase critical factor by 2%
-Play for 2 years
+Increase critical factor 2 %
+Play 2 years
 31
-3rd Tower  Birthday
+3rd Tower Birthday
 Rare
-Increase damage/meter by 2%
-Play for 3 years
+Increase damage/meter 2 %
+Play 3 years
 32
-4th Tower  Birthday
+4th Tower Birthday
 Rare
-Increase health by 2%
-Play for 4 year
+Increase health 2 %
+Play 4 year
 33
-5th Tower  Birthday
+5th Tower Birthday
 Rare
-Increase critical factor by 2%
-Play for 5 years
+Increase critical factor 2 %
+Play 5 years
 34
-6th Tower  Birthday
+6th Tower Birthday
 Rare
-Increase damage/meter by 2%
-Play for 6 years
+Increase damage/meter 2 %
+Play 6 years
 35
-No  Spoon
+Spoon
 Rare
-Increase defense absolute by 2%
-Event: Earn 350 medals during  the "Into the Matrix"
+Increase defense absolute 2 %
+Event : Earn 350 medals `` Matrix ``
 36
 Red Pill
 Epic
-Increase tower health by 5%
-Event: Earn 700 medals during  the "Into the Matrix"
+Increase tower health 5 %
+Event : Earn 700 medals `` Matrix ``
 37
 Dreamcatcher
 Rare
-Increase coins earned by 2%
-Event: Earn 350 medals during  the "Full Moon"
+Increase coins earned 2 %
+Event : Earn 350 medals `` Full Moon ``
 38
-Spirit  Wolf
+Spirit Wolf
 Epic
-Increase critical factor by 5%
-Event: Earn 700 medals during  the "Full Moon"
+Increase critical factor 5 %
+Event : Earn 700 medals `` Full Moon ``
 39
 Bacteriophage
 Rare
-Increase tower damage by 2%
-Event: Earn 350 medals during  the "Viral Outbreak"
+Increase tower damage 2 %
+Event : Earn 350 medals `` Viral Outbreak ``
 40
 Neuron
 Epic
-Increase health by 5%
-Event: Earn 700 medals during  the "Viral Outbreak"
+Increase health 5 %
+Event : Earn 700 medals `` Viral Outbreak ``
 41
-Ionized  Plasma
+Ionized Plasma
 Rare
-Increase defense absolute by 2%
-Event: Earn 350 medals during  the "Plasma Returns"
+Increase defense absolute 2 %
+Event : Earn 350 medals `` Plasma Returns ``
 42
-Plasma  Arc
+Plasma Arc
 Epic
-Increase lab speed by 4%
-Event: Earn 700 medals during  the "Plasma Returns"
+Increase lab speed 4 %
+Event : Earn 700 medals `` Plasma Returns ``
 43
 Honey Drop
 Rare
-Increase tower damage by 2%
-Event: Earn 350 medals during the "Honey"
+Increase tower damage 2 %
+Event : Earn 350 medals `` Honey ``
 44
 Stinger
 Epic
-Increase critical factor by 5%
-Event: Earn 700 medals during the "Honey"
+Increase critical factor 5 %
+Event : Earn 700 medals `` Honey ``
 45
 Aurora Vortex
 Rare
-Increase tower health by 2%
-Event: Earn 350 medals during the "Aurora (II)"
+Increase tower health 2 %
+Event : Earn 350 medals `` Aurora ( II ) ``
 46
 Contained Ions
 Epic
-Increase defense absolute by 5%
-Event: Earn 700 medals during the "Aurora (II)"
+Increase defense absolute 5 %
+Event : Earn 700 medals `` Aurora ( II ) ``
 47
 Alien Head
 Rare
-Increase coins earned by 2%
-Event: Earn 350 medals during the "Aliens"
+Increase coins earned 2 %
+Event : Earn 350 medals `` Aliens ``
 48
 Alien Warp Drive
 Epic
-Increase damage/meter by 5%
-Event: Earn 700 medals during the "Aliens"
+Increase damage/meter 5 %
+Event : Earn 700 medals `` Aliens ``
 49
 Ancient Tome
 Rare
-Increase lab speed by 1.5%
-Event: Earn 350 medals during the "Sands of Time"
+Increase lab speed 1.5 %
+Event : Earn 350 medals `` Sands Time ``
 50
 Space Sundial
 Epic
-Increase damage by 5%
-Event: Earn 700 medals during the "Sands of Time"
+Increase damage 5 %
+Event : Earn 700 medals `` Sands Time ``
 51
 Spooky Bat
 Rare
-Increase crit factor by 2%
-Event: Earn 350 medals during the "Halloween"
+Increase crit factor 2 %
+Event : Earn 350 medals `` Halloween ``
 52
 Man Skull
 Epic
-Increase health by 5%
-Event: Earn 700 medals during the "Halloween"
+Increase health 5 %
+Event : Earn 700 medals `` Halloween ``
 53
 Cherry
 Rare
-Increase defense absolute by 2%
-Event: Earn 350 medals during the "Cherry Blossom"
+Increase defense absolute 2 %
+Event : Earn 350 medals `` Cherry Blossom ``
 54
 Sakura Lantern
 Epic
-Increase coins by 5%
-Event: Earn 700 medals during the "Cherry Blossom"
+Increase coins 5 %
+Event : Earn 700 medals `` Cherry Blossom ``
 55
 Tower Latte
 Rare
-Increase damage/meter by 2%
-Event: Earn 350 medals during the "Autumn"
+Increase damage/meter 2 %
+Event : Earn 350 medals `` Autumn ``
 56
 Pumpkin
 Epic
-Increase lab speed by 4%
-Event: Earn 700 medals during the "Autumn"
+Increase lab speed 4 %
+Event : Earn 700 medals `` Autumn ``
 57
 Holy Joystick
 Rare
-Increase tower damage by 2%
-Event: Earn 350 medals during the "Retro Arcade"
+Increase tower damage 2 %
+Event : Earn 350 medals `` Retro Arcade ``
 58
 Controller
 Epic
-Increase critical factor by 5%
-Event: Earn 700 medals during the "Retro Arcade"
+Increase critical factor 5 %
+Event : Earn 700 medals `` Retro Arcade ``
 59
 Firework
 Rare
-Increase tower health by 2%
-Event: Earn 350 medals during the "New Year"
+Increase tower health 2 %
+Event : Earn 350 medals `` New Year ``
 60
 Cheers
 Epic
-Increase defense absolute by 5%
-Event: Earn 700 medals during the "New Year"
+Increase defense absolute 5 %
+Event : Earn 700 medals `` New Year ``
 61
 Palm Tree
 Rare
-Increase lab speed by 2%
-Event: Earn 350 medals during the "Retrowave"
+Increase lab speed 2 %
+Event : Earn 350 medals `` Retrowave ``
 62
 Pixel Cube Heart
 Epic
-Increase tower health by 5%
-Event: Earn 700 medals during the "Retrowave"
+Increase tower health 5 %
+Event : Earn 700 medals `` Retrowave ``
 63
 Dark Sight
 Rare
-Increase damage/meter by 2%
-Event: Earn 350 medals during the "Dark Strands"
+Increase damage/meter 2 %
+Event : Earn 350 medals `` Dark Strands ``
 64
 Creepy Smile
 Epic
-Increase tower damage by 5%
-Event: Earn 700 medals during the "Dark Strands"
+Increase tower damage 5 %
+Event : Earn 700 medals `` Dark Strands ``
 65
 Submarine
 Rare
-Increase crit factor by 2%
-Event: Earn 350 medals during the "Deep Blue Sea"
+Increase crit factor 2 %
+Event : Earn 350 medals `` Deep Blue Sea ``
 66
-The Kraken
+Kraken
 Epic
-Increase defense absolute by 5%
-Event: Earn 700 medals during the "Deep Blue Sea"
+Increase defense absolute 5 %
+Event : Earn 700 medals `` Deep Blue Sea ``
 67
 Warp Gate
 Rare
-Increase coins by 2%
-Event: Earn 350 medals during the "Faster Then Light"
+Increase coins 2 %
+Event : Earn 350 medals `` Faster Light ``
 68
 Star Ship
 Epic
-Increase lab speed by 4%
-Event: Earn 700 medals during the "Faster Then Light"
+Increase lab speed 4 %
+Event : Earn 700 medals `` Faster Light ``
 69
 Barnacle
 Rare
-Increase health by 2%
-Event: Earn 350 medals during the "Ocean Night"
+Increase health 2 %
+Event : Earn 350 medals `` Ocean Night ``
 70
 Wave
 Epic
-Increase crit factor by 5%
-Event: Earn 700 medals during the "Ocean Night"
+Increase crit factor 5 %
+Event : Earn 700 medals `` Ocean Night ``
 71
 Pizza
 Rare
-Increase tower damage by 2%
-Event: Earn 350 medals during the "Invaders"
+Increase tower damage 2 %
+Event : Earn 350 medals `` Invaders ``
 72
 Illuminati
 Epic
-Increase defence absolute by 5%
-Event: Earn 700 medals during the "Invaders"
+Increase defence absolute 5 %
+Event : Earn 700 medals `` Invaders ``
 73
 Refraction Array
 Rare
-Increase Coins by 2%
-Event: Earn 350 medals during the "Prismatic Lines"
+Increase Coins 2 %
+Event : Earn 350 medals `` Prismatic Lines ``
 74
 Prismatic Shard
 Epic
-Increase damage/meter by 5%
-Event: Earn 700 medals during the "Prismatic Lines"
+Increase damage/meter 5 %
+Event : Earn 700 medals `` Prismatic Lines ``
 75
 Hook
 Rare
-Increase Damage/Meter by 2%
-Event: Earn 350 medals during the "Sunset Fishing"
+Increase Damage/Meter 2 %
+Event : Earn 350 medals `` Sunset Fishing ``
 76
 Fish
 Epic
-Increase defense absolute by 5%
-Event: Earn 700 medals during the "Sunset Fishing"
+Increase defense absolute 5 %
+Event : Earn 700 medals `` Sunset Fishing ``
 77
 Cobweb
 Rare
-Increase Tower Health by 2%
-Event: Earn 350 medals during the "Cobweb"
+Increase Tower Health 2 %
+Event : Earn 350 medals `` Cobweb ``
 78
-The Fly
+Fly
 Epic
-Increase defense absolute by 5%
-Event: Earn 700 medals during the "Cobweb"
+Increase defense absolute 5 %
+Event : Earn 700 medals `` Cobweb ``
 79
 Gale Winds
 Rare
-Increase Coins by 5%
-Event: Earn 350 medals during the "Into The Storm"
+Increase Coins 5 %
+Event : Earn 350 medals `` Storm ``
 80
 Flying House
 Epic
-Increase tower damage by 5%
-Event: Earn 700 medals during the "Into The Storm"
+Increase tower damage 5 %
+Event : Earn 700 medals `` Storm ``
 81
 Clip Ons
 Rare
-Increase Critical Factor by 2%
-Event: Earn 350 medals during the "Into The Matrix"
+Increase Critical Factor 2 %
+Event : Earn 350 medals `` Matrix ``
 82
 Code Stream
 Epic
-Increase tower damage by 5%
-Event: Earn 700 medals during the "Into The Matrix"
+Increase tower damage 5 %
+Event : Earn 700 medals `` Matrix ``
 83
 Rain Jacket
 Rare
-Increase Tower Health by 2%
-Event: Earn 350 medals during the "Rainfall"
+Increase Tower Health 2 %
+Event : Earn 350 medals `` Rainfall ``
 84
 Cloud Lightning
 Epic
-Increase critical factor by 5%
-Event: Earn 700 medals during the "Rainfall"
+Increase critical factor 5 %
+Event : Earn 700 medals `` Rainfall ``
 85
 Rabies
 Rare
-Increase Lab Speed by 2%
-Event: Earn 350 medals during the "Viral Outbreak (II)"
+Increase Lab Speed 2 %
+Event : Earn 350 medals `` Viral Outbreak ( II ) ``
 86
 Ebola
 Epic
-Increase defense absolute by 5%
-Event: Earn 700 medals during the "Viral Outbreak (II)"
+Increase defense absolute 5 %
+Event : Earn 700 medals `` Viral Outbreak ( II ) ``
 87
 Comet
 Rare
-Increase Tower Damage by 2%
-Event: Earn 350 medals during the "Interstellar"
+Increase Tower Damage 2 %
+Event : Earn 350 medals `` Interstellar ``
 88
 Planetary Rings
 Epic
-Increase critical factor by 5%
-Event: Earn 700 medals during the "Interstellar"
+Increase critical factor 5 %
+Event : Earn 700 medals `` Interstellar ``
 89
 Remote Control
 Rare
-Increase Damage/Meter by 2%
-Event: Earn 350 medals during the "Tower's Channel"
+Increase Damage/Meter 2 %
+Event : Earn 350 medals `` Tower 's Channel ``
 90
 Cathode Ray Tube
 Epic
-Increase coins by 5%
-Event: Earn 700 medals during the "Tower's Channel"
+Increase coins 5 %
+Event : Earn 700 medals `` Tower 's Channel ``
 91
 Anubis
 Rare
-Increase Coins by 2%
-Event: Earn 350 medals during the "Sands of Time"
+Increase Coins 2 %
+Event : Earn 350 medals `` Sands Time ``
 92
 Sphinx
 Epic
-Increase tower damage by 5%
-Event: Earn 700 medals during the "Sands of Time"
+Increase tower damage 5 %
+Event : Earn 700 medals `` Sands Time ``
 93
 Lava Flow
 Rare
-Increase Tower Health by 2%
-Event: Earn 350 medals during the "Volcano"
+Increase Tower Health 2 %
+Event : Earn 350 medals `` Volcano ``
 94
 Ash Cloud
 Epic
-Increase defense absolute by 5%
-Event: Earn 700 medals during the "Volcano"
+Increase defense absolute 5 %
+Event : Earn 700 medals `` Volcano ``
 95
 Abduction Room
 Rare
-Increase Tower Health 2%
-Event: Earn 350 medals during the "Abduction"
+Increase Tower Health 2 %
+Event : Earn 350 medals `` Abduction ``
 96
 Crop Circle
 Epic
-Increase critical factor by 5%
-Event: Earn 700 medals during the "Abduction"
+Increase critical factor 5 %
+Event : Earn 700 medals `` Abduction ``
 97
 Acorn
 Rare
-Increase Damage/Meter by 2%
-Event: Earn 350 medals during the "Autumn (II)"
+Increase Damage/Meter 2 %
+Event : Earn 350 medals `` Autumn ( II ) ``
 98
 Scarf
 Epic
-Increase defense absolute by 5%
-Event: Earn 700 medals during the "Autumn (II)"
+Increase defense absolute 5 %
+Event : Earn 700 medals `` Autumn ( II ) ``
 99
 Cauldron
 Rare
-Increase Lab Speed by 2%
-Event: Earn 350 medals during the "Halloween (II)"
+Increase Lab Speed 2 %
+Event : Earn 350 medals `` Halloween ( II ) ``
 100
 Witch Hat
 Epic
-Increase tower damage by 5%
-Event: Earn 700 medals during the "Halloween (II)"
+Increase tower damage 5 %
+Event : Earn 700 medals `` Halloween ( II ) ``
 101
 Icicle
 Rare
-Increase Tower Damage by 2%
-Event: Earn 350 medals during the "Snowstorm"
+Increase Tower Damage 2 %
+Event : Earn 350 medals `` Snowstorm ``
 102
 Sleigh Bell
 Epic
-Increase tower health by 5%
-Event: Earn 700 medals during the "Snowstorm"
+Increase tower health 5 %
+Event : Earn 700 medals `` Snowstorm ``
 103
 Koi Fish
 Rare
-Increase lab speed by 2%
-Event: Earn 350 medals during the "Cherry Blossom (II)"
+Increase lab speed 2 %
+Event : Earn 350 medals `` Cherry Blossom ( II ) ``
 104
 Bonsai Tree
 Epic
-Increase Coins by 5%
-Event: Earn 700 medals during the "Cherry Blossom (II)"
+Increase Coins 5 %
+Event : Earn 700 medals `` Cherry Blossom ( II ) ``
 105
 Tea Ceremony
 Rare
-Increase health by 2%
-Purchase: 200 medals during the "Cherry Blossom (II)"
+Increase health 2 %
+Purchase : 200 medals `` Cherry Blossom ( II ) ``
 106
 Kimono
 Epic
-Increase Coin by 5%
-Purchase: 500 medals during the "Cherry Blossom (II)"
+Increase Coin 5 %
+Purchase : 500 medals `` Cherry Blossom ( II ) ``
 107
 Lunar Cat Paw
 Rare
-Increase critical chance by 1%
-Event: Earn 350 medals during the "Meowy Night"
+Increase critical chance 1 %
+Event : Earn 350 medals `` Meowy Night ``
 108
 Pet Cat
 Epic
-Increase Attack Speed by 2%
-Event: Earn 700 medals during the "Meowy Night"
+Increase Attack Speed 2 %
+Event : Earn 700 medals `` Meowy Night ``
 109
 Confetti Ball
 Rare
-Increase Free Attack Upgrade by 1%
-Event: Earn 700 medals during the "New Year (II)"
+Increase Free Attack Upgrade 1 %
+Event : Earn 700 medals `` New Year ( II ) ``
 110
 Party Mask
 Epic
-Increase ultimate damage by 5%
-Event: Earn 350 medals during the "New Year (II)"
+Increase ultimate damage 5 %
+Event : Earn 350 medals `` New Year ( II ) ``
 111
 Summit Starlight
 Rare
-Increase lab speed by 2%
-Event: Earn 350 medals during the "Howling Wolf (II)"
+Increase lab speed 2 %
+Event : Earn 350 medals `` Howling Wolf ( II ) ``
 112
 Mountain Goat
 Epic
-Increase Health by 5%
-Event: Earn 700 medals during the "Howling Wolf (II)"
+Increase Health 5 %
+Event : Earn 700 medals `` Howling Wolf ( II ) ``
 113
 Falling Apple
 Rare
-Increase free defense upgrade by 1%
-Event: Earn 350 medals during the "Gravity"
+Increase free defense upgrade 1 %
+Event : Earn 350 medals `` Gravity ``
 114
 3 Body Solution
 Epic
-Increase super critical chance by 2%
-Event: Earn 700 medals during the "Gravity"
+Increase super critical chance 2 %
+Event : Earn 700 medals `` Gravity ``
 115
 Power Glove
 Rare
-Increase tower damage by 2%
-Event: Earn 350 medals during the "Retro Arcade (II)"
+Increase tower damage 2 %
+Event : Earn 350 medals `` Retro Arcade ( II ) ``
 116
 Arcade Token
 Epic
-Increase bot range by 2m
-Event: Earn 700 medals during the "Retro Arcade (II)"
+Increase bot range 2m
+Event : Earn 700 medals `` Retro Arcade ( II ) ``
 117
 Coral Crown
 Rare
-Increase health regen by 2%
-Event: Earn 350 medals during the "Deep Blue Sea (II)"
+Increase health regen 2 %
+Event : Earn 350 medals `` Deep Blue Sea ( II ) ``
 118
 Angler Fish
 Epic
-Increase thorns by 2%
-Event: Earn 700 medals during the "Deep Blue Sea (II)"
+Increase thorns 2 %
+Event : Earn 700 medals `` Deep Blue Sea ( II ) ``
 119
 Temporal Rift
 Rare
-Increase cash by 2%
-Event: Earn 350 medals during the "What Time Is It?"
+Increase cash 2 %
+Event : Earn 350 medals `` Time ? ``
 120
 Hourglass
 Rare
-Increase coins by 2%
-Event Premium: Earn 550 medals during the "What Time Is It?"
+Increase coins 2 %
+Event Premium : Earn 550 medals `` Time ? ``
 121
 Dream Clock
 Epic
-Increase orb speed by 2%
-Event: Earn 700 medals during the "What Time is It?"
+Increase orb speed 2 %
+Event : Earn 700 medals `` Time ? ``
 122
 Time Compass
 Epic
-Increase attack speed by 2%
-Event Premium: Earn 1100 medals during the "What Time is It?"
+Increase attack speed 2 %
+Event Premium : Earn 1100 medals `` Time ? ``
 123
 Throne
 Rare
-Increase tower health by 2%
-Guild: Spend 75 tokens in Guild Season 1
+Increase tower health 2 %
+Guild : Spend 75 tokens Guild Season 1
 124
 Crown
 Epic
-Increase critical factor by 5%
-Guild: Spend 150 tokens in Guild Season 1
+Increase critical factor 5 %
+Guild : Spend 150 tokens Guild Season 1
 125
 Haunted Mirror
 Rare
-Decrease Wall Rebuild Time by 2s
-Event: Earn 350 medals during the "Dark Strands (II)"
+Decrease Wall Rebuild Time 2s
+Event : Earn 350 medals `` Dark Strands ( II ) ``
 126
 Whispering Web
 Rare
-Increase free defense upgrade by 1%
-Event Premium: Earn 550 medals during the "Dark Strands (II)"
+Increase free defense upgrade 1 %
+Event Premium : Earn 550 medals `` Dark Strands ( II ) ``
 127
 Shadow Puppet
 Epic
-Increase super critical mult by 5%
-Event: Earn 700 medals during the "Dark Strands (II)"
+Increase super critical mult 5 %
+Event : Earn 700 medals `` Dark Strands ( II ) ``
 128
 Cursed Candle
 Epic
-Increase super critical chance by 2%
-Event Premium: Earn 1100 medals during the "Dark Strands (II)"
+Increase super critical chance 2 %
+Event Premium : Earn 1100 medals `` Dark Strands ( II ) ``
 129
 Pulsar Core
 Rare
-Decrease recovery amount time by 2%
-Event: Earn 350 medals during the "Faster Than Light (II)"
+Decrease recovery amount time 2 %
+Event : Earn 350 medals `` Faster Light ( II ) ``
 130
 Quantum Drive
 Rare
-Increase Bot Range by 1m
-Event Premium: Earn 550 medals during the "Faster Than Light (II)"
+Increase Bot Range 1m
+Event Premium : Earn 550 medals `` Faster Light ( II ) ``
 131
 Light Speedometer
 Epic
-Increase enemy attack level skip by 2%
-Event: Earn 700 medals during the "Faster Than Light (II)"
+Increase enemy attack level skip 2 %
+Event : Earn 700 medals `` Faster Light ( II ) ``
 132
 Photon Blade
 Epic
-Increase damage by 2%
-Event Premium: Earn 1100 medals during the "Faster Than Light (II)"
+Increase damage 2 %
+Event Premium : Earn 1100 medals `` Faster Light ( II ) ``
 133
 Bloom Burst
 Rare
-Increase cash bonus by 2%
-Event: Earn 350 medals during the "Easter"
+Increase cash bonus 2 %
+Event : Earn 350 medals `` Easter ``
 134
 Mystic Bunny
 1
 Rare
-Increase coins earned by 2%
-Event Premium: Earn 550 medals during the "Easter"
+Increase coins earned 2 %
+Event Premium : Earn 550 medals `` Easter ``
 135
 Candy Core
 Epic
-Increase damage by 5%
-Event: Earn 700 medals during the "Easter"
+Increase damage 5 %
+Event : Earn 700 medals `` Easter ``
 136
 Magic Egg
 Epic
-Increase free attack upgrade by 2%
-Event Premium: Earn 1100 medals during the "Easter"
+Increase free attack upgrade 2 %
+Event Premium : Earn 1100 medals `` Easter ``
 137
 Fancy Wires
 Rare
-Increase health regen by 2%
-Guild: Spend 75 Tokens during the "Season 2"
+Increase health regen 2 %
+Guild : Spend 75 Tokens `` Season 2 ``
 138
 Mech Head
 Epic
-Increase bot range by 2m
-Guild: Spend 150 Tokens during the "Season 2"
+Increase bot range 2m
+Guild : Spend 150 Tokens `` Season 2 ``
 139
 Infinite Ruler
 Rare
-Increase free utility upgrade by 1%
-Event: Earn 350 medals during the "Pi"
+Increase free utility upgrade 1 %
+Event : Earn 350 medals `` Pi ``
 140
 Pi Seal
 Rare
-Increase lab speed by 2%
-Event Premium: Earn 550 medals during the "Pi"
+Increase lab speed 2 %
+Event Premium : Earn 550 medals `` Pi ``
 141
-Do While True
+True
 Epic
-Increase orb speed by 5%
-Event: Earn 700 medals during the "Pi"
+Increase orb speed 5 %
+Event : Earn 700 medals `` Pi ``
 142
 Psychohistorian Brain
 Epic
-Increase super critical chance by 2%
-Event Premium: Earn 1100 medals during the "Pi"
+Increase super critical chance 2 %
+Event Premium : Earn 1100 medals `` Pi ``
 143
 UFO Beam
 Rare
-Increase knockback force by 2%
-Event: Earn 350 medals during the "Invaders (II)"
+Increase knockback force 2 %
+Event : Earn 350 medals `` Invaders ( II ) ``
 144
 Abduction Signal
 Rare
-Increase crit factor by 2%
-Event Premium: Earn 550 medals during the "Invaders (II)"
+Increase crit factor 2 %
+Event Premium : Earn 550 medals `` Invaders ( II ) ``
 145
 Alien Egg
 Epic
-Increase enemy health skip by 2%
-Event: Earn 700 medals during the "Invaders (II)"
+Increase enemy health skip 2 %
+Event : Earn 700 medals `` Invaders ( II ) ``
 146
 Monolith
 Epic
-Increase ultimate damage by 5%
-Event Premium: Earn 1100 medals during the "Invaders (II)"
+Increase ultimate damage 5 %
+Event Premium : Earn 1100 medals `` Invaders ( II ) ``
 147
 Honey Jar
 Rare
-Increase attack speed by 1%
-Event: Earn 350 medals during the "Honey (II)"
+Increase attack speed 1 %
+Event : Earn 350 medals `` Honey ( II ) ``
 148
 Heavenly Sweet
 Rare
-Increase tower health by 2%
-Event Premium: Earn 550 medals during the "Honey (II)"
+Increase tower health 2 %
+Event Premium : Earn 550 medals `` Honey ( II ) ``
 149
 Honey Society
 Epic
-Increase knockback force by 5%
-Event: Earn 700 medals during the "Honey (II)"
+Increase knockback force 5 %
+Event : Earn 700 medals `` Honey ( II ) ``
 150
-The Queen
+Queen
 Epic
-Increase coins earned by 5%
-Event Premium: Earn 1100 medals during the "Honey (II)"
+Increase coins earned 5 %
+Event Premium : Earn 1100 medals `` Honey ( II ) ``
 151
 Duck
 Rare
-Increase ultimate damage by 2%
-Event: Earn 350 medals during the "Koi Pond"
+Increase ultimate damage 2 %
+Event : Earn 350 medals `` Koi Pond ``
 152
 Grass
 Rare
-Increase free defense upgrade by 1%
-Event Premium: Earn 550 medals during the "Koi Pond"
+Increase free defense upgrade 1 %
+Event Premium : Earn 550 medals `` Koi Pond ``
 153
 Wind
 Epic
-Increase damage / meter by 5%
-Event: Earn 700 medals during the "Koi Pond"
+Increase damage / meter 5 %
+Event : Earn 700 medals `` Koi Pond ``
 154
 Lilies
 Epic
-Increase recovery amount by 5%
-Event Premium: Earn 1100 medals during the "Koi Pond"
+Increase recovery amount 5 %
+Event Premium : Earn 1100 medals `` Koi Pond ``
 155
-Let's Mix
+Let 's Mix
 Rare
-Increase coins earned by 2%
-Guild: Spend 75 Tokens during the "Season 3"
+Increase coins earned 2 %
+Guild : Spend 75 Tokens `` Season 3 ``
 156
 Night Life
 Epic
-Increase attack speed by 2%
-Guild: Spend 150 Tokens during the "Season 3"
+Increase attack speed 2 %
+Guild : Spend 150 Tokens `` Season 3 ``
 157
 Plasma Globe
 Rare
-Increase bot range by 1m
-Event: Earn 350 medals during the "Plasma Returns (II)"
+Increase bot range 1m
+Event : Earn 350 medals `` Plasma Returns ( II ) ``
 158
 Plasma Vortex
 Rare
-Increase tower damage by 2%
-Event Premium: Earn 550 medals during the "Plasma Returns (II)"
+Increase tower damage 2 %
+Event Premium : Earn 550 medals `` Plasma Returns ( II ) ``
 159
 Plasma Cell
 Epic
-Increase critical chance by 2%
-Event: Earn 700 medals during the "Plasma Returns (II)"
+Increase critical chance 2 %
+Event : Earn 700 medals `` Plasma Returns ( II ) ``
 160
 Plasma Chamber
 Epic
-Increase health by 5%
-Event Premium: Earn 1100 medals during the "Plasma Returns (II)"
+Increase health 5 %
+Event Premium : Earn 1100 medals `` Plasma Returns ( II ) ``
 161
 Floppy Disk
 Rare
-Increase free utility upgrade by 1%
-Event: Earn 350 medals during the "Retrowave (III)"
+Increase free utility upgrade 1 %
+Event : Earn 350 medals `` Retrowave ( III ) ``
 162
 Magic Cube
 Rare
-Increase crit factor by 2%
-Event Premium: Earn 550 medals during the "Retrowave (II)"
+Increase crit factor 2 %
+Event Premium : Earn 550 medals `` Retrowave ( II ) ``
 163
 Retro Camera
 Epic
-Increase health regen by 5%
-Event: Earn 700 medals during the "Retrowave (III)"
+Increase health regen 5 %
+Event : Earn 700 medals `` Retrowave ( III ) ``
 164
 Night City
 Epic
-Increase Cash by 5%
-Event Premium: Earn 1100 medals during the "Retrowave (III)"
+Increase Cash 5 %
+Event Premium : Earn 1100 medals `` Retrowave ( III ) ``
 165
 Safe Path
 Rare
-Increase tower damage by 2%
-Event: Earn 350 medals during the "Camping"
+Increase tower damage 2 %
+Event : Earn 350 medals `` Camping ``
 166
 Shining Light
 Rare
-Increase critical chance by 1%
-Event Premium: Earn 550 medals during the "Camping"
+Increase critical chance 1 %
+Event Premium : Earn 550 medals `` Camping ``
 167
 Eternal Quest
 Epic
-Increase health by 5%
-Event: Earn 700 medals during the "Camping"
+Increase health 5 %
+Event : Earn 700 medals `` Camping ``
 168
-Nature's Wrath
+Nature 's Wrath
 Epic
-Increase orb speed by 5%
-Event Premium: Earn 1100 medals during the "Camping"
+Increase orb speed 5 %
+Event Premium : Earn 1100 medals `` Camping ``
 169
 Fisherman Set
 Rare
-Increase defense absolute by 2%
-Event: Earn 350 medals during the "Sunset Fishing (II)"
+Increase defense absolute 2 %
+Event : Earn 350 medals `` Sunset Fishing ( II ) ``
 170
 Sunset Boat
 Rare
-Increase attack speed by 1%
-Event Premium: Earn 550 medals during the "Sunset Fishing (II)"
+Increase attack speed 1 %
+Event Premium : Earn 550 medals `` Sunset Fishing ( II ) ``
 171
 Good Catch
 Epic
-Increase Thorns by 2%
-Event: Earn 700 medals during the "Sunset Fishing (II)"
+Increase Thorns 2 %
+Event : Earn 700 medals `` Sunset Fishing ( II ) ``
 172
-River Of Plenty
+River Plenty
 Epic
-Increase coins by 5%
-Event Premium: Earn 1100 medals during the "Sunset Fishing (II)"
+Increase coins 5 %
+Event Premium : Earn 1100 medals `` Sunset Fishing ( II ) ``
 173
 World Domination
 Rare
-Increase health earned by 2%
-Guild: Spend 75 Tokens during the "Season 4"
+Increase health earned 2 %
+Guild : Spend 75 Tokens `` Season 4 ``
 174
 Brave Heroes
 Epic
-Increase crit factor by 5%
-Guild: Spend 150 Tokens during the "Season 4"
+Increase crit factor 5 %
+Guild : Spend 150 Tokens `` Season 4 ``
 175
 Model Training
 Rare
-Increase orb speed by 2%
-Event: Earn 350 medals during the "Into the Matrix (III)"
+Increase orb speed 2 %
+Event : Earn 350 medals `` Matrix ( III ) ``
 176
 Gnosis
 Rare
-Increase free defense upgrade by 1%
-Event Premium: Earn 550 medals during the "Into the Matrix (III)"
+Increase free defense upgrade 1 %
+Event Premium : Earn 550 medals `` Matrix ( III ) ``
 177
 Tower Agent
 Epic
-Increase damage/meter by 5%
-Event: Earn 700 medals during the "Into the Matrix (III)"
+Increase damage/meter 5 %
+Event : Earn 700 medals `` Matrix ( III ) ``
 178
 Fake Reality
 Epic
-Increase ultimate damage by 5%
-Event Premium: Earn 1100 medals during the "Into the Matrix (III)"
+Increase ultimate damage 5 %
+Event Premium : Earn 1100 medals `` Matrix ( III ) ``
 179
 Rlyeh
 Rare
-Increase free attack upgrade by 1%
-Event: Earn 350 medals during the "Cthulhu"
+Increase free attack upgrade 1 %
+Event : Earn 350 medals `` Cthulhu ``
 180
 Madness Induced
 Rare
-Increase crit factor 2%
-Event Premium: Earn 550 medals during the "Cthulhu"
+Increase crit factor 2 %
+Event Premium : Earn 550 medals `` Cthulhu ``
 181
 Cosmic Freedom
 Epic
-Increase health regen by 5%
-Event: Earn 700 medals during the "Cthulhu"
+Increase health regen 5 %
+Event : Earn 700 medals `` Cthulhu ``
 182
 Omniscience
 Epic
-Increase cash by 5%
-Event Premium: Earn 1100 medals during the "Cthulhu"
+Increase cash 5 %
+Event Premium : Earn 1100 medals `` Cthulhu ``
 183
 Breaking News
 Rare
-Increase bot range by 1m
-Event: Earn 350 medals during the "Tower's Channel (II)"
+Increase bot range 1m
+Event : Earn 350 medals `` Tower 's Channel ( II ) ``
 184
 Globalization
 Rare
-Increase  tower damage 2%
-Event Premium: Earn 550 medals during the "Tower's Channel (II)"
+Increase tower damage 2 %
+Event Premium : Earn 550 medals `` Tower 's Channel ( II ) ``
 185
-No Signal
+Signal
 Epic
-Increase crit chance by 2%
-Event: Earn 700 medals during the "Tower's Channel (II)"
+Increase crit chance 2 %
+Event : Earn 700 medals `` Tower 's Channel ( II ) ``
 186
 Antenna
 Epic
-Increase health by 5%
-Event Premium: Earn 1100 medals during the "Tower's Channel (II)"
+Increase health 5 %
+Event Premium : Earn 1100 medals `` Tower 's Channel ( II ) ``
 187
 Brunch
 Rare
-Increase knockback force by 2%
-Event: Earn 350 medals during the "Autumn (II)"
+Increase knockback force 2 %
+Event : Earn 350 medals `` Autumn ( II ) ``
 188
 Dry leaves
 Rare
-Increase  free attack upgrade by 1%
-Event Premium: Earn 550 medals during the "Autumn (II)"
+Increase free attack upgrade 1 %
+Event Premium : Earn 550 medals `` Autumn ( II ) ``
 189
 Glowing Mushrooms
 Epic
-Increase thorns by 2%
-Event: Earn 700 medals during the "Autumn (II)"
+Increase thorns 2 %
+Event : Earn 700 medals `` Autumn ( II ) ``
 190
 Warm Clothes
 Epic
-Increase lab speed by 4%
-Event Premium: Earn 1100 medals during the "Autumn (II)"
+Increase lab speed 4 %
+Event Premium : Earn 1100 medals `` Autumn ( II ) ``
 191
 Blood Monster
 Rare
-Increase  defense by 1%
-Guild: Spend 75 tokens in Guild Season 5
+Increase defense 1 %
+Guild : Spend 75 tokens Guild Season 5
 192
-Glimpse of Despair
+Glimpse Despair
 Epic
-Increase crit factor by 5%
-Guild: Spend 150 tokens in Guild Season 5
+Increase crit factor 5 %
+Guild : Spend 150 tokens Guild Season 5
 193
 Vr
 Rare
-Increase thorns by 1%
-Event: Earn 350 medals during the "Cyberpunk"
+Increase thorns 1 %
+Event : Earn 350 medals `` Cyberpunk ``
 194
 Holographic Ads
 Rare
-Increase  lab speed by 2%
-Event Premium: Earn 550 medals during the "Cyberpunk"
+Increase lab speed 2 %
+Event Premium : Earn 550 medals `` Cyberpunk ``
 195
 Tech Weapon
 Epic
-Increase recovery amount by 5%
-Event: Earn 700 medals during the "Cyberpunk"
+Increase recovery amount 5 %
+Event : Earn 700 medals `` Cyberpunk ``
 196
 Cybernetics
 Epic
-Increase crit chance by 2%
-Event Premium: Earn 1100 medals during the "Cyberpunk"
+Increase crit chance 2 %
+Event Premium : Earn 1100 medals `` Cyberpunk ``
 197
 Good Hunting
 Rare
-Increase cash by 2%
-Event: Earn 350 medals during the "Cobweb (III)"
+Increase cash 2 %
+Event : Earn 350 medals `` Cobweb ( III ) ``
 198
 Spider Vision
 Rare
-Increase  orb speed by 2%
-Event Premium: Earn 550 medals during the "Cobweb (III)"
+Increase orb speed 2 %
+Event Premium : Earn 550 medals `` Cobweb ( III ) ``
 199
 Spider Poison
 Epic
-Increase ultimate damage by 5%
-Event: Earn 700 medals during the "Cobweb (III)"
+Increase ultimate damage 5 %
+Event : Earn 700 medals `` Cobweb ( III ) ``
 200
 Spider Forest
 Epic
-Increase crit factor by 2%
-Event Premium: Earn 1100 medals during the "Cobweb (III)"
+Increase crit factor 2 %
+Event Premium : Earn 1100 medals `` Cobweb ( III ) ``
 201
 Pinball
 Rare
-Increase defense absolute by 2%
-Event: Earn 350 medals during the "Retro Arcade (III)"
+Increase defense absolute 2 %
+Event : Earn 350 medals `` Retro Arcade ( III ) ``
 202
-To Infinity
+Infinity
 Rare
-Increase  health regen by 2%
-Event Premium: Earn 550 medals during the "Retro Arcade (III)"
+Increase health regen 2 %
+Event Premium : Earn 550 medals `` Retro Arcade ( III ) ``
 203
-Let's Play
+Let 's Play
 Epic
-Increase damage by 5%
-Event: Earn 700 medals during the "Retro Arcade (III)"
+Increase damage 5 %
+Event : Earn 700 medals `` Retro Arcade ( III ) ``
 204
 Enemies
 Epic
-Increase coins by 5%
-Event Premium: Earn 1100 medals during the "Retro Arcade (III)"
+Increase coins 5 %
+Event Premium : Earn 1100 medals `` Retro Arcade ( III ) ``
 205
-Explorer's Helmet
+Explorer 's Helmet
 Rare
-Increase tower health by 2%
-Event: Earn 350 medals during the "Crystal Cave"
+Increase tower health 2 %
+Event : Earn 350 medals `` Crystal Cave ``
 206
-Miner's Tool
+Miner 's Tool
 Rare
-Increase defense percent by 1%
-Event Premium: Earn 550 medals during the "Crystal Cave"
+Increase defense percent 1 %
+Event Premium : Earn 550 medals `` Crystal Cave ``
 207
 Crystals Bag
 Epic
-Increase knockback force by 5%
-Event: Earn 700 medals during the "Crystal Cave"
+Increase knockback force 5 %
+Event : Earn 700 medals `` Crystal Cave ``
 208
 Full Minecart
 Epic
-Increase bot range by 2m
-Event Premium: Earn 1100 medals during the "Crystal Cave"
+Increase bot range 2m
+Event Premium : Earn 1100 medals `` Crystal Cave ``
 209
 Star Path
 Rare
-Increase free attack upgrade 2%
-Guild: Spend 75 Tokens during the "Season 6"
+Increase free attack upgrade 2 %
+Guild : Spend 75 Tokens `` Season 6 ``
 210
 Star Planet
 Epic
-Increase health regen by 5%
-Guild: Spend 150 Tokens during the "Season 6"
+Increase health regen 5 %
+Guild : Spend 150 Tokens `` Season 6 ``
 211
 Snow Globe
 Rare
-Increase recovery amount by 2%
-Event: Earn 350 medals during the "Snowstorm (II)"
+Increase recovery amount 2 %
+Event : Earn 350 medals `` Snowstorm ( II ) ``
 212
 Snowflake
 Epic
-Increase damage/meter by 5%
-Event: Earn 700 medals during the "Snowstorm (II)"
+Increase damage/meter 5 %
+Event : Earn 700 medals `` Snowstorm ( II ) ``
 213
 Winter Gloves
 Rare
-Increase thorns by 1%
-Event Premium: Earn 550 medals during the "Snowstorm (II)"
+Increase thorns 1 %
+Event Premium : Earn 550 medals `` Snowstorm ( II ) ``
 214
 Wreath
 Epic
-Increase damage by 5%
-Event Premium: Earn 1100 medals during the "Snowstorm (II)"
+Increase damage 5 %
+Event Premium : Earn 1100 medals `` Snowstorm ( II ) ``
 215
 Party Popper
 Rare
-Increase free attack upgrade by 1%
-Event: Earn 350 medals during the "New Year (III)"
+Increase free attack upgrade 1 %
+Event : Earn 350 medals `` New Year ( III ) ``
 216
 Firework Rocket
 Epic
-Increase free utility upgrade by 2%
-Event: Earn 700 medals during the "New Year (III)"
+Increase free utility upgrade 2 %
+Event : Earn 700 medals `` New Year ( III ) ``
 217
 Champagne
 Rare
-Increase attack speed by 1%
-Event Premium: Earn 550 medals during the "New Year (III)"
+Increase attack speed 1 %
+Event Premium : Earn 550 medals `` New Year ( III ) ``
 218
 Gift Box
 Epic
-Increase lab speed by 4%
-Event Premium: Earn 1100 medals during the "New Year (III)"
+Increase lab speed 4 %
+Event Premium : Earn 1100 medals `` New Year ( III ) ``
 219
 Hapiness Balloons
 Rare
-Increase defense absolute by 2%
-Event: Earn 350 medals during the "Amusement Park"
+Increase defense absolute 2 %
+Event : Earn 350 medals `` Amusement Park ``
 220
 Amazing Prizes
 Epic
-Increase thorns by 2%
-Event: Earn 700 medals during the "Amusement Park"
+Increase thorns 2 %
+Event : Earn 700 medals `` Amusement Park ``
 221
 Delicious Food
 Rare
-Increase cash by 2%
-Event Premium: Earn 550 medals during the "Amusement Park"
+Increase cash 2 %
+Event Premium : Earn 550 medals `` Amusement Park ``
 222
-Carousel Of Joy
+Carousel Joy
 Epic
-Increase coins earned by 5%
-Event Premium: Earn 1100 medals during the "Amusement Park"
+Increase coins earned 5 %
+Event Premium : Earn 1100 medals `` Amusement Park ``
 223
-Sky's Curtain
+Sky 's Curtain
 Rare
-Increase free defense upgrade by 1%
-Event: Earn 350 medals during the "Aurora (III)"
+Increase free defense upgrade 1 %
+Event : Earn 350 medals `` Aurora ( III ) ``
 224
 Northern Mountains
 Epic
-Increase defense by 2%
-Event: Earn 700 medals during the "Aurora (III)"
+Increase defense 2 %
+Event : Earn 700 medals `` Aurora ( III ) ``
 225
 Solar Flare
 Rare
-Increase crit chance by 1%
-Event Premium: Earn 550 medals during the "Aurora (III)"
+Increase crit chance 1 %
+Event Premium : Earn 550 medals `` Aurora ( III ) ``
 226
 Cosmic Impact
 Epic
-Increase orb speed by 5%
-Event Premium: Earn 1100 medals during the "Aurora (III)"
+Increase orb speed 5 %
+Event Premium : Earn 1100 medals `` Aurora ( III ) ``
 227
 Elemental Explosion
 Rare
-Increase rend armor mult by 2%
-Guild: Spend 75 Tokens during the "Season 7"
+Increase rend armor mult 2 %
+Guild : Spend 75 Tokens `` Season 7 ``
 228
 Quasar
 Epic
-Increase health by 5%
-Guild: Spend 150 Tokens during the "Season 7"
+Increase health 5 %
+Guild : Spend 150 Tokens `` Season 7 ``
 229
 Sudden Attack
 Rare
-Increase health regen by 2%
-Event: Earn 350 medals during the "Aliens (III)"
+Increase health regen 2 %
+Event : Earn 350 medals `` Aliens ( III ) ``
 230
 Crop Circles
 Epic
-Increase knockback force by 5%
-Event: Earn 700 medals during the "Aliens (III)"
+Increase knockback force 5 %
+Event : Earn 700 medals `` Aliens ( III ) ``
 231
 Alien Experiment
 Rare
-Increase bot range by 1m
-Event Premium: Earn 550 medals during the "Aliens (III)"
+Increase bot range 1m
+Event Premium : Earn 550 medals `` Aliens ( III ) ``
 232
 Alien Implants
 Epic
-Increase ultimate damage by 5%
-Event Premium: Earn 1100 medals during the "Aliens (III)"
-Previously known as Mystic Hair, which could have been a pun or a typo.
+Increase ultimate damage 5 %
+Event Premium : Earn 1100 medals `` Aliens ( III ) ``
+Previously known Mystic Hair , could pun typo .

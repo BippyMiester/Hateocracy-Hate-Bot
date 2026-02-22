@@ -1,5 +1,5 @@
 Expand
-Tiers 7, 8 & 9
+Tiers 7 , 8 & 9
 Tier
 Tier 7
 Tier 8
@@ -117,7 +117,7 @@ Tier 10
 5 Stones
 10 Stones
 250
-Card:
+Card :
 Land Mine Stun
 10 Stones
 50 Gems
@@ -188,11 +188,11 @@ Mush-mush Skin
 Turtle Skin
 25 Stones
 4,500
-Relic: Coins +5%
+Relic : Coins +5 %
 25 Stones
-Relic: Damage / Meter +5%
+Relic : Damage / Meter +5 %
 30 Stones
-Relic: Health +5%
+Relic : Health +5 %
 30 Stones
 Totals
 5m Coins

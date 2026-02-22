@@ -1,5 +1,5 @@
 Free Upgrades
-Requires 5 trillion coins to be spent on Utility enhancements to unlock. Increases all Free Upgrades by x1 when unlocked and increases by 0.01x per level. Has a maximum level of 100 for a 2x bonus.
+Requires 5 trillion coins spent Utility enhancements unlock . Increases Free Upgrades x1 unlocked increases 0.01x per level . maximum level 100 2x bonus .
 Level
 Value
 Coins

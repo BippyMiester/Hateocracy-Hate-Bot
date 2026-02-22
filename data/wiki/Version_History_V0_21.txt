@@ -13,27 +13,27 @@ Bugs
 Versions
 v0.21.7
 Tournaments
-Every tournament for silver tier and above will challenge players by applying 2 battle conditions
-The battle conditions scale more aggressively in higher tier tournaments
-These conditions will increase in difficulty as you reach higher waves
+Every tournament silver tier challenge players applying 2 battle conditions
+battle conditions scale aggressively higher tier tournaments
+conditions increase difficulty reach higher waves
 Ultimate Weapons PLUS
-Every ultimate weapon has received a PLUS upgrade
-PLUS upgrades add an additional unique ability to each Ultimate Weapon
-PLUS upgrades become unlockable once every ultimate weapon is unlocked
+Every ultimate weapon received PLUS upgrade
+PLUS upgrades add additional unique ability Ultimate Weapon
+PLUS upgrades become unlockable every ultimate weapon unlocked
 Gameplay
-Ultimate Weapon timers will stay synchronized with each other now, instead of diverging slightly as the round progresses
-Cards are locked when bosses are active
-Fix tower range indicator to more accurately represent range
-Added 6 new relics for upcoming events
-Limited ultimate weapon toggling to 40 times per round
+Ultimate Weapon timers stay synchronized , instead diverging slightly round progresses
+Cards locked bosses active
+Fix tower range indicator accurately represent range
+Added 6 new relics upcoming events
+Limited ultimate weapon toggling 40 times per round
 Bugs
-Cloud save improvements (more consistent, less chance of rollbacks, etc)
-Fix tier listed during tournaments to say 11+
-Fix poison swamp was being removed when stuns ended
-Fix some players stuck at 1x game speed
-Fix an error that occurs if opening the ranking panel too fast upon game open
-Fix profile showing wave rank instead of best tournament rank
-Fixed an issue that could crash the game using auto pick perks
+Cloud save improvements ( consistent , less chance rollbacks , etc )
+Fix tier listed tournaments say 11+
+Fix poison swamp removed stuns ended
+Fix players stuck 1x game speed
+Fix error occurs opening ranking panel fast upon game open
+Fix profile showing wave rank instead best tournament rank
+Fixed issue could crash game using auto pick perks
 Versions
 v0.27
 v0.26

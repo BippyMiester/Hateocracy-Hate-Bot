@@ -7,29 +7,29 @@ Workshop
 Labs
 4
 Description
-Spawn a Poison Swamp that deals damage every second and stays active for a duration. (Accounts for crit/super crit factor and chance)
-Enemies who are damaged by Poison swamp have the "Poisoned" tag until death. Poisoned enemies move 25% slower(while in a poison swamp) and are subject to the effects of
+Spawn Poison Swamp deals damage every second stays active duration . ( Accounts crit/super crit factor chance )
+Enemies damaged Poison swamp `` Poisoned `` tag death . Poisoned enemies move 25 % slower ( poison swamp ) subject effects
 Harmony Conductor Mod
-if equipped.
-Note: Although undocumented in release notes, PS seems to have the effect of the previous PS+0, increasing with 50% base damage every second. This can be seen using in-game Hit-text. What seems to be the interaction with PS damage ramping is the second tick of damage is documented boost, such as 50% for base, and the subsequent ticks increase by the documented value +100%. For a PS damage of 100x with base ramping, the ticks would be 100x, 150x, 300x, 450x, 600x...
+equipped .
+Note : Although undocumented release notes , PS seems effect previous PS+0 , increasing 50 % base damage every second . seen using in-game Hit-text . seems interaction PS damage ramping second tick damage documented boost , 50 % base , subsequent ticks increase documented value +100 % . PS damage 100x base ramping , ticks would 100x , 150x , 300x , 450x , 600x ...
 Workshop
 Basic Upgrades
 Ultimate Weapon Plus
 Basic Upgrades
-Basic upgrades for all Ultimate Weapons are located in the
+Basic upgrades Ultimate Weapons located
 Ultimate Weapon
-menu after unlocking the Ultimate Weapon. Unlocking grants the abilities to upgrade Damage, Duration and Cooldown using stones. Enemies receive damage from 1 poison swamp when entering overlapping poison swamps.
+menu unlocking Ultimate Weapon . Unlocking grants abilities upgrade Damage , Duration Cooldown using stones . Enemies receive damage 1 poison swamp entering overlapping poison swamps .
 Costs
-Damage has 30 levels, Duration has 14 levels and Cooldown has 15 levels. The total stone cost is 19196.
+Damage 30 levels , Duration 14 levels Cooldown 15 levels . total stone cost 19196 .
 Damage
 Stones
-(Damage)
+( Damage )
 Stones
-(Duration)
+( Duration )
 Cooldown
 Expand
 Stones
-(Cooldown)
+( Cooldown )
 10.00x
 0
 30s
@@ -161,7 +161,7 @@ Total
 3500
 2,010
 Ultimate Weapon Plus - Death Creep
-Ultimate Weapon Plus abilities can only be unlocked when all 9 Ultimate Weapons are purchased. Death Creep increases damage dealt by Poison Swamp for each tick by x% of Poison Swamp damage.
+Ultimate Weapon Plus abilities unlocked 9 Ultimate Weapons purchased . Death Creep increases damage dealt Poison Swamp tick x % Poison Swamp damage .
 Cost
 Expand
 UW+ Cost Table
@@ -198,27 +198,26 @@ Unlocked
 3700
 4300
 Value
-120%
-190%
-260%
-330%
-400%
-470%
-540%
-610%
-680%
-750%
-820%
-890%
-960%
-1030%
-1110%
+120 %
+190 %
+260 %
+330 %
+400 %
+470 %
+540 %
+610 %
+680 %
+750 %
+820 %
+890 %
+960 %
+1030 %
+1110 %
 Labs
 Unlock
 labs
-in
 Milestones
-at tier 7 wave 50 unlocking Swamp Radius and Swamp stun.
+tier 7 wave 50 unlocking Swamp Radius Swamp stun .
 Swamp Radius
 Poison Swamp Stun
 Swamp Stun Chance
@@ -226,7 +225,7 @@ Swamp Stun Time
 Swamp Rend - Basic Enemies
 Swamp Rend - Additional Enemies
 Swamp Radius
-Increases the size of poison swamp. Has 30 levels.
+Increases size poison swamp . 30 levels .
 Level
 Time
 Cost
@@ -241,11 +240,11 @@ Value
 285,000
 0.08
 3
-1d  2h 53m
+1d 2h 53m
 496,980
 0.12
 4
-1d  6h 54m
+1d 6h 54m
 1,450,000
 0.16
 5
@@ -253,11 +252,11 @@ Value
 4,230,000
 0.2
 6
-1d 18h  6m
+1d 18h 6m
 10,500,000
 0.24
 7
-2d  2h 17m
+2d 2h 17m
 22,580,000
 0.28
 8
@@ -265,7 +264,7 @@ Value
 43,470,000
 0.32
 9
-3d  2h 49m
+3d 2h 49m
 76,880,000
 0.36
 10
@@ -281,23 +280,23 @@ Value
 301,120,000
 0.48
 13
-7d  8h 23m
+7d 8h 23m
 437,550,000
 0.52
 14
-9d  1h 21m
+9d 1h 21m
 617,110,000
 0.56
 15
-11d  2h 18m
+11d 2h 18m
 848,510,000
 0.6
 16
-13d 12h  9m
+13d 12h 9m
 1,140,000,000
 0.64
 17
-16d  7h 54m
+16d 7h 54m
 1,510,000,000
 0.68
 18
@@ -305,7 +304,7 @@ Value
 1,950,000,000
 0.72
 19
-23d  9h  6m
+23d 9h 6m
 2,500,000,000
 0.76
 20
@@ -317,19 +316,19 @@ Value
 3,930,000,000
 0.84
 22
-38d  3h 12m
+38d 3h 12m
 4,850,000,000
 0.88
 23
-44d  8h 27m
+44d 8h 27m
 5,920,000,000
 0.92
 24
-51d  7h 16m
+51d 7h 16m
 7,170,000,000
 0.96
 25
-59d  0h 50m
+59d 0h 50m
 8,610,000,000
 1
 26
@@ -353,7 +352,7 @@ Value
 19,420,000,000
 1.2
 Poison Swamp Stun
-Chance to stun enemies entering Poison Swamp. Enemies can be stunned once per entry into a Poison Swamp and may be stunned again upon re-entry or entering another Poison swamp. Has 1 level. Unlocks Swamp Stun Chance and Swamp Stun Time after completion. Starts with a 5% chance to stun for 1 second.
+Chance stun enemies entering Poison Swamp . Enemies stunned per entry Poison Swamp may stunned upon re-entry entering another Poison swamp . 1 level . Unlocks Swamp Stun Chance Swamp Stun Time completion . Starts 5 % chance stun 1 second .
 Level
 Time
 Cost
@@ -363,7 +362,7 @@ Value
 700,000
 Unlocked
 Swamp Stun Chance
-Unlocked after completing Poison Swamp Stun. Increases the chance enemies are stunned by Poison Swamp. Has 30 levels.
+Unlocked completing Poison Swamp Stun . Increases chance enemies stunned Poison Swamp . 30 levels .
 Level
 Time
 Cost
@@ -372,125 +371,125 @@ Value
 1
 0d 19h 59m
 250,000
-7.5%
+7.5 %
 2
 0d 23h 21m
 285,000
-10.0%
+10.0 %
 3
-1d  2h 53m
+1d 2h 53m
 496,980
-12.5%
+12.5 %
 4
-1d  6h 54m
+1d 6h 54m
 1,450,000
-15.0%
+15.0 %
 5
 1d 11h 49m
 4,230,000
-17.5%
+17.5 %
 6
-1d 18h  6m
+1d 18h 6m
 10,500,000
-20.0%
+20.0 %
 7
-2d  2h 17m
+2d 2h 17m
 22,580,000
-22.5%
+22.5 %
 8
 2d 12h 58m
 43,470,000
-25.0%
+25.0 %
 9
-3d  2h 49m
+3d 2h 49m
 76,880,000
-27.5%
+27.5 %
 10
 3d 20h 31m
 127,310,000
-30.0%
+30.0 %
 11
 4d 18h 49m
 200,030,000
-32.5%
+32.5 %
 12
 5d 22h 30m
 301,120,000
-35.0%
+35.0 %
 13
-7d  8h 23m
+7d 8h 23m
 437,550,000
-37.5%
+37.5 %
 14
-9d  1h 21m
+9d 1h 21m
 617,110,000
-40.0%
+40.0 %
 15
-11d  2h 18m
+11d 2h 18m
 848,510,000
-42.5%
+42.5 %
 16
-13d 12h  9m
+13d 12h 9m
 1,140,000,000
-45.0%
+45.0 %
 17
-16d  7h 54m
+16d 7h 54m
 1,510,000,000
-47.5%
+47.5 %
 18
 19d 14h 32m
 1,950,000,000
-50.0%
+50.0 %
 19
-23d  9h  6m
+23d 9h 6m
 2,500,000,000
-52.5%
+52.5 %
 20
 27d 16h 40m
 3,150,000,000
-55.0%
+55.0 %
 21
 32d 14h 19m
 3,930,000,000
-57.5%
+57.5 %
 22
-38d  3h 12m
+38d 3h 12m
 4,850,000,000
-60.0%
+60.0 %
 23
-44d  8h 27m
+44d 8h 27m
 5,920,000,000
-62.5%
+62.5 %
 24
-51d  7h 16m
+51d 7h 16m
 7,170,000,000
-65.0%
+65.0 %
 25
-59d  0h 50m
+59d 0h 50m
 8,610,000,000
-67.5%
+67.5 %
 26
 67d 14h 25m
 10,260,000,000
-70.0%
+70.0 %
 27
 77d 1h 17m
 12,150,000,000
-72.5%
+72.5 %
 28
 87d 10h 41m
 14,290,000,000
-75.0%
+75.0 %
 29
 98d 19h 58m
 16,700000,000
-77.5%
+77.5 %
 30
 111d 6h 28m
 19,420,000,000
-80.0%
+80.0 %
 Swamp Stun Time
-Unlocked after completing Poison Swamp Stun. Increases the duration enemies are stunned by Poison Swamp. Has 30 levels.
+Unlocked completing Poison Swamp Stun . Increases duration enemies stunned Poison Swamp . 30 levels .
 Level
 Time
 Cost
@@ -505,11 +504,11 @@ Value
 285,000
 1.6
 3
-1d  2h 53m
+1d 2h 53m
 496,980
 1.9
 4
-1d  6h 54m
+1d 6h 54m
 1,450,000
 2.2
 5
@@ -517,11 +516,11 @@ Value
 4,230,000
 2.5
 6
-1d 18h  6m
+1d 18h 6m
 10,500,000
 2.8
 7
-2d  2h 17m
+2d 2h 17m
 22,580,000
 3.1
 8
@@ -529,7 +528,7 @@ Value
 43,470,000
 3.4
 9
-3d  2h 49m
+3d 2h 49m
 76,880,000
 3.7
 10
@@ -545,23 +544,23 @@ Value
 301,120,000
 4.6
 13
-7d  8h 23m
+7d 8h 23m
 437,550,000
 4.9
 14
-9d  1h 21m
+9d 1h 21m
 617,110,000
 5.2
 15
-11d  2h 18m
+11d 2h 18m
 848,510,000
 5.5
 16
-13d 12h  9m
+13d 12h 9m
 1,140,000,000
 5.8
 17
-16d  7h 54m
+16d 7h 54m
 1,510,000,000
 6.1
 18
@@ -569,7 +568,7 @@ Value
 1,950,000,000
 6.4
 19
-23d  9h  6m
+23d 9h 6m
 2,500,000,000
 6.7
 20
@@ -581,19 +580,19 @@ Value
 3,930,000,000
 7.3
 22
-38d  3h 12m
+38d 3h 12m
 4,850,000,000
 7.6
 23
-44d  8h 27m
+44d 8h 27m
 5,920,000,000
 7.9
 24
-51d  7h 16m
+51d 7h 16m
 7,170,000,000
 8.2
 25
-59d  0h 50m
+59d 0h 50m
 8,610,000,000
 8.5
 26
@@ -616,7 +615,7 @@ Value
 111d 6h 28m
 19,420,000,000
 10
-Unlock lab in Milestones at tier 16 wave 50. When basic enemies are hurt by poison swamp, damage is increased by a percent of currently applied rend. Has 30 levels with each level increasing the percent of rend by 3% for a total of 90%. The lab can apply to other enemy types by upgrading Swamp Rend - Additional Enemies.
+Unlock lab Milestones tier 16 wave 50 . basic enemies hurt poison swamp , damage increased percent currently applied rend . 30 levels level increasing percent rend 3 % total 90 % . lab apply enemy types upgrading Swamp Rend - Additional Enemies .
 Level
 Time
 Cost
@@ -625,124 +624,124 @@ Value
 1
 8d 8h 0m
 100.00B
-3%
+3 %
 2
 9d 7h 59m
 150.00B
-6%
+6 %
 3
 10d 10h 52m
 225.00B
-9%
+9 %
 4
 11d 16h 59m
 337.50B
-12%
+12 %
 5
 13d 2h 42m
 506.25B
-15%
+15 %
 6
 14d 16h 28m
 759.38B
-18%
+18 %
 7
 16d 10h 45m
 1.14T
-21%
+21 %
 8
 18d 10h 8m
 1.71T
-24%
+24 %
 9
 20d 15h 11m
 2.56T
-27%
+27 %
 10
 23d 2h 36m
 3.84T
-30%
+30 %
 11
 25d 21h 10m
 5.77T
-33%
+33 %
 12
 28d 23h 42m
 8.65T
-36%
+36 %
 13
 32d 11h 11m
 12.97T
-39%
+39 %
 14
 36d 8h 41m
 19.46T
-42%
+42 %
 15
 40d 17h 25m
 29.19T
-45%
+45 %
 16
 45d 14h 42m
 43.79T
-48%
+48 %
 17
 51d 2h 4m
 65.68T
-51%
+51 %
 18
 57d 5h 12m
 98.53T
-54%
+54 %
 19
 64d 1h 59m
 147.79T
-57%
+57 %
 20
 71d 18h 33m
 221.68T
-60%
+60 %
 21
 80d 9h 15m
 332.53T
-63%
+63 %
 22
 90d 46m 11s
 498.79T
-66%
+66 %
 23
 100d 20h 3m
 748.18T
-69%
+69 %
 24
 112d 22h 28m
 1.12q
-72%
+72 %
 25
 126d 11h 43m
 1.68q
-75%
+75 %
 26
 141d 16h 0m
 2.53q
-78%
+78 %
 27
 158d 16h 0m
 3.79q
-81%
+81 %
 28
 177d 16h 58m
 5.68q
-84%
+84 %
 29
 199d 46m 25s
 8.52q
-87%
+87 %
 30
 222d 21h 59m
 12.78q
-90%
-Unlock lab in Milestones on tier 16 wave 50. Allows Swamp Rend to apply to other enemy types. Enemies will receive the same % effect as basics. Has 6 levels.
+90 %
+Unlock lab Milestones tier 16 wave 50 . Allows Swamp Rend apply enemy types . Enemies receive % effect basics . 6 levels .
 Level
 Time
 Cost
@@ -794,7 +793,7 @@ Rend Armor Mult
 Defense Upgrades
 Health
 Health Regen
-Defense %
+Defense %
 Defense Absolute
 Thorn Damage
 Lifesteal

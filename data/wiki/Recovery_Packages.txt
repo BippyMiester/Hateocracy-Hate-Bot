@@ -21,30 +21,29 @@ Packages
 Lab
 4
 Overview
-Recovery Packages have a chance to spawn and restore tower health by a % up to a maximum % of tower health.  Packages are automatically applied upon spawning -- they do not need to be manually collected.
+Recovery Packages chance spawn restore tower health % maximum % tower health . Packages automatically applied upon spawning -- need manually collected .
 Workshop
-Unlocks in
+Unlocks
 workshop
-for 1,500,000 coins after
+1,500,000 coins
 Interest
-. Unlocks Recovery Amount, Max Recovery and Package Chance.
+. Unlocks Recovery Amount , Max Recovery Package Chance .
 Recovery Amount
-Amount of bonus
+Amount bonus
 health
-each packages adds to your tower. Each package grants an additional amount based on this percentage of your tower's current maximum health. Has 300 levels with a base of 14%. Each level increases health by 0.40% for a maximum of 134.00%.
+packages adds tower . package grants additional amount based percentage tower 's current maximum health . 300 levels base 14 % . level increases health 0.40 % maximum 134.00 % .
 Max Recovery
-How much beyond max health recovery packages are able to recover. Has 500 levels with a base of x1.00 health. Each level adds 0.031 to the max health for a maximum of x16.50 health.
-Packages can restore beyond your maximum health.
+much beyond max health recovery packages able recover . 500 levels base x1.00 health . level adds 0.031 max health maximum x16.50 health .
+Packages restore beyond maximum health .
 Lifesteal
-and
 health regen
-are unable to heal above 100% health.
+unable heal 100 % health .
 Package Chance
-Chance a recovery package can spawn each wave. Has 60 levels with a base value of 6%. Each level increases the chance to spawn by 0.40% per level for a maximum of 30%.  Package Chance has a max of 82% when both the lab(4%) and card(33%) are maxed in addition to an Ancestral Substat(15%).
+Chance recovery package spawn wave . 60 levels base value 6 % . level increases chance spawn 0.40 % per level maximum 30 % . Package Chance max 82 % lab ( 4 % ) card ( 33 % ) maxed addition Ancestral Substat ( 15 % ) .
 Card
-The Recovery Package Chance
+Recovery Package Chance
 card
-increases the package chance workshop.
+increases package chance workshop .
 Cost
 Recovery Amount
 Max Recovery
@@ -56,127 +55,127 @@ Coins
 Expand
 Total Coins
 1
-14.40%
+14.40 %
 1.00K
 1.00K
 10
-18.00%
+18.00 %
 20.90K
 59.12K
 20
-22.00%
+22.00 %
 334.63K
 1.52M
 30
-26.00%
+26.00 %
 1.66M
 10.92M
 40
-30.00%
+30.00 %
 5.12M
 44.23M
 50
-34.00%
+34.00 %
 12.18M
 130.57M
 60
-38.00%
+38.00 %
 25.40M
 321.28M
 70
-42.00%
+42.00 %
 46.05M
 681.47M
 80
-46.00%
+46.00 %
 80.87M
 1.32B
 90
-50.00%
+50.00 %
 127.20M
 2.37B
 100
-54.00%
+54.00 %
 190.64M
 3.98B
 110
-58.00%
+58.00 %
 296.78M
 6.52B
 120
-62.00%
+62.00 %
 414.28M
 10.11B
 130
-66.00%
+66.00 %
 630.48M
 15.36B
 140
-70.00%
+70.00 %
 837.31M
 22.76B
 150
-74.00%
+74.00 %
 1.09B
 32.49B
 160
-78.00%
+78.00 %
 1.62B
 47.03B
 170
-82.00%
+82.00 %
 2.04B
 65.48B
 180
-86.00%
+86.00 %
 3.07B
 91.12B
 190
-90.00%
+90.00 %
 3.78B
 125.64B
 200
-94.00%
+94.00 %
 4.60B
 167.81B
 210
-98.00%
+98.00 %
 5.54B
 218.84B
 220
-102.00%
+102.00 %
 6.61B
 280.00B
 230
-106.00%
+106.00 %
 7.84B
 352.72B
 240
-110.00%
+110.00 %
 9.22B
 438.54B
 250
-114.00%
+114.00 %
 10.77B
 539.10B
 260
-118.00%
+118.00 %
 12.51B
 656.21B
 270
-122.00%
+122.00 %
 14.45B
 791.78B
 280
-126.00%
+126.00 %
 16.59B
 947.87B
 290
-130.00%
+130.00 %
 18.97B
 1.13T
 300
-134.00%
+134.00 %
 21.59B
 1.33T
 Max Recovery
@@ -396,248 +395,248 @@ Coins
 Expand
 Total Coins
 1
-6.40%
+6.40 %
 1.00K
 1.00K
 2
-6.80%
+6.80 %
 1.06K
 2.06K
 3
-7.20%
+7.20 %
 1.16K
 3.22K
 4
-7.60%
+7.60 %
 1.45K
 4.67K
 5
-8.00%
+8.00 %
 2.09K
 6.76K
 6
-8.40%
+8.40 %
 3.33K
 10.09K
 7
-8.80%
+8.80 %
 5.47K
 15.56K
 8
-9.20%
+9.20 %
 8.83K
 24.39K
 9
-9.60%
+9.60 %
 13.83K
 38.23K
 10
-10.00%
+10.00 %
 20.90K
 59.12K
 11
-10.40%
+10.40 %
 30.52K
 89.65K
 12
-10.80%
+10.80 %
 43.24K
 132.89K
 13
-11.20%
+11.20 %
 59.63K
 192.52K
 14
-11.60%
+11.60 %
 80.31K
 272.83K
 15
-12.00%
+12.00 %
 105.94K
 378.77K
 16
-12.40%
+12.40 %
 137.24K
 516.01K
 17
-12.80%
+12.80 %
 174.95K
 690.95K
 18
-13.20%
+13.20 %
 219.85K
 910.81K
 19
-13.60%
+13.60 %
 272.79K
 1.18M
 20
-14.00%
+14.00 %
 334.63K
 1.52M
 21
-14.40%
+14.40 %
 406.27K
 1.92M
 22
-14.80%
+14.80 %
 488.67K
 2.41M
 23
-15.20%
+15.20 %
 582.82K
 3.00M
 24
-15.60%
+15.60 %
 689.73K
 3.69M
 25
-16.00%
+16.00 %
 810.48K
 4.50M
 26
-16.40%
+16.40 %
 946.16K
 5.44M
 27
-16.80%
+16.80 %
 1.10M
 6.54M
 28
-17.20%
+17.20 %
 1.27M
 7.81M
 29
-17.60%
+17.60 %
 1.45M
 9.26M
 30
-18.00%
+18.00 %
 1.66M
 10.92M
 31
-18.40%
+18.40 %
 1.89M
 12.81M
 32
-18.80%
+18.80 %
 2.14M
 14.95M
 33
-19.20%
+19.20 %
 2.41M
 17.37M
 34
-19.60%
+19.60 %
 2.71M
 20.08M
 35
-20.00%
+20.00 %
 3.04M
 23.12M
 36
-20.40%
+20.40 %
 3.39M
 26.51M
 37
-20.80%
+20.80 %
 3.78M
 30.29M
 38
-21.20%
+21.20 %
 4.19M
 34.48M
 39
-21.60%
+21.60 %
 4.64M
 39.12M
 40
-22.00%
+22.00 %
 5.12M
 44.23M
 41
-22.40%
+22.40 %
 5.63M
 49.87M
 42
-22.80%
+22.80 %
 6.19M
 56.06M
 43
-23.20%
+23.20 %
 6.78M
 62.84M
 44
-23.60%
+23.60 %
 7.42M
 70.25M
 45
-24.00%
+24.00 %
 8.09M
 78.34M
 46
-24.40%
+24.40 %
 8.81M
 87.16M
 47
-24.80%
+24.80 %
 9.58M
 96.74M
 48
-25.20%
+25.20 %
 10.40M
 107.13M
 49
-25.60%
+25.60 %
 11.26M
 118.39M
 50
-26.00%
+26.00 %
 12.18M
 130.57M
 51
-26.40%
+26.40 %
 13.55M
 144.12M
 52
-26.80%
+26.80 %
 14.60M
 158.72M
 53
-27.20%
+27.20 %
 15.72M
 174.45M
 54
-27.60%
+27.60 %
 16.90M
 191.35M
 55
-28.00%
+28.00 %
 18.15M
 209.49M
 56
-28.40%
+28.40 %
 19.46M
 228.95M
 57
-28.80%
+28.80 %
 20.83M
 249.78M
 58
-29.20%
+29.20 %
 22.28M
 272.07M
 59
-29.60%
+29.60 %
 23.81M
 295.88M
 60
-30.00%
+30.00 %
 25.40M
 321.28M
 Workshop Enhancement
 Packages
-Requires 50 trillion coins to be spent on Utility enhancements to unlock. Increases Max Recovery Package and Recovery Amount by x1 when unlocked and increases by 0.01x per level. Has a maximum level of 300 for a 4x bonus.
+Requires 50 trillion coins spent Utility enhancements unlock . Increases Max Recovery Package Recovery Amount x1 unlocked increases 0.01x per level . maximum level 300 4x bonus .
 Level
 Value
 Coins
@@ -770,284 +769,283 @@ Total Coins
 Lab
 Unlock
 labs
-in
 Milestones
-. Package After Boss unlocked at tier 3 wave 200. Recovery Package Amount, Recovery Package Max and Recovery Package Chance are unlocked on tier 6 wave 150.
-Package After Boss
+. Package Boss unlocked tier 3 wave 200 . Recovery Package Amount , Recovery Package Max Recovery Package Chance unlocked tier 6 wave 150 .
+Package Boss
 Recovery Package Amount
 Recovery Package Max
 Recovery Package Chance
-Package After Boss
-Package spawns after boss wave.
+Package Boss
+Package spawns boss wave .
 Level
 Time
 Cost
 Value
 1
-8d  2h 26m
+8d 2h 26m
 1,000,000,000
 Unlocked
 Recovery Package Amount
-Adds to max recovery amount workshop. Has 20 levels.
+Adds max recovery amount workshop . 20 levels .
 Level
 Time
 Cost
 Expand
 Value
 1
-2d  7h 33m
+2d 7h 33m
 20,000,000,000
-0.40%
+0.40 %
 2
 2d 15h 54m
 25,010,000,000
-0.80%
+0.80 %
 3
-3d  0h 27m
+3d 0h 27m
 30,070,000,000
-1.20%
+1.20 %
 4
-3d  9h 34m
+3d 9h 34m
 35,330,000,000
-1.60%
+1.60 %
 5
 3d 19h 44m
 40,970,000,000
-2.00%
+2.00 %
 6
-4d  7h 36m
+4d 7h 36m
 47,260,000,000
-2.40%
+2.40 %
 7
 4d 21h 51m
 54,530,000,000
-2.80%
+2.80 %
 8
 5d 15h 19m
 63,130,000,000
-3.20%
+3.20 %
 9
 6d 12h 53m
 73,510,000,000
-3.60%
+3.60 %
 10
 7d 15h 31m
 86,140,000,000
-4.00%
+4.00 %
 11
-9d  0h 17m
+9d 0h 17m
 101,550,000,000
-4.40%
+4.40 %
 12
 10d 16h 19m
 120,320,000,000
-4.80%
+4.80 %
 13
 12d 16h 46m
 143,080,000,000
-5.20%
+5.20 %
 14
-15d  2h 57m
+15d 2h 57m
 170,500,000,000
-5.60%
+5.60 %
 15
-18d  0h  9m
+18d 0h 9m
 203,310,000,000
-6.00%
+6.00 %
 16
-21d  9h 46m
+21d 9h 46m
 242,270,000,000
-6.40%
+6.40 %
 17
-25d  9h 15m
+25d 9h 15m
 288,200,000,000
-6.80%
+6.80 %
 18
-30d  0h  6m
+30d 0h 6m
 341,960,000,000
-7.20%
+7.20 %
 19
-35d  7h 54m
+35d 7h 54m
 404,450,000,000
-7.60%
+7.60 %
 20
 41d 10h 16m
 476,600,000,000
-8.00%
+8.00 %
 Recovery Package Max
-Increases the max amount of health recovery packages can heal. Has 20 levels.
+Increases max amount health recovery packages heal . 20 levels .
 Level
 Time
 Cost
 Expand
 Value
 1
-2d  7h 33m
+2d 7h 33m
 20,000,000,000
-1.00%
+1.00 %
 2
 2d 15h 54m
 25,010,000,000
-2.00%
+2.00 %
 3
-3d  0h 27m
+3d 0h 27m
 30,070,000,000
-3.00%
+3.00 %
 4
-3d  9h 34m
+3d 9h 34m
 35,330,000,000
-4.00%
+4.00 %
 5
 3d 19h 44m
 40,970,000,000
-5.00%
+5.00 %
 6
-4d  7h 36m
+4d 7h 36m
 47,260,000,000
-6.00%
+6.00 %
 7
 4d 21h 51m
 54,530,000,000
-7.00%
+7.00 %
 8
 5d 15h 19m
 63,130,000,000
-8.00%
+8.00 %
 9
 6d 12h 53m
 73,510,000,000
-9.00%
+9.00 %
 10
 7d 15h 31m
 86,140,000,000
-10.00%
+10.00 %
 11
-9d  0h 17m
+9d 0h 17m
 101,550,000,000
-11.00%
+11.00 %
 12
 10d 16h 19m
 120,320,000,000
-12.00%
+12.00 %
 13
 12d 16h 46m
 143,080,000,000
-13.00%
+13.00 %
 14
-15d  2h 57m
+15d 2h 57m
 170,500,000,000
-14.00%
+14.00 %
 15
-18d  0h  9m
+18d 0h 9m
 203,310,000,000
-15.00%
+15.00 %
 16
-21d  9h 46m
+21d 9h 46m
 242,270,000,000
-16.00%
+16.00 %
 17
-25d  9h 15m
+25d 9h 15m
 288,200,000,000
-17.00%
+17.00 %
 18
-30d  0h  6m
+30d 0h 6m
 341,960,000,000
-18.00%
+18.00 %
 19
-35d  7h 54m
+35d 7h 54m
 404,450,000,000
-19.00%
+19.00 %
 20
 41d 10h 16m
 476,600,000,000
-20.00%
+20.00 %
 Recovery Package Chance
-Increase the workshop chance the package spawns after a wave. Has 20 levels.
+Increase workshop chance package spawns wave . 20 levels .
 Level
 Time
 Cost
 Expand
 Value
 1
-2d  7h 33m
+2d 7h 33m
 20,000,000,000
-0.20%
+0.20 %
 2
 2d 15h 54m
 25,010,000,000
-0.40%
+0.40 %
 3
-3d  0h 27m
+3d 0h 27m
 30,070,000,000
-0.60%
+0.60 %
 4
-3d  9h 34m
+3d 9h 34m
 35,330,000,000
-0.80%
+0.80 %
 5
 3d 19h 44m
 40,970,000,000
-1.00%
+1.00 %
 6
-4d  7h 36m
+4d 7h 36m
 47,260,000,000
-1.20%
+1.20 %
 7
 4d 21h 51m
 54,530,000,000
-1.40%
+1.40 %
 8
 5d 15h 19m
 63,130,000,000
-1.60%
+1.60 %
 9
 6d 12h 53m
 73,510,000,000
-1.80%
+1.80 %
 10
 7d 15h 31m
 86,140,000,000
-2.00%
+2.00 %
 11
-9d  0h 17m
+9d 0h 17m
 101,550,000,000
-2.20%
+2.20 %
 12
 10d 16h 19m
 120,320,000,000
-2.40%
+2.40 %
 13
 12d 16h 46m
 143,080,000,000
-2.60%
+2.60 %
 14
-15d  2h 57m
+15d 2h 57m
 170,500,000,000
-2.80%
+2.80 %
 15
-18d  0h  9m
+18d 0h 9m
 203,310,000,000
-3.00%
+3.00 %
 16
-21d  9h 46m
+21d 9h 46m
 242,270,000,000
-3.20%
+3.20 %
 17
-25d  9h 15m
+25d 9h 15m
 288,200,000,000
-3.40%
+3.40 %
 18
-30d  0h  6m
+30d 0h 6m
 341,960,000,000
-3.60%
+3.60 %
 19
-35d  7h 54m
+35d 7h 54m
 404,450,000,000
-3.80%
+3.80 %
 20
 41d 10h 16m
 476,600,000,000
-4.00%
+4.00 %
 Workshop Upgrades
 Attack Upgrades
 Damage
@@ -1070,7 +1068,7 @@ Rend Armor Mult
 Defense Upgrades
 Health
 Health Regen
-Defense %
+Defense %
 Defense Absolute
 Thorn Damage
 Lifesteal

@@ -1,5 +1,5 @@
 Coin Bonus
-Requires 50 billion coins to be spent on Utility enhancements to unlock. Increases the Coin Bonus multiplier by x1 when unlocked and increases by 0.01x per level. Has a maximum level of 200 for a 3x bonus. Note: Coin Bonus enhancement affects tier bonus and Coins/kill. This means the overall benefit of Coin Bonus enhancement is squared.
+Requires 50 billion coins spent Utility enhancements unlock . Increases Coin Bonus multiplier x1 unlocked increases 0.01x per level . maximum level 200 3x bonus . Note : Coin Bonus enhancement affects tier bonus Coins/kill . means overall benefit Coin Bonus enhancement squared .
 Level
 Value
 Coins

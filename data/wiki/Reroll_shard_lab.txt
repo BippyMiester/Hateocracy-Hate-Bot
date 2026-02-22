@@ -1,4 +1,4 @@
-Module labs allow players to research drop chance of common and rare modules and shards as well as reduce upgrade costs.
+Module labs allow players research drop chance common rare modules shards well reduce upgrade costs .
 Common Drop Chance
 Reroll Shards
 Daily Mission Shards
@@ -13,8 +13,8 @@ Generator Effect Bans
 Core Effect Bans
 Assist Module Labs
 Common Drop Chance
-Unlock Lab in Milestones at Tier 4 Wave 70. Increases the chance bosses drop common modules. Has 10 levels for a max increase of 1%.
-Note the starting Common Drop Chance is 2%.
+Unlock Lab Milestones Tier 4 Wave 70 . Increases chance bosses drop common modules . 10 levels max increase 1 % .
+Note starting Common Drop Chance 2 % .
 Level
 Time
 Cost
@@ -22,45 +22,45 @@ Value
 1
 4d 4h 0m
 5,000,000
-+0.10%
++0.10 %
 2
 4d 12h 21m
 40,000,000
-+0.20%
++0.20 %
 3
 4d 20h 50m
 114,250,000
-+0.30%
++0.30 %
 4
 5d 5h 39m
 282,700,000
-+0.40%
++0.40 %
 5
 5d 14h 58m
 610,030,000
-+0.50%
++0.50 %
 6
 6d 1h 1m
 1,170,000,000
-+0.60%
++0.60 %
 7
 6d 12h 0m
 2,030,000,000
-+0.70%
++0.70 %
 8
 7d 0h 10m
 3,290,000,000
-+0.80%
++0.80 %
 9
 7d 13h 45m
 5,020,000,000
-+0.90%
++0.90 %
 10
 8d 5h 0m
 7,320,000,000
-+1.00%
++1.00 %
 Reroll Shards
-Unlock Lab in Milestones at tier 4 wave 70. Increase reroll shards dropped from bosses. Has 100 level for an increase of 100 reroll shards.
+Unlock Lab Milestones tier 4 wave 70 . Increase reroll shards dropped bosses . 100 level increase 100 reroll shards .
 Level
 Time
 Cost
@@ -466,7 +466,7 @@ Value
 488,930,000,000
 +100
 Daily Mission Shards
-Unlock Lab in Milestones at tier 4 wave 70. Increases the Shards given by daily missions. Has 50 levels for an additional 50 extra shard for each mission.
+Unlock Lab Milestones tier 4 wave 70 . Increases Shards given daily missions . 50 levels additional 50 extra shard mission .
 Level
 Time
 Cost
@@ -508,7 +508,7 @@ Value
 1.5B
 +9
 10
-1d  20h 37m
+1d 20h 37m
 2.1B
 +10
 11
@@ -540,7 +540,7 @@ Value
 12.2B
 +17
 18
-2d  16h 57m
+2d 16h 57m
 14.7B
 +18
 19
@@ -572,7 +572,7 @@ Value
 41.4B
 +25
 26
-4d  2h 12m
+4d 2h 12m
 46.8B
 +26
 27
@@ -604,7 +604,7 @@ Value
 98.3B
 +33
 34
-6d  2h 34m
+6d 2h 34m
 107.8B
 +34
 35
@@ -636,7 +636,7 @@ Value
 192.0B
 +41
 42
-8d  19h 52m
+8d 19h 52m
 206.7B
 +42
 43
@@ -668,276 +668,273 @@ Value
 331.7B
 +49
 50
-12d  7h 36m
+12d 7h 36m
 352.9B
 +50
 Module Shard Cost
 Unlocked
 Lab
-in
 Milestones
-at tier 10 wave 40. Reduces the shards required to increase the level of a module. Has 30 levels for a 30% reduction to shard costs.
+tier 10 wave 40 . Reduces shards required increase level module . 30 levels 30 % reduction shard costs .
 Level
 Time
 Cost
 Value
 1
-5d  4h  59m
+5d 4h 59m
 5,000,000,000
--1%
+-1 %
 2
-5d  9h  11m
+5d 9h 11m
 5,120,000,000
--2%
+-2 %
 3
-5d  13h  28m
+5d 13h 28m
 5,960,000,000
--3%
+-3 %
 4
-5d  17h  55m
+5d 17h 55m
 8,420,000,000
--4%
+-4 %
 5
-5d  22h  36m
+5d 22h 36m
 13,520,000,000
--5%
+-5 %
 6
-6d  3h  35m
+6d 3h 35m
 22,350,000,000
--6%
+-6 %
 7
-6d  8h  56m
+6d 8h 56m
 36,030,000,000
--7%
+-7 %
 8
-6d  14h  41m
+6d 14h 41m
 55,760,000,000
--8%
+-8 %
 9
-6d  20h  54m
+6d 20h 54m
 82,760,000,000
--9%
+-9 %
 10
-7d  3h  38m
+7d 3h 38m
 118,310,000,000
--10%
+-10 %
 11
-7d  10h  56m
+7d 10h 56m
 163,690,000,000
--11%
+-11 %
 12
-7d  18h  51m
+7d 18h 51m
 220,230,000,000
--12%
+-12 %
 13
-8d  3h  26m
+8d 3h 26m
 289,280,000,000
--13%
+-13 %
 14
-8d  12h  44m
+8d 12h 44m
 372,220,000,000
--14%
+-14 %
 15
-8d  22h  48m
+8d 22h 48m
 470,450,000,000
--15%
+-15 %
 16
-9d  19h  40m
+9d 19h 40m
 585,390,000,000
--16%
+-16 %
 17
-9d  21h  24m
+9d 21h 24m
 718,480,000,000
--17%
+-17 %
 18
-10d  10h  2m
+10d 10h 2m
 871,180,000,000
--18%
+-18 %
 19
-10d  23h  36m
+10d 23h 36m
 1,040,000,000,000
--19%
+-19 %
 20
-11d  14h  10m
+11d 14h 10m
 1,240,000,000,000
--20%
+-20 %
 21
-12d  5h  46m
+12d 5h 46m
 1,460,000,000,000
--21%
+-21 %
 22
-12d  22h  27m
+12d 22h 27m
 1,710,000,000,000
--22%
+-22 %
 23
-13d  16h  14m
+13d 16h 14m
 1,980,000,000,000
--23%
+-23 %
 24
-14d  11h  12m
+14d 11h 12m
 2,280,000,000,000
--24%
+-24 %
 25
-15d  7h  21m
+15d 7h 21m
 2,620,000,000,000
--25%
+-25 %
 26
-16d  4h  45m
+16d 4h 45m
 2,980,000,000,000
--26%
+-26 %
 27
-17d  3h  27m
+17d 3h 27m
 3,380,000,000,000
--27%
+-27 %
 28
-18d  3h  28m
+18d 3h 28m
 3,810,000,000,000
--28%
+-28 %
 29
-19d  4h  51m
+19d 4h 51m
 4,280,000,000,000
--29%
+-29 %
 30
-20d  7h  39m
+20d 7h 39m
 4,790,000,000,000
--30%
+-30 %
 Module Coin Cost
 Unlock
 Lab
-in
 Milestones
-at tier 10 wave 40. Reduces the coins required to increase the level of a module. Has 30 levels for a 30% reduction to coin costs.
+tier 10 wave 40 . Reduces coins required increase level module . 30 levels 30 % reduction coin costs .
 Level
 Time
 Cost
 Value
 1
-5d  4h  59m
+5d 4h 59m
 5,000,000,000
--1%
+-1 %
 2
-5d  9h  11m
+5d 9h 11m
 5,130,000,000
--2%
+-2 %
 3
-5d  13h  28m
+5d 13h 28m
 5,980,000,000
--3%
+-3 %
 4
-5d  17h  55m
+5d 17h 55m
 8,450,000,000
--4%
+-4 %
 5
-5d  22h  36m
+5d 22h 36m
 13,560,000,000
--5%
+-5 %
 6
-6d  3h  35m
+6d 3h 35m
 22,400,000,000
--6%
+-6 %
 7
-6d  8h  56m
+6d 8h 56m
 36,090,000,000
--7%
+-7 %
 8
-6d  14h  41m
+6d 14h 41m
 55,830,000,000
--8%
+-8 %
 9
-6d  20h  54m
+6d 20h 54m
 82,840,000,000
--9%
+-9 %
 10
-7d  3h  38m
+7d 3h 38m
 118,400,000,000
--10%
+-10 %
 11
-7d  10h  56m
+7d 10h 56m
 163,790,000,000
--11%
+-11 %
 12
-7d  18h  51m
+7d 18h 51m
 220,340,000,000
--12%
+-12 %
 13
-8d  3h  26m
+8d 3h 26m
 289,400,000,000
--13%
+-13 %
 14
-8d  12h  44m
+8d 12h 44m
 372,350,000,000
--14%
+-14 %
 15
-8d  22h  48m
+8d 22h 48m
 470,590,000,000
--15%
+-15 %
 16
-9d  19h  40m
+9d 19h 40m
 585,540,000,000
--16%
+-16 %
 17
-9d  21h  24m
+9d 21h 24m
 718,640,000,000
--17%
+-17 %
 18
-10d  10h  2m
+10d 10h 2m
 871,350,000,000
--18%
+-18 %
 19
-10d  23h  36m
+10d 23h 36m
 1,050,000,000,000
--19%
+-19 %
 20
-11d  14h  10m
+11d 14h 10m
 1,240,000,000,000
--20%
+-20 %
 21
-12d  5h  46m
+12d 5h 46m
 1,460,000,000,000
--21%
+-21 %
 22
-12d  22h  27m
+12d 22h 27m
 1,710,000,000,000
--22%
+-22 %
 23
-13d  16h  14m
+13d 16h 14m
 1,980,000,000,000
--23%
+-23 %
 24
-14d  11h  12m
+14d 11h 12m
 2,280,000,000,000
--24%
+-24 %
 25
-15d  7h  21m
+15d 7h 21m
 2,620,000,000,000
--25%
+-25 %
 26
-16d  4h  45m
+16d 4h 45m
 2,980,000,000,000
--26%
+-26 %
 27
-17d  3h  27m
+17d 3h 27m
 3,380,000,000,000
--27%
+-27 %
 28
-18d  3h  28m
+18d 3h 28m
 3,810,000,000,000
--28%
+-28 %
 29
-19d  4h  51m
+19d 4h 51m
 4,280,000,000,000
--29%
+-29 %
 30
-20d  7h  39m
+20d 7h 39m
 4,790,000,000,000
--30%
+-30 %
 Rare Drop Chance
 Unlock
 Lab
-in
 Milestones
-at tier 10 wave 40. Increases the chance for bosses to drop rare modules. Has 10 levels for an additional 1% chance.
-Note the starting Rare Drop Chance is 0.5%.
+tier 10 wave 40 . Increases chance bosses drop rare modules . 10 levels additional 1 % chance .
+Note starting Rare Drop Chance 0.5 % .
 Level
 Time
 Cost
@@ -945,45 +942,45 @@ Value
 1
 8d 16h 20m
 70B
-+0.10%
++0.10 %
 2
 9d 3h 27m
 76B
-+0.20%
++0.20 %
 3
 9d 14h 44m
 128,57B
-+0.30%
++0.30 %
 4
 10d 2h 19m
 306,83B
-+0.40%
++0.40 %
 5
 10d 14h 25m
 714B
-+0.50%
++0.50 %
 6
 11d 3h 14m
 1,47T
-+0.60%
++0.60 %
 7
 11d 17h 0m
 2,72T
-+0.70%
++0.70 %
 8
 12d 7h 57m
 4,61T
-+0.80%
++0.80 %
 9
 13d 0h 18m
 7,32T
-+0.90%
++0.90 %
 10
 13d 18h 19m
 11,01T
-+1.00%
++1.00 %
 Unmerge Module
-Unlock Lab in Milestones at tier 8 wave 20. Allows modules to be unmerged. Modules that required a duplicate epic+ to merge will provide the lower level module and the epic+. When any module could be used to merge to the new rarity, unmerging will convert the modules into shards of the unmerged type. Has 1 level.
+Unlock Lab Milestones tier 8 wave 20 . Allows modules unmerged . Modules required duplicate epic+ merge provide lower level module epic+ . module could used merge new rarity , unmerging convert modules shards unmerged type . 1 level .
 Level
 Time
 Cost
@@ -993,7 +990,7 @@ Value
 10,000,000
 Unlocked
 Shatter Shards
-Unlock Lab at in Milestones at tier 16 wave 40. Increases the amount of shards earned when shattering modules. There are 5 levels increasing shards earned by 20% per level for a total of increase of 100%.
+Unlock Lab Milestones tier 16 wave 40 . Increases amount shards earned shattering modules . 5 levels increasing shards earned 20 % per level total increase 100 % .
 Level
 Time
 Cost
@@ -1002,25 +999,25 @@ Value
 1
 142d 14h 13m
 10.00T
-20%
+20 %
 2
 191d 4h 53m
 87.00T
-40%
+40 %
 3
 256d 10h 58m
 229.20T
-60%
+60 %
 4
 359d 8h 9m
 547.36T
-80%
+80 %
 5
 1y 158d 6h 15m
 1.19q
-100%
+100 %
 Cannon Effect Bans
-Unlocked Tier 10 wave 40. Enables the banning of specific cannon effects when rerolling cannon modules. Has 4 levels 4 for total bans.
+Unlocked Tier 10 wave 40 . Enables banning specific cannon effects rerolling cannon modules . 4 levels 4 total bans .
 Level
 Time
 Cost
@@ -1042,7 +1039,7 @@ Value
 50.00q
 4
 Armor Effect Bans
-Unlocked Tier 10 wave 40.  Enables the banning of specific armor effects when rerolling armor modules. Has 4 levels 4 for total bans.
+Unlocked Tier 10 wave 40 . Enables banning specific armor effects rerolling armor modules . 4 levels 4 total bans .
 Level
 Time
 Cost
@@ -1064,7 +1061,7 @@ Value
 50.00q
 4
 Generator Effect Bans
-Unlocked Tier 10 wave 40.  Enables the banning of specific generator effects when rerolling generator modules. Has 3 levels 3 for total bans.
+Unlocked Tier 10 wave 40 . Enables banning specific generator effects rerolling generator modules . 3 levels 3 total bans .
 Level
 Time
 Cost
@@ -1082,7 +1079,7 @@ Value
 50.00q
 3
 Core Effect Bans
-Unlocked Tier 10 wave 40.  Enables the banning of specific core effects when rerolling core modules. Has 7 levels 7 for total bans.
+Unlocked Tier 10 wave 40 . Enables banning specific core effects rerolling core modules . 7 levels 7 total bans .
 Level
 Time
 Cost
@@ -1112,132 +1109,132 @@ Value
 50.00q
 6
 7
-250d 0h m 0s
+250d 0h 0s
 500.00q
 7
 Assist Module Main Effect / Substat Labs
 Expand
 Level
 Time
-Cost (Q Coins)
+Cost ( Q Coins )
 Value
 1
 10d 19h 11m
 0.25
-1%
+1 %
 2
 21d 14h 22m
 0.5
-2%
+2 %
 3
 32d 9h 33m
 0.75
-3%
+3 %
 4
 43d 4h 45m
 1
-4%
+4 %
 5
 53d 23h 56m
 1.25
-5%
+5 %
 6
 64d 19h 7m
 1.5
-6%
+6 %
 7
 75d 14h 19m
 1.75
-7%
+7 %
 8
 86d 9h 30m
 2
-8%
+8 %
 9
 97d 4h 41m
 2.25
-9%
+9 %
 10
 107d 23h 53m
 2.5
-10%
+10 %
 11
 118d 19h 4m
 2.75
-11%
+11 %
 12
 129d 14h 15m
 3
-12%
+12 %
 13
 140d 9h 27m
 3.25
-13%
+13 %
 14
 151d 4h 38m
 3.5
-14%
+14 %
 15
 161d 23h 49m
 3.75
-15%
+15 %
 16
 172d 19h 0m
 4
-16%
+16 %
 17
 183d 14h 12m
 4.25
-17%
+17 %
 18
 194d 9h 23m
 4.5
-18%
+18 %
 19
 205d 4h 34m
 4.75
-19%
+19 %
 20
 215d 23h 46m
 5
-20%
+20 %
 21
 226d 18h 57m
 5.25
-21%
+21 %
 22
 237d 14h 8m
 5.5
-22%
+22 %
 23
 248d 9h 20m
 5.75
-23%
+23 %
 24
 259d 4h 31m
 6
-24%
+24 %
 25
 269d 23h 42m
 6.25
-25%
+25 %
 26
 280d 18h 54m
 6.5
-26%
+26 %
 27
 291d 14h 5m
 6.75
-27%
+27 %
 28
 302d 9h 16m
 7
-28%
+28 %
 29
 313d 4h 27m
 7.25
-29%
+29 %
 30
 323d 23h 39m
 7.5
-30%
+30 %

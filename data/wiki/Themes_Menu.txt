@@ -24,24 +24,24 @@ Songs
 4
 Relics
 Description
-The Theme Menu (commonly called skins) is where players can select tower themes, background themes, choose music and view relics.
+Theme Menu ( commonly called skins ) players select tower themes , background themes , choose music view relics .
 Themes
-There are 4 main themes: Tower, Background, Menu, and Guardian. Each provide a passive coin bonus even while not active. You are able to randomize themes or select them from the Tower and Background Submenus.
+4 main themes : Tower , Background , Menu , Guardian . provide passive coin bonus even active . able randomize themes select Tower Background Submenus .
 Tower Themes
-Changes appearance of the tower. The tower themes can be unlocked in
+Changes appearance tower . tower themes unlocked
 Milestones
-on wave 2,500 of each tier as well as being purchased during
+wave 2,500 tier well purchased
 events
-. The passive coin multiplier is 0.4% for each owned.
+. passive coin multiplier 0.4 % owned .
 Background Themes
-Changes appearance of the background. Background themes can be purchased during events. The passive coin multiplier is 0.8% for each owned.
+Changes appearance background . Background themes purchased events . passive coin multiplier 0.8 % owned .
 Menu Themes
-Changes appearance of the Menu. Menu themes can be purchased in Guilds. The passive coin multiplier is 0.6% for each owned.
+Changes appearance Menu . Menu themes purchased Guilds . passive coin multiplier 0.6 % owned .
 Guardian Themes
-Changes appearance of the Guardian. Guardian themes can be purchased in Guilds. The passive coin multiplier is 0.6% for each owned.
+Changes appearance Guardian . Guardian themes purchased Guilds . passive coin multiplier 0.6 % owned .
 Passive Coin Bonus Calculation
-The bonuses between themes is additive for a cumulative multiplier. The total multiplier is displayed in the tier multiplier menu. It is calculated as:
-Coin Bonus = 1 + 0.004 x Tower Theme Quantity + 0.008 x Background Theme Quantity + 0.006 x Menu Theme Quantity + 0.006 x Guardian Theme Quantity.
+bonuses themes additive cumulative multiplier . total multiplier displayed tier multiplier menu . calculated :
+Coin Bonus = 1 + 0.004 x Tower Theme Quantity + 0.008 x Background Theme Quantity + 0.006 x Menu Theme Quantity + 0.006 x Guardian Theme Quantity .
 Milestone Themes
 Theme
 Expand
@@ -89,7 +89,7 @@ Paid
 Eclipse
 Free
 Event Themes
-Themes in the chart include both tower and background themes from each event.
+Themes chart include tower background themes event .
 Theme
 Expand
 Rerun
@@ -144,35 +144,23 @@ Yes
 Sunset River
 Yes
 Hurricane
-No
 Rainfall
-No
 TV wall
 Yes
 Abduction
-No
 Snowstorm
 Yes
-Forest of Cats
-No
+Forest Cats
 Event Horizon
-No
 Clock Tower
-No
 Pi Disk
-No
 Koi Pond
-No
 Camping
-No
 Cthulu
-No
 Cyberpunk
-No
 Crystal Cave
-No
 Guild Themes
-Themes in the chart include the available themes in the guild per season.
+Themes chart include available themes guild per season .
 Expand
 Guild Season
 Tower
@@ -180,57 +168,50 @@ Background
 Menu
 Profile
 Guardian
-Rerun?
+Rerun ?
 1
 Crown
 Throne Room
-Dark Being
+Dark
 Butter
-no
 2
 Mech Warrior
 Mech world
 Mech world
 Mech world
-Muse, Finn
-no
+Muse , Finn
 3
 DJ
 Party
 Party
 Party
-Nyra, Rolo
-no
+Nyra , Rolo
 4
 Pixel Soldier
 Pixel Alien War
 Pixel Alien War
 Pixel Alien War
-Glenn, Zepe
-no
+Glenn , Zepe
 5
 Restless Eye
 Crimson Horror
 Crimson Horror
 Crimson Horror
-Iris, Silk
-no
+Iris , Silk
 6
 Shining Star
 Cozy Cosmos
 Cozy Cosmos
 Cozy Cosmos
-Mickey, Gaia
-no
+Mickey , Gaia
 7
 Space Telescope
 Supernova
 Supernova
 Supernova
-Arwing, Frank
-no
+Arwing , Frank
 Songs
-The Song submenu can be found with themes. This submenu allows you to select which songs will play during rounds as well as an alternative location to mute game sounds.
+Song submenu found themes . submenu allows select songs play rounds well alternative location mute game sounds .
 Relics
-The Relic submenu lets you view which relics you have unlocked and the cumulative bonuses given. For more information, see
+Relic submenu lets view relics unlocked cumulative bonuses given . information , see
 Relics

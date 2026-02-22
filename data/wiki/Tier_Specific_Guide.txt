@@ -2,7 +2,7 @@ Contents
 1
 Overview & Basics
 1.1
-Enemies:
+Enemies :
 1.2
 Tiers & Blenders
 1.3
@@ -14,9 +14,9 @@ Swapping Builds
 2
 Tier 1
 2.1
-Your first Ultimate Weapon (UW)
+first Ultimate Weapon ( UW )
 2.2
-Coins / Wave vs. Coins / Kill
+Coins / Wave vs . Coins / Kill
 2.3
 DPS vs. Defense
 2.4
@@ -26,15 +26,15 @@ Lab usage
 3
 Tier 2
 3.1
-Must-read: Range Labs
+Must-read : Range Labs
 3.2
-Main goal: Lab Speed Lab
+Main goal : Lab Speed Lab
 3.3
-Coin farming:
+Coin farming :
 3.4
 2nd Ultimate Weapon
 3.5
-Gem & Lab usage:
+Gem & Lab usage :
 4
 Tier 3
 4.1
@@ -44,7 +44,7 @@ Guilds
 4.3
 Unlock Perks
 4.4
-First Perk Choice and Garlic Thorns
+First Perk Choice Garlic Thorns
 5
 Tier 4
 5.1
@@ -54,13 +54,13 @@ Daily Mission Shards
 6
 Tier 5
 6.1
-Events and Bots
+Events Bots
 7
 Tier 6
 7.1
-Pitfall: Black Hole Damage lab
+Pitfall : Black Hole Damage lab
 7.2
-Must have: Black Hole Coin Bonus
+Must : Black Hole Coin Bonus
 8
 Tier 7
 9
@@ -98,209 +98,209 @@ Cooldown Sync'ing
 20.2
 Duration Sync'ing
 Overview & Basics
-A lot of guides are super detailed and take forever to read. Also, because there are so many tiers, with new features unlocked at each tier, it can be hard to even know which guides to read in the first place. This page will give a brief overview of each tier, what to do, and more importantly, what NOT to do, since a lot of decisions in this game are irreversible. I also want to quickly cover some basics that are relevant in all tiers:
-Enemies:
-enemies, such as Basic, Fast, Tank, and Ranged, are susceptible to Knockback, Orbs, Black Hole, Death Ray, and Thorns. These are usually dealt with by using Knockback or Black Hole to keep them at orbs' range
+lot guides super detailed take forever read . Also , many tiers , new features unlocked tier , hard even know guides read first place . page give brief overview tier , , importantly , , since lot decisions game irreversible . also want quickly cover basics relevant tiers :
+Enemies :
+enemies , Basic , Fast , Tank , Ranged , susceptible Knockback , Orbs , Black Hole , Death Ray , Thorns . usually dealt using Knockback Black Hole keep orbs ' range
 Elite
-enemies, such as Scatter, Vampire, and Ray, appear more and more often at higher waves. They are susceptible to Knockback and Thorns. These are dealt with either with Knockback + DPS or with lack-of-knockback + Thorns
+enemies , Scatter , Vampire , Ray , appear often higher waves . susceptible Knockback Thorns . dealt either Knockback + DPS lack-of-knockback + Thorns
 Boss
-enemies appear every 10 rounds. They are only susceptible to Thorns, Plasma Cannon, and Energy Net. In the midgame, once Plasma Cannon takes off 54% of a boss's health, it can be one-shot by Thorns as long as your MaxHP is high enough to survive. Or, if you have the Energy Net card mastery, you can deal up to 20x damage to bosses, making them easy to handle with raw DPS
+enemies appear every 10 rounds . susceptible Thorns , Plasma Cannon , Energy Net . midgame , Plasma Cannon takes 54 % boss 's health , one-shot Thorns long MaxHP high enough survive . , Energy Net card mastery , deal 20x damage bosses , making easy handle raw DPS
 Tiers & Blenders
-You want to unlock new tiers ASAP. The higher your max tier is, the more coins you get from Daily Missions and Weekly Boxes. For example, if your highest tier is Tier 1, you'll get 25 coins per mission completed. If your highest tier is Tier 18, you'll get 500,000,000 coins per mission. The difference is pretty massive, especially in the early game
-The easiest way to advance through tiers is to use the Blender Thorns build. Basically, you unlock Knockback to keep all normal enemies at the edge of your tower's range, use Orbs at the edge of your range to insta-kill those normal enemies, and then rely on Plasma Cannon & Thorns to two-shot the bosses. Do this until Wave 100 to unlock the next tier
+want unlock new tiers ASAP . higher max tier , coins get Daily Missions Weekly Boxes . example , highest tier Tier 1 , 'll get 25 coins per mission completed . highest tier Tier 18 , 'll get 500,000,000 coins per mission . difference pretty massive , especially early game
+easiest way advance tiers use Blender Thorns build . Basically , unlock Knockback keep normal enemies edge tower 's range , use Orbs edge range insta-kill normal enemies , rely Plasma Cannon & Thorns two-shot bosses . Wave 100 unlock next tier
 Coins & Defense
-To farm coins efficiently, you need to reach higher waves, But going into higher waves comes with new problems and opportunities
-The new problem is Elite enemies, which are immune to Orbs, Death Ray, Shockwave, and Black Hole, as well as having special properties. Ray enemies are ranged, making it hard to kill them before they can attack. Vampires are somewhat ranged, somewhat resistant to Thorns, and disable Lifesteal and Health Regen (but not Wall Regen) while they're attacking. And Scatter enemies split in half when they're killed, creating up to 16 children. I.e., even if your Thorns can one-shot them, you'll still get hit 1+2+4+8+16=31 times, per Scatter
-But there's also an amazing opportunity here. Perks can provide +25% defense and reduce enemies' damage by 55%, for a maximum of 99.1% defense total. For comparison, the maximum Defense% without Perks is only 85.5%, which 16.111x as much damage taken as 99.1% defense. Also, Perks can provide x45.6 Health Regen, making Health Regen one of the most-important stats. And finally, with all decent perks collected, Damage is only increased by 80%, so Perks benefit defensive builds much more than offensive builds. And thus, Defense and Farming go hand-in-hand
-Typically, the strategy for defensive farming is to keep the enemies alive as long as possible, using either Knockback or perma-Black Hole, and then kill them all at once whenever Golden Tower + Death Wave + Black Hole is up. There's also a 1.4x Coin Multiplier for enemies killed by Orbs if you have Lv.9 Extra Orbs mastery, so the most-effective strategy is usually to keep all enemies alive with Knockback, wait until GT+DW+BH activate, and then have Black Hole suck all the enemies into the orbs' range
+farm coins efficiently , need reach higher waves , going higher waves comes new problems opportunities
+new problem Elite enemies , immune Orbs , Death Ray , Shockwave , Black Hole , well special properties . Ray enemies ranged , making hard kill attack . Vampires somewhat ranged , somewhat resistant Thorns , disable Lifesteal Health Regen ( Wall Regen ) 're attacking . Scatter enemies split half 're killed , creating 16 children . I.e . , even Thorns one-shot , 'll still get hit 1+2+4+8+16=31 times , per Scatter
+'s also amazing opportunity . Perks provide +25 % defense reduce enemies ' damage 55 % , maximum 99.1 % defense total . comparison , maximum Defense % without Perks 85.5 % , 16.111x much damage taken 99.1 % defense . Also , Perks provide x45.6 Health Regen , making Health Regen one most-important stats . finally , decent perks collected , Damage increased 80 % , Perks benefit defensive builds much offensive builds . thus , Defense Farming go hand-in-hand
+Typically , strategy defensive farming keep enemies alive long possible , using either Knockback perma-Black Hole , kill whenever Golden Tower + Death Wave + Black Hole . 's also 1.4x Coin Multiplier enemies killed Orbs Lv.9 Extra Orbs mastery , most-effective strategy usually keep enemies alive Knockback , wait GT+DW+BH activate , Black Hole suck enemies orbs ' range
 Tournaments & DPS
-Tournaments do not have perks. I.e., you will likely take at least 16.1x damage from enemies compared to farming runs. Defensive builds are not nearly as good during tournaments. And, on top of that, there are often Battle Condition which can hinder certain builds even further, such as making Thorns do only 5% of their usual damage and making certain enemies immune to Black Hole
-As such, DPS is almost always the meta when competing in higher-level tournaments
+Tournaments perks . I.e . , likely take least 16.1x damage enemies compared farming runs . Defensive builds nearly good tournaments . , top , often Battle Condition hinder certain builds even , making Thorns 5 % usual damage making certain enemies immune Black Hole
+, DPS almost always meta competing higher-level tournaments
 Swapping Builds
-Modules can be swapped out for free using the Restore Level feature. For example, if you typically use a Lv.100 Galaxy Compressor for farming, but need a Lv.100 Crowd Funding for tournaments, you can Restore Level on Galaxy Compressor to free up all of its shards and coins, totally free of charge
-Workshop Respec costs 150 gems per respec and can be done infinitely afaik
-Bot Respec costs 300 gems per respec and can only be done once per event
-Most labs are permanent, though Range and Shockwave labs can be adjusted between rounds
+Modules swapped free using Restore Level feature . example , typically use Lv.100 Galaxy Compressor farming , need Lv.100 Crowd Funding tournaments , Restore Level Galaxy Compressor free shards coins , totally free charge
+Workshop Respec costs 150 gems per respec done infinitely afaik
+Bot Respec costs 300 gems per respec done per event
+labs permanent , though Range Shockwave labs adjusted rounds
 Tier 1
-Your first Ultimate Weapon (UW)
-Choosing your first ultimate weapon will not be your first decision, but it is the only irreversible pitfall decision you can make at Tier 1. And it is also the most-important decision you will make. As a brand new player, your best options are:
-Golden Tower:
-The best Ultimate Weapon, period. Increases your coin income by at least +20% in the early game and up to +4212% in the late game. The last thing you want is to forfeit Golden Tower at the start and then not get it again until your 7th UW. This UW receives a decent power spike after Tier 4, Wave 200.
-Black Hole or Death Wave*
-Black Hole or Death Wave*
-Spotlight:
-Similar situation as Black Hole, but worse. Spotlight is amazing in the late-game. However, it requires a TON of investment, is very reliant on ancestral sub-modules, and doesn't receive its power spike until Tier 7, wave 80. At this point, it grants x3 coins from enemies killed within the spotlight range. A very good UW to have in the late game; almost useless in the early game.
-Restart:
-There's an 88% chance that you get GT, DW, BH, or SL as an option for your first ultimate weapon. If you're in the 12% that got super unlucky? I highly recommend restarting tbh.
-Chain Lightning:
-Best DPS UW, Receives its power spike at Tier 7
-Smart Missiles:
-Very inconsistent and misses a lot. Power spike at Tier 7
-Chrono Field:
-Slows down enemies. Not very useful until you have other sources of DPS. Power spike at Tier 7.
-Inner Landmines:
-Inconsistent, misses a lot. Needs an event-limited core module to be useful. Power spike at Tier 7.
-Poison Swamp:
-This UW is just plain bad. It attempts to balance both dps and defense, and ends up providing very little to either. Power spike at Tier 7.
-*Death Wave vs. Black Hole:
-Less than 1/12 players will experience this choice on their first UW, but let me break it down just in case:
-Black Hole, in the early game, is a detriment. It will suck in enemies, then release them all at once to bombard your tower and kill you. However, after Tier 5, wave 150, Black Hole can provide x11 coins from enemies killed within Black Hole, making it a must-have for the midgame. Also, once properly invested in, Black Hole will never bombard you because Black Hole will never end. Also, Black Hole is relatively cheap to invest in, getting to the point of sucking in all common enemies, permanently, with just 2807 stones invested into it, making it one of the most powerful UWs near the start of the game
-Death Wave, in the early game, is just alright. It starts with a 300s cooldown, same as Golden Tower, allowing them both to pop off at the same time. It's very easy to keep these 2 UWs synchronized. It also provides 1.5x coins from enemies affected and can provide a Max HP multiplier of up to x5.25. It also receives a massive power spike at Tier 3, wave 250, increasing its coin bonus to 2.5x and its health bonus to 12.5x. And in the late game, it also provides x3 cells from affected enemies, allowing you to research labs much faster
-In my personal opinion, Death Wave is the better UW for the early and late game, but Black Hole is also extremely powerful in the midgame. Which UW works best for you will depend on which stage of the game you value more.
-Coins / Wave vs. Coins / Kill
-Coins / Kill is superior in the late game and at higher waves, as you can increase the amount of enemies that spawn. More enemies = more kills = more coins
-But in the early game? Coins / Wave is king. There will be some waves where you don't get a single fast / tank / etc. enemy, meaning some waves give 0 coins / kill. But Coins / Wave is much more consistent and also scales a lot better.
+first Ultimate Weapon ( UW )
+Choosing first ultimate weapon first decision , irreversible pitfall decision make Tier 1 . also most-important decision make . brand new player , best options :
+Golden Tower :
+best Ultimate Weapon , period . Increases coin income least +20 % early game +4212 % late game . last thing want forfeit Golden Tower start get 7th UW . UW receives decent power spike Tier 4 , Wave 200 .
+Black Hole Death Wave *
+Black Hole Death Wave *
+Spotlight :
+Similar situation Black Hole , worse . Spotlight amazing late-game . However , requires TON investment , reliant ancestral sub-modules , n't receive power spike Tier 7 , wave 80 . point , grants x3 coins enemies killed within spotlight range . good UW late game ; almost useless early game .
+Restart :
+'s 88 % chance get GT , DW , BH , SL option first ultimate weapon . 're 12 % got super unlucky ? highly recommend restarting tbh .
+Chain Lightning :
+Best DPS UW , Receives power spike Tier 7
+Smart Missiles :
+inconsistent misses lot . Power spike Tier 7
+Chrono Field :
+Slows enemies . useful sources DPS . Power spike Tier 7 .
+Inner Landmines :
+Inconsistent , misses lot . Needs event-limited core module useful . Power spike Tier 7 .
+Poison Swamp :
+UW plain bad . attempts balance dps defense , ends providing little either . Power spike Tier 7 .
+* Death Wave vs. Black Hole :
+Less 1/12 players experience choice first UW , let break case :
+Black Hole , early game , detriment . suck enemies , release bombard tower kill . However , Tier 5 , wave 150 , Black Hole provide x11 coins enemies killed within Black Hole , making must-have midgame . Also , properly invested , Black Hole never bombard Black Hole never end . Also , Black Hole relatively cheap invest , getting point sucking common enemies , permanently , 2807 stones invested , making one powerful UWs near start game
+Death Wave , early game , alright . starts 300s cooldown , Golden Tower , allowing pop time . 's easy keep 2 UWs synchronized . also provides 1.5x coins enemies affected provide Max HP multiplier x5.25 . also receives massive power spike Tier 3 , wave 250 , increasing coin bonus 2.5x health bonus 12.5x . late game , also provides x3 cells affected enemies , allowing research labs much faster
+personal opinion , Death Wave better UW early late game , Black Hole also extremely powerful midgame . UW works best depend stage game value .
+Coins / Wave vs . Coins / Kill
+Coins / Kill superior late game higher waves , increase amount enemies spawn . enemies = kills = coins
+early game ? Coins / Wave king . waves n't get single fast / tank / etc . enemy , meaning waves give 0 coins / kill . Coins / Wave much consistent also scales lot better .
 DPS vs. Defense
-DPS will be the way to go for the first few hours. However, once you unlock Thorns and get it to at least 5%? Defense Absolute is the way to go. With DPS, you can get unlucky and have 5 tanks spawn at once, overwhelming you with the sheer fluctuation of HP each wave has. But with Defense Absolute? If enemies deal 100 damage, and you have >100 Defense Absolute, it won't matter which enemies spawn. And Defense Absolute scales petty well at Tier 1
+DPS way go first hours . However , unlock Thorns get least 5 % ? Defense Absolute way go . DPS , get unlucky 5 tanks spawn , overwhelming sheer fluctuation HP wave . Defense Absolute ? enemies deal 100 damage , > 100 Defense Absolute , wo n't matter enemies spawn . Defense Absolute scales petty well Tier 1
 Gem usage
-The only thing you can buy right now are Cards or Lab Speed and if you buy Lab Speed, you'll run out of coins. Literally just buy cards as often as possible until you max them all out
+thing buy right Cards Lab Speed buy Lab Speed , 'll run coins . Literally buy cards often possible max
 Lab usage
 Game Speed > Coins / Wave > Defense Absolute > everything else
 Tier 2
-Must-read: Range Labs
-Some builds like to have high range. Other builds like to have low range
-High range builds:
+Must-read : Range Labs
+builds like high range . builds like low range
+High range builds :
 Glass Cannon
-(raw dps), since more range = more time = more damage
-0 Damage, Knockback Permastall:
-Higher range keeps the wave 1 enemies away from Thorns, Orbs, etc. to keep the first enemies alive, reach the enemy cap quickly, and prevent any newer, stronger enemies from spawning. Very low income, but effective at reaching high tiers in tournaments
-Low range builds:
-Blender:
-By keeping Range = Orb's Range, you can use Knockback to keep enemies at the edge of the tower's range, which in turn allows Orbs to destroy almost everything
-Black Hole builds:
-The smaller your tower's range, the more of your range that Black Hole can cover. Ideally, you want Black Hole to cover your entire range in order to suck up enemies before they die, either for x11 Coin Bonus or to perma-stall all enemies
-Devo:
-Short for De-evolution, this build focuses entirely on income. The goal is to save as many enemies as possible until GT + DW + BH activates by lowering your damage, suck as many enemies into Black Hole as possible by lowering your Range, and kill as many enemies in the center of your range as possible (more likely they'll be within Gold Bot's range) by lowering your Knockback. In the late game, Devo builds may prefer to kill enemies with orbs for x1.4 Coin Bonus due to Card Masteries
-Luckily, you are able to customize your Range Lab while outside of battle, allowing you to adjust it between 1x and 4x depending on your build. This is a relatively new feature afaik, but you must be outside of battle to adjust the Range Lab
-Main goal: Lab Speed Lab
-The main goal in Tier 2, ironically, is to reach Tier 1, wave 150, to unlock Lab Speed labs. In the late game, lab speed becomes a major limiting factor. The Lab Speed lab, once maxed out, grants x4 lab speed. But it takes forever to max out, so it's best to start researching it ASAP
-Coin farming:
-The easiest way to farm coins at this stage is to keep upgrading Coins / Wave and just spam Retry on Tier 2. Tier 2 gives a 1.8x coin multiplier, making it the much better option for Coins / Wave Farming at
-Tier 1, however, may allow you to reach higher waves with more enemies, and may also provide more time to upgrade Coins / Wave and Coins / Kill with cash, making it the better farming option if you have time to sit there and buy upgrades with cash
-Quick tip: By clicking on your cash/coin/gem counter in the top left of your screen during your battle, you can toggle the counter between Total Currencies and Currencies / Minute
+( raw dps ) , since range = time = damage
+0 Damage , Knockback Permastall :
+Higher range keeps wave 1 enemies away Thorns , Orbs , etc . keep first enemies alive , reach enemy cap quickly , prevent newer , stronger enemies spawning . low income , effective reaching high tiers tournaments
+Low range builds :
+Blender :
+keeping Range = Orb 's Range , use Knockback keep enemies edge tower 's range , turn allows Orbs destroy almost everything
+Black Hole builds :
+smaller tower 's range , range Black Hole cover . Ideally , want Black Hole cover entire range order suck enemies die , either x11 Coin Bonus perma-stall enemies
+Devo :
+Short De-evolution , build focuses entirely income . goal save many enemies possible GT + DW + BH activates lowering damage , suck many enemies Black Hole possible lowering Range , kill many enemies center range possible ( likely 'll within Gold Bot 's range ) lowering Knockback . late game , Devo builds may prefer kill enemies orbs x1.4 Coin Bonus due Card Masteries
+Luckily , able customize Range Lab outside battle , allowing adjust 1x 4x depending build . relatively new feature afaik , must outside battle adjust Range Lab
+Main goal : Lab Speed Lab
+main goal Tier 2 , ironically , reach Tier 1 , wave 150 , unlock Lab Speed labs . late game , lab speed becomes major limiting factor . Lab Speed lab , maxed , grants x4 lab speed . takes forever max , 's best start researching ASAP
+Coin farming :
+easiest way farm coins stage keep upgrading Coins / Wave spam Retry Tier 2 . Tier 2 gives 1.8x coin multiplier , making much better option Coins / Wave Farming
+Tier 1 , however , may allow reach higher waves enemies , may also provide time upgrade Coins / Wave Coins / Kill cash , making better farming option time sit buy upgrades cash
+Quick tip : clicking cash/coin/gem counter top left screen battle , toggle counter Total Currencies Currencies / Minute
 2nd Ultimate Weapon
-The order of priority is still the same as in Tier 1. Golden Tower > Death Wave > Black Hole > Spotlight > Everything else
-Gem & Lab usage:
-Gem progress isn't necessarily tier-specific. But at this point, you'll probably have enough good cards that you'll want to buy the 3rd card slot, and your coin income should be good enough that you'll want to buy the 3rd lab slot and have 3 labs running at once. Game Speed > Lab Speed > whichever labs are cheapest > DO NOT UPGRADE RANGE
+order priority still Tier 1 . Golden Tower > Death Wave > Black Hole > Spotlight > Everything else
+Gem & Lab usage :
+Gem progress n't necessarily tier-specific . point , 'll probably enough good cards 'll want buy 3rd card slot , coin income good enough 'll want buy 3rd lab slot 3 labs running . Game Speed > Lab Speed > whichever labs cheapest > UPGRADE RANGE
 Tier 3
 Modules
-Modules technically unlock just before Tier 3, at Tier 2 wave 90, but it's close enough that I'll talk about them here
-Modules are probably the most-complex part of this game. But, in general, there's 6 things you need to know about them:
-Abilities:
-Modules that are drawn as epic have unique abilities, such as allowing Health Regen to heal above your MaxHP or insta-killing 15% of enemies
-Level / stats:
-You level up a module by collecting shards, usually from shattering other modules, to help the module gain exp. Higher level = more stats and more sub-modules
-Sub-modules:
-Sub-modules are basically re-rollable abilities. The higher your module's level, the more sub-modules it can have
-Merging / rank:
-The higher a module's rank is, the better its ability will be, the higher its max level is, and the better sub-modules you can roll. A module can gain rank by merging identical modules into it. I.e., feeding 2 Epic+ Multiverse Nexuses to your Mythical+ Multiverse Nexus will produce an Ancestral Multiverse Nexus. It takes >2 identical Epics to create a Legend, >4 identical Epics to create a Mythical, and >8 identical Epics to create an Ancestral. At >10, a star is added to the module's rank, providing a slight stat multiplier and increasing the max level
-Banners:
-Soon, there will be a total of 20 different modules that start off as Epic. And you can only equip 4 modules at a time. I.e., if you were to pull randomly, and pulled all 20 epic modules, 75% of your epic modules would go totally unused. But if you pull while there's a banner, and you're lucky enough to pull an Epic module, there's a 50% chance that it will be the module from the banner. I.e., if you were to pull until you pulled 20 epic modules, 10 of those modules would be identical and the other 10 would be random, giving you at least 1 Ancestral module. So, if possible, it's usually better to save your gems until the right banner comes along
-Shard income:
-Even if you spent $1000 on gems right now, to roll for tons of modules, your income would be lackluster. This is because, although modules are unlocked at Tier 2, they don't receive their power spikes until Tier 4, wave 70 (+1% Common Module Drop Chance); Tier 10, wave 40 (-30% Module Shard Cost and +1% Rare Module Drop Chance); Tier 16, wave 40 (+100% shards from shattering modules); and ??? (ability to ban certain sub-modules when re-rolling, increasing the odds to roll sub-modules you actually want)
-TL;DR: Modules are great, but don't go too heavy on them until the late game. Cards, Card Slots, and Lab Slots are more important than modules in the early game.
+Modules technically unlock Tier 3 , Tier 2 wave 90 , 's close enough 'll talk
+Modules probably most-complex part game . , general , 's 6 things need know :
+Abilities :
+Modules drawn epic unique abilities , allowing Health Regen heal MaxHP insta-killing 15 % enemies
+Level / stats :
+level module collecting shards , usually shattering modules , help module gain exp . Higher level = stats sub-modules
+Sub-modules :
+Sub-modules basically re-rollable abilities . higher module 's level , sub-modules
+Merging / rank :
+higher module 's rank , better ability , higher max level , better sub-modules roll . module gain rank merging identical modules . I.e . , feeding 2 Epic+ Multiverse Nexuses Mythical+ Multiverse Nexus produce Ancestral Multiverse Nexus . takes > 2 identical Epics create Legend , > 4 identical Epics create Mythical , > 8 identical Epics create Ancestral . > 10 , star added module 's rank , providing slight stat multiplier increasing max level
+Banners :
+Soon , total 20 different modules start Epic . equip 4 modules time . I.e . , pull randomly , pulled 20 epic modules , 75 % epic modules would go totally unused . pull 's banner , 're lucky enough pull Epic module , 's 50 % chance module banner . I.e . , pull pulled 20 epic modules , 10 modules would identical 10 would random , giving least 1 Ancestral module . , possible , 's usually better save gems right banner comes along
+Shard income :
+Even spent $ 1000 gems right , roll tons modules , income would lackluster . , although modules unlocked Tier 2 , n't receive power spikes Tier 4 , wave 70 ( +1 % Common Module Drop Chance ) ; Tier 10 , wave 40 ( -30 % Module Shard Cost +1 % Rare Module Drop Chance ) ; Tier 16 , wave 40 ( +100 % shards shattering modules ) ; ? ? ? ( ability ban certain sub-modules re-rolling , increasing odds roll sub-modules actually want )
+TL ; DR : Modules great , n't go heavy late game . Cards , Card Slots , Lab Slots important modules early game .
 Guilds
-There's not much to say about guilds tbh. Each guild can have up to 30 players. Players contribute to the guild by completing Weekly Missions and opening the boxes. Each Weekly Mission box gives you 5 tokens and contributes 5 to the guild. As the guild reaches certain amounts of weekly contributions, all players are given a large amount of tokens and bits
-Tokens are used to buy cosmetic items that give a small +Coin% multiplier, as well as some powerful relics
-Currently, Bits are pretty useless. They're used to upgrade your Guardian, which does almost nothing
+'s much say guilds tbh . guild 30 players . Players contribute guild completing Weekly Missions opening boxes . Weekly Mission box gives 5 tokens contributes 5 guild . guild reaches certain amounts weekly contributions , players given large amount tokens bits
+Tokens used buy cosmetic items give small +Coin % multiplier , well powerful relics
+Currently , Bits pretty useless . 're used upgrade Guardian , almost nothing
 Unlock Perks
-Once you get to Tier 3, your first goal is going to be to unlock Perks by going back and beating Tier 2, wave 150. This lab will take another 3 days to research, so it's best to get it ASAP. Once unlocked in labs, you'll be given a choice between 2 new perks every 200 waves. Perks reset at the end of each run, making each run very unique and, tbh, RNG-dependent. The best perks, at this stage of the game are:
--20% Perk Wave Requirement:
-Instead of gaining new perks at wave 200, 400, 600, etc., perks will unlock at waves 160, 320, 480, etc. This Perk can stack up to 3 times, up to 60% at this stage of the game, at which point you gets perks at waves 80, 160, 240, etc. This is exceptionally good for longer runs
--50% damage dealt, -50% damage taken:
-At this stage of the game, especially in longer runs, you'll be relying on orbs to insta-kill common enemies, and 99% Thorns to two-shot bosses, neither of which are affected by your Damage stat. Your main strategy, at this stage of the game, will simply be to knockback all common enemies into the orbs and to survive 2 hits from each boss. Halving the boss's damage will allow you to do that
-Defense +5%:
-This can stack up to 5 times, likely bringing your Defense% stat from 50% to 75%, allowing you to survive twice as long once again. If you also have +5% Defense on your cards, going from 75% Defense to 80% Defense is also a pretty major leap
-First Perk Choice and Garlic Thorns
-Once you unlock Perks, you should be able to RNG your way to Tier 2 wave 1000 pretty easily, unlocking First Perk Choice and Garlic Thorns
-First Perk Choice is self-explanatory, but the lab to unlock it costs about 1 billion coins, so it's unlikely you'll be able to afford it anytime soon
-Vampire enemies are typically immune to Thorns and are the bane of towers that rely on lifesteal or regeneration. Garlic Thorns allows up to 5% of your Thorns value to affect Vampire enemies as well. This will help you a lot in your longer runs, opening the door to Cell farming to increase your lab speed. However, Vampires will still be a major problem until you unlock Wall Regen at Tier 10
+get Tier 3 , first goal going unlock Perks going back beating Tier 2 , wave 150 . lab take another 3 days research , 's best get ASAP . unlocked labs , 'll given choice 2 new perks every 200 waves . Perks reset end run , making run unique , tbh , RNG-dependent . best perks , stage game :
+-20 % Perk Wave Requirement :
+Instead gaining new perks wave 200 , 400 , 600 , etc . , perks unlock waves 160 , 320 , 480 , etc . Perk stack 3 times , 60 % stage game , point gets perks waves 80 , 160 , 240 , etc . exceptionally good longer runs
+-50 % damage dealt , -50 % damage taken :
+stage game , especially longer runs , 'll relying orbs insta-kill common enemies , 99 % Thorns two-shot bosses , neither affected Damage stat . main strategy , stage game , simply knockback common enemies orbs survive 2 hits boss . Halving boss 's damage allow
+Defense +5 % :
+stack 5 times , likely bringing Defense % stat 50 % 75 % , allowing survive twice long . also +5 % Defense cards , going 75 % Defense 80 % Defense also pretty major leap
+First Perk Choice Garlic Thorns
+unlock Perks , able RNG way Tier 2 wave 1000 pretty easily , unlocking First Perk Choice Garlic Thorns
+First Perk Choice self-explanatory , lab unlock costs 1 billion coins , 's unlikely 'll able afford anytime soon
+Vampire enemies typically immune Thorns bane towers rely lifesteal regeneration . Garlic Thorns allows 5 % Thorns value affect Vampire enemies well . help lot longer runs , opening door Cell farming increase lab speed . However , Vampires still major problem unlock Wall Regen Tier 10
 Tier 4
 Death Wave labs
-At Tier 3, Wave 250, you can unlock the labs for Death Wave Health Bonus and Death Wave Coin Bonus
-Death Wave Coin Bonus takes the multiplier from 1.5x to 2.5x
-Death Wave Health Bonus takes the multiplier from 5.25x max hp to 12.5x max hp, making you > twice as tanky in longer runs
+Tier 3 , Wave 250 , unlock labs Death Wave Health Bonus Death Wave Coin Bonus
+Death Wave Coin Bonus takes multiplier 1.5x 2.5x
+Death Wave Health Bonus takes multiplier 5.25x max hp 12.5x max hp , making > twice tanky longer runs
 Daily Mission Shards
-At Tier 4, wave 70, you'll unlock the Daily Mission Shards lab, which provides up to +50 shards per Daily Mission. This is a very good lab to max out asap, as it provides +300 shards / day. As a reminder, shards are used to increase the level of modules, improving their stats and allowing you to equip more sub-modules. This is probably the best way to collect shards in the early game
+Tier 4 , wave 70 , 'll unlock Daily Mission Shards lab , provides +50 shards per Daily Mission . good lab max asap , provides +300 shards / day . reminder , shards used increase level modules , improving stats allowing equip sub-modules . probably best way collect shards early game
 Tier 5
-Events and Bots
-During Tier 5, you'll unlock 4 very important, but very volatile labs:
-Flame Bot Frequency:
-Reduces Flame Bot's cooldown by up to 25s, bringing the minimum cooldown from 30s to 5s
-Thunder Bot Frequency:
-Reduces Thunder Bot's cooldown by up to 25s, bringing the minimum cooldown from 75s to 50s
-Golden Bot Frequency:
-Reduces Golden Bot's cooldown by up to 25s, bringing the minimum cooldown from 75s to 50s
-Amplify Bot Frequency:
-Reduces Amplify Bot's cooldown by up to 25s, bringing the minimum cooldown from 75s to 50s
-While these labs sound great on the surface, they can be quite volatile. For example: Let's pretend that your GT + BH + DW are synchronized on a 150s timer. To synchronize your Golden Bot with your UWs in this scenario, you need its cooldown to be either 150s (not possible), 75s (very possible), or 50s (possible, but very expensive).
-To reach 50s, you'd have to pump 5700 medals into the bot's cooldown, plus have all -25s from the lab. Not only is this incredibly expensive, but it also de-synchronizes as soon as your UWs go down to a 140s cooldown.
-To reach 75s, ideally, you'd only pump 2800 medals into the bot's cooldown, plus have -15s from the lab. Not only is this a lot cheaper, but also gives you the ability to re-synchronize easily when your UW cooldowns go down. Ideally, based on your UW cooldowns, these should be your Golden Bot labs & upgrades:
-200s UWs: 900 medals, -5s labs for 100s GB cooldown
-190s UWs: 1200 medals, -7s labs for 95s GB cooldown
-180s UWs: 1540 medals, -9s labs for 90s GB cooldown
-170s UWs: 1920 medals, -11s labs for 85s GB cooldown
-160s UWs: 2340 medals, -13s labs for 80s GB cooldown
-150s UWs: 2800 medals, -15s labs for 75s GB cooldown
-140s UWs: 3300 medals, -17s labs for 70s GB cooldown
-130s UWs: 3840 medals, -19s labs for 65s GB cooldown
-120s UWs: 4420 medals, -21s labs for 60s GB cooldown
-110s UWs: 5040 medals, -23s labs for 55s GB cooldown
-100s UWs: 5700 medals, -25s labs for 50s GB cooldown
-88s UWs: 88s UWs are an ultra-lategame cooldown, only possible once you have permanent Black Hole, permanent Death Wave, and the -12s Golden Tower cooldown sub-module. It is a very niche scenario that not many players will make it to. And although it is possible to get Golden Bot on an 88s cooldown, it is better to keep it on a 50s cooldown and have it activate twice within GT's duration. Having them synchronized at this point would have GB active for only 50% of GT's maximum duration, whereas having GB on an 80% uptime with 40s duration, 50s cooldown, would have GB active for an average of 80% of GT's maximum duration
-However, if you've already upgraded this lab to the max of -25s, you can still synchronize with your UWs by having:
-190s UWs, 95s GB (0 medals)
-160s UWs, 80s GB (900 medals)
-150s UWs, 50s GB (5700 medals)
-130s UWs, 65s GB (2800 medals)
-100s UWs, 50s GB (5700 medals)
-80s UWs, 80s GB (900 medals)
-If you're also willing to incorporate the core module, Multiverse Nexus, with GT,BH,DW cooldown sub-modules into the mix, you'll have even more options for synchronization despite having -25s CD on lab already.  Below is a google spreadsheet showing all possible cooldowns and which sub-modules you need to achieve them. Sync-able cooldowns are highlighted, and color-coded based on how many medals you'll need to spend to sync them
-https://docs.google.com/spreadsheets/d/1pEoz__1f8wj9FjMuk4MEaGXIJVsdqGe_dixKyWxdutE/edit?usp=sharing
+Events Bots
+Tier 5 , 'll unlock 4 important , volatile labs :
+Flame Bot Frequency :
+Reduces Flame Bot 's cooldown 25s , bringing minimum cooldown 30s 5s
+Thunder Bot Frequency :
+Reduces Thunder Bot 's cooldown 25s , bringing minimum cooldown 75s 50s
+Golden Bot Frequency :
+Reduces Golden Bot 's cooldown 25s , bringing minimum cooldown 75s 50s
+Amplify Bot Frequency :
+Reduces Amplify Bot 's cooldown 25s , bringing minimum cooldown 75s 50s
+labs sound great surface , quite volatile . example : Let 's pretend GT + BH + DW synchronized 150s timer . synchronize Golden Bot UWs scenario , need cooldown either 150s ( possible ) , 75s ( possible ) , 50s ( possible , expensive ) .
+reach 50s , 'd pump 5700 medals bot 's cooldown , plus -25s lab . incredibly expensive , also de-synchronizes soon UWs go 140s cooldown .
+reach 75s , ideally , 'd pump 2800 medals bot 's cooldown , plus -15s lab . lot cheaper , also gives ability re-synchronize easily UW cooldowns go . Ideally , based UW cooldowns , Golden Bot labs & upgrades :
+200s UWs : 900 medals , -5s labs 100s GB cooldown
+190s UWs : 1200 medals , -7s labs 95s GB cooldown
+180s UWs : 1540 medals , -9s labs 90s GB cooldown
+170s UWs : 1920 medals , -11s labs 85s GB cooldown
+160s UWs : 2340 medals , -13s labs 80s GB cooldown
+150s UWs : 2800 medals , -15s labs 75s GB cooldown
+140s UWs : 3300 medals , -17s labs 70s GB cooldown
+130s UWs : 3840 medals , -19s labs 65s GB cooldown
+120s UWs : 4420 medals , -21s labs 60s GB cooldown
+110s UWs : 5040 medals , -23s labs 55s GB cooldown
+100s UWs : 5700 medals , -25s labs 50s GB cooldown
+88s UWs : 88s UWs ultra-lategame cooldown , possible permanent Black Hole , permanent Death Wave , -12s Golden Tower cooldown sub-module . niche scenario many players make . although possible get Golden Bot 88s cooldown , better keep 50s cooldown activate twice within GT 's duration . synchronized point would GB active 50 % GT 's maximum duration , whereas GB 80 % uptime 40s duration , 50s cooldown , would GB active average 80 % GT 's maximum duration
+However , 've already upgraded lab max -25s , still synchronize UWs :
+190s UWs , 95s GB ( 0 medals )
+160s UWs , 80s GB ( 900 medals )
+150s UWs , 50s GB ( 5700 medals )
+130s UWs , 65s GB ( 2800 medals )
+100s UWs , 50s GB ( 5700 medals )
+80s UWs , 80s GB ( 900 medals )
+'re also willing incorporate core module , Multiverse Nexus , GT , BH , DW cooldown sub-modules mix , 'll even options synchronization despite -25s CD lab already . google spreadsheet showing possible cooldowns sub-modules need achieve . Sync-able cooldowns highlighted , color-coded based many medals 'll need spend sync
+https : //docs.google.com/spreadsheets/d/1pEoz__1f8wj9FjMuk4MEaGXIJVsdqGe_dixKyWxdutE/edit ? usp=sharing
 Tier 6
-Pitfall: Black Hole Damage lab
-At Tier 5, wave 150, you'll unlock the options for Black Hole Coins and Black Hole Damage. Black Hole Damage can reach up to 2% damage / second, killing most enemies within 50 seconds... This upgrade can be either a blessing or a curse depending on your playstyle:
-Blessing: More damage during Black Hole means you're more likely to kill enemies within Black Hole, gaining extra coins
-Curse: Black Hole can be used for perma-stall strategies. By getting Black Hole cooldown and duration to 50s each, and having them big enough to cover the whole tower's range, you can suck in every enemy and never let them go. This is superior to other perma-stall strategies because, in other strategies, the enemies are usually attacking the tower, and their damage increases by 4% per attack. But with perma-Black Hole, they can't reach the tower, and they take up the spawn cap, stopping new enemies from spawning
-Researching this lab is irreversible. So if you want this lab now, but change your mind later, it'll be too late. I recommend putting this decision on the backlog until later in the game
-Must have: Black Hole Coin Bonus
-Black Hole Coin Bonus provides up to x11 coins from enemies killed within the Black Hole. Assuming you have Black Hole synced with Golden Tower and Death Wave, this is a roughly x11 multiplier to your coin income
+Pitfall : Black Hole Damage lab
+Tier 5 , wave 150 , 'll unlock options Black Hole Coins Black Hole Damage . Black Hole Damage reach 2 % damage / second , killing enemies within 50 seconds ... upgrade either blessing curse depending playstyle :
+Blessing : damage Black Hole means 're likely kill enemies within Black Hole , gaining extra coins
+Curse : Black Hole used perma-stall strategies . getting Black Hole cooldown duration 50s , big enough cover whole tower 's range , suck every enemy never let go . superior perma-stall strategies , strategies , enemies usually attacking tower , damage increases 4 % per attack . perma-Black Hole , ca n't reach tower , take spawn cap , stopping new enemies spawning
+Researching lab irreversible . want lab , change mind later , 'll late . recommend putting decision backlog later game
+Must : Black Hole Coin Bonus
+Black Hole Coin Bonus provides x11 coins enemies killed within Black Hole . Assuming Black Hole synced Golden Tower Death Wave , roughly x11 multiplier coin income
 Tier 7
 Tier 8
 Tier 9
 Tier 10
 Module power spike
-At Tier 10, wave 40, modules receive a pretty heavy power spike. You'll unlock 3 labs:
-Reduce the shard cost, for leveling up modules, by up to 30%. This discount also applies retroactively, meaning you can Restore Level to get back 100% of the modules you've spent so far and then immediately reinvest them with the 30% discount
-Doubles the chances of getting rare modules from bosses
-Reduces coin cost of upgrading modules (not as impactful as the other 2)
+Tier 10 , wave 40 , modules receive pretty heavy power spike . 'll unlock 3 labs :
+Reduce shard cost , leveling modules , 30 % . discount also applies retroactively , meaning Restore Level get back 100 % modules 've spent far immediately reinvest 30 % discount
+Doubles chances getting rare modules bosses
+Reduces coin cost upgrading modules ( impactful 2 )
 Bot duration labs
-At Tier 10, wave 50, you'll unlock 4 labs:
-Up to 7
+Tier 10 , wave 50 , 'll unlock 4 labs :
+7
 Flame Bot
-stacks (footgun)
-Up to +10s
+stacks ( footgun )
++10s
 Golden Bot
 duration
-Up to +10s
++10s
 Amplify Bot
 duration
-Up to +13s
++13s
 Thunder Bot
 linger time
 Flame Bot Stacks
-can actually be detrimental, and are rarely ever useful. Firstly, even at max stacks and max investment, Flame Bot only provides up to 1470x damage / second, which is small compared to Chain Lightning etc. Second, if you want to do a Devo strategy, where you keep all enemies alive until GT + DW + BH activate and kill them for extra coins, having more damage on Flame bot can kill a lot enemies without providing coin bonuses. And since Flame Bot also provides up to 80% damage resistance, turning it off isn't really an option. Between being not great for dps and detrimental for Defense & Devo builds, I highly recommend skipping this lab
+actually detrimental , rarely ever useful . Firstly , even max stacks max investment , Flame Bot provides 1470x damage / second , small compared Chain Lightning etc . Second , want Devo strategy , keep enemies alive GT + DW + BH activate kill extra coins , damage Flame bot kill lot enemies without providing coin bonuses . since Flame Bot also provides 80 % damage resistance , turning n't really option . great dps detrimental Defense & Devo builds , highly recommend skipping lab
 Golden Bot Duration
-is a good stat to have, but it loses a ton of value as it gets higher. This is because, assuming you have Golden Bot synchronized with GT + DW + BH, Golden Bot only needs to last as long as DW lasts. This is because, without DW's 2.5x multiplier, all income after DW is only 40% of what it is during DW. DW lasts for (Effect Waves * 4 seconds) + however long Death Wave stays up for. But, in general, Quantity * 4s is how long DW lasts. And since Quantity can only go up to 9, you only needs Golden Bot duration to have a total of 36s until the ultra lategame
+good stat , loses ton value gets higher . , assuming Golden Bot synchronized GT + DW + BH , Golden Bot needs last long DW lasts . , without DW 's 2.5x multiplier , income DW 40 % DW . DW lasts ( Effect Waves * 4 seconds ) + however long Death Wave stays . , general , Quantity * 4s long DW lasts . since Quantity go 9 , needs Golden Bot duration total 36s ultra lategame
 Amplify Bot
-duration and
+duration
 Thunder Bot
-linger time should be as high as you can afford while staying synchronized with your UWs
+linger time high afford staying synchronized UWs
 Wall Regen & Wall Thorns
-At Tier 10, wave 70, you'll unlock 2 very useful labs:
-Wall Thorns: Allows Wall to apply Thorns of up to 20% of your tower's thorns. I.e., they can destroy most enemies in 5 or 6 hits
-Wall Regen: Allows Wall to regenerate health at up to 300% of your tower's Health Regen stat. This regeneration cannot be shut down by Vampire enemies
-It's at this point in the game that Wall, and defensive builds in general, become extremely good at farming into later waves. Not only is Wall Regen not shut down by Vampires; removing the main threat to defensive builds; but it also makes Wormhole Redirector obsolete. Instead, you can change your armor module to something like Anti-Cube Portal, which grants up to x25 damage against enemies hit by shockwaves for 7 seconds.
+Tier 10 , wave 70 , 'll unlock 2 useful labs :
+Wall Thorns : Allows Wall apply Thorns 20 % tower 's thorns . I.e . , destroy enemies 5 6 hits
+Wall Regen : Allows Wall regenerate health 300 % tower 's Health Regen stat . regeneration shut Vampire enemies
+'s point game Wall , defensive builds general , become extremely good farming later waves . Wall Regen shut Vampires ; removing main threat defensive builds ; also makes Wormhole Redirector obsolete . Instead , change armor module something like Anti-Cube Portal , grants x25 damage enemies hit shockwaves 7 seconds .
 Tier 11
 Tier 12
 Tier 13
@@ -310,65 +310,65 @@ Tier 16
 Tier 17
 Tier 18
 GT + DW + BH + MVN
-These are not necessarily tier-specific, but they progress slowly and have plenty of opportunities for footguns, so they're in the same spirit of this guide. A quick overview:
+necessarily tier-specific , progress slowly plenty opportunities footguns , 're spirit guide . quick overview :
 Golden Tower
-provides up to x43.125 coins, for up to 80 seconds, with a minimum cooldown of 88 seconds. I.e., while GT isn't activate / synced, you could be losing 97.7% of your potential income
+provides x43.125 coins , 80 seconds , minimum cooldown 88 seconds . I.e . , GT n't activate / synced , could losing 97.7 % potential income
 Black Hole
-traps enemies, damages enemies, and can provide up to x11 coins. It has a maximum uptime of 54s and a minimum cooldown of 46s, allowing it to be permanent. Whenever Black Hole is not active / not synced, you could be losing 91% of your potential income
+traps enemies , damages enemies , provide x11 coins . maximum uptime 54s minimum cooldown 46s , allowing permanent . Whenever Black Hole active / synced , could losing 91 % potential income
 Death Wave
-provides x2.5 coins and x3 cells from enemies hit by Effect Waves or Death Wave. Its duration is essentially (Quantity*4) seconds + however long Death Wave Ring lasts before its damage pool is depleted. I.e., whenever Death Wave / Effect Waves are not active or not synced, you're losing 60% of your potential income. Has a maximum duration of 36 seconds and a minimum cooldown of 37 seconds
-Multiverse Nexus:
-Automatically synchronizes the cooldowns of GT, DW, and BH, turning them all into (Total Cooldown)/3+Modifier. Modifier decreases as MVN ranks up, down to -10s at Ancestral Level
+provides x2.5 coins x3 cells enemies hit Effect Waves Death Wave . duration essentially ( Quantity * 4 ) seconds + however long Death Wave Ring lasts damage pool depleted . I.e . , whenever Death Wave / Effect Waves active synced , 're losing 60 % potential income . maximum duration 36 seconds minimum cooldown 37 seconds
+Multiverse Nexus :
+Automatically synchronizes cooldowns GT , DW , BH , turning ( Total Cooldown ) /3+Modifier . Modifier decreases MVN ranks , -10s Ancestral Level
 Cooldown Sync'ing
-Firstly, if you haven't already, please read the
-Events and Bots
-guide in the Tier 5 section, as keeping
+Firstly , n't already , please read
+Events Bots
+guide Tier 5 section , keeping
 Golden Bot
-sync'd with your UWs is very important as well
-TL;DR: You want to start off with a 2:1 ratio between BH:GT,DW. I.e., start off with 150s BH, 300s GT,DW, and then apply 5 upgrades at a time for 140:280, 130:260, etc. Then, once your MVN is at Ancestral level, you want to pivot towards MVN instead.
-If you want the long version? In total, there are 7 possible strategies:
-(good)
-6:1 BH:GTDW:
-It costs a total of 2,040 stones to get Black Hole to 50s whilst keeping GT,DW at 300s. This allows you to invest into Perma-Black Hole for combat reasons, perma-stalling and potentially killing all normal enemies, whilst staying sync'd up with GT,DW, and Golden Bot. The overall income is C-, but the combat value is A+
-(bad)
-5:1 BH:GTDW:
-There are only 2 options here, and they're both bad. Getting a 60:300 sync costs 1778 stones, but your Black Hole won't be permanent, so it'll dump a bunch of enemies on you every 60 seconds and kill you. Getting a 50:250 sync costs 2470 stones, but Golden Bot can't sync with a 250s until it has a minimum cooldown of 50s, which is extremely expensive in terms of medals
-(good)
-4:1 BH:GTDW:
-At 70:280, the stone cost is 1604, and everything's terrible. At 60:240, the stone cost is 2396. You have neither perma-BH nor good income, but Golden Bot can be synced with 120s cooldown (0 medals). At 50:200, everything's great. The cost is 3750, you have perma-BH, and Golden Bot can be synced with only 100s cooldown
-(bad)
-3:1 BH:GTDW:
-At 100:300, the stone cost is 910, making it cheap to get into. And Golden Bot can be synced fairly cheaply at every stage. However, 2:1 BH:GTDW is just better
-(good)
-2:1 BH:GTDW:
-At 150:300, the stone cost is only 230, making it the cheapest non-MVN sync possible. At 120:240, the stone cost is 1202, and the Golden Bot medal cost is 0. It is also cheaper than all previous ratios, and only loses to 1:1 and MVN starting at 200 cooldown. Also, everyone eventually ends up with 50s BH, 100s GT,DW anyway for the sake of combat
-(meh)
-1:1 BH:GTDW:
-1:1 isn't necessarily
-bad,
-persay, but its outclasses on both sides. It costs 1710 stones for a 100:200 sync, making it very expensive in the early game, and then gets heavily outclassed by MVN in the midgame, With 2:1 being cheaper and MVN being better, 1:1 just doesn't really have a niche. Also, it costs 9060 stones to get to 100s sync, meaning it'll take forever to afford perma-BH for combat purposes
-(very good)
-MVN:
-Not only is MVN the cheapest, easiest, and most-effective sync strategy, but it's also the most flexible. I.e., if you want GT,BH,DW sync during farming runs, but perma-BH + Dimension Core during tournaments, you can switch back and forth simply by investing 2040 stones into BH CD and then switching modules back and forth. It also allows you to reach sync times that wouldn't be possible otherwise, going as low as 54s with 1 sub-module, 51s with 2 sub-modules, or 50s with 3 sub-modules... However, surprisingly, MVN becomes a detriment in the ultra-late game, for several reasons:
-Having MVN equipped means you can't equip a different core module. Other core modules could help you reach higher waves for more coins and cells
-It's hard to achieve perma-BH with MVN equipped, unless you turn off GT and DW or have their cooldowns maxed. However, using MVN with just Black Hole can bring its cooldown down to 40s, making perma-BH easier in tournaments once GT and DW have done their jobs (10b cash, 12.5x maxHP)
-Once you max out every attribute of these UWs, you actually make 6% more coins without MVN. This is most because, once you have 36s uptime and 37s cooldown on DW, having a 50s MVN sync means DW is only up for 74% of the time. By contrast, if you have have 80s uptime and 88s cooldown on GT, GT stays up 91% of the time without MVN. I.e., adding MVN at this stage gives you +9% GT uptime and -26% DW uptime, which comes out to +6% income by taking MVN off. But this is only in the ULTRA-lategame, once you've maxed out these UWs entirely and have 5+ of their sub-modules at ancestral level
-Anyway, here's the Google spreadsheet showing all the math and stuff:
-https://docs.google.com/spreadsheets/d/1bQbRRFXMVosodJY03bRmAbt19WpQR2-YnJL91DDv3Tk/edit?usp=sharing
-In my opinion,
-the best way to start is to invest 230 stones into Black Hole Cooldown at the start to have a 150s:300s ratio between BH:GTDW. Later, when you get ancestral MVN, you'll have (150+300+300)/3-10 = 240 second sync, allowing you to sync up with Golden Bot's 120s cooldown quite nicely. A 300s -> 240s sync for just 230 stones and 0 medals. This allows you to focus your stones & medals into other things, like GT Bonus and GB Bonus, before having to focus on cooldowns
+sync 'd UWs important well
+TL ; DR : want start 2:1 ratio BH : GT , DW . I.e . , start 150s BH , 300s GT , DW , apply 5 upgrades time 140:280 , 130:260 , etc . , MVN Ancestral level , want pivot towards MVN instead .
+want long version ? total , 7 possible strategies :
+( good )
+6:1 BH : GTDW :
+costs total 2,040 stones get Black Hole 50s whilst keeping GT , DW 300s . allows invest Perma-Black Hole combat reasons , perma-stalling potentially killing normal enemies , whilst staying sync 'd GT , DW , Golden Bot . overall income C- , combat value A+
+( bad )
+5:1 BH : GTDW :
+2 options , 're bad . Getting 60:300 sync costs 1778 stones , Black Hole wo n't permanent , 'll dump bunch enemies every 60 seconds kill . Getting 50:250 sync costs 2470 stones , Golden Bot ca n't sync 250s minimum cooldown 50s , extremely expensive terms medals
+( good )
+4:1 BH : GTDW :
+70:280 , stone cost 1604 , everything 's terrible . 60:240 , stone cost 2396 . neither perma-BH good income , Golden Bot synced 120s cooldown ( 0 medals ) . 50:200 , everything 's great . cost 3750 , perma-BH , Golden Bot synced 100s cooldown
+( bad )
+3:1 BH : GTDW :
+100:300 , stone cost 910 , making cheap get . Golden Bot synced fairly cheaply every stage . However , 2:1 BH : GTDW better
+( good )
+2:1 BH : GTDW :
+150:300 , stone cost 230 , making cheapest non-MVN sync possible . 120:240 , stone cost 1202 , Golden Bot medal cost 0 . also cheaper previous ratios , loses 1:1 MVN starting 200 cooldown . Also , everyone eventually ends 50s BH , 100s GT , DW anyway sake combat
+( meh )
+1:1 BH : GTDW :
+1:1 n't necessarily
+bad ,
+persay , outclasses sides . costs 1710 stones 100:200 sync , making expensive early game , gets heavily outclassed MVN midgame , 2:1 cheaper MVN better , 1:1 n't really niche . Also , costs 9060 stones get 100s sync , meaning 'll take forever afford perma-BH combat purposes
+( good )
+MVN :
+MVN cheapest , easiest , most-effective sync strategy , 's also flexible . I.e . , want GT , BH , DW sync farming runs , perma-BH + Dimension Core tournaments , switch back forth simply investing 2040 stones BH CD switching modules back forth . also allows reach sync times would n't possible otherwise , going low 54s 1 sub-module , 51s 2 sub-modules , 50s 3 sub-modules ... However , surprisingly , MVN becomes detriment ultra-late game , several reasons :
+MVN equipped means ca n't equip different core module . core modules could help reach higher waves coins cells
+'s hard achieve perma-BH MVN equipped , unless turn GT DW cooldowns maxed . However , using MVN Black Hole bring cooldown 40s , making perma-BH easier tournaments GT DW done jobs ( 10b cash , 12.5x maxHP )
+max every attribute UWs , actually make 6 % coins without MVN . , 36s uptime 37s cooldown DW , 50s MVN sync means DW 74 % time . contrast , 80s uptime 88s cooldown GT , GT stays 91 % time without MVN . I.e . , adding MVN stage gives +9 % GT uptime -26 % DW uptime , comes +6 % income taking MVN . ULTRA-lategame , 've maxed UWs entirely 5+ sub-modules ancestral level
+Anyway , 's Google spreadsheet showing math stuff :
+https : //docs.google.com/spreadsheets/d/1bQbRRFXMVosodJY03bRmAbt19WpQR2-YnJL91DDv3Tk/edit ? usp=sharing
+opinion ,
+best way start invest 230 stones Black Hole Cooldown start 150s:300s ratio BH : GTDW . Later , get ancestral MVN , 'll ( 150+300+300 ) /3-10 = 240 second sync , allowing sync Golden Bot 's 120s cooldown quite nicely . 300s - > 240s sync 230 stones 0 medals . allows focus stones & medals things , like GT Bonus GB Bonus , focus cooldowns
 Duration Sync'ing
-When DW, BH, and GT are all active, you get x27.5 xGT
-When BH and GT are both active without DW, you only get x11 xGT
-And whenever GT is active, but on its own, you only get xGT
-I.e., GT Duration is only worth 1/70th of what DW Quantity is worth, and only 1/10th of what BH is worth. Having all 3 UWs active at the same time is just so much more beneficial than having one UW activating on its own
-However, although DW Quantity is the most effective upgrade, it is also the most-expensive, dragging down its cost-effectiveness significantly. I went through and calculated the best sequence of GTDWBH upgrades and, surprisingly, BH Duration is almost always the most cost-effective due to how cheap it is. You can find the data here:
-https://docs.google.com/spreadsheets/d/14INj4qv1XcJl3hSNnPPtvQ4nvsCuvIg1AEip_BCQmnA/edit?usp=sharing
-Outside of just upgrading with stones, however, there are several methods to increase "duration":
-If you have an ancestral core module, you can get the ancestral module "+3 Death Wave Quantity," increasing Death Wave's duration by >12s
-Allowing enemies to live outside of UWs, but always killing them within UWs, allows enemies to spawn 24/7 until the enemy cap is reached. To kill them within the UWs' duration, you can either use Black Hole to suck enemies into your orbs, or you can use Smart Missiles in sync with the other UWs to nuke the enemies every 20 seconds or so
-Perks can give you +4s of Death Wave, +12s of Black Hole, x1.5 GT Bonus
-You can get +20s GT Duration from labs
-Is it worth noting, however, that maxing out your Durations with stones only provides an 82% boost compared to investing 0 stones into Durations. Cooldowns are usually more important
+DW , BH , GT active , get x27.5 xGT
+BH GT active without DW , get x11 xGT
+whenever GT active , , get xGT
+I.e . , GT Duration worth 1/70th DW Quantity worth , 1/10th BH worth . 3 UWs active time much beneficial one UW activating
+However , although DW Quantity effective upgrade , also most-expensive , dragging cost-effectiveness significantly . went calculated best sequence GTDWBH upgrades , surprisingly , BH Duration almost always cost-effective due cheap . find data :
+https : //docs.google.com/spreadsheets/d/14INj4qv1XcJl3hSNnPPtvQ4nvsCuvIg1AEip_BCQmnA/edit ? usp=sharing
+Outside upgrading stones , however , several methods increase `` duration `` :
+ancestral core module , get ancestral module `` +3 Death Wave Quantity , `` increasing Death Wave 's duration > 12s
+Allowing enemies live outside UWs , always killing within UWs , allows enemies spawn 24/7 enemy cap reached . kill within UWs ' duration , either use Black Hole suck enemies orbs , use Smart Missiles sync UWs nuke enemies every 20 seconds
+Perks give +4s Death Wave , +12s Black Hole , x1.5 GT Bonus
+get +20s GT Duration labs
+worth noting , however , maxing Durations stones provides 82 % boost compared investing 0 stones Durations . Cooldowns usually important
 1
 8

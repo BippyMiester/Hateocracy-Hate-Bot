@@ -1,5 +1,5 @@
 Overview
-There are multiple currencies your Tower will acquire as you play the game and its different events. Each currency has a different use and will help you make your tower stronger.
+multiple currencies Tower acquire play game different events . currency different use help make tower stronger .
 Cash
 Coins
 Gems
@@ -11,88 +11,88 @@ Bits
 Tokens
 Shards
 Cash
-Cash is the in-game currency for buying temporary upgrades during a run.
+Cash in-game currency buying temporary upgrades run .
 Earning Cash
-Players earn Cash while playing in a few ways:
+Players earn Cash playing ways :
 Defeating Enemies
 Completing Waves
 Cash / Wave upgrade
-Interest (passive income)
-Enemies are worth $1 as a base value and increase by $1 every 10 waves until wave 200, at which point they increase at a reduced rate of $1 every 20 waves.
+Interest ( passive income )
+Enemies worth $ 1 base value increase $ 1 every 10 waves wave 200 , point increase reduced rate $ 1 every 20 waves .
 Enemy Value Breakdown
 Expand
 Wave
-Enemy Value ($)
+Enemy Value ( $ )
 1-9
-$1
+$ 1
 10
-$2
+$ 2
 20
-$3
+$ 3
 30
-$4
+$ 4
 40
-$5
+$ 5
 50
-$6
+$ 6
 60
-$7
+$ 7
 70
-$8
+$ 8
 80
-$9
+$ 9
 90
-$10
+$ 10
 100
-$11
+$ 11
 ...
 200
-$21
+$ 21
 220
-$22
+$ 22
 240
-$23
+$ 23
 260
-$24
-Cash Flow + How to Improve it
-Players earn Cash at the end of every wave from two main systems:
+$ 24
+Cash Flow + Improve
+Players earn Cash end every wave two main systems :
 Cash per Wave
-A flat amount of cash you earn automatically when a wave ends.
-Scales with upgrades and wave progress.
-Always applied first at the end of a wave.
+flat amount cash earn automatically wave ends .
+Scales upgrades wave progress .
+Always applied first end wave .
 Interest
-Rewards you with a % of your current unspent cash on hand.
-Only applies up to a certain cap (there’s a maximum amount of interest you can gain per wave).
-Since Cash per Wave is added before Interest is calculated, it can bump you into a higher interest payout if you were below cap.
+Rewards % current unspent cash hand .
+applies certain cap ( ’ maximum amount interest gain per wave ) .
+Since Cash per Wave added Interest calculated , bump higher interest payout cap .
 Improving Cash Flow
-The amount of Cash you have in your game greatly depends on how far you get during a run. So, it is important for players to upgrade their Cash Flow for later in the game. These are known ways to improve your cash flow:
+amount Cash game greatly depends far get run . , important players upgrade Cash Flow later game . known ways improve cash flow :
 Upgrading
 Cash Bonus
 Workshop
 Lab
 Upgrading
 Cash / Wave
-(Workshop & Lab)
+( Workshop & Lab )
 Upgrading
 Interest / Wave
-(Workshop & Lab)
+( Workshop & Lab )
 Upgrading
 Max Interest
-(Lab)
+( Lab )
 Buying / Upgrading Cash Card (
 Cards
 Buying / Upgrading
 Enemy Balance
-Card (Cards)
+Card ( Cards )
 Buying / Upgrading
 Golden Tower
 Ultimate Weapon
-Getting Cash Bonus or Cash/Wave
+Getting Cash Bonus Cash/Wave
 sub-module effects
 modules
 Workshop Enhancements
 Cash Bonus
-Cash Bonus enhancement is unlocked for free after completing the Workshop Enhancement Labs. Increases the Cash Bonus multiplier by x1 when unlocked and increases by 0.01x per level. The Cash workshop enhancement also increases the cash per wave, interest percentage, and max interest per wave amount by 1% each upgrade as well. Has a maximum level of 400 for a 5x bonus.
+Cash Bonus enhancement unlocked free completing Workshop Enhancement Labs . Increases Cash Bonus multiplier x1 unlocked increases 0.01x per level . Cash workshop enhancement also increases cash per wave , interest percentage , max interest per wave amount 1 % upgrade well . maximum level 400 5x bonus .
 Level
 Value
 Coins
@@ -284,67 +284,67 @@ Cells/Kill Bonus
 Free Upgrades
 Recovery Packages
 Enemy Level Skip
-A coin
+coin
 Coins
-Coins are the backbone of this game. With coins you can buy upgrades to improve your run beforehand in the workshop, or buy upgrades in the lab.
+Coins backbone game . coins buy upgrades improve run beforehand workshop , buy upgrades lab .
 Getting Coins
-There are 4 ways of getting coins:
-Killing Enemies (Besides Basic Enemies)
+4 ways getting coins :
+Killing Enemies ( Besides Basic Enemies )
 Coins / Wave Upgrade
 Completing
 Daily Missions
 Milestones
 Improving Coin Flow
-The amount of coins you can get in your game depends on how far you can get in your run and what upgrades you have. These are known ways to improve your coin flow:
-Playing on a higher Tier
+amount coins get game depends far get run upgrades . known ways improve coin flow :
+Playing higher Tier
 Upgrading
 Coins / Kill
 Workshop
 Lab
 Upgrading
 Coins/Wave
-(Workshop & Lab)
+( Workshop & Lab )
 Using / Upgrading Coins
 Card
-(Cards)
+( Cards )
 Using / Upgrading
 Enemy Balance
-Card (Cards)
+Card ( Cards )
 Using / Upgrading
 Critical Coin
-Card (Cards)
+Card ( Cards )
 Buying / Upgrading
 Golden Tower
 Ultimate Weapon
 Black Hole
-Coin Bonus lab (Ultimate Weapon)
+Coin Bonus lab ( Ultimate Weapon )
 Spotlight
-Coin Bonus lab  (Ultimate Weapon)
+Coin Bonus lab ( Ultimate Weapon )
 Death Wave
-Coin Bonus lab(Ultimate Weapon)
+Coin Bonus lab ( Ultimate Weapon )
 Using / Upgrading Generator
 Modules
 Using
 Sub-Module Effects
-that improve Coins/Kill, Coins/Wave, Golden Tower Bonus, Duration, Cooldown, Black Hole Size, Duration Cooldown, Death Wave Quantity, Cooldown, or SL Angle
+improve Coins/Kill , Coins/Wave , Golden Tower Bonus , Duration , Cooldown , Black Hole Size , Duration Cooldown , Death Wave Quantity , Cooldown , SL Angle
 Earning
 Perks
-that improve Coin Bonus, Death Wave Quantity, Golden Tower Bonus, Black Hole Duration, or provide a Random Ultimate Weapon that provides coins
+improve Coin Bonus , Death Wave Quantity , Golden Tower Bonus , Black Hole Duration , provide Random Ultimate Weapon provides coins
 Upgrading
 Standard Perks Bonus
-(Lab) in conjunction with perks listed above
+( Lab ) conjunction perks listed
 Upgrading
 Improve Trade-Off Perks
-(Lab) in conjunction with Coin Trade-Off Perk (CTO)
-Upgrading the
+( Lab ) conjunction Coin Trade-Off Perk ( CTO )
+Upgrading
 Bounty
-Chip for guardian (Currently a rather small impact)
-Remember that while higher tiers have a higher coin yield, it will be far less efficient if you are not able to get to high enough waves, as the spawn rates and chance for non-basic enemies increase with each wave. Finding a good middle ground between tiers and highest wave is
+Chip guardian ( Currently rather small impact )
+Remember higher tiers higher coin yield , far less efficient able get high enough waves , spawn rates chance non-basic enemies increase wave . Finding good middle ground tiers highest wave
 highly
-recommended.
+recommended .
 Workshop Enhancement
 Coin Bonus
-Requires 50 billion coins to be spent on Utility enhancements to unlock. Increases the Coin Bonus multiplier by x1 when unlocked and increases by 0.01x per level. Has a maximum level of 200 for a 3x bonus. Note: Coin Bonus enhancement affects tier bonus and Coins/kill. This means the overall benefit of Coin Bonus enhancement is squared.
+Requires 50 billion coins spent Utility enhancements unlock . Increases Coin Bonus multiplier x1 unlocked increases 0.01x per level . maximum level 200 3x bonus . Note : Coin Bonus enhancement affects tier bonus Coins/kill . means overall benefit Coin Bonus enhancement squared .
 Level
 Value
 Coins
@@ -1172,38 +1172,37 @@ Cells/Kill Bonus
 Free Upgrades
 Recovery Packages
 Enemy Level Skip
-A Gem
+Gem
 Gems
-Gems are a core currency to buy special items and upgrades with.
+Gems core currency buy special items upgrades .
 Acquiring Gems
-Players can acquire Gems in many different a few ways:
-Claiming the Floating Gems that spawns around your tower. Also known as Bob.
-A maximum of 10 floating Gems can be spawned in a run.
-You gain two Gems per floating Gem.
-Floating Gems spawn about once every 400-500 waves, and no more than once every 15 minutes.
-Claiming the Ad Gems (Appears approximately every 10 minutes on your screen)
-Five Gems per claim.
-Completing Offer walls/TapJoy.
-Claiming the Free Daily Gems in the store.
-Participating in Tournaments.
-Purchasing Gems with real money.
-The Tower Web Store (online)
-Google Play Store (in-game)
-Apple App Store (in-game)
+Players acquire Gems many different ways :
+Claiming Floating Gems spawns around tower . Also known Bob .
+maximum 10 floating Gems spawned run .
+gain two Gems per floating Gem .
+Floating Gems spawn every 400-500 waves , every 15 minutes .
+Claiming Ad Gems ( Appears approximately every 10 minutes screen )
+Five Gems per claim .
+Completing Offer walls/TapJoy .
+Claiming Free Daily Gems store .
+Participating Tournaments .
+Purchasing Gems real money .
+Tower Web Store ( online )
+Google Play Store ( in-game )
+Apple App Store ( in-game )
 Exchanging either
 Medals
-(from Event) and/or
+( Event ) and/or
 Chips
-(from
 Guilds
-).
+) .
 Completing
 Daily Missions
-Claiming Weekly Rewards (from
+Claiming Weekly Rewards (
 Daily Missions
-) or Guild Weekly Reward Chests (from Guilds).
+) Guild Weekly Reward Chests ( Guilds ) .
 Spending Gems
-Players can spend Gems on the following:
+Players spend Gems following :
 Buying
 Cards
 Buying
@@ -1217,37 +1216,37 @@ Modules
 Buying
 Tournament Tickets
 Power Stones
-Power Stones are a premium currency that can be used to buy and upgrade
+Power Stones premium currency used buy upgrade
 Ultimate Weapons
-. Purchases that are
-{\displaystyle \geq}
-500 Power Stones will have a purchase confirmation message.
+. Purchases
+{ \displaystyle \geq }
+500 Power Stones purchase confirmation message .
 Acquiring Power Stones
-Players can acquire Power Stones by:
-Participating in
+Players acquire Power Stones :
+Participating
 Tournaments
 Exchanging
 Medals
-Weekly rewards from
+Weekly rewards
 Daily Missions
 Milestones
-Purchasing Monthly Stone Packs and/or other promotional offers via:
-The Tower Web Store (online)
-Google Play Store (in-game)
-Apple App Store (in-game)
+Purchasing Monthly Stone Packs and/or promotional offers via :
+Tower Web Store ( online )
+Google Play Store ( in-game )
+Apple App Store ( in-game )
 Medals
-Medals are currency used to make purchases from the Event Shop.
+Medals currency used make purchases Event Shop .
 Obtaining Medals
-Medals can be obtained from three sources:
+Medals obtained three sources :
 Completing
 Event
 Missions
-Earning Weekly Rewards from
+Earning Weekly Rewards
 Daily Missions
 Guardian
-with Fetch module equipped
+Fetch module equipped
 Spending Medals
-Medals can only be spent in the Event Shop and do not expire when an Event ends. Players can save their Medals for a future Event Shop if they choose to do so. Items offered in the Event Shop include the following:
+Medals spent Event Shop expire Event ends . Players save Medals future Event Shop choose . Items offered Event Shop include following :
 Gems
 Power Stones
 Shards
@@ -1255,84 +1254,84 @@ Themes
 Music
 Bots
 Relics
-(Only during an Event rerun)
+( Event rerun )
 Relics
 Relics
-can only be unlocked by earning Medals during their respective
+unlocked earning Medals respective
 Event
-; any Medals carried over from a previous Event or earned from
+; Medals carried previous Event earned
 Daily Mission
-boxes are not counted toward the number of Medals needed to earn a Relic.
+boxes counted toward number Medals needed earn Relic .
 Elite Cell
-Elite Cells are currency dropped by
+Elite Cells currency dropped
 Elite Enemies
-used to buy
+used buy
 lab boosts
 Acquiring Elite Cells
-Elite Cells can only be obtained by defeating Elite enemies: Vampire, Ray and Scatter.
-For Tiers 1 through 13, each Elite drops between 1 and X cells, where X is the current Tier. Average drop rate is (1+X)/2 cells per elite.
-For Tiers 14 and up, the base cells per Elite are as follows:
+Elite Cells obtained defeating Elite enemies : Vampire , Ray Scatter .
+Tiers 1 13 , Elite drops 1 X cells , X current Tier . Average drop rate ( 1+X ) /2 cells per elite .
+Tiers 14 , base cells per Elite follows :
 Base Cells Per Elite Per Tier
 Collapse
 Tier
 Minimum Cells
 Maximum Cells
 Average
-% Increase of Average from Prior
+% Increase Average Prior
 14
 7
 14
 10.5
-50%
-(= 10.5 / 7)
+50 %
+( = 10.5 / 7 )
 15
 11
 15
 13
-23.8%
-(=13 / 10.5)
+23.8 %
+( =13 / 10.5 )
 16
 12
 16
 14
-7.69%
+7.69 %
 17
 12
 17
 14.5
-3.57%
+3.57 %
 18
 12
 18
 15
-3.45%
+3.45 %
 19
 15
 19
 17
-13.3%
+13.3 %
 20
 15
 20
 17.5
-2.94%
+2.94 %
 21
 15
 21
 18
-2.86%
+2.86 %
 Improving Elite Cell Flow
-These are known ways to improve your elite cells:
-1. Upgrading
+known ways improve elite cells :
+1 . Upgrading
 Death Wave Cell Bonus
-(Lab)
-2. Farm at higher tiers.
-3. Farm at higher waves.
-4. Cells Bonus in Workshop Enhancements
-5. Enemy Balance, Wave Skip, and Intro Sprint masteries help by increasing Cells earned per run or Increasing Cells earned per hour.
+( Lab )
+2 . Farm higher tiers .
+3 . Farm higher waves .
+4 . Cells Bonus Workshop Enhancements
+5 . Enemy Balance , Wave Skip , Intro Sprint masteries help increasing Cells earned per run Increasing Cells earned per hour .
 Workshop Enhancements
 Cells/Kill Bonus
-Requires 500 billion coins to be spent on Utility enhancements to unlock. Increases Cells/Kill by x1 when unlocked and increases by 0.01x per level. Has a maximum level of 200 for a 3x bonus.
+Requires 500 billion coins spent Utility enhancements unlock . Increases Cells/Kill x1 unlocked increases 0.01x per level . maximum level 200 3x bonus .
 Level
 Value
 Coins
@@ -2161,23 +2160,23 @@ Free Upgrades
 Recovery Packages
 Enemy Level Skip
 Keys
-Keys are a currency earned by reaching 1st - 15th place in a Legend
+Keys currency earned reaching 1st - 15th place Legend
 Tournament
-. They are used for unique Tower upgrades in
+. used unique Tower upgrades
 Tech Trees
-in the Vault.
-Bits are brought from the guild store using guild tokens , and are used to purchase chip upgrades.
-guild chests provide 10, 25, 50, 100 = 185 per week.
-guild shop: 25, 50 75 = 150 per month.
+Vault .
+Bits brought guild store using guild tokens , used purchase chip upgrades .
+guild chests provide 10 , 25 , 50 , 100 = 185 per week .
+guild shop : 25 , 50 75 = 150 per month .
 ________________
 890 total per month
-Tokens are earned from
+Tokens earned
 Weekly Challenge
-boxes and
+boxes
 Guild
-Reward Chests.
-They can be used to obtain items out of the Guild shop.
+Reward Chests .
+used obtain items Guild shop .
 Module Shards
-UNDER CONSTRUCTION 11.07.2025
+CONSTRUCTION 11.07.2025
 Reroll Shards
-UNDER CONSTRUCTION 11.07.2025
+CONSTRUCTION 11.07.2025

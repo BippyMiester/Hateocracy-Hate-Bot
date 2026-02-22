@@ -20,39 +20,39 @@ Perks
 1.9
 Events
 1.10
-Other Features
+Features
 1.11
 Bugs
 2
 Versions
 v0.18
 Milestones
-• New feature, milestones. Earn rewards for completing higher and higher waves on each tier. This will be how new game features are unlocked going forward. You can earn new lab research, cards, and premium currency. It currently gives rewards up to wave 2000, but 2500 will be coming in an upcoming update that includes exclusive tower skins as well
+• New feature , milestones . Earn rewards completing higher higher waves tier . new game features unlocked going forward . earn new lab research , cards , premium currency . currently gives rewards wave 2000 , 2500 coming upcoming update includes exclusive tower skins well
 Performance
-• Massive performance improvement for how enemies interact with each other. Defensive builds should be much less laggy. (this was completed in 0.17.12)
-• Orbs are no longer reliant on game FPS
+• Massive performance improvement enemies interact . Defensive builds much less laggy . ( completed 0.17.12 )
+• Orbs longer reliant game FPS
 Standard Rounds
-• New Enemy: Protector - Enemies inside protector's range cannot be insta killed by orbs or death ray. The goal of this enemy is to reduce reliance on insta kills, make rounds end sooner, and make higher range towers more viable. The smaller the tower range, the more impactful the protector is since it's radius remains unchanged. This enemy may set wave records back a bit, but other upgrades were added to further push your tower's limits
-• Enemy speed growth for normal rounds reduced a bit
-• Enemy mass now grows very slowly starting on wave 50. Example: Wave 500 = 500 x1.14 mass, Wave 3000 = x1.89
-• Max enemies on screen raised from 100 to 120
-• Enemy spawn rate above wave 3000 for every tier increased slightly
-• Resume round feature restrictions loosened. Max resumes from 3 to 10. Minimum wave progression from 15 to 10 waves
+• New Enemy : Protector - Enemies inside protector 's range insta killed orbs death ray . goal enemy reduce reliance insta kills , make rounds end sooner , make higher range towers viable . smaller tower range , impactful protector since 's radius remains unchanged . enemy may set wave records back bit , upgrades added push tower 's limits
+• Enemy speed growth normal rounds reduced bit
+• Enemy mass grows slowly starting wave 50 . Example : Wave 500 = 500 x1.14 mass , Wave 3000 = x1.89
+• Max enemies screen raised 100 120
+• Enemy spawn rate wave 3000 every tier increased slightly
+• Resume round feature restrictions loosened . Max resumes 3 10 . Minimum wave progression 15 10 waves
 • Tier 13 added
 Tournaments
-• Cooldown wave timer reduced by 50% to speed up runs, and add a bit of difficulty
+• Cooldown wave timer reduced 50 % speed runs , add bit difficulty
 • Enemy speed growth reduced
-• Enemy health and attack scaling increased slightly
-• Enemy mass now slowly grows after wave 50, reducing knockback
-• Protector enemy slightly more prevalent in tournaments than standard rounds
-• Enemy spawn rate above wave 50 increased, and slightly grows faster
+• Enemy health attack scaling increased slightly
+• Enemy mass slowly grows wave 50 , reducing knockback
+• Protector enemy slightly prevalent tournaments standard rounds
+• Enemy spawn rate wave 50 increased , slightly grows faster
 Workshop
-• Land mine damage max level raised from 90 to 200
-• Land mine radius max level raised from 35 to 50
+• Land mine damage max level raised 90 200
+• Land mine radius max level raised 35 50
 Cards
-• Some cards can now be unlocked via completing milestones. This way I can add cards that use later game mechanics safely. For example, land mine stun card is unlocked as a possible card after completing Tier 7, wave 250
-• New Rare Card (milestone unlock): Land Mine Stun
-• New Rare Card (milestone unlock): Recovery Package Chance
+• cards unlocked via completing milestones . way add cards use later game mechanics safely . example , land mine stun card unlocked possible card completing Tier 7 , wave 250
+• New Rare Card ( milestone unlock ) : Land Mine Stun
+• New Rare Card ( milestone unlock ) : Recovery Package Chance
 New Lab Research
 • Recovery package amount
 • Recovery package max
@@ -66,24 +66,24 @@ New Lab Research
 Lab Balancing
 • Recovery package coin costs reduced
 Perks
-• New Perk: Blackhole duration +12 seconds
-• New Perk: Spotlight damage bonus x1.5
+• New Perk : Blackhole duration +12 seconds
+• New Perk : Spotlight damage bonus x1.5
 Events
-• Large numbers use the converter now
-• Prep for upcoming events
-Other Features
-• Wave Detail Panel - tap the lower right wave information box to access. Shows more details about the current wave and enemies
-• 120 FPS option added in settings panel (60 FPS remains default, only works for devices that allow it)
-• Target priority now includes Protector enemy
-• Card purchasing now shows your current gems in the claim viewing panel
-• Backend improvements to help with player support
+• Large numbers use converter
+• Prep upcoming events
+Features
+• Wave Detail Panel - tap lower right wave information box access . Shows details current wave enemies
+• 120 FPS option added settings panel ( 60 FPS remains default , works devices allow )
+• Target priority includes Protector enemy
+• Card purchasing shows current gems claim viewing panel
+• Backend improvements help player support
 Bugs
-• Name for bot frequency upgrade fixed from "Chance" to "Frequency"
-• Name for spotlight Angle upgrade fixed
-• Bot upgrades show when maxed now
+• Name bot frequency upgrade fixed `` Chance `` `` Frequency ``
+• Name spotlight Angle upgrade fixed
+• Bot upgrades show maxed
 • Card preset name change panel text fixed
-• Stone pack 2 showing gems visually on claim screen instead of stones
-• Improved a lot of translations
+• Stone pack 2 showing gems visually claim screen instead stones
+• Improved lot translations
 Versions
 v0.27
 v0.26

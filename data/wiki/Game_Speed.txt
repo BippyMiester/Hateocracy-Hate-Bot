@@ -7,21 +7,19 @@ Rounds
 Lab
 4
 Description
-"Game speed" increases the max game speed
+`` Game speed `` increases max game speed
 Rounds
-Game speed increases the pace of the game and has an affect on multiple in game numbers. In the stats screen, real time and game time will be different due to game speed. Any ability that relies on a timer will be sped up by game speed. Using the Game Speed
+Game speed increases pace game affect multiple game numbers . stats screen , real time game time different due game speed . ability relies timer sped game speed . Using Game Speed
 perk
-and the
 Standard Perk Bonus
-lab, game speed has a maximum value of 6.25 and will display as 6.3.
-Game speed is not accurate.
-x5.0 speed behaves closer to x4.0 while 6.25 is closer to x5.
+lab , game speed maximum value 6.25 display 6.3 .
+Game speed accurate .
+x5.0 speed behaves closer x4.0 6.25 closer x5 .
 Lab
-Unlocks with
+Unlocks
 labs
-in
 Milestones
-at tier 1 wave 30. There are maximum of 7 levels.
+tier 1 wave 30 . maximum 7 levels .
 Level
 Cost
 Time
@@ -65,7 +63,7 @@ Workshop Utility Discount
 Labs Coin Discount
 Labs Speed
 Buy multiplier
-More Round Stats
+Round Stats
 Target Priority
 Card Presets
 Workshop Respec
@@ -105,7 +103,7 @@ Cash Per Wave
 Coins/Kill Bonus
 Interest
 Max Interest
-Package After Boss
+Package Boss
 Recovery Package Amount
 Recovery Package Max
 Recovery Package Chance
@@ -116,7 +114,7 @@ Missiles Explosion
 Missile Radius
 Chrono Field Duration
 Chrono Field Damage Reduction
-Chrono Field Reduction %
+Chrono Field Reduction %
 Swamp Radius
 Swamp Stun
 Swamp Stun Chance
@@ -215,7 +213,7 @@ Core Effect Bans
 Assist Module Labs
 Battle Condition Research
 Battle Condition Reduction
-Group 1: Resistances
-Group 2: Enemy/Spawn Buffs
-Group 3: Enemy Ultimates
-Group 4: Durations/Reductions
+Group 1 : Resistances
+Group 2 : Enemy/Spawn Buffs
+Group 3 : Enemy Ultimates
+Group 4 : Durations/Reductions

@@ -1,5 +1,5 @@
 Health
-Health enhancement is unlocked for free after completing the Workshop Enhancement Labs. Increases Health by x1 when unlocked and increases by 0.01x per level. Has a maximum of 400 levels for a multiplier of x5.00.
+Health enhancement unlocked free completing Workshop Enhancement Labs . Increases Health x1 unlocked increases 0.01x per level . maximum 400 levels multiplier x5.00 .
 Level
 Value
 Coins

@@ -17,37 +17,37 @@ Small Changes
 Versions
 v0.6.0
 Features
-Cloud save for android devices, accessible in the settings panel
-New Common Card: Extra Defense
-Back button functionality for android
+Cloud save android devices , accessible settings panel
+New Common Card : Extra Defense
+Back button functionality android
 Balance
-Waves starting at roughly wave 60 and above will have higher scaling for difficulty to end rounds a bit earlier (more health, slightly faster spawn rate, slightly higher chance of tanks and fast enemies). The general reason for this is to shorten rounds across the board as it was never designed to run for an hour plus. It will also help balance defensive builds as below, expect more changes though
-Scaling of attack damage of enemies reduced to help make defensive builds better
-Tier's difficulty spread out a wee bit more making higher tiers more difficult
+Waves starting roughly wave 60 higher scaling difficulty end rounds bit earlier ( health , slightly faster spawn rate , slightly higher chance tanks fast enemies ) . general reason shorten rounds across board never designed run hour plus . also help balance defensive builds , expect changes though
+Scaling attack damage enemies reduced help make defensive builds better
+Tier 's difficulty spread wee bit making higher tiers difficult
 Health upgrade scaling buffed considerably
-Defense Absolute and Health Regen buffed
-Lifesteal max level decreased from 99 to 80
-Smart missiles starting missile quantity raised from 3 to 4
-Smart missiles max quantity raised from 14 to 15
+Defense Absolute Health Regen buffed
+Lifesteal max level decreased 99 80
+Smart missiles starting missile quantity raised 3 4
+Smart missiles max quantity raised 14 15
 Bugs
-Tournament didn't show text for not updated version of game
-Health card math was incorrectly applied
-Ad loading cancel button works now
-More translation fixes
-Other small fixes
+Tournament n't show text updated version game
+Health card math incorrectly applied
+Ad loading cancel button works
+translation fixes
+small fixes
 vO.6.5
 Balance
-Lifesteal nerfed - with the new health balancing, it became quite overpowered for defensive builds
-Smart missiles adapt to tower range much better
-Max distance research max level lowered from 100 to 80
-Copper league promotion includes 2 more players, Silver includes 1 more player
+Lifesteal nerfed - new health balancing , became quite overpowered defensive builds
+Smart missiles adapt tower range much better
+Max distance research max level lowered 100 80
+Copper league promotion includes 2 players , Silver includes 1 player
 Small Changes
-Enemies damage increase by x1.04 each consecutive hit from the same enemy if not killed
+Enemies damage increase x1.04 consecutive hit enemy killed
 iOS UI optimizations
 Tablet optimizations
-Text for username on tournament panel fixed
-Max range visual radius updates instantly if earned from free upgrade now
-Other minor bug fixes
+Text username tournament panel fixed
+Max range visual radius updates instantly earned free upgrade
+minor bug fixes
 Versions
 v0.27
 v0.26

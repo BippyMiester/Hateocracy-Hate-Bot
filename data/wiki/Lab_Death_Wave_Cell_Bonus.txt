@@ -1,5 +1,5 @@
 Death Wave Cell Bonus
-Extra cell bonus applied to enemies hit by effect waves or killed by death wave(Max of 3x cell bonus). Has 20 levels.
+Extra cell bonus applied enemies hit effect waves killed death wave ( Max 3x cell bonus ) . 20 levels .
 Level
 Time
 Cost
@@ -88,9 +88,9 @@ Value
 1
 8
 35:30
-1.50%
+1.50 %
 00:00
 35:30
 Pause
 Video Quality
-Auto (360p)
+Auto ( 360p )

@@ -1,5 +1,5 @@
 Wall Rebuild
-Has 20 upgrades. Reduces the rebuild time of the wall by a number of seconds.
+20 upgrades . Reduces rebuild time wall number seconds .
 Level
 Time
 Cost

@@ -1,169 +1,168 @@
-Guide by Mastapsi. Uploaded on V26.1.2
-What Is Orbless?
-Orbless is a family of farming builds crafted with the goal of maximizing Spotlight kills.  It is the next step of the natural progression of Blender w/ sync’d GT/BH to Devo.  The general goal is to perform all kills inside SL while GT/BH is running and to minimize “spillage” (that is, kills outside of the 3 overlapping bonuses).  This will stack all three UW coin bonuses together. Look at the screenshot here.
-As you can see, the tower is only killing enemies in the overlapping coin bonus zones and is leaving enemies that are not in those zones.  This maximizes your coin income.
-Wait, what do you mean “family” of builds?
-Put simply, there is more than one way to do orbless.  With orbless there are two main things to consider: “how do you survive” and “how do you kill enemies”.
-There are three main ways an orbless tower stays alive:
-eHP Wall w/ Wall Fortification and Wall Regen
+Guide Mastapsi . Uploaded V26.1.2
+Orbless ?
+Orbless family farming builds crafted goal maximizing Spotlight kills . next step natural progression Blender w/ sync ’ GT/BH Devo . general goal perform kills inside SL GT/BH running minimize “ spillage ” ( , kills outside 3 overlapping bonuses ) . stack three UW coin bonuses together . Look screenshot .
+see , tower killing enemies overlapping coin bonus zones leaving enemies zones . maximizes coin income .
+Wait , mean “ family ” builds ?
+Put simply , one way orbless . orbless two main things consider : “ survive ” “ kill enemies ” .
+three main ways orbless tower stays alive :
+eHP Wall w/ Wall Fortification Wall Regen
 Permanent BH
 Glass Cannon style
-None of the above strategies are mutually exclusive either.  You can have a glass cannon style juggle for conventional enemies with Wall used to kill bosses for example.  Or you can control standard enemies with BH and kill bosses with the Wall.
-There are also many different ways to kill.  The key thing about orbless is you need a method to kill conventional enemies that restricts itself to only killing within SL.  This can be anything from bounce shot with limited range, Chain Lightning, or Spotlight Missiles.  And again, like ways to survive, you can combine these as needed based on your tower.
-Prerequisites for Orbless
-While there are many different ways to do orbless, there are some hard requirements:
-Workshop - You will need a devo’d workshop (see below), but you need to be able to cash max any of your needed stats with the exception of Rend and ELS.
+None strategies mutually exclusive either . glass cannon style juggle conventional enemies Wall used kill bosses example . control standard enemies BH kill bosses Wall .
+also many different ways kill . key thing orbless need method kill conventional enemies restricts killing within SL . anything bounce shot limited range , Chain Lightning , Spotlight Missiles . , like ways survive , combine needed based tower .
+Prerequisites Orbless
+many different ways orbless , hard requirements :
+Workshop - need devo ’ workshop ( see ) , need able cash max needed stats exception Rend ELS .
 Labs
-Perks - 4 qty, 4 bans, SPB 25 and ITO 10 ideal
-Auto perk does not work with orbless, you often need to delay taking perks
-The rest of the labs are in sections below.
-Synchronized GT/BH with BH2 and a fairly high uptime (greater than 50%)
-This can be done with Multiverse Nexus, but be mindful of the needed uptime if your MVN isn’t ancestral.  If your uptime isn’t high enough you won’t see significant gains over Max/Orb Devo
-Permanent GT/BH is highly desired
-GT Bonus 16x or better
+Perks - 4 qty , 4 bans , SPB 25 ITO 10 ideal
+Auto perk work orbless , often need delay taking perks
+rest labs sections .
+Synchronized GT/BH BH2 fairly high uptime ( greater 50 % )
+done Multiverse Nexus , mindful needed uptime MVN ’ ancestral . uptime ’ high enough ’ see significant gains Max/Orb Devo
+Permanent GT/BH highly desired
+GT Bonus 16x better
 BH Coins Lab maxed
-BH Size needs full coverage of your tower range (44-48m at 30m). Larger is better.
-Spotlight with 3x beams and minimum 40° angle invested with stones and minimum 20x bonus
-More angle will mean better coverage for both the damage and coin bonus, which will mean more coins
-SL angle substat on Core module is highly desired
-More bonus will both let your orbless last longer and will reduce spillage (kills outside SL)
-Be careful with SL4.  With SL3, one beam is always pointed at a BH, but with SL4, you will have gaps where neither BH is inside the SL coverage.  You want to have fairly high SL angle before you commit to SL4, likely 60° or better.
+BH Size needs full coverage tower range ( 44-48m 30m ) . Larger better .
+Spotlight 3x beams minimum 40° angle invested stones minimum 20x bonus
+angle mean better coverage damage coin bonus , mean coins
+SL angle substat Core module highly desired
+bonus let orbless last longer reduce spillage ( kills outside SL )
+careful SL4 . SL3 , one beam always pointed BH , SL4 , gaps neither BH inside SL coverage . want fairly high SL angle commit SL4 , likely 60° better .
 SL Coins Lab maxed
-A method of surviving - Orbless shines best on very long runs (7000+ waves).  You need to be able to survive the very high density of enemies at those waves.  Some methods include:
-Wall - Minimum Wall Regen 10, Wall Thorns 11, and Health, Health Regen, Wall Health, and Wall Fortification increased as needed to survive.
-Other Labs: SPB 25 and Def % 23
-Module: Ancestral Armor with ancestral def %.  Highest health regen and wall health you can manage.
+method surviving - Orbless shines best long runs ( 7000+ waves ) . need able survive high density enemies waves . methods include :
+Wall - Minimum Wall Regen 10 , Wall Thorns 11 , Health , Health Regen , Wall Health , Wall Fortification increased needed survive .
+Labs : SPB 25 Def % 23
+Module : Ancestral Armor ancestral def % . Highest health regen wall health manage .
 Maxed Defense card
-Early in your run, you may need to have thorns devo’d to prevent enemies from dying to thorns if your uptime is not high enough.
-Permanent BH: Permanent BH will prevent any standard enemies from chipping you, allowing you to tank bosses.  You may have issues with elites, particularly vampires if you aren’t also doing Wall.  That said, combining the two will mean that you can last much longer than either separately.  The DIsable Ranged Enemies is absolutely required here.
-Glass Cannon style - Max CF will make juggling chips a breeze.  From there the only enemies that will be a problem will be rays and bosses.  Hopefully if you have the stones for max CF, you have a plan for those.
-A method of killing enemies only in SL.  The key here is focusing your damage to a limited area.  There are a number of ways to do this
-Bullet style - Just utilizing the SL bonus to kill enemies at least 20 times faster inside the SL beam is the most basic way to do orbless.  This means you have to be able to kill enemies with your bullets!  Here are some ways to boost bullet damage:
-DPM:  The nice thing here is if you do not have 100% uptime on BH and enemies drop into your wall, DPM will decrease its bonus, and you get less spillage.
-Rend Armor:  8x damage bonus for bullets, all that really needs to be said
-Astral Deliverance:  Here is the real gem for bullet orbless.  AD gives a damage bonus to each successive bounce shot.  You can localize this further by using a minimum bounce shot range, which will mean that bounces stay localized to inside the BH clump.
-AD will need to be at least mythic or better to be effective.  At legendary or lower, the damage bonus on the 4th bounce is only 3.8x, but at mythic it is 6.5x, and at ancestral it is 10.5x.  Additionally, the higher rarity bounce chance substat drastically increases the average number of bounces.
-Target Priority 2 - Pretty much essential here, you want to use “In Spotlight” to maximize.  Simply using “Closest” still works, but causes spillage and can reduce CPM by a significant margin.
-Chain Lightning - Probably the second easiest way to orbless, this is basically an extension of bullet orbless.
-The main thing to consider here is that CL does a LOT of damage.  Unless you are farming T12, it is likely that your CL will be too aggressive for the start of a run.  Your best bet is to start with bullet orbless and turn on CL when bullet orbless runs out (see below).
-Shock unlocked, Multiplier maxed is ideal.  Shock chance 10 or better.
-CL damage no more than 596x until you know better.
-Spotlight Missiles - Spotlight Missiles is the classic orbless killing method.  It is right in the name! It only targets enemies that are inside SL! It is perfect!
-Maxed SLM Lab is required!
+Early run , may need thorns devo ’ prevent enemies dying thorns uptime high enough .
+Permanent BH : Permanent BH prevent standard enemies chipping , allowing tank bosses . may issues elites , particularly vampires ’ also Wall . said , combining two mean last much longer either separately . DIsable Ranged Enemies absolutely required .
+Glass Cannon style - Max CF make juggling chips breeze . enemies problem rays bosses . Hopefully stones max CF , plan .
+method killing enemies SL . key focusing damage limited area . number ways
+Bullet style - utilizing SL bonus kill enemies least 20 times faster inside SL beam basic way orbless . means able kill enemies bullets ! ways boost bullet damage :
+DPM : nice thing 100 % uptime BH enemies drop wall , DPM decrease bonus , get less spillage .
+Rend Armor : 8x damage bonus bullets , really needs said
+Astral Deliverance : real gem bullet orbless . AD gives damage bonus successive bounce shot . localize using minimum bounce shot range , mean bounces stay localized inside BH clump .
+AD need least mythic better effective . legendary lower , damage bonus 4th bounce 3.8x , mythic 6.5x , ancestral 10.5x . Additionally , higher rarity bounce chance substat drastically increases average number bounces .
+Target Priority 2 - Pretty much essential , want use “ Spotlight ” maximize . Simply using “ Closest ” still works , causes spillage reduce CPM significant margin .
+Chain Lightning - Probably second easiest way orbless , basically extension bullet orbless .
+main thing consider CL LOT damage . Unless farming T12 , likely CL aggressive start run . best bet start bullet orbless turn CL bullet orbless runs ( see ) .
+Shock unlocked , Multiplier maxed ideal . Shock chance 10 better .
+CL damage 596x know better .
+Spotlight Missiles - Spotlight Missiles classic orbless killing method . right name ! targets enemies inside SL ! perfect !
+Maxed SLM Lab required !
 Unlocked SM
 34x damage minimum
-Max Missile Amp and Radius
-The radius lab is OK to max.  With a strong SL, enemies outside the beam will survive the SLM, BUT they still get tagged with Missile Amp, so once they do get into SL, they are primed to die quickly
-ILM+ (SLIME) - This is beyond my scope, as I do not have any UW+, but you can reference Skye’s SLIME guide (here) if you want to pursue this build
-Nice to Haves
-A few things are not strictly required, but very nice to have for an orbless build
-For builds with lower uptime: mythic or better Singularity Harness and synced Golden Bot
-Golden Bot is another potential multiplier and at lower uptimes, you can get significantly more coins by syncing Golden Bot to GT/BH and using Singularity Harness instead of Galaxy Compressor.  Once your uptime is high enough (say around >60%) you are often better off using GComp to further decrease your cooldowns and increase your uptime.  You will need to test this to find out.
-Anticube Portal - This can extend your orbless phase by 1000 waves at ancestral.
-Deathwave - DW is yet another coin multiplier to stack.  It also gives more health for Wall based builds.  The Cell bonus is a nice boost, but not really relevant to the build itself.
-Ideally, DW is synced to GT
-Max DW coin lab is ideal
-Quantity is the most important stone stat here, you want to tag as many enemies as possible.
-Limit damage upgrades if possible, DW kills indiscriminately outside SL.
-Landmines - Landmines are also a great way of dealing damage in a small area.  However, they cannot be used as your primary killing method, since they require you to make kills to get them.  They can however, enhance whatever other method you are using by adding on extra damage.  You keep LM Radius minimized to prevent spillage, but max LM damage.  This is particularly great because LMs only spawn where an enemy has died, so as long as you have minimal spillage, LMs should only spawn in your killzone.
-Target Priority 2 - This lab is essential for bullet builds, but is still quite good for SLM or other UW based builds.  It can be used to either trim basics and protectors, or it can be used to focus bullets into SL.
-What does an orbless run look like
-Before we get into the nitty gritty of building your tower for orbless, you need to know what an orbless run looks like.
-There are 5 phases of an orbless run.   Some towers may have multiple orbless phases if they are using more than one orbless killing method. Depending on the tower, some of these phases are skipped:
-Start of run- Remove all damage increasing cards.  Turn off all damage UWs except DW.  During the very beginning phases of a run, your tower is simply too strong to prevent spillage, even devo’d and with no damage cards.  This is not a huge issue, as spawn rates are low and we do not have perks yet.  The focus of this phase is to perk up (preferring PWR and coin enhancing perks as per usual, but also taking SL perk, as it is beneficial), upgrade ELS, and if using DW, max the DW health bonus.  Avoid picking damage perks
-Optional DW only - Max Devo phase - After the DW kill ring falls, there is often a period where Max Devo can be more effective than trying to orbless.  Simply put, the tower is still too strong and your killing method is still too strong to prevent spillage, so it makes sense to maximize the DW coin bonus.  You can extend this phase if needed by putting damage cards on.  Just remember to remove them when you shift into orbless mode.  Whether or not you do this phase will likely depend on your uptime.  With higher uptime, you are probably better off diving straight into orbless, but if you have significant stacking time, trimming basics with target priority and tagging the full stack with the DW coin bonus will likely outpace the initial orbless CPM.
-Initial orbless phase - At this stage of the run your battle upgrades should still be untouched other than ELS.  Enemy density and stats have grown enough that they do not die immediately outside of SL,  so you can now use your orbless killing method (if it is UW based, time to turn it on!).  More about this in the specific sections below.  During this phase, you just let your tower kill while you continue to upgrade ELS only (unless you are lucky enough to have maxed it by now).  Typically, you will select no perks during this phase, except for defensive perks if your tower relies on those. This initial phase can last anywhere from hundreds of waves to thousands of waves.
-Balancing upgrades - Eventually, enemy stats will catch up to your damage and you’ll stop killing effectively.  It is time to upgrade damage.  You want to be careful though, too many upgrades here can tip your town back into phase 1, where it kills indiscriminately and you end up with spillage. This will involve strategically performing battle upgrades, perk selections, or swapping cards to keep damage balanced so that you are killing enemies effectively in SL, but also minimizing spillage.  We will cover techniques for doing this in later sections covering the different killing methods.  Once you begin upgrading damage, you essentially are setting a timer for the end of the orbless run, as you only can increase your damage so much.
-Optional transition to different orbless strategy - Once your orbless can’t kill enemies anymore, you need to change strategy.  This doesn’t always mean abandoning orbless, often you can switch to another style of orbless.  In my current build, I will often start off as bullet orbless, transition to SLM orbless, go back to bullet orbless, then switch to CL orbless.  Often times the way you transition is governed by reversible damage upgrades.  I will use cards to increase damage on my initial bullet orbless, but once that stops killing, I will switch to SLM orbless and remove all cards rather than upgrade damage to make bullet orbless last longer.
-End of orbless - Eventually, you will have maxed your damage upgrades, selected all damage perks, and equipped all damage cards.  At some point, your income will fall below the average income for the run as your tower is no longer able to kill enemies fast enough to allow for respawns and coin decay kicks in.  At this point, you have the choice to either conclude the run (which maximizes coin income) or transition to blender to maximize cells.  Depending on your tower, blender at the end of your run might have decent enough income that you are better off continuing anyway.
-Building an Orbless Tower
-To build an orbless tower, you need to start with a devo tower:
+Max Missile Amp Radius
+radius lab OK max . strong SL , enemies outside beam survive SLM , still get tagged Missile Amp , get SL , primed die quickly
+ILM+ ( SLIME ) - beyond scope , UW+ , reference Skye ’ SLIME guide ( ) want pursue build
+Nice Haves
+things strictly required , nice orbless build
+builds lower uptime : mythic better Singularity Harness synced Golden Bot
+Golden Bot another potential multiplier lower uptimes , get significantly coins syncing Golden Bot GT/BH using Singularity Harness instead Galaxy Compressor . uptime high enough ( say around > 60 % ) often better using GComp decrease cooldowns increase uptime . need test find .
+Anticube Portal - extend orbless phase 1000 waves ancestral .
+Deathwave - DW yet another coin multiplier stack . also gives health Wall based builds . Cell bonus nice boost , really relevant build .
+Ideally , DW synced GT
+Max DW coin lab ideal
+Quantity important stone stat , want tag many enemies possible .
+Limit damage upgrades possible , DW kills indiscriminately outside SL .
+Landmines - Landmines also great way dealing damage small area . However , used primary killing method , since require make kills get . however , enhance whatever method using adding extra damage . keep LM Radius minimized prevent spillage , max LM damage . particularly great LMs spawn enemy died , long minimal spillage , LMs spawn killzone .
+Target Priority 2 - lab essential bullet builds , still quite good SLM UW based builds . used either trim basics protectors , used focus bullets SL .
+orbless run look like
+get nitty gritty building tower orbless , need know orbless run looks like .
+5 phases orbless run . towers may multiple orbless phases using one orbless killing method . Depending tower , phases skipped :
+Start run- Remove damage increasing cards . Turn damage UWs except DW . beginning phases run , tower simply strong prevent spillage , even devo ’ damage cards . huge issue , spawn rates low perks yet . focus phase perk ( preferring PWR coin enhancing perks per usual , also taking SL perk , beneficial ) , upgrade ELS , using DW , max DW health bonus . Avoid picking damage perks
+Optional DW - Max Devo phase - DW kill ring falls , often period Max Devo effective trying orbless . Simply put , tower still strong killing method still strong prevent spillage , makes sense maximize DW coin bonus . extend phase needed putting damage cards . remember remove shift orbless mode . Whether phase likely depend uptime . higher uptime , probably better diving straight orbless , significant stacking time , trimming basics target priority tagging full stack DW coin bonus likely outpace initial orbless CPM .
+Initial orbless phase - stage run battle upgrades still untouched ELS . Enemy density stats grown enough die immediately outside SL , use orbless killing method ( UW based , time turn ! ) . specific sections . phase , let tower kill continue upgrade ELS ( unless lucky enough maxed ) . Typically , select perks phase , except defensive perks tower relies . initial phase last anywhere hundreds waves thousands waves .
+Balancing upgrades - Eventually , enemy stats catch damage ’ stop killing effectively . time upgrade damage . want careful though , many upgrades tip town back phase 1 , kills indiscriminately end spillage . involve strategically performing battle upgrades , perk selections , swapping cards keep damage balanced killing enemies effectively SL , also minimizing spillage . cover techniques later sections covering different killing methods . begin upgrading damage , essentially setting timer end orbless run , increase damage much .
+Optional transition different orbless strategy - orbless ’ kill enemies anymore , need change strategy . ’ always mean abandoning orbless , often switch another style orbless . current build , often start bullet orbless , transition SLM orbless , go back bullet orbless , switch CL orbless . Often times way transition governed reversible damage upgrades . use cards increase damage initial bullet orbless , stops killing , switch SLM orbless remove cards rather upgrade damage make bullet orbless last longer .
+End orbless - Eventually , maxed damage upgrades , selected damage perks , equipped damage cards . point , income fall average income run tower longer able kill enemies fast enough allow respawns coin decay kicks . point , choice either conclude run ( maximizes coin income ) transition blender maximize cells . Depending tower , blender end run might decent enough income better continuing anyway .
+Building Orbless Tower
+build orbless tower , need start devo tower :
 Workshop
-Leave the following upgrades at 0.  Items that can optionally be leveled higher for a lazy setup are marked.  A major exception to this list is high level orbless towers doing glass cannon juggling (usually with highly upgraded SLM).  Those towers will often max attack speed, multishot, rapid fire, bounce and knockback.
+Leave following upgrades 0 . Items optionally leveled higher lazy setup marked . major exception list high level orbless towers glass cannon juggling ( usually highly upgraded SLM ) . towers often max attack speed , multishot , rapid fire , bounce knockback .
 Attack Speed
 Crit Chance - optional
 Range
-DPM - optionally you could put 100 levels here
+DPM - optionally could put 100 levels
 Multishot Chance
 Rapid Fire Chance
 Bounce Shot Chance
 Bounce Shot Range
-This is particularly important for Bullet Orbless
-Thorns - optional if you are using wall
+particularly important Bullet Orbless
+Thorns - optional using wall
 Knockback Chance - optional
 Orbs
 Landmine Chance
 Landmine Radius
 Free Upgrades
-Shockwave Size to 1.35 - This is the perfect size to both tag all enemies with ACP and to sift basics below the tanks for trimming
-Level Damage Stats to what is reasonable for your LTC (personally I level Damage to 5600 and Super Crit Multi to 100)
+Shockwave Size 1.35 - perfect size tag enemies ACP sift basics tanks trimming
+Level Damage Stats reasonable LTC ( personally level Damage 5600 Super Crit Multi 100 )
 Cards
-Set up at least 2 presets.  The presets will share all your common farming and survival cards.
-Your Early Preset will have all damage increasing cards (Damage, Critical Chance, Berserker, and potentially Attack Speed) removed
-Your Late Preset will have the damage cards added back in.
+Set least 2 presets . presets share common farming survival cards .
+Early Preset damage increasing cards ( Damage , Critical Chance , Berserker , potentially Attack Speed ) removed
+Late Preset damage cards added back .
 Modules
 Cannon
-Astral Deliverance - This is likely to be the best in slot for this build.  For bullet builds, the AD damage bonus is perfect.  For glass cannon type builds, the extra bounce range can help juggling
-Subs: Bounce Shot, Multishot Targets, Crit Subs.  You don’t want attack speed here, the enemy density makes multishot targets a far better sub
-Do not use Death Penalty, as it will kill enemies outside your SL bonus.
-The other modules are neutral stat sticks
+Astral Deliverance - likely best slot build . bullet builds , AD damage bonus perfect . glass cannon type builds , extra bounce range help juggling
+Subs : Bounce Shot , Multishot Targets , Crit Subs . ’ want attack speed , enemy density makes multishot targets far better sub
+use Death Penalty , kill enemies outside SL bonus .
+modules neutral stat sticks
 Armor
-Anti-Cube Portal is the best Orbless Armor by far.  The extra 25x damage bonus will push orbless over a thousand waves farther.
-Subs: Shockwave Frequency is always best for this module.  The rest will depend on your survival style.  Defense %, Regen, Wall Health for defensive towers.  Death Defy, Wall Rebuild, and whatever you think is best for glass cannon types.
-Do not use Space Displacer, as you do not want ILMs causing death outside SL bonus
-The other modules are neutral, as we do not use orbs and we need at least a wall to handle vampire drain
+Anti-Cube Portal best Orbless Armor far . extra 25x damage bonus push orbless thousand waves farther .
+Subs : Shockwave Frequency always best module . rest depend survival style . Defense % , Regen , Wall Health defensive towers . Death Defy , Wall Rebuild , whatever think best glass cannon types .
+use Space Displacer , want ILMs causing death outside SL bonus
+modules neutral , use orbs need least wall handle vampire drain
 Generator
-Galaxy Compressor is likely the best module to use for a completed orbless build, as it will enable permanent GT and BH and increase DW uptime.
-Subs - Package Chance, Enemy Health Level Skip, Coins per Kill, and Cash Bonus are the key subs.  Enemy Attack Level Skip can help extend runs once you transition from orbless
-Singularity Harness is good for towers that do not have a high GT/BH uptime.  You will need to synchronize your Golden Bot to your UWs for this to work.  After a point however, the benefit of higher uptime with GComp will mean that you no longer need a synced Golden Bot.
-Subs: Same a GComp above, except Package Chance is not required unless you are using Recovery Package Chance Mastery
-The other Generators are neutral stat sticks
+Galaxy Compressor likely best module use completed orbless build , enable permanent GT BH increase DW uptime .
+Subs - Package Chance , Enemy Health Level Skip , Coins per Kill , Cash Bonus key subs . Enemy Attack Level Skip help extend runs transition orbless
+Singularity Harness good towers high GT/BH uptime . need synchronize Golden Bot UWs work . point however , benefit higher uptime GComp mean longer need synced Golden Bot .
+Subs : GComp , except Package Chance required unless using Recovery Package Chance Mastery
+Generators neutral stat sticks
 Core
-Multiverse Nexus is the best module for this build unless you have a ridiculously upgraded GT and BH.  This is because you can make GT/BH permanent for less than 12k stones.  To get permanent GT/BH without MVN would cost far more than double that.
-Subs - You’ll want DW Cooldown, GT Cooldown, and SL Angle at a minimum.  Stretch goals include GT Bonus, DW Qty, and SL Bonus
-Dimension Core could theoretically be used for builds that have natural permanent GT/BH, but you also lose significant uptime on DW.  Dimension Core also hugely boosts damage, so can make it difficult to not kill outside SL.  On top of this, desired orbless subs compete and are not compatible with tourney subs, so unless you have two viable ancestral DCs, this is not likely a good option
-Harmony Conductor is a neutral stat stick here, as we typically aren’t using PS to a significant extent
-Do not use Om Chip for orbless, as the boss will disrupt the natural sweep of SL and move SL in non-optimal ways
+Multiverse Nexus best module build unless ridiculously upgraded GT BH . make GT/BH permanent less 12k stones . get permanent GT/BH without MVN would cost far double .
+Subs - ’ want DW Cooldown , GT Cooldown , SL Angle minimum . Stretch goals include GT Bonus , DW Qty , SL Bonus
+Dimension Core could theoretically used builds natural permanent GT/BH , also lose significant uptime DW . Dimension Core also hugely boosts damage , make difficult kill outside SL . top , desired orbless subs compete compatible tourney subs , unless two viable ancestral DCs , likely good option
+Harmony Conductor neutral stat stick , typically ’ using PS significant extent
+use Om Chip orbless , boss disrupt natural sweep SL move SL non-optimal ways
 Perks
-Ideally you want all 4 perk options, maxed SPB and ITO, and as many bans as possible
+Ideally want 4 perk options , maxed SPB ITO , many bans possible
 First Perk Choice - Perk Wave Requirement
-Bans - Bans are often a touchy topic, but there are some definite things here to ban
-Free Upgrade - Free Ups are poison to this build, easy ban
+Bans - Bans often touchy topic , definite things ban
+Free Upgrade - Free Ups poison build , easy ban
 Interest - Entirely useless
-Absolute Defense - If you have the ban to spare
-Trade-off perk bans will depend on your survival style.
+Absolute Defense - ban spare
+Trade-off perk bans depend survival style .
 Picking perks
-Take the following perks ASAP
+Take following perks ASAP
 Perk Wave Requirement
-Coin Trade Off
+Coin Trade
 GT Bonus
 BH Bonus
 DW Qty
 Coins
 SL Bonus
 Cash
-Delay Taking these perks until you need them to kill enemies
+Delay Taking perks need kill enemies
 Damage
-Tower Damage/Boss Health Trade Off
+Tower Damage/Boss Health Trade
 CL Damage
-Take these perks if offered and no-econ perks are available
+Take perks offered no-econ perks available
 Defense
 Health
 Health Regen
 Bounce Shot
 LM Damage
-Random UW - turn it off after picking
+Random UW - turn picking
 UW Perks besides CL Damage
 Specific Orbless Strategy Tips
 Bullet Orbless
-Usage of Target Priority 2 is crucial to Bullet Orbless.  Set your priority to “In Spotlight”
-Because of Target Priority, Bullet Orbless will likely need a Wall type survival strategy, as you will not be able to prevent chips from elites and normal enemies during downtime
-With no Multishot, Bullet Orbless will naturally only target inside SL with Target Priority, so it is a good option for early in the run when enemy health is so low that enemies die even outside SL
-When upgrading Bullet Orbless damage, upgrade in this order
-Cards - As you upgrade, you can pull these on and off to balance damage
-Damage and Crit Stats - Do these first if you are doing
-only
-bullet orbless.  Do not do these at all if you will be switching to another orbless strategy
+Usage Target Priority 2 crucial Bullet Orbless . Set priority “ Spotlight ”
+Target Priority , Bullet Orbless likely need Wall type survival strategy , able prevent chips elites normal enemies downtime
+Multishot , Bullet Orbless naturally target inside SL Target Priority , good option early run enemy health low enemies die even outside SL
+upgrading Bullet Orbless damage , upgrade order
+Cards - upgrade , pull balance damage
+Damage Crit Stats - first
+bullet orbless . switching another orbless strategy
 DPM
 Attack Speed
 Multishot Chance
@@ -171,19 +170,19 @@ Bounce Shot Chance
 Rapid Fire Chance
 Landmine Chance
 Landmine Damage
-Damage Perks - Delay these if you are transitioning to a different orbless
+Damage Perks - Delay transitioning different orbless
 CL Orbless
-Do Bullet Orbless before you do CL Orbless
-Since CL procs from bullet hits, you will still need Target Priority 2 to minimize spillage
-Don’t take the CL damage perk until you are not killing efficiently in SL.
-Don’t push CL damage and qty too high, as it can make it difficult to prevent spillage.
+Bullet Orbless CL Orbless
+Since CL procs bullet hits , still need Target Priority 2 minimize spillage
+’ take CL damage perk killing efficiently SL .
+’ push CL damage qty high , make difficult prevent spillage .
 SLM Orbless
-While it is theoretically possible to SLM orbless without SM (as SLM has native explosion radius), you really need SM to do the SM Amp labs and larger radius size.
-You need maxed SLM and SM Amp labs.  The SM radius lab needs to be researched, but does not need to be maxed.  You’ll have to judge if your radius is enough for your needs
-SLM Orbless is the most AFK of all orbless strategies.  SM Amp provides an built in damage upgrade capability, as if the first SLM hit does not kill an enemy, the second one will do 38x damage, and the third will do 2x more than that.  Additionally, SLM only targets enemies inside SL, so spillage is naturally reduced
-SLM orbless and its derivatives like SLIME will likely be the only kind of orbless that can do glass cannon survival.  Bullet and CL orbless can’t easily prevent chip damage from elites, but with SLM, you can drive SM damage to a very high level.  This leaves bullets effectively harmless, allowing them to juggle enemies, but not kill them.
-Upgrades are very easy for SLM orbless:
+theoretically possible SLM orbless without SM ( SLM native explosion radius ) , really need SM SM Amp labs larger radius size .
+need maxed SLM SM Amp labs . SM radius lab needs researched , need maxed . ’ judge radius enough needs
+SLM Orbless AFK orbless strategies . SM Amp provides built damage upgrade capability , first SLM hit kill enemy , second one 38x damage , third 2x . Additionally , SLM targets enemies inside SL , spillage naturally reduced
+SLM orbless derivatives like SLIME likely kind orbless glass cannon survival . Bullet CL orbless ’ easily prevent chip damage elites , SLM , drive SM damage high level . leaves bullets effectively harmless , allowing juggle enemies , kill .
+Upgrades easy SLM orbless :
 Cards
-Damage and crit upgrades
-Landmine Chance and Damage
+Damage crit upgrades
+Landmine Chance Damage
 Damage Perks

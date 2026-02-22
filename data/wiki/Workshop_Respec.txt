@@ -1,20 +1,19 @@
 Description
-Workshop Respec allows players to reset their
+Workshop Respec allows players reset
 workshop
-for the cost of 150 gems. The respec only effects coins and will not respec
+cost 150 gems . respec effects coins respec
 Ultimate Weapons
-. The amount of coins received will be the original amount spent, regardless of any discounts from the lab.
+. amount coins received original amount spent , regardless discounts lab .
 Lab
 Unlock
 lab
-in
 Milestones
-at tier 4 wave 30. Has 1 level.
+tier 4 wave 30 . 1 level .
 Level
 Time
 Cost
 Value
 1
-2d 13h  6m
+2d 13h 6m
 3,000,000
 Unlocked

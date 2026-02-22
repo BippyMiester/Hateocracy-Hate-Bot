@@ -1,8 +1,7 @@
 Unlock
 lab
-in
 Milestones
-at tier 1 wave 250. Has 1 level.
+tier 1 wave 250 . 1 level .
 Level
 Time
 Cost

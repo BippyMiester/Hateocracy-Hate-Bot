@@ -1,4 +1,4 @@
-A coin
+coin
 Contents
 1
 Coins
@@ -12,65 +12,65 @@ Workshop Enhancement
 Coin Bonus
 5
 Coins
-Coins are the backbone of this game. With coins you can buy upgrades to improve your run beforehand in the workshop, or buy upgrades in the lab.
+Coins backbone game . coins buy upgrades improve run beforehand workshop , buy upgrades lab .
 Getting Coins
-There are 4 ways of getting coins:
-Killing Enemies (Besides Basic Enemies)
+4 ways getting coins :
+Killing Enemies ( Besides Basic Enemies )
 Coins / Wave Upgrade
 Completing
 Daily Missions
 Milestones
 Improving Coin Flow
-The amount of coins you can get in your game depends on how far you can get in your run and what upgrades you have. These are known ways to improve your coin flow:
-Playing on a higher Tier
+amount coins get game depends far get run upgrades . known ways improve coin flow :
+Playing higher Tier
 Upgrading
 Coins / Kill
 Workshop
 Lab
 Upgrading
 Coins/Wave
-(Workshop & Lab)
+( Workshop & Lab )
 Using / Upgrading Coins
 Card
-(Cards)
+( Cards )
 Using / Upgrading
 Enemy Balance
-Card (Cards)
+Card ( Cards )
 Using / Upgrading
 Critical Coin
-Card (Cards)
+Card ( Cards )
 Buying / Upgrading
 Golden Tower
 Ultimate Weapon
 Black Hole
-Coin Bonus lab (Ultimate Weapon)
+Coin Bonus lab ( Ultimate Weapon )
 Spotlight
-Coin Bonus lab  (Ultimate Weapon)
+Coin Bonus lab ( Ultimate Weapon )
 Death Wave
-Coin Bonus lab(Ultimate Weapon)
+Coin Bonus lab ( Ultimate Weapon )
 Using / Upgrading Generator
 Modules
 Using
 Sub-Module Effects
-that improve Coins/Kill, Coins/Wave, Golden Tower Bonus, Duration, Cooldown, Black Hole Size, Duration Cooldown, Death Wave Quantity, Cooldown, or SL Angle
+improve Coins/Kill , Coins/Wave , Golden Tower Bonus , Duration , Cooldown , Black Hole Size , Duration Cooldown , Death Wave Quantity , Cooldown , SL Angle
 Earning
 Perks
-that improve Coin Bonus, Death Wave Quantity, Golden Tower Bonus, Black Hole Duration, or provide a Random Ultimate Weapon that provides coins
+improve Coin Bonus , Death Wave Quantity , Golden Tower Bonus , Black Hole Duration , provide Random Ultimate Weapon provides coins
 Upgrading
 Standard Perks Bonus
-(Lab) in conjunction with perks listed above
+( Lab ) conjunction perks listed
 Upgrading
 Improve Trade-Off Perks
-(Lab) in conjunction with Coin Trade-Off Perk (CTO)
-Upgrading the
+( Lab ) conjunction Coin Trade-Off Perk ( CTO )
+Upgrading
 Bounty
-Chip for guardian (Currently a rather small impact)
-Remember that while higher tiers have a higher coin yield, it will be far less efficient if you are not able to get to high enough waves, as the spawn rates and chance for non-basic enemies increase with each wave. Finding a good middle ground between tiers and highest wave is
+Chip guardian ( Currently rather small impact )
+Remember higher tiers higher coin yield , far less efficient able get high enough waves , spawn rates chance non-basic enemies increase wave . Finding good middle ground tiers highest wave
 highly
-recommended.
+recommended .
 Workshop Enhancement
 Coin Bonus
-Requires 50 billion coins to be spent on Utility enhancements to unlock. Increases the Coin Bonus multiplier by x1 when unlocked and increases by 0.01x per level. Has a maximum level of 200 for a 3x bonus. Note: Coin Bonus enhancement affects tier bonus and Coins/kill. This means the overall benefit of Coin Bonus enhancement is squared.
+Requires 50 billion coins spent Utility enhancements unlock . Increases Coin Bonus multiplier x1 unlocked increases 0.01x per level . maximum level 200 3x bonus . Note : Coin Bonus enhancement affects tier bonus Coins/kill . means overall benefit Coin Bonus enhancement squared .
 Level
 Value
 Coins

@@ -1,5 +1,5 @@
 Golden Tower Bonus
-Has 25 levels, with each level increasing the Golden Tower bonus by 0.15, for a total additional bonus of 3.75.
+25 levels , level increasing Golden Tower bonus 0.15 , total additional bonus 3.75 .
 Level
 Time
 Cost

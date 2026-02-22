@@ -1,5 +1,5 @@
 Event Themes
-Themes in the chart include both tower and background themes from each event.
+Themes chart include tower background themes event .
 Theme
 Expand
 Rerun
@@ -54,42 +54,30 @@ Yes
 Sunset River
 Yes
 Hurricane
-No
 Rainfall
-No
 TV wall
 Yes
 Abduction
-No
 Snowstorm
 Yes
-Forest of Cats
-No
+Forest Cats
 Event Horizon
-No
 Clock Tower
-No
 Pi Disk
-No
 Koi Pond
-No
 Camping
-No
 Cthulu
-No
 Cyberpunk
-No
 Crystal Cave
-No
 1
 8
 28:15
 0:06
-2.59%
+2.59 %
 00:06
 28:09
 Pause
 Video Quality
-Auto (360p)
+Auto ( 360p )
 Advertisement
 Skip Ad

@@ -11,16 +11,16 @@ Bugs
 Versions
 v0.9.0
 New Lab Research
-Chain Lightning Shock (Initial unlock)
+Chain Lightning Shock ( Initial unlock )
 Chain Lightning Shock Chance
 Chain Lightning Shock Multiplier
-Death Wave Health Boost (increase max health per DW kill)
-Death Wave Coin Boost (more coins per DW kill)
+Death Wave Health Boost ( increase max health per DW kill )
+Death Wave Coin Boost ( coins per DW kill )
 Balance
-Some lab cost equations slightly altered
+lab cost equations slightly altered
 Bugs
 iOS push notifications fixed
-More attempts to fix crashes
+attempts fix crashes
 Inner orb distance adjuster minimum value corrected
 Versions
 v0.27

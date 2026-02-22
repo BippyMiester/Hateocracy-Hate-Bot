@@ -1,5 +1,5 @@
 Attack Speed
-Requires 500 Trillion coins to be spent on enhancements to unlock. Increases Attack Speed by x1.0 when unlocked and increases by 0.01 per level. Has 75 levels for a max of 1.75x.
+Requires 500 Trillion coins spent enhancements unlock . Increases Attack Speed x1.0 unlocked increases 0.01 per level . 75 levels max 1.75x .
 Level
 Value
 Coins

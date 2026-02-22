@@ -15,18 +15,18 @@ Cost
 3
 Labs
 Description
-Stuns enemies in an area around the bot. Once it ends, enemies will be slowed down by the linger effect. Stun and linger are 50% effective against Bosses and Elites.
+Stuns enemies area around bot . ends , enemies slowed linger effect . Stun linger 50 % effective Bosses Elites .
 Unlocking/Upgrading
-Like all bots, Thunder Bot is unlocked and upgraded in the
+Like bots , Thunder Bot unlocked upgraded
 Event Shop
-menu. The unlock cost will depend on how many other bots have been bought. Each of the 3 Thunder bot upgrades start with a base upgrade cost of 100 medals and increase by 40 medals each level.
-Increase the duration enemies are stunned. Has 20 levels.
+menu . unlock cost depend many bots bought . 3 Thunder bot upgrades start base upgrade cost 100 medals increase 40 medals level .
+Increase duration enemies stunned . 20 levels .
 Cooldown
-The amount of time between initial activations. Cooldown starts at 120 seconds and has 15 levels.
+amount time initial activations . Cooldown starts 120 seconds 15 levels .
 Linger
-Increases the slow percentage of the linger effect. Starts at 20% and has 20 levels.
+Increases slow percentage linger effect . Starts 20 % 20 levels .
 Range
-Increases the range the bot covers when active. Range is amplified by tower range. Has 15 levels.
+Increases range bot covers active . Range amplified tower range . 15 levels .
 Cost
 Level
 Cost
@@ -38,112 +38,112 @@ Range
 100
 5.5
 117
-23%
+23 %
 28
 2
 140
 6.0
 114
-26%
+26 %
 31
 3
 180
 6.5
 111
-29%
+29 %
 34
 4
 220
 7.0
 108
-32%
+32 %
 37
 5
 260
 7.5
 105
-35%
+35 %
 40
 6
 300
 8.0
 102
-38%
+38 %
 43
 7
 340
 8.5
 99
-41%
+41 %
 46
 8
 380
 9.0
 96
-44%
+44 %
 49
 9
 420
 9.5
 93
-47%
+47 %
 52
 10
 460
 10.0
 90
-50%
+50 %
 55
 11
 500
 10.5
 87
-53%
+53 %
 58
 12
 540
 11.0
 84
-56%
+56 %
 61
 13
 580
 11.5
 81
-59%
+59 %
 64
 14
 620
 12.0
 78
-62%
+62 %
 67
 15
 660
 12.5
 75
-65%
+65 %
 70
 16
 700
 13.0
-68%
+68 %
 17
 740
 13.5
-71%
+71 %
 18
 780
 14.0
-74%
+74 %
 19
 820
 14.5
-77%
+77 %
 20
 860
 15.0
-80%
+80 %
 9600
 5700
 9600
@@ -154,19 +154,18 @@ Thunder Bot Linger Time
 Thunder Bot Cooldown
 Unlock
 lab
-in
 Milestones
-at tier 5 wave 70. Unlocks Thunder Bot Cooldown which reduces the bot cooldown by 1 second for each level. Has 25 levels for a total 25-second reduction to cooldown.
-This lab has mention in the
+tier 5 wave 70 . Unlocks Thunder Bot Cooldown reduces bot cooldown 1 second level . 25 levels total 25-second reduction cooldown .
+lab mention
 Footguns
-section. Please consider.
+section . Please consider .
 Level
 Time
 Cost
 Expand
 Value
 1
-1d  14h 53m
+1d 14h 53m
 30.00M
 -1
 2
@@ -266,7 +265,7 @@ Value
 398.88B
 -25
 Thunder Bot Linger Time
-Unlock Lab In Milestones at tier 10 wave 60. Increase the duration of the linger effect by 0.5s per level. Has 20 levels for a total of 13 seconds.
+Unlock Lab Milestones tier 10 wave 60 . Increase duration linger effect 0.5s per level . 20 levels total 13 seconds .
 Level
 Time
 Cost

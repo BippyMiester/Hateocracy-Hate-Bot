@@ -1,20 +1,20 @@
 Basic Upgrades
-Located in the
+Located
 Ultimate Weapon
-menu. Unlocking Black Hole allows the player to upgrade Size, Duration and Cooldown using stones.
+menu . Unlocking Black Hole allows player upgrade Size , Duration Cooldown using stones .
 Black Hole Distance
-Black hole distance from the tower is determined by tower range. Larger tower ranges will move the black hole further away from the tower. Black hole distance increases faster than tower range meaning the center of black hole will move further away from the tower range line as range increases.
+Black hole distance tower determined tower range . Larger tower ranges move black hole away tower . Black hole distance increases faster tower range meaning center black hole move away tower range line range increases .
 Costs
-Size has 20 levels, Duration has 23 levels, and Cooldown has 15 levels. The total stone cost is 9,723.
+Size 20 levels , Duration 23 levels , Cooldown 15 levels . total stone cost 9,723 .
 Size
 Stones
-(Size)
+( Size )
 Stones
-(Duration)
+( Duration )
 Cooldown
 Expand
 Stones
-(Cooldown)
+( Cooldown )
 30m
 0
 15s

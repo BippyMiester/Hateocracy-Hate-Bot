@@ -1,5 +1,5 @@
 Spotlight Coin Bonus
-Provides a coin multiplier to enemies killed in spotlight. Does not need to be killed by spotlight.
+Provides coin multiplier enemies killed spotlight . need killed spotlight .
 Level
 Time
 Cost
@@ -10,11 +10,11 @@ Value
 20,000,000
 1.10
 2
-2d  0h 21m
+2d 0h 21m
 21,405,405
 1.20
 3
-2d  8h 53m
+2d 8h 53m
 23,124,324
 1.30
 4
@@ -22,15 +22,15 @@ Value
 26,627,027
 1.40
 5
-3d  3h 49m
+3d 3h 49m
 35,837,838
 1.50
 6
-3d 15h  6m
+3d 15h 6m
 58,248,649
 1.60
 7
-4d  4h 17m
+4d 4h 17m
 106,162,162
 1.70
 8
@@ -50,7 +50,7 @@ Value
 1,030,000,000
 2.10
 12
-9d  1h 30m
+9d 1h 30m
 1,640,000,000
 2.20
 13
@@ -66,7 +66,7 @@ Value
 5,410,000,000
 2.50
 16
-17d 11h  9m
+17d 11h 9m
 7,630,000,000
 2.60
 17
@@ -78,7 +78,7 @@ Value
 14,230,000,000
 2.80
 19
-27d 23h  5m
+27d 23h 5m
 18,930,000,000
 2.90
 20

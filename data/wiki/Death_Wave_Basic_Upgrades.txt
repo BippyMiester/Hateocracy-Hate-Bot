@@ -1,44 +1,44 @@
 Basic Upgrades
-Basic upgrades for all Ultimate Weapons are located in the Ultimate Weapon menu after unlocking the Ultimate Weapon. Unlocking Death Wave allows the player to upgrade Damage, Effect Wave Quantity and Cooldown using stones.
+Basic upgrades Ultimate Weapons located Ultimate Weapon menu unlocking Ultimate Weapon . Unlocking Death Wave allows player upgrade Damage , Effect Wave Quantity Cooldown using stones .
 Costs
-Damage has 30 levels, Effect Wave Quantity has 4 levels and Cooldown has 25 levels. The total stone cost is 29,391.
+Damage 30 levels , Effect Wave Quantity 4 levels Cooldown 25 levels . total stone cost 29,391 .
 Damage
 Stones
-(Damage)
+( Damage )
 Effect Wave Quantity
 Stones
-(Effect Wave Quantity)
+( Effect Wave Quantity )
 Cooldown
 Expand
 Stones
-(Cooldown)
+( Cooldown )
 2x
 0
-1#
+1 #
 0
 300s
 0
 3x
 5
-2#
+2 #
 200
 290s
 8
 5x
 11
-3#
+3 #
 500
 280s
 24
 9x
 17
-4#
+4 #
 850
 270s
 40
 14x
 23
-5#
+5 #
 1400
 260s
 56

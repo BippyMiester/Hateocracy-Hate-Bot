@@ -1,15 +1,14 @@
 Description
-Milestones are progress based rewards including
+Milestones progress based rewards including
 currencies
 labs
 cards
 themes
-and
 relics
 Rewards
-The rewards are unlocked when the proper tier and wave have been reached.
+rewards unlocked proper tier wave reached .
 Expand
-Tiers 1, 2 & 3
+Tiers 1 , 2 & 3
 Tier
 Tier 1
 Tier 2
@@ -73,7 +72,7 @@ Events
 80
 1.5k Coins
 8k Coins
-Interest %
+Interest %
 5k Coins
 Orb Speed
 50k Coins
@@ -104,10 +103,10 @@ Second Wind Blast
 25 Gems
 25 Gems
 30 Gems
-Package After Boss
+Package Boss
 1m Coins
 250
-More Round Stats
+Round Stats
 30k
 First Perk Choice
 200k Coins
@@ -177,11 +176,11 @@ Donut Skin
 Yin-Yang Skin
 15 Stones
 4,500
-Relic: Coins +2%
+Relic : Coins +2 %
 15 Stones
-Relic: Lab Speed +1.5%
+Relic : Lab Speed +1.5 %
 20 Stones
-Relic: Critical Factor +2%
+Relic : Critical Factor +2 %
 20 Stones
 Totals
 1,660 Coins
@@ -203,7 +202,7 @@ Totals
 10 Stones
 60 Stones
 Expand
-Tiers 4, 5 & 6
+Tiers 4 , 5 & 6
 Tier
 Tier 4
 Tier 5
@@ -232,7 +231,7 @@ Auto Pick Ranking
 30
 Workshop Respec
 150k Coins
-Defense %
+Defense %
 500k Coins
 Land Mine Damage
 900k Coins
@@ -379,11 +378,11 @@ Butterfly Skin
 Sheep Skin
 20 Stones
 4,500
-Relic: Damage +2%
+Relic : Damage +2 %
 25 Stones
-Relic: Health +1.5%
+Relic : Health +1.5 %
 25 Stones
-Relic: Defense Absolute +2%
+Relic : Defense Absolute +2 %
 25 Stones
 Totals
 50k Coins
@@ -405,7 +404,7 @@ Totals
 30 Stones
 105 Stones
 Expand
-Tiers 7, 8 & 9
+Tiers 7 , 8 & 9
 Tier
 Tier 7
 Tier 8
@@ -523,7 +522,7 @@ Tier 10
 5 Stones
 10 Stones
 250
-Card:
+Card :
 Land Mine Stun
 10 Stones
 50 Gems
@@ -594,11 +593,11 @@ Mush-mush Skin
 Turtle Skin
 25 Stones
 4,500
-Relic: Coins +5%
+Relic : Coins +5 %
 25 Stones
-Relic: Damage / Meter +5%
+Relic : Damage / Meter +5 %
 30 Stones
-Relic: Health +5%
+Relic : Health +5 %
 30 Stones
 Totals
 5m Coins
@@ -620,7 +619,7 @@ Totals
 40 Stones
 155 Stones
 Expand
-Tiers 10, 11 & 12
+Tiers 10 , 11 & 12
 Tier
 Tier 10
 Tier 11
@@ -635,7 +634,7 @@ Premium
 10
 20m Coins
 40m Coins
-Card:
+Card :
 Nuke
 100m COins
 Wall Invincibility
@@ -796,15 +795,15 @@ Cat Skin
 Skull Skin
 30 Stones
 4,500
-Relic: Damage / Meter +5%
+Relic : Damage / Meter +5 %
 30 Stones
-Relic: Defense Absolute  +10%
+Relic : Defense Absolute +10 %
 35 Stones
-Relic: Lab Speed +10%
+Relic : Lab Speed +10 %
 40 Stones
 Totals
 20m Coins
-105m  Coins
+105m Coins
 50m Coins
 250m Coins
 0 Coins
@@ -822,7 +821,7 @@ Totals
 135 Stones
 255 Stones
 Expand
-Tiers 13, 14 & 15
+Tiers 13 , 14 & 15
 Tier
 Tier 13
 Tier 14
@@ -865,7 +864,7 @@ Wall Fortification
 50
 15 Stones
 20 Stones
-Card:
+Card :
 UW Crit
 30 Stones
 30 Stones
@@ -993,11 +992,11 @@ Panda Skin
 Tech Tree Skin
 75 Stones
 4,500
-Coins +10%
+Coins +10 %
 45 Stones
-Tower Damage +10%
+Tower Damage +10 %
 60 Stones
-Critical Factor +10%
+Critical Factor +10 %
 100 Stones
 Totals
 300m Coins
@@ -1019,7 +1018,7 @@ Totals
 370 Stones
 655 Stones
 Expand
-Tiers 16, 17 & 18
+Tiers 16 , 17 & 18
 Tier
 Tier 16
 Tier 17
@@ -1188,11 +1187,11 @@ Dragon Skin
 Rhino Skin
 110 Stones
 4,500
-Tower Health +10%
+Tower Health +10 %
 60 Stones
-Damage / Meter +10%
+Damage / Meter +10 %
 100 Stones
-Lab Speed +10%
+Lab Speed +10 %
 130 Stones
 Totals
 30b Coins
@@ -1214,7 +1213,7 @@ Totals
 385 Stones
 740 Stones
 Expand
-Tiers 19, 20, & 21
+Tiers 19 , 20 , & 21
 Tier
 Tier 19
 Tier 20
@@ -1278,7 +1277,7 @@ Enhancement Coin Discount Lab
 80
 150 Gems
 120 Gems
-Area of Effect Card
+Area Effect Card
 140 Gems
 120 Gems
 120 Gems
@@ -1381,11 +1380,11 @@ Cyber Skin
 Eclipse
 110 Stones
 4,500
-Tower Damage +10%
+Tower Damage +10 %
 60 Stones
-Ultimate damage +8%
+Ultimate damage +8 %
 100 Stones
-Lab Speed +10%
+Lab Speed +10 %
 130 Stones
 Totals
 300b Coins
@@ -1406,7 +1405,7 @@ Totals
 505 Stones
 385 Stones
 740 Stones
-Group 1 BCs: Resistances
-Group 2 BCs: Enemy/spawn Buffs
-Group 3 BCs: Enemy Ultimates
-Group 4 BCs: Player Durations/Reductions
+Group 1 BCs : Resistances
+Group 2 BCs : Enemy/spawn Buffs
+Group 3 BCs : Enemy Ultimates
+Group 4 BCs : Player Durations/Reductions

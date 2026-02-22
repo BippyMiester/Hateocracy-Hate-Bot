@@ -1,10 +1,10 @@
-The Vault
-The Vault contains upgrade tech trees are a unique upgrade that require Keys to purchase upgrades in the Power (Tower-related Buffs) or Harmony (Non-Tower related buffs and QoL) Tech Tree. Keys can only be acquired through placements in the
+Vault
+Vault contains upgrade tech trees unique upgrade require Keys purchase upgrades Power ( Tower-related Buffs ) Harmony ( Non-Tower related buffs QoL ) Tech Tree . Keys acquired placements
 Legends League
-. Upgrades start at the bottom of each tree and grow and branch out to unlock additional upgrades.
-The Vault becomes visible on the home screen once a player is promoted into the Legends League.
-The images below show the available upgrades starting from the Top as the first unlock. the small white arrows show the direction of unlocks. The Power Tree has tier unlocks that unlock an additional level of upgrade on most nodes. Tier 2 of an upgrade costs double the keys and Tier 3 costs quadruple the keys of the Tier 1 cost. Tier 2 unlock becomes available when the player has 15 T1 unlocks. Tier 3 unlock becomes available when the player has 30 T1 unlocks and 15 T2 unlocks.
-The following upgrades in the Power tree only have 1 level of upgrade: Ultimate Weapon Damage(All), Bot Range(All), Wall Rebuild, Shockwave Frequency, and Orbs.
+. Upgrades start bottom tree grow branch unlock additional upgrades .
+Vault becomes visible home screen player promoted Legends League .
+images show available upgrades starting Top first unlock . small white arrows show direction unlocks . Power Tree tier unlocks unlock additional level upgrade nodes . Tier 2 upgrade costs double keys Tier 3 costs quadruple keys Tier 1 cost . Tier 2 unlock becomes available player 15 T1 unlocks . Tier 3 unlock becomes available player 30 T1 unlocks 15 T2 unlocks .
+following upgrades Power tree 1 level upgrade : Ultimate Weapon Damage ( ) , Bot Range ( ) , Wall Rebuild , Shockwave Frequency , Orbs .
 Harmony Tree
 Harmony Tech Descriptions
 Expand
@@ -12,59 +12,59 @@ Upgrade
 Description
 Extra notes
 Demon Mode Automation
-Demon mode will activate when it's cooldown is complete.
-Can be disabled by clicking the Demon Mod card
+Demon mode activate 's cooldown complete .
+disabled clicking Demon Mod card
 Smart Demon Mode Automation
-Demon mode will activate to save the tower from a killing blow.
-This only works if Demon Mode is available when the Killing blow is encountered. The order of priority for killing blows is Death Defy > Energy Shield > Second Wind > Smart Demon Mode > Smart Nuke.
+Demon mode activate save tower killing blow .
+works Demon Mode available Killing blow encountered . order priority killing blows Death Defy > Energy Shield > Second Wind > Smart Demon Mode > Smart Nuke .
 Free Mission Reroll
 Unlimited free mission rerolls
 Nuke Automation
-Nuke will activate when it's cooled down is complete.
-Can be disabled by clicking the Nuke card
+Nuke activate 's cooled complete .
+disabled clicking Nuke card
 Smart Nuke Automation
-Nuke will activate to save the tower from a killing blow.
-Nuke does not destroy projectiles already in transit, so this may not prolong a death if a killing projectile is already traveling to the tower but as of
-v27.3 (18 Dec, 2025)
-Smart Nuke provides 15 seconds of invulnerability. The order of priority for killing blows is Death Defy > Energy Shield > Second Wind > Smart Demon Mode > Smart Nuke.
+Nuke activate save tower killing blow .
+Nuke destroy projectiles already transit , may prolong death killing projectile already traveling tower
+v27.3 ( 18 Dec , 2025 )
+Smart Nuke provides 15 seconds invulnerability . order priority killing blows Death Defy > Energy Shield > Second Wind > Smart Demon Mode > Smart Nuke .
 Workshop Presets
 +5 workshop presets
-The Presets retain how much coin is invested in Workshop and workshop enhancements and allows to you swap to a different distribution that you invest in.
+Presets retain much coin invested Workshop workshop enhancements allows swap different distribution invest .
 Ad Gem Stack
-Ad gems can stack up [2,3,5]x
-It is worth noting that normally when a ad gem appears, the timer for the next ad gem does not start until the ad gem is claimed. Unlocking Ad Gem stack allows the timer to continue up to the new stack introducing more efficient gems/hour by reducing "stopped timers".
+Ad gems stack [ 2,3,5 ] x
+worth noting normally ad gem appears , timer next ad gem start ad gem claimed . Unlocking Ad Gem stack allows timer continue new stack introducing efficient gems/hour reducing `` stopped timers `` .
 Missile Barrage Automation
-Missile Barrage will activate when its cooldown is complete.
+Missile Barrage activate cooldown complete .
 Smart Missile Barrage Automation
-Missile Barrage will activate when the tower is hit.
+Missile Barrage activate tower hit .
 Daily Mission - Set Shard Type
-Set the shard type reward for daily missions.
-Free Mission Reroll must be unlocked before you can unlock this.
+Set shard type reward daily missions .
+Free Mission Reroll must unlocked unlock .
 Auto Shatter Rare Modules
-Unlock a toggle to automatically shatter rare modules
-Toggle may be found in the shatter section of the modules page.
+Unlock toggle automatically shatter rare modules
+Toggle may found shatter section modules page .
 Auto Restart Run
-Automatically restart battles after being defeated.
-This may be toggled on/off on the end run Game Stats screen. This takes a little longer than 5 minutes to restart from time of death. Due to this, some IOS users may need to adjust screen time-out settings to use this upgrade.
+Automatically restart battles defeated .
+may toggled on/off end run Game Stats screen . takes little longer 5 minutes restart time death . Due , IOS users may need adjust screen time-out settings use upgrade .
 Auto Charge Berzerker
-0.1% of enemy damage is added to berserker when you kill them.
+0.1 % enemy damage added berserker kill .
 Damage Cap Slier
-Open the Tower damage stat in battle to adjust damage based on enemy health.
-This causes your Tower damage to always be X% of enemy health and scales your damager to match enemy HP scaling as long as you have enough damage to be X% of enemy HP. Values can go low such as 1E-28%(Scientific Notation)
+Open Tower damage stat battle adjust damage based enemy health .
+causes Tower damage always X % enemy health scales damager match enemy HP scaling long enough damage X % enemy HP . Values go low 1E-28 % ( Scientific Notation )
 Bot Respec Discount
-Gem discount on bot respecs.
-Even with this upgrade, users are limited to the once per event Bot respec.(See Bot Presets)
+Gem discount bot respecs .
+Even upgrade , users limited per event Bot respec . ( See Bot Presets )
 Bot Presets
-+3 bot presets and removes bot respec limits
-The player now can respec an unlimited amount of times and use presets to save desired medal allocations.
++3 bot presets removes bot respec limits
+player respec unlimited amount times use presets save desired medal allocations .
 Workshop Orb Adjuster
-Adjust the range where workshop orbs orbit the tower
-The adjuster appears when the Extra Orbs card is equipped. WS orbs now can be adjusted to the same choice of locations hat the orb adjuster adjusted Extra Orbs card orbs.
+Adjust range workshop orbs orbit tower
+adjuster appears Extra Orbs card equipped . WS orbs adjusted choice locations hat orb adjuster adjusted Extra Orbs card orbs .
 Bot Cooldown Sliders
-Add a slider to adjust each bots cooldown.
-Both lab and medal cooldown upgrades can be adjusted.
+Add slider adjust bots cooldown .
+lab medal cooldown upgrades adjusted .
 Power Tree
 1
 8
-Ad: 1 of 1 (24)
+Ad : 1 1 ( 24 )
 Skip Ad

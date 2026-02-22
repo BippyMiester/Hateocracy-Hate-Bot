@@ -1,5 +1,5 @@
 Packages
-Requires 50 trillion coins to be spent on Utility enhancements to unlock. Increases Max Recovery Package and Recovery Amount by x1 when unlocked and increases by 0.01x per level. Has a maximum level of 300 for a 4x bonus.
+Requires 50 trillion coins spent Utility enhancements unlock . Increases Max Recovery Package Recovery Amount x1 unlocked increases 0.01x per level . maximum level 300 4x bonus .
 Level
 Value
 Coins

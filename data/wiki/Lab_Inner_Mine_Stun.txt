@@ -1,5 +1,5 @@
 Inner Mine Stun
-When inner mines explode they will stun nearby enemies for 2.5 seconds. Has 1 level.
+inner mines explode stun nearby enemies 2.5 seconds . 1 level .
 Level
 Time
 Cost

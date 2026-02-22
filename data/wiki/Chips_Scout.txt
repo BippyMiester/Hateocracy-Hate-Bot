@@ -1,5 +1,5 @@
 Scout Chip
-Scouts enemies on screen. While active, all enemies are treated as being farther from the Tower for damage calculations.
+Scouts enemies screen . active , enemies treated farther Tower damage calculations .
 Upgrades
 Cooldown
 Bits

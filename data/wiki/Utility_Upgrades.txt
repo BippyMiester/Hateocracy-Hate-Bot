@@ -1,5 +1,5 @@
 Description
-Utility upgrades help provide support to the tower in and out of the round. This upgrades include increase cash and coin production as well as free upgrades to the tower and skipping enemy level increases.
+Utility upgrades help provide support tower round . upgrades include increase cash coin production well free upgrades tower skipping enemy level increases .
 Workshop Upgrades
 Utility Upgrades
 Cash Bonus

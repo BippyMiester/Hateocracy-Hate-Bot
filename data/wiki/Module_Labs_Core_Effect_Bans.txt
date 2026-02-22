@@ -1,5 +1,5 @@
 Core Effect Bans
-Unlocked Tier 10 wave 40.  Enables the banning of specific core effects when rerolling core modules. Has 7 levels 7 for total bans.
+Unlocked Tier 10 wave 40 . Enables banning specific core effects rerolling core modules . 7 levels 7 total bans .
 Level
 Time
 Cost
@@ -29,6 +29,6 @@ Value
 50.00q
 6
 7
-250d 0h m 0s
+250d 0h 0s
 500.00q
 7

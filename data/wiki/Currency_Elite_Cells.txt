@@ -11,75 +11,75 @@ Workshop Enhancements
 Cells/Kill Bonus
 1.4
 Elite Cell
-Elite Cells are currency dropped by
+Elite Cells currency dropped
 Elite Enemies
-used to buy
+used buy
 lab boosts
 Acquiring Elite Cells
-Elite Cells can only be obtained by defeating Elite enemies: Vampire, Ray and Scatter.
-For Tiers 1 through 13, each Elite drops between 1 and X cells, where X is the current Tier. Average drop rate is (1+X)/2 cells per elite.
-For Tiers 14 and up, the base cells per Elite are as follows:
+Elite Cells obtained defeating Elite enemies : Vampire , Ray Scatter .
+Tiers 1 13 , Elite drops 1 X cells , X current Tier . Average drop rate ( 1+X ) /2 cells per elite .
+Tiers 14 , base cells per Elite follows :
 Base Cells Per Elite Per Tier
 Collapse
 Tier
 Minimum Cells
 Maximum Cells
 Average
-% Increase of Average from Prior
+% Increase Average Prior
 14
 7
 14
 10.5
-50%
-(= 10.5 / 7)
+50 %
+( = 10.5 / 7 )
 15
 11
 15
 13
-23.8%
-(=13 / 10.5)
+23.8 %
+( =13 / 10.5 )
 16
 12
 16
 14
-7.69%
+7.69 %
 17
 12
 17
 14.5
-3.57%
+3.57 %
 18
 12
 18
 15
-3.45%
+3.45 %
 19
 15
 19
 17
-13.3%
+13.3 %
 20
 15
 20
 17.5
-2.94%
+2.94 %
 21
 15
 21
 18
-2.86%
+2.86 %
 Improving Elite Cell Flow
-These are known ways to improve your elite cells:
-1. Upgrading
+known ways improve elite cells :
+1 . Upgrading
 Death Wave Cell Bonus
-(Lab)
-2. Farm at higher tiers.
-3. Farm at higher waves.
-4. Cells Bonus in Workshop Enhancements
-5. Enemy Balance, Wave Skip, and Intro Sprint masteries help by increasing Cells earned per run or Increasing Cells earned per hour.
+( Lab )
+2 . Farm higher tiers .
+3 . Farm higher waves .
+4 . Cells Bonus Workshop Enhancements
+5 . Enemy Balance , Wave Skip , Intro Sprint masteries help increasing Cells earned per run Increasing Cells earned per hour .
 Workshop Enhancements
 Cells/Kill Bonus
-Requires 500 billion coins to be spent on Utility enhancements to unlock. Increases Cells/Kill by x1 when unlocked and increases by 0.01x per level. Has a maximum level of 200 for a 3x bonus.
+Requires 500 billion coins spent Utility enhancements unlock . Increases Cells/Kill x1 unlocked increases 0.01x per level . maximum level 200 3x bonus .
 Level
 Value
 Coins

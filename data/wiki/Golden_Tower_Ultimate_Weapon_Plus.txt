@@ -6,11 +6,11 @@ Cost
 1.1.1
 Final bonus
 1.1.1.1
-100% GT uptime
+100 % GT uptime
 Ultimate Weapon Plus - Golden Combo
-Ultimate Weapon Plus abilities can only be unlocked when all 9 Ultimate Weapons are unlocked. Golden Combo increases cash and coins earned after Golden Tower finishes by x% for each kill. The equation to determine the bonus is shown below:
-Bonus multiplier = ((1 + 0.0003 x (Level + 1))^Kill) - 1
-Golden Combo will only count killed enemies that spawned during the activation. Enemies that were alive before the current Golden tower activation will not be included in the kill count.
+Ultimate Weapon Plus abilities unlocked 9 Ultimate Weapons unlocked . Golden Combo increases cash coins earned Golden Tower finishes x % kill . equation determine bonus shown :
+Bonus multiplier = ( ( 1 + 0.0003 x ( Level + 1 ) ) ^Kill ) - 1
+Golden Combo count killed enemies spawned activation . Enemies alive current Golden tower activation included kill count .
 Cost
 Expand
 UW+ Cost Table
@@ -47,40 +47,39 @@ Unlocked
 3300
 4150
 Value
-0.03%
-0.06%
-0.09%
-0.12%
-0.15%
-0.18%
-0.21%
-0.24%
-0.27%
-0.30%
-0.33%
-0.36%
-0.39%
-0.42%
-0.45%
+0.03 %
+0.06 %
+0.09 %
+0.12 %
+0.15 %
+0.18 %
+0.21 %
+0.24 %
+0.27 %
+0.30 %
+0.33 %
+0.36 %
+0.39 %
+0.42 %
+0.45 %
 Final bonus
-The final bonus received very much depends on the duration of the GT.
-K = Kills during GT = Kills per second * duration = Kps * d
-B = Bonus multiplier = ((1 + 0.0003 x (Level + 1))^K) - 1
-I = Income during GT = K * income per mob
-T = Number of GT activations = Total duration / GT CD
-FI = Final income = T * (I + I * B) => T * I * (1 + B) => T * Kps * d * income per mob * ((1 + 0.0003 x (Level + 1))^(Kps * d))
-We can solve for FI(d+1) vs FI(d) as
-T * Kps * (d + 1) * income per mob * ((1 + 0.0003 x (Level + 1))^(Kps * (d+1)))
----------------------------------------------------------------------------
-T * Kps * d * income per mob * ((1 + 0.0003 x (Level + 1))^(Kps * d))
-Which reduces to
-(d + 1)
-------- * ((1 + 0.0003 x (Level + 1))^Kps)
-   d
-And thus we can make a table of the expected relative income when comparing both GT+ levels and duration:
-Relative income when comparing both GT+ levels and duration.
-Assumes 5s of mobs at the start of the GT+ that is not included the GT+ bonus and Kps=8.
-Numbers are relative to GT+10 at 60s.
+final bonus received much depends duration GT .
+K = Kills GT = Kills per second * duration = Kps *
+B = Bonus multiplier = ( ( 1 + 0.0003 x ( Level + 1 ) ) ^K ) - 1
+= Income GT = K * income per mob
+= Number GT activations = Total duration / GT CD
+FI = Final income = * ( + * B ) = > * * ( 1 + B ) = > * Kps * * income per mob * ( ( 1 + 0.0003 x ( Level + 1 ) ) ^ ( Kps * ) )
+solve FI ( d+1 ) vs FI ( )
+* Kps * ( + 1 ) * income per mob * ( ( 1 + 0.0003 x ( Level + 1 ) ) ^ ( Kps * ( d+1 ) ) )
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -
+* Kps * * income per mob * ( ( 1 + 0.0003 x ( Level + 1 ) ) ^ ( Kps * ) )
+reduces
+( + 1 )
+-- -- -- - * ( ( 1 + 0.0003 x ( Level + 1 ) ) ^Kps )
+thus make table expected relative income comparing GT+ levels duration :
+Relative income comparing GT+ levels duration .
+Assumes 5s mobs start GT+ included GT+ bonus Kps=8 .
+Numbers relative GT+10 60s .
 Expand
 Level/Duration
 1
@@ -544,16 +543,16 @@ Level/Duration
 1,613
 1,931
 2,310
-IE, at 40s duration a GT+10 is 213% better than a GT+1. At 80s duration it is 504% better income.
-Similarly, a GT+10 at 80s duration is 231% better than the one at 60s.
-100% GT uptime
-If GT is already at 100% uptime (such as when using MVN or GC), the calculation changes a bit.
-T = Number of GT activations = Total duration / d
-FI = Final income =T * (I + I * B) => T * I * (1 + B) => Total duration * Kps * income per mob * ((1 + 0.0003 x (Level + 1))^(Kps * d)
-Relative income when comparing both GT+ levels and duration for GT duration >= 100%.
-Assumes 5s of mobs at the start of the GT+ that is not included the GT+ bonus and Kps=8.
-Numbers are relative to GT+10 at 60s.
-You CANNOT compare the numbers in the above table with numbers in this table. That's like comparing apples to oranges. The calculations are based on difference premises.
+IE , 40s duration GT+10 213 % better GT+1 . 80s duration 504 % better income .
+Similarly , GT+10 80s duration 231 % better one 60s .
+100 % GT uptime
+GT already 100 % uptime ( using MVN GC ) , calculation changes bit .
+= Number GT activations = Total duration /
+FI = Final income =T * ( + * B ) = > * * ( 1 + B ) = > Total duration * Kps * income per mob * ( ( 1 + 0.0003 x ( Level + 1 ) ) ^ ( Kps * )
+Relative income comparing GT+ levels duration GT duration > = 100 % .
+Assumes 5s mobs start GT+ included GT+ bonus Kps=8 .
+Numbers relative GT+10 60s .
+compare numbers table numbers table . 's like comparing apples oranges . calculations based difference premises .
 Collapse
 Level/Duration
 1
@@ -797,4 +796,4 @@ Level/Duration
 1,183
 1,416
 1,694
-As can be seen, the GT+ level scales the same, but the duration loses some efficacy.
+seen , GT+ level scales , duration loses efficacy .

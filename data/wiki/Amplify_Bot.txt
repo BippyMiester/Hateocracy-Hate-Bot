@@ -15,18 +15,18 @@ Cost
 3
 Labs
 Description
-Amplify damage against enemies inside range.
+Amplify damage enemies inside range .
 Unlocking/Upgrading
-Like all bots, Amplify Bot is unlocked and upgraded in the
+Like bots , Amplify Bot unlocked upgraded
 Event Shop
-menu. The unlock cost will depend on how many other bots have been bought. Each of the four amplify bot upgrades start with a base upgrade cost of 100 medals and increase by 40 medals each level.
-Increases the amount of time Amplify Bot is active. Duration starts at 20 seconds and has 30 levels.  Each level increases duration by 0.5 seconds.
+menu . unlock cost depend many bots bought . four amplify bot upgrades start base upgrade cost 100 medals increase 40 medals level .
+Increases amount time Amplify Bot active . Duration starts 20 seconds 30 levels . level increases duration 0.5 seconds .
 Cooldown
-The amount of time between initial activations. Cooldown starts at 120 seconds and has 15 levels.  Each level decreases cooldown by 3 seconds.
+amount time initial activations . Cooldown starts 120 seconds 15 levels . level decreases cooldown 3 seconds .
 Bonus
-Increases the damage bonus against enemies. Bonus starts at x3.50 and has 30 levels.  Each level increases bonus by 0.4.
+Increases damage bonus enemies . Bonus starts x3.50 30 levels . level increases bonus 0.4 .
 Range
-Increases the range the bot covers when active. Range is amplified by tower range. Range starts at 25m and has 15 levels.  Each level increases range by 2m.
+Increases range bot covers active . Range amplified tower range . Range starts 25m 15 levels . level increases range 2m .
 Cost
 Level
 Cost
@@ -195,19 +195,18 @@ Amplify Bot Duration
 Amplify Bot Cooldown
 Unlock
 lab
-in
 Milestones
-at tier 5 wave 90. Unlocks Amplify Bot Cooldown which reduces the bot Cooldown by 1 second for each level. Has 25 levels for a 25 second reduction to cooldown.
-This lab has mention in the
+tier 5 wave 90 . Unlocks Amplify Bot Cooldown reduces bot Cooldown 1 second level . 25 levels 25 second reduction cooldown .
+lab mention
 Footguns
-section. Please consider.
+section . Please consider .
 Level
 Time
 Cost
 Expand
 Value
 1
-1d  14h 53m
+1d 14h 53m
 30.00M
 -1
 2
@@ -307,7 +306,7 @@ Value
 398.88B
 -25
 Amplify Bot Duration
-Unlock Lab in Milestones at tier 10 wave 50. Amplify Bot Duration increase the length of the bot activation. Has 20 levels increasing duration by 0.5s for a max increase of 10s.
+Unlock Lab Milestones tier 10 wave 50 . Amplify Bot Duration increase length bot activation . 20 levels increasing duration 0.5s max increase 10s .
 Level
 Time
 Cost

@@ -1,5 +1,5 @@
 Expand
-Tiers 10, 11 & 12
+Tiers 10 , 11 & 12
 Tier
 Tier 10
 Tier 11
@@ -14,7 +14,7 @@ Premium
 10
 20m Coins
 40m Coins
-Card:
+Card :
 Nuke
 100m COins
 Wall Invincibility
@@ -175,15 +175,15 @@ Cat Skin
 Skull Skin
 30 Stones
 4,500
-Relic: Damage / Meter +5%
+Relic : Damage / Meter +5 %
 30 Stones
-Relic: Defense Absolute  +10%
+Relic : Defense Absolute +10 %
 35 Stones
-Relic: Lab Speed +10%
+Relic : Lab Speed +10 %
 40 Stones
 Totals
 20m Coins
-105m  Coins
+105m Coins
 50m Coins
 250m Coins
 0 Coins

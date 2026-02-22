@@ -6,33 +6,33 @@ Labs
 1.2
 Ultimate Weapons
 1.3
-Events (most available once next event starts)
+Events ( available next event starts )
 1.4
-Other Gamemplay
+Gamemplay
 1.5
 Bugs Squashed
 2
 Versions
 v0.17
 Labs
-• Cost for rushing labs overhauled - longer lab research times begin discounting the amount of gems it costs by a lot
-• New research - Advanced target priority (Allows sorting priority instead of just picking one)
-• New research - Spotlight coin bonus (tier 7)
-• New research - spotlight missiles (tier 9)
+• Cost rushing labs overhauled - longer lab research times begin discounting amount gems costs lot
+• New research - Advanced target priority ( Allows sorting priority instead picking one )
+• New research - Spotlight coin bonus ( tier 7 )
+• New research - spotlight missiles ( tier 9 )
 Ultimate Weapons
-• New ultimate weapons now provide 3 choices instead of 2
-• New ultimate weapon: Spotlight
-Events (most available once next event starts)
-• New event bot: Amplify • Bot upgrades for frequency • New themes added for the next few events
-Other Gamemplay
-• Tappable gem box now can show up multiple times in a single round
-• Target priority now includes "in spotlight" if spotlight ultimate weapon is unlocked
+• New ultimate weapons provide 3 choices instead 2
+• New ultimate weapon : Spotlight
+Events ( available next event starts )
+• New event bot : Amplify • Bot upgrades frequency • New themes added next events
+Gamemplay
+• Tappable gem box show multiple times single round
+• Target priority includes `` spotlight `` spotlight ultimate weapon unlocked
 Bugs Squashed
-• Improved reliability of events, fixed bugs like duplicate missions
+• Improved reliability events , fixed bugs like duplicate missions
 • Perk auto pick bugs
-• More resume round feature bugs fixed • Black hole and coin bot showing negative coins in stats
+• resume round feature bugs fixed • Black hole coin bot showing negative coins stats
 • Translation fixes
-• A lot of backend fixed and engine upgrades
+• lot backend fixed engine upgrades
 Versions
 v0.27
 v0.26

@@ -4,7 +4,7 @@ vO.3.0
 2
 vO.3.1
 2.1
-Bugs and Balance
+Bugs Balance
 2.2
 Ultimate Weapons
 2.3
@@ -26,65 +26,65 @@ Bug Fixes
 6
 Versions
 vO.3.0
-Ultimate Upgrades - earn power stones by participating in tournaments (still earn gems too). Use power stones to unlock powerful permanent upgrades for your tower. Current ultimate tower upgrades include
+Ultimate Upgrades - earn power stones participating tournaments ( still earn gems ) . Use power stones unlock powerful permanent upgrades tower . Current ultimate tower upgrades include
 Smart Missiles
 Land Mines
 Chain Lightning
 Chrono Field
 Death Field
 vO.3.1
-Bugs and Balance
-Projectiles disappearing at higher rates of fire mostly fixed
-Inner orb sometimes freezing on activating card fixed
-Interest per wave max text corrected when opening upgrade description panel
-If free upgrade upgrades tower max health, it now increases current health with it like the normal upgrade does
-Enemy health very slightly increased for higher tiers
+Bugs Balance
+Projectiles disappearing higher rates fire mostly fixed
+Inner orb sometimes freezing activating card fixed
+Interest per wave max text corrected opening upgrade description panel
+free upgrade upgrades tower max health , increases current health like normal upgrade
+Enemy health slightly increased higher tiers
 Ultimate Weapons
-All damage based ultimate weapons now take critical mult and critical chance into account which increases their damage a lot
-Land Mines base damage increased from 150% to 250%. Increase per upgrade from 8 to 15%
-Smart missiles range away from tower increased
-Smart missiles deactivate after not hitting a target for 25 seconds
-Smart missiles damage per upgrade increased from 6% to 8%
-Max number of smart missiles active increased from 20 to 25
-Chain lightning base chance reduced from 25 to 10%. Increase per upgrade from 5 to 3%
+damage based ultimate weapons take critical mult critical chance account increases damage lot
+Land Mines base damage increased 150 % 250 % . Increase per upgrade 8 15 %
+Smart missiles range away tower increased
+Smart missiles deactivate hitting target 25 seconds
+Smart missiles damage per upgrade increased 6 % 8 %
+Max number smart missiles active increased 20 25
+Chain lightning base chance reduced 25 10 % . Increase per upgrade 5 3 %
 Chain lightning damage fixed
-Chain lightning base damage increased from 30 to 40%, increase per upgrade from 3 to 5%
-Death wave base damage increased from 80 to 100%, increase per upgrade from 4 to 6%
-Costs of some ultimate weapons slightly adjusted
+Chain lightning base damage increased 30 40 % , increase per upgrade 3 5 %
+Death wave base damage increased 80 100 % , increase per upgrade 4 6 %
+Costs ultimate weapons slightly adjusted
 Tournaments
-Gold league tier increased from 4 to 5
-Platinum league tier increased from 7 to 8
-Power stones earned for 1st place gold league increased from 80 to 90
+Gold league tier increased 4 5
+Platinum league tier increased 7 8
+Power stones earned 1st place gold league increased 80 90
 Defense buffs
 Enemy attack damage exponential factor decreased
 Defense Absolute exponential factor increased
 vO.3.2
-Formatting for ultimate weapons damage fixed
-Lab and card bonus calc errors for Health, Health Regen, Defense Absolute, Crit Factor, and Damage/Meter fixed (buffed)
-Lab and card bonus calc errors for cash and coin bonus fixed (nerfed)
-Max range calc with card fixed
-Health regen card bonus corrected (buffed)
-Enemy attack damage growth per wave decreased Attack speed projectile problem fix tried again
-Land mines area of affect increased by 50%
-Land mines base damage increased from 250 to 350%, increase per level from 15 to 25%
-Smart missiles base damage increased from 120 to 140%, increase per level from 8 to 10%
+Formatting ultimate weapons damage fixed
+Lab card bonus calc errors Health , Health Regen , Defense Absolute , Crit Factor , Damage/Meter fixed ( buffed )
+Lab card bonus calc errors cash coin bonus fixed ( nerfed )
+Max range calc card fixed
+Health regen card bonus corrected ( buffed )
+Enemy attack damage growth per wave decreased Attack speed projectile problem fix tried
+Land mines area affect increased 50 %
+Land mines base damage increased 250 350 % , increase per level 15 25 %
+Smart missiles base damage increased 120 140 % , increase per level 8 10 %
 v0.3.5
-Tournaments updating with max wave outside tournament round fixed
-Tournament leaderboard layout for longer phone screens fixed
-Projectile sometimes targeting further enemy instead of closer fixed
-Enemy attack damage reduced for higher tiers
+Tournaments updating max wave outside tournament round fixed
+Tournament leaderboard layout longer phone screens fixed
+Projectile sometimes targeting enemy instead closer fixed
+Enemy attack damage reduced higher tiers
 vO.3.7
-The Tower is finally out for iOS
+Tower finally iOS
 Changes
-Tournament info is now always accessible even when not active
+Tournament info always accessible even active
 Tournament history panel added
-Subreddit button added to settings panel
+Subreddit button added settings panel
 Balance
-Land mines base damage increased from 350 to 500%, damage per level from 25 to 40%
-Smart Missiles Base damage increased from 140 to 200%, damage per level from 10 to 20%
-Smart missiles range increases as tower range increases now, slightly
+Land mines base damage increased 350 500 % , damage per level 25 40 %
+Smart Missiles Base damage increased 140 200 % , damage per level 10 20 %
+Smart missiles range increases tower range increases , slightly
 Bug Fixes
-All home panels adapt better to device sizes, not blocking the scroll window anymore
+home panels adapt better device sizes , blocking scroll window anymore
 Versions
 v0.27
 v0.26

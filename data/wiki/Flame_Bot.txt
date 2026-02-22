@@ -17,21 +17,21 @@ Cost
 Labs
 00:14
 Description
-Damage enemies in an area around the bot
+Damage enemies area around bot
 Unlocking/Upgrading
-Like all bots, Flame Bot is unlocked and upgraded in the
+Like bots , Flame Bot unlocked upgraded
 Event Shop
-menu. The unlock cost will depend on how many other bots have been bought. Each of the 3 flame bot upgrades start with a base upgrade cost of 100 medals and increase by 40 medals each level. Flame bot deals burn damage and will do 1 tick of damage equal to bot damage per second.
+menu . unlock cost depend many bots bought . 3 flame bot upgrades start base upgrade cost 100 medals increase 40 medals level . Flame bot deals burn damage 1 tick damage equal bot damage per second .
 Damage Reduction
-Reduces the amount of damage burned enemies deal. Damage reduction begins at 20% and has 25 levels increasing by 3% per level.
+Reduces amount damage burned enemies deal . Damage reduction begins 20 % 25 levels increasing 3 % per level .
 Cooldown
-The amount of time between initial activations. Cooldown starts at 75 seconds and has 15 levels reducing cooldown by 3 seconds per level.
+amount time initial activations . Cooldown starts 75 seconds 15 levels reducing cooldown 3 seconds per level .
 Damage
-Increases the damage dealt when the flame bot activates. Takes in account crit/super crit factor and chance. See
+Increases damage dealt flame bot activates . Takes account crit/super crit factor chance . See
 Ultimate Weapons
-for damage calculation. Multiplier begins at x50 tower damage and has 30 levels increasing by +8x per level.
+damage calculation . Multiplier begins x50 tower damage 30 levels increasing +8x per level .
 Range
-Increases the range the bot covers when active. Range is amplified by tower range. Begins with 30m range and has 15 levels increasing by 4m per level.
+Increases range bot covers active . Range amplified tower range . Begins 30m range 15 levels increasing 4m per level .
 Cost
 Level
 Cost
@@ -42,133 +42,133 @@ Collapse
 Range
 1
 100
-23%
+23 %
 72
 58x
 34m
 2
 140
-26%
+26 %
 69
 66x
 38m
 3
 180
-29%
+29 %
 66
 74x
 42m
 4
 220
-32%
+32 %
 63
 82x
 46m
 5
 260
-35%
+35 %
 60
 90x
 50m
 6
 300
-38%
+38 %
 57
 98x
 54m
 7
 340
-41%
+41 %
 54
 106x
 58m
 8
 380
-44%
+44 %
 51
 114x
 62m
 9
 420
-47%
+47 %
 48
 122x
 66m
 10
 460
-50%
+50 %
 45
 130x
 70m
 11
 500
-53%
+53 %
 42
 138x
 74m
 12
 540
-56%
+56 %
 39
 146x
 78m
 13
 580
-59%
+59 %
 36
 154x
 82m
 14
 620
-62%
+62 %
 33
 162x
 86m
 15
 660
-65%
+65 %
 30
 170x
 90m
 16
 700
-68%
+68 %
 178x
 17
 740
-71%
+71 %
 186x
 18
 780
-74%
+74 %
 194x
 19
 820
-77%
+77 %
 202x
 20
 860
-80%
+80 %
 210x
 21
 900
-83%
+83 %
 218x
 22
 940
-86%
+86 %
 226x
 23
 980
-89%
+89 %
 234x
 24
 1020
-92%
+92 %
 242x
 25
 1060
-95%
+95 %
 250x
 26
 1100
@@ -196,16 +196,15 @@ Flame Bot - Burn Stack
 Flame Bot Cooldown
 Unlock
 lab
-in
 Milestones
-at tier 5 wave 60. Unlocks Flame Bot Cooldown which reduces the bot Cooldown by 1 second for each level. Has 25 levels for a 25 second reduction to cooldown.
+tier 5 wave 60 . Unlocks Flame Bot Cooldown reduces bot Cooldown 1 second level . 25 levels 25 second reduction cooldown .
 Level
 Time
 Cost
 Expand
 Value
 1
-1d  14h 53m
+1d 14h 53m
 30.00M
 -1
 2
@@ -305,7 +304,7 @@ Value
 398.88B
 -25
 Flame Bot - Burn Stack
-Unlock Lab in Milestones at Tier 10 wave 50. Allows for successive hits by flame bot to the same enemy to stack the burn effect and cause the burn to tick faster. 2 stacks would make the enemy take damage every 0.5 seconds (2 ticks per second). Has 5 levels adding 1 stack each level. There is a cap of 10 stacks of burn. So at lab level 1 it takes 10 hits to reach max stacks, and at max lab (level 5) it only takes two hits from flame bot to reach max burn stacks.
+Unlock Lab Milestones Tier 10 wave 50 . Allows successive hits flame bot enemy stack burn effect cause burn tick faster . 2 stacks would make enemy take damage every 0.5 seconds ( 2 ticks per second ) . 5 levels adding 1 stack level . cap 10 stacks burn . lab level 1 takes 10 hits reach max stacks , max lab ( level 5 ) takes two hits flame bot reach max burn stacks .
 Level
 Time
 Cost

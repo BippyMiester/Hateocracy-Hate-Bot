@@ -1,5 +1,5 @@
 Ultimate Weapon Plus - Charged Mine
-Charged Mine can be unlocked when all 9 Ultimate Weapons are unlocked. Charged Mine increases damage of Inner Land Mines each second by x. The charge will not reset until detonated. The multiplier is also applied to each mine individually so when one mine activates the other mines keep their multiplier. The damage does not reset for any active mines when cooldown resets.
+Charged Mine unlocked 9 Ultimate Weapons unlocked . Charged Mine increases damage Inner Land Mines second x . charge reset detonated . multiplier also applied mine individually one mine activates mines keep multiplier . damage reset active mines cooldown resets .
 Cost
 Expand
 UW+ Cost Table

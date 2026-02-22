@@ -17,17 +17,17 @@ Shockwave Size
 00:00
 Loading ad 2/2
 Overview
-A wave that spawns periodically that causes enemies to be moved away from the tower.
+wave spawns periodically causes enemies moved away tower .
 Workshop
-Unlocked in
+Unlocked
 Workshop
-for 100,000 coins after
+100,000 coins
 Orbs
-. Unlocks Shockwave Size and Shockwave Frequency.
+. Unlocks Shockwave Size Shockwave Frequency .
 Shockwave Size
-Size of shockwave to push enemies away (except for bosses). There are 35 levels in the workshop with a base value of 0.6. Each level increases the size by 0.05 for a maximum value of 2.35.
+Size shockwave push enemies away ( except bosses ) . 35 levels workshop base value 0.6 . level increases size 0.05 maximum value 2.35 .
 Shockwave Frequency
-There are 40 levels with a base value of 20 seconds. Each level decreases the frequency by 0.15 seconds for a minimum frequency of 14.00 seconds. The hard cap for shockwave frequency is 7 seconds.
+40 levels base value 20 seconds . level decreases frequency 0.15 seconds minimum frequency 14.00 seconds . hard cap shockwave frequency 7 seconds .
 Cost
 Shockwave Size
 Shockwave Frequency
@@ -347,21 +347,20 @@ Lab
 Shockwave Size
 Unlock
 lab
-in
 Milestones
-at tier 3 wave 50. Each level adds to the shockwave size workshop value. There are 20 upgrades.
-The Shockwave Size lab screen has an adjuster that allows players to select the desired level up to what they have researched when not in a round.
+tier 3 wave 50 . level adds shockwave size workshop value . 20 upgrades .
+Shockwave Size lab screen adjuster allows players select desired level researched round .
 Level
 Time
 Cost
 Expand
 Value
 1
-0d  2h 46m
+0d 2h 46m
 100,000
 0.05
 2
-0d  6h 41m
+0d 6h 41m
 119,000
 0.10
 3
@@ -377,7 +376,7 @@ Value
 4,020,000
 0.25
 6
-1d  5h  8m
+1d 5h 8m
 10,270,000
 0.30
 7
@@ -385,27 +384,27 @@ Value
 22,340,000
 0.35
 8
-2d  5h 37m
+2d 5h 37m
 43,210,000
 0.40
 9
-3d  0h 21m
+3d 0h 21m
 76,610,000
 0.45
 10
-4d  0h 54m
+4d 0h 54m
 127,020,000
 0.50
 11
-5d  8h 31m
+5d 8h 31m
 199,720,000
 0.55
 12
-7d  0h 32m
+7d 0h 32m
 300,800,000
 0.60
 13
-9d  2h 24m
+9d 2h 24m
 437,210,000
 0.65
 14
@@ -429,7 +428,7 @@ Value
 1,950,000,000
 0.90
 19
-33d 23h  0m
+33d 23h 0m
 2,500,000,000
 0.95
 20
@@ -458,7 +457,7 @@ Rend Armor Mult
 Defense Upgrades
 Health
 Health Regen
-Defense %
+Defense %
 Defense Absolute
 Thorn Damage
 Lifesteal

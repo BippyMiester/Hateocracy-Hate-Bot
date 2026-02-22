@@ -1,13 +1,12 @@
 Description
-Card Presets allows you to set up to 5
+Card Presets allows set 5
 card
-presets. Presets can be switched during rounds if the same locked cards are equipped on different presets. If a card is swapped during a round, the change will remain saved to the preset.
+presets . Presets switched rounds locked cards equipped different presets . card swapped round , change remain saved preset .
 Lab
 Unlock
 lab
-in
 Milestones
-at tier 1 wave 400. Has 1 level.
+tier 1 wave 400 . 1 level .
 Level
 Time
 Cost

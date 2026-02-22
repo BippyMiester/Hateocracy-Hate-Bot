@@ -6,7 +6,7 @@ Health Regen
 Max Lv 100
 Defense Absolute
 Max Lv 100
-Defense %
+Defense %
 Max Lv 50
 Orb Speed
 Max Lv 20

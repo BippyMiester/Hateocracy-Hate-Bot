@@ -1,5 +1,5 @@
 Chain Lightning Shock
-Chance to apply shock to enemies hit by chain lightning causing enemies to receive more damage. Has 1 level. Chance starts at 2.50% and the multiplier starts at x1.10.
+Chance apply shock enemies hit chain lightning causing enemies receive damage . 1 level . Chance starts 2.50 % multiplier starts x1.10 .
 Level
 TIme
 Cost

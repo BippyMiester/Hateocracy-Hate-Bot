@@ -5,7 +5,7 @@ Land Mines
 Wall Health
 Orb Size
 Health
-Health enhancement is unlocked for free after completing the Workshop Enhancement Labs. Increases Health by x1 when unlocked and increases by 0.01x per level. Has a maximum of 400 levels for a multiplier of x5.00.
+Health enhancement unlocked free completing Workshop Enhancement Labs . Increases Health x1 unlocked increases 0.01x per level . maximum 400 levels multiplier x5.00 .
 Level
 Value
 Coins
@@ -176,7 +176,7 @@ Total Coins
 330.80Q
 15.29s
 Health Regen
-Requires 50 billion coins to be spent on defense enhancements to unlock. Increases the health regen multiplier by x1 when unlocked and increases by 0.01x per level. Has a maximum level of 400 for a 5x bonus.
+Requires 50 billion coins spent defense enhancements unlock . Increases health regen multiplier x1 unlocked increases 0.01x per level . maximum level 400 5x bonus .
 Level
 Value
 Coins
@@ -347,7 +347,7 @@ Total Coins
 330.80Q
 15.29s
 Defense Absolute
-Requires 500 billion coins to be spent on defense enhancements to unlock. Increases the Defense Absolute multiplier by x1 when unlocked and increases by 0.01x per level. Has a maximum level of 400 for a 5x bonus.
+Requires 500 billion coins spent defense enhancements unlock . Increases Defense Absolute multiplier x1 unlocked increases 0.01x per level . maximum level 400 5x bonus .
 Level
 Value
 Coins
@@ -518,7 +518,7 @@ Total Coins
 330.80Q
 15.29s
 Land Mine Damage
-Requires 5 trillion coins to be spent on defense enhancements to unlock. Increases Land Mine Damage multiplier by x1 when unlocked and increases by 0.06x per level. Has a maximum level of 400 for a 25x bonus.
+Requires 5 trillion coins spent defense enhancements unlock . Increases Land Mine Damage multiplier x1 unlocked increases 0.06x per level . maximum level 400 25x bonus .
 Level
 Value
 Coins
@@ -689,7 +689,7 @@ Total Coins
 330.80Q
 15.29s
 Wall Health
-Requires 50 trillion coins to be spent on defense enhancements to unlock. Increases Wall Health by x1 when unlocked and increases by 0.01x per level. Has a maximum level of 400 for a 5x bonus.
+Requires 50 trillion coins spent defense enhancements unlock . Increases Wall Health x1 unlocked increases 0.01x per level . maximum level 400 5x bonus .
 Level
 Value
 Coins
@@ -860,7 +860,7 @@ Total Coins
 330.80Q
 15.29s
 Orb Size
-Requires 500 trillion coins to be spent on defense enhancements to unlock. Increases Orb Size by x1 when unlocked and increases by 0.01x per level. Has a maximum level of 200 for 3x orb size.
+Requires 500 trillion coins spent defense enhancements unlock . Increases Orb Size x1 unlocked increases 0.01x per level . maximum level 200 3x orb size .
 Level
 Value
 Coins

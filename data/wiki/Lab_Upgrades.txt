@@ -2,31 +2,31 @@ Contents
 1
 Description
 2
-Features of Research
+Features Research
 3
-Number of Labs
+Number Labs
 4
 Rushing Labs
 5
 Boosting Labs
 6
-List of Lab Upgrades
+List Lab Upgrades
 Description
-The upgrades that can be bought in the lab, that help with scaling, or max caps. Most labs will be unlocked in
+upgrades bought lab , help scaling , max caps . labs unlocked
 Milestones
-before you can research them.
-Features of Research
-The labs page has a few features that affect research or are QoL improvements.
-Switching labs:
-When currently researching a lab, a player can click the lab and change to a different research. Coins used for the lab are refunded and progress on the lab is preserved and displayed as a green lab time. When continuing that research, the coins will need to be paid again.
-Auto Research:
-When looking at the labs there is a small clock/timer icon to the left of the progress bar. Enabling this button will have the lab start researching there next level of current lab, once the current research is finished.
-Lab Search:
-When selecting a new lab, a player can type the name of a lab in the search bar to pull up related labs without scrolling.
-Lab History:
-When selecting a new  lab, a user can click the History Tab to see a list of labs completed chronologically and the date/time they were completed.
-Number of Labs
-You will start with one lab when unlocked in Milestones at tier 1 wave 30. You can unlock up to 5 labs. The total cost is 4,900 gems.
+research .
+Features Research
+labs page features affect research QoL improvements .
+Switching labs :
+currently researching lab , player click lab change different research . Coins used lab refunded progress lab preserved displayed green lab time . continuing research , coins need paid .
+Auto Research :
+looking labs small clock/timer icon left progress bar . Enabling button lab start researching next level current lab , current research finished .
+Lab Search :
+selecting new lab , player type name lab search bar pull related labs without scrolling .
+Lab History :
+selecting new lab , user click History Tab see list labs completed chronologically date/time completed .
+Number Labs
+start one lab unlocked Milestones tier 1 wave 30 . unlock 5 labs . total cost 4,900 gems .
 Lab Number
 1
 2
@@ -40,8 +40,8 @@ Free
 1,400
 3,000
 Rushing Labs
-You can skip lab time by spending gems. When rushing labs, you can only skip the entire remaining lab time. Longer lab times have built in discounts making it cost less gems per time. When you gold box labs, it increases your gem rush efficiency, making gem rushing more powerful (less gems needed to rush). Each fully gold-boxed lab increases the efficiency of gems by 0.015x (additively).
-Credit to Shantymatic for calculations (Outdated due to gem rush efficiency update)
+skip lab time spending gems . rushing labs , skip entire remaining lab time . Longer lab times built discounts making cost less gems per time . gold box labs , increases gem rush efficiency , making gem rushing powerful ( less gems needed rush ) . fully gold-boxed lab increases efficiency gems 0.015x ( additively ) .
+Credit Shantymatic calculations ( Outdated due gem rush efficiency update )
 Time
 Gems
 Gems/Day rate
@@ -52,38 +52,38 @@ Discount
 1 day
 163
 163
-9%
+9 %
 1 week
 1000
 142.9
-21%
+21 %
 30 days
 3550
 118.3
-34%
+34 %
 90 days
 8000
 88.9
-51%
+51 %
 360 days
 25000
 69.4
-61%
->360 days
+61 %
+> 360 days
 25000
 N/A
 N/A
 Boosting Labs
-Labs can be boosted using
+Labs boosted using
 Elite Cells
-.  Labs can be sped up by 1.5x, 2x, 3x, 4x, 5x, 6x, 7x and 8x for 1 hour, 8 hours or 24 hours. The way that you do this is as follows: select "Speed Up" in the lab, choose the duration (1, 8, or 24 hours), then choose the multiplier (1.5x through 8x). Once both are selected, the lab shows you the cost in Elite Cells for that boost. All lab boosts cost a flat rate since v25.5.
-The cost of boosting goes up faster than the boost multiplier, for example 1.5x to 2x is a 50% base or a ~33% relative increase vs a 6.67 times cost increase. Thus it is advisable to boost multiple labs at the same time instead of boosting at higher multipliers unless you have the cell generation to replenish the cost before the time runs out. For example, seven 1.5x boosts at a 1 hour duration (equal to 105 cells) is 3.5 hours of research time being skipped, while a single 2x boost at a 1 hour duration (100 cells) only skips 1 hour of research time.
-Lab Boosts can be set up to automatically queue when completed. This is done with the "Speed Up" Button and the multiplier and duration can be setup within the menu. Additionally, lab speed ups only tick while a lab is slotted for research.
+. Labs sped 1.5x , 2x , 3x , 4x , 5x , 6x , 7x 8x 1 hour , 8 hours 24 hours . way follows : select `` Speed `` lab , choose duration ( 1 , 8 , 24 hours ) , choose multiplier ( 1.5x 8x ) . selected , lab shows cost Elite Cells boost . lab boosts cost flat rate since v25.5 .
+cost boosting goes faster boost multiplier , example 1.5x 2x 50 % base ~33 % relative increase vs 6.67 times cost increase . Thus advisable boost multiple labs time instead boosting higher multipliers unless cell generation replenish cost time runs . example , seven 1.5x boosts 1 hour duration ( equal 105 cells ) 3.5 hours research time skipped , single 2x boost 1 hour duration ( 100 cells ) skips 1 hour research time .
+Lab Boosts set automatically queue completed . done `` Speed `` Button multiplier duration setup within menu . Additionally , lab speed ups tick lab slotted research .
 Boost
 Cost
 One lab
 Cost
-All labs
+labs
 1.5x
 1 hr
 15
@@ -95,7 +95,7 @@ All labs
 1.5x
 24 hrs
 360
-1 800
+1 800
 2x
 1 hr
 100
@@ -103,59 +103,59 @@ All labs
 2x
 8 hrs
 800
-4 000
+4 000
 2x
 24 hrs
-2 400
-12 000
+2 400
+12 000
 3x
 1 hr
 840
-4 200
+4 200
 3x
 8 hrs
-6 720
-33 600
+6 720
+33 600
 3x
 24 hrs
-20 160
-100 800
+20 160
+100 800
 4x
 1 hr
-3 360
-16 800
+3 360
+16 800
 4x
 8 hrs
-26 880
-134 400
+26 880
+134 400
 4x
 24 hrs
-80 640
-403 200
+80 640
+403 200
 5x
 1 hr
-11 900
-59 500
+11 900
+59 500
 5x
 8 hrs
-95 200
-476 000
+95 200
+476 000
 5x
 24 hrs
-285 600
-1 428 000
+285 600
+1 428 000
 6x
 1 hr
 60 000
-300 000
+300 000
 6x
 8 hrs
-480 000
-2 400 000
+480 000
+2 400 000
 6x
 24 hrs
-1 440 000
-7 200 000
+1 440 000
+7 200 000
 7x
 1 hr
 250 000
@@ -180,11 +180,11 @@ All labs
 24 hr
 24 000 000
 120 000 000
-List of Lab Upgrades
+List Lab Upgrades
 Expand
 Main Research
 Game Speed
-Max Lv  7
+Max Lv 7
 Starting Cash
 Max Lv 99
 Workshop Attack Discount
@@ -198,15 +198,15 @@ Max Lv 99
 Labs Speed
 Max Lv 99
 Buy multiplier
-Max Lv  4
-More Round Stats
-Max Lv  1
+Max Lv 4
+Round Stats
+Max Lv 1
 Target Priority
-Max Lv  2
+Max Lv 2
 Card Presets
-Max Lv  1
+Max Lv 1
 Workshop Respec
-Max Lv  1
+Max Lv 1
 Reroll Daily Missions
 Max Lv 1
 Workshop Enhancement
@@ -241,7 +241,7 @@ Health Regen
 Max Lv 100
 Defense Absolute
 Max Lv 100
-Defense %
+Defense %
 Max Lv 50
 Orb Speed
 Max Lv 20
@@ -281,7 +281,7 @@ Interest
 Max Lv 99
 Max Interest
 Max Lv 15
-Package After Boss
+Package Boss
 Max Lv 1
 Recovery Package Amount
 Max Lv 20
@@ -305,7 +305,7 @@ Chrono Field Duration
 Max Lv 30
 Chrono Field Damage Reduction
 Max Lv 1
-Chrono Field Reduction %
+Chrono Field Reduction %
 Max Lv 30
 Swamp Radius
 Max Lv 30
@@ -394,7 +394,7 @@ Max Lv 7
 Recharge Nuke
 Max Lv 7
 Card Mastery
-(1 lab per card)
+( 1 lab per card )
 Max Lv 9
 Expand
 Perk Research
@@ -530,7 +530,7 @@ Workshop Utility Discount
 Labs Coin Discount
 Labs Speed
 Buy multiplier
-More Round Stats
+Round Stats
 Target Priority
 Card Presets
 Workshop Respec
@@ -570,7 +570,7 @@ Cash Per Wave
 Coins/Kill Bonus
 Interest
 Max Interest
-Package After Boss
+Package Boss
 Recovery Package Amount
 Recovery Package Max
 Recovery Package Chance
@@ -581,7 +581,7 @@ Missiles Explosion
 Missile Radius
 Chrono Field Duration
 Chrono Field Damage Reduction
-Chrono Field Reduction %
+Chrono Field Reduction %
 Swamp Radius
 Swamp Stun
 Swamp Stun Chance
@@ -680,7 +680,7 @@ Core Effect Bans
 Assist Module Labs
 Battle Condition Research
 Battle Condition Reduction
-Group 1: Resistances
-Group 2: Enemy/Spawn Buffs
-Group 3: Enemy Ultimates
-Group 4: Durations/Reductions
+Group 1 : Resistances
+Group 2 : Enemy/Spawn Buffs
+Group 3 : Enemy Ultimates
+Group 4 : Durations/Reductions

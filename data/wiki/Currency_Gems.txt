@@ -1,35 +1,34 @@
-A Gem
+Gem
 Gems
-Gems are a core currency to buy special items and upgrades with.
+Gems core currency buy special items upgrades .
 Acquiring Gems
-Players can acquire Gems in many different a few ways:
-Claiming the Floating Gems that spawns around your tower. Also known as Bob.
-A maximum of 10 floating Gems can be spawned in a run.
-You gain two Gems per floating Gem.
-Floating Gems spawn about once every 400-500 waves, and no more than once every 15 minutes.
-Claiming the Ad Gems (Appears approximately every 10 minutes on your screen)
-Five Gems per claim.
-Completing Offer walls/TapJoy.
-Claiming the Free Daily Gems in the store.
-Participating in Tournaments.
-Purchasing Gems with real money.
-The Tower Web Store (online)
-Google Play Store (in-game)
-Apple App Store (in-game)
+Players acquire Gems many different ways :
+Claiming Floating Gems spawns around tower . Also known Bob .
+maximum 10 floating Gems spawned run .
+gain two Gems per floating Gem .
+Floating Gems spawn every 400-500 waves , every 15 minutes .
+Claiming Ad Gems ( Appears approximately every 10 minutes screen )
+Five Gems per claim .
+Completing Offer walls/TapJoy .
+Claiming Free Daily Gems store .
+Participating Tournaments .
+Purchasing Gems real money .
+Tower Web Store ( online )
+Google Play Store ( in-game )
+Apple App Store ( in-game )
 Exchanging either
 Medals
-(from Event) and/or
+( Event ) and/or
 Chips
-(from
 Guilds
-).
+) .
 Completing
 Daily Missions
-Claiming Weekly Rewards (from
+Claiming Weekly Rewards (
 Daily Missions
-) or Guild Weekly Reward Chests (from Guilds).
+) Guild Weekly Reward Chests ( Guilds ) .
 Spending Gems
-Players can spend Gems on the following:
+Players spend Gems following :
 Buying
 Cards
 Buying

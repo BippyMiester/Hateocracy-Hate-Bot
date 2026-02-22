@@ -1,4 +1,4 @@
-Unlock Lab in Milestones on tier 16 wave 60. Increases damage chain lightning damage done to scatters by each consecutive hit as an additive bonus. This means all values will be 1+ higher than shown to add to the original 1x damage from the first hit.
+Unlock Lab Milestones tier 16 wave 60 . Increases damage chain lightning damage done scatters consecutive hit additive bonus . means values 1+ higher shown add original 1x damage first hit .
 level
 Time
 Cost

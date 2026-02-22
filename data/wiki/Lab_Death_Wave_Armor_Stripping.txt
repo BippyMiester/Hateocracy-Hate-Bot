@@ -1,8 +1,8 @@
 00:00
 Loading ad 2/2
 Death Wave Armor Stripping
-Each Effect Wave hit will strip some amount of armor from an enemy (Max reduction of 10). Has 10 levels.
-Example: If a battle condition gives 10 armor(the enemy will block the first 10 attacks it receives) and you have level 5 lab for Armor Stripping, after being hit by an effect wave the enemy armor will go to 5 and only block 5 hits instead of 10.
+Effect Wave hit strip amount armor enemy ( Max reduction 10 ) . 10 levels .
+Example : battle condition gives 10 armor ( enemy block first 10 attacks receives ) level 5 lab Armor Stripping , hit effect wave enemy armor go 5 block 5 hits instead 10 .
 Level
 Time
 Cost

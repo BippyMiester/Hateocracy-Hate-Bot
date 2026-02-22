@@ -1,5 +1,5 @@
 Amplify Bot Duration
-Unlock Lab in Milestones at tier 10 wave 50. Amplify Bot Duration increase the length of the bot activation. Has 20 levels increasing duration by 0.5s for a max increase of 10s.
+Unlock Lab Milestones tier 10 wave 50 . Amplify Bot Duration increase length bot activation . 20 levels increasing duration 0.5s max increase 10s .
 Level
 Time
 Cost

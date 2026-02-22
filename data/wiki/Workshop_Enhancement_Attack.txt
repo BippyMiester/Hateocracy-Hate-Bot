@@ -5,7 +5,7 @@ Damage/Meter
 Super Crit Multi
 Attack Speed
 Damage
-Unlocked for free after Workshop Enhancements are researched. Starts at 1x and increases by 0.01x per level. Has a max of 400 levels for x5.
+Unlocked free Workshop Enhancements researched . Starts 1x increases 0.01x per level . max 400 levels x5 .
 Level
 Value
 Coins
@@ -176,7 +176,7 @@ Total Coins
 330.80Q
 15.29s
 Rend Armor
-Requires 50 billion coins to be spent on damage enhancements to unlock. Applies a multiplier to Rend Max, chance, and Mult  of x1 when unlocked and increases by 0.01x per level. Has a maximum level of 400 for a 5x bonus.
+Requires 50 billion coins spent damage enhancements unlock . Applies multiplier Rend Max , chance , Mult x1 unlocked increases 0.01x per level . maximum level 400 5x bonus .
 Level
 Value
 Coins
@@ -347,7 +347,7 @@ Total Coins
 330.80Q
 15.29s
 Critical Factor
-Requires 500 billion coins to be spent on enhancements to unlock. Increases Crit Factor by 1.0x when unlocked and increases by 0.1 per level. Has 400 levels for a maximum of x5.
+Requires 500 billion coins spent enhancements unlock . Increases Crit Factor 1.0x unlocked increases 0.1 per level . 400 levels maximum x5 .
 Level
 Value
 Coins
@@ -518,7 +518,7 @@ Total Coins
 330.80Q
 15.29s
 Damage/Meter
-Requires 5 trillion coins to be spent on attack enhancements to unlock. Increases the Damage/Meter multiplier by x1 when unlocked and increases by 0.01x per level. Has a maximum level of 400 for a 5x bonus.
+Requires 5 trillion coins spent attack enhancements unlock . Increases Damage/Meter multiplier x1 unlocked increases 0.01x per level . maximum level 400 5x bonus .
 Level
 Value
 Coins
@@ -689,7 +689,7 @@ Total Coins
 330.80Q
 15.29s
 Super Crit Multi
-Requires 50 Trillion coins to be spent on enhancements to unlock. Increases Super Crit Multi by x1.0 when unlocked and increases by 0.1 per level. Has a maximum of 400 levels for a x5 multiplier.
+Requires 50 Trillion coins spent enhancements unlock . Increases Super Crit Multi x1.0 unlocked increases 0.1 per level . maximum 400 levels x5 multiplier .
 Level
 Value
 Coins
@@ -860,7 +860,7 @@ Total Coins
 330.80Q
 15.29s
 Attack Speed
-Requires 500 Trillion coins to be spent on enhancements to unlock. Increases Attack Speed by x1.0 when unlocked and increases by 0.01 per level. Has 75 levels for a max of 1.75x.
+Requires 500 Trillion coins spent enhancements unlock . Increases Attack Speed x1.0 unlocked increases 0.01 per level . 75 levels max 1.75x .
 Level
 Value
 Coins

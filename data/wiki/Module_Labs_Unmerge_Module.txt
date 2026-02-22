@@ -1,5 +1,5 @@
 Unmerge Module
-Unlock Lab in Milestones at tier 8 wave 20. Allows modules to be unmerged. Modules that required a duplicate epic+ to merge will provide the lower level module and the epic+. When any module could be used to merge to the new rarity, unmerging will convert the modules into shards of the unmerged type. Has 1 level.
+Unlock Lab Milestones tier 8 wave 20 . Allows modules unmerged . Modules required duplicate epic+ merge provide lower level module epic+ . module could used merge new rarity , unmerging convert modules shards unmerged type . 1 level .
 Level
 Time
 Cost

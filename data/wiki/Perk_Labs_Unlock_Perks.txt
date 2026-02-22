@@ -1,5 +1,5 @@
 Unlock Perks
-Unlocks perks to be accessed in rounds. Has 1 level. Unlocks other perk labs after completion.
+Unlocks perks accessed rounds . 1 level . Unlocks perk labs completion .
 Level
 Time
 Cost

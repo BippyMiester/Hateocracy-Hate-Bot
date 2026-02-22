@@ -4,7 +4,7 @@ Cash
 1.1
 Earning Cash
 1.2
-Cash Flow + How to Improve it
+Cash Flow + Improve
 1.2.1
 Cash per Wave
 1.2.2
@@ -17,88 +17,88 @@ Workshop Enhancements
 Cash Bonus
 2
 Cash
-Cash is the in-game currency for buying temporary upgrades during a run.
+Cash in-game currency buying temporary upgrades run .
 Earning Cash
-Players earn Cash while playing in a few ways:
+Players earn Cash playing ways :
 Defeating Enemies
 Completing Waves
 Cash / Wave upgrade
-Interest (passive income)
-Enemies are worth $1 as a base value and increase by $1 every 10 waves until wave 200, at which point they increase at a reduced rate of $1 every 20 waves.
+Interest ( passive income )
+Enemies worth $ 1 base value increase $ 1 every 10 waves wave 200 , point increase reduced rate $ 1 every 20 waves .
 Enemy Value Breakdown
 Expand
 Wave
-Enemy Value ($)
+Enemy Value ( $ )
 1-9
-$1
+$ 1
 10
-$2
+$ 2
 20
-$3
+$ 3
 30
-$4
+$ 4
 40
-$5
+$ 5
 50
-$6
+$ 6
 60
-$7
+$ 7
 70
-$8
+$ 8
 80
-$9
+$ 9
 90
-$10
+$ 10
 100
-$11
+$ 11
 ...
 200
-$21
+$ 21
 220
-$22
+$ 22
 240
-$23
+$ 23
 260
-$24
-Cash Flow + How to Improve it
-Players earn Cash at the end of every wave from two main systems:
+$ 24
+Cash Flow + Improve
+Players earn Cash end every wave two main systems :
 Cash per Wave
-A flat amount of cash you earn automatically when a wave ends.
-Scales with upgrades and wave progress.
-Always applied first at the end of a wave.
+flat amount cash earn automatically wave ends .
+Scales upgrades wave progress .
+Always applied first end wave .
 Interest
-Rewards you with a % of your current unspent cash on hand.
-Only applies up to a certain cap (there’s a maximum amount of interest you can gain per wave).
-Since Cash per Wave is added before Interest is calculated, it can bump you into a higher interest payout if you were below cap.
+Rewards % current unspent cash hand .
+applies certain cap ( ’ maximum amount interest gain per wave ) .
+Since Cash per Wave added Interest calculated , bump higher interest payout cap .
 Improving Cash Flow
-The amount of Cash you have in your game greatly depends on how far you get during a run. So, it is important for players to upgrade their Cash Flow for later in the game. These are known ways to improve your cash flow:
+amount Cash game greatly depends far get run . , important players upgrade Cash Flow later game . known ways improve cash flow :
 Upgrading
 Cash Bonus
 Workshop
 Lab
 Upgrading
 Cash / Wave
-(Workshop & Lab)
+( Workshop & Lab )
 Upgrading
 Interest / Wave
-(Workshop & Lab)
+( Workshop & Lab )
 Upgrading
 Max Interest
-(Lab)
+( Lab )
 Buying / Upgrading Cash Card (
 Cards
 Buying / Upgrading
 Enemy Balance
-Card (Cards)
+Card ( Cards )
 Buying / Upgrading
 Golden Tower
 Ultimate Weapon
-Getting Cash Bonus or Cash/Wave
+Getting Cash Bonus Cash/Wave
 sub-module effects
 modules
 Workshop Enhancements
 Cash Bonus
-Cash Bonus enhancement is unlocked for free after completing the Workshop Enhancement Labs. Increases the Cash Bonus multiplier by x1 when unlocked and increases by 0.01x per level. The Cash workshop enhancement also increases the cash per wave, interest percentage, and max interest per wave amount by 1% each upgrade as well. Has a maximum level of 400 for a 5x bonus.
+Cash Bonus enhancement unlocked free completing Workshop Enhancement Labs . Increases Cash Bonus multiplier x1 unlocked increases 0.01x per level . Cash workshop enhancement also increases cash per wave , interest percentage , max interest per wave amount 1 % upgrade well . maximum level 400 5x bonus .
 Level
 Value
 Coins

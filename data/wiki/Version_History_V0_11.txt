@@ -15,17 +15,17 @@ Demon Mode
 Wave Skip
 Critical Chance
 Changes
-New Lab Research - Cards Presets (Tier 5)
-Max card slots increase by 1
-Smart missiles base damage increased from 600 to 800%, increase per level from 60 to 80%
-Smart missile starting count increased from 4 to 5, max missiles increased by 1
+New Lab Research - Cards Presets ( Tier 5 )
+Max card slots increase 1
+Smart missiles base damage increased 600 800 % , increase per level 60 80 %
+Smart missile starting count increased 4 5 , max missiles increased 1
 Bugs
-Second wind not protecting against ranged units sometimes
+Second wind protecting ranged units sometimes
 iOS push notifications fixed
 iOS crashing reduced
-Fixed an issue that could cause the store to open without price tags
-Fixed starter pack pop up sometimes showing the epic pack's price
-Fixed an issue with buy multipliers giving wrong upgrade costs (discounts)
+Fixed issue could cause store open without price tags
+Fixed starter pack pop sometimes showing epic pack 's price
+Fixed issue buy multipliers giving wrong upgrade costs ( discounts )
 Land mine rotation research showing without inner land mines unlocked
 Versions
 v0.27

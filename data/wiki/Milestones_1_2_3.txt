@@ -1,5 +1,5 @@
 Expand
-Tiers 1, 2 & 3
+Tiers 1 , 2 & 3
 Tier
 Tier 1
 Tier 2
@@ -63,7 +63,7 @@ Events
 80
 1.5k Coins
 8k Coins
-Interest %
+Interest %
 5k Coins
 Orb Speed
 50k Coins
@@ -94,10 +94,10 @@ Second Wind Blast
 25 Gems
 25 Gems
 30 Gems
-Package After Boss
+Package Boss
 1m Coins
 250
-More Round Stats
+Round Stats
 30k
 First Perk Choice
 200k Coins
@@ -167,11 +167,11 @@ Donut Skin
 Yin-Yang Skin
 15 Stones
 4,500
-Relic: Coins +2%
+Relic : Coins +2 %
 15 Stones
-Relic: Lab Speed +1.5%
+Relic : Lab Speed +1.5 %
 20 Stones
-Relic: Critical Factor +2%
+Relic : Critical Factor +2 %
 20 Stones
 Totals
 1,660 Coins

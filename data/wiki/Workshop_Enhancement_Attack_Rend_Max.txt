@@ -1,5 +1,5 @@
 Rend Armor
-Requires 50 billion coins to be spent on damage enhancements to unlock. Applies a multiplier to Rend Max, chance, and Mult  of x1 when unlocked and increases by 0.01x per level. Has a maximum level of 400 for a 5x bonus.
+Requires 50 billion coins spent damage enhancements unlock . Applies multiplier Rend Max , chance , Mult x1 unlocked increases 0.01x per level . maximum level 400 5x bonus .
 Level
 Value
 Coins

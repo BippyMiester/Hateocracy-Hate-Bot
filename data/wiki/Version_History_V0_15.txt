@@ -12,42 +12,42 @@ Labs
 1.5
 Balance
 1.6
-Other Changes
+Changes
 1.7
 Bugs
 2
 Versions
 vO.15
 Features
-Events: participate in 2 week events. Accomplish missions to earn event currency. Spend currency on gems/stones, permanent upgrades to your tower in the form of robotic companions, or limited time themes. After an event completes, a new one will be ready in 2 weeks (usually). See in game info panel for more info. Expect changes to this along the way as I receive feedback
-Bots: Earned through events, fly around your tower causing damage, stunning or providing coin bonuses. Can be upgraded further after unlocking
-Themes: Each event will feature a limited theme that can be unlocked by earning event currency. Change the look of your tower and the background theme
+Events : participate 2 week events . Accomplish missions earn event currency . Spend currency gems/stones , permanent upgrades tower form robotic companions , limited time themes . event completes , new one ready 2 weeks ( usually ) . See game info panel info . Expect changes along way receive feedback
+Bots : Earned events , fly around tower causing damage , stunning providing coin bonuses . upgraded unlocking
+Themes : event feature limited theme unlocked earning event currency . Change look tower background theme
 Tournaments
-• New league: Champion - tier 10+ (this adds more granularity to leagues and will disperse skill levels better to create a more gradual difficulty gap between leagues). Expect more changes shortly after though once players start filtering into new leagues
-• Notification added for when a tournament ends, to remind player to claim their reward
-• Players that have been in gold league or higher cannot be demoted to copper league (previously only platinum was barred).
+• New league : Champion - tier 10+ ( adds granularity leagues disperse skill levels better create gradual difficulty gap leagues ) . Expect changes shortly though players start filtering new leagues
+• Notification added tournament ends , remind player claim reward
+• Players gold league higher demoted copper league ( previously platinum barred ) .
 Workshop
-• New Attack Upgrade: Super Critical Chance
-• New Attack Upgrade: Super Critical Mult
+• New Attack Upgrade : Super Critical Chance
+• New Attack Upgrade : Super Critical Mult
 Labs
-• New Research: Blackhole Coin Bonus - Coin bonus for enemies killed within blackholes
-• New Research: Super Crit Chance
-• New Research: Super Crit Mult Bonus
-• Smart Missile Amplifier research bonus increased from 0.8 to 1.5 per level
+• New Research : Blackhole Coin Bonus - Coin bonus enemies killed within blackholes
+• New Research : Super Crit Chance
+• New Research : Super Crit Mult Bonus
+• Smart Missile Amplifier research bonus increased 0.8 1.5 per level
 Balance
-• All ultimate weapons that deal damage had equation for damaged changed from linear to exponential. Some like missiles grow much faster than others like death wave to help balance them, but all damage was buffed for each one.
-• All ultimate weapon damage upgrades max level increased from either 15 or 17 to 20
-• Golden tower max coin bonus max level increased from 12 to 15, however, is very expensive from level 12 to 15
-Other Changes
-• Auto pick perk toggle state is saved on game close now
-• Dollar symbol shade of green is less ugly for max interest
-• Round end stats added for new mechanics like bots and blackhole coins earned
-• Further optimization of code and changes to expedite new updates
-• Lots of other stuff I'm sure I forgot to add to the update notes
+• ultimate weapons deal damage equation damaged changed linear exponential . like missiles grow much faster others like death wave help balance , damage buffed one .
+• ultimate weapon damage upgrades max level increased either 15 17 20
+• Golden tower max coin bonus max level increased 12 15 , however , expensive level 12 15
+Changes
+• Auto pick perk toggle state saved game close
+• Dollar symbol shade green less ugly max interest
+• Round end stats added new mechanics like bots blackhole coins earned
+• optimization code changes expedite new updates
+• Lots stuff 'm sure forgot add update notes
 Bugs
-• Max health with and without health card math being slightly off (players will see slightly higher health without the card slotted in than before)
-• Total and round damage stats being wrong or negative occasionally
-• Left and right enemy spawns sometimes not working correctly
+• Max health without health card math slightly ( players see slightly higher health without card slotted )
+• Total round damage stats wrong negative occasionally
+• Left right enemy spawns sometimes working correctly
 • Translation fixes
 Versions
 v0.27
