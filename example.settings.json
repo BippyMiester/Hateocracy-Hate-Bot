@@ -1,0 +1,63 @@
+{
+    "guild_production": {
+        "guild_id": 0,
+        "logs_channel": 0,
+        "inactivity_channel": 0,
+        "test_channel": 0,
+        "admin_role": 0,
+        "developer_role": 0,
+        "officer_role": 0,
+        "player_active_role": 0,
+        "player_away_role": 0,
+        "player_inactive_role": 0,
+        "member_role": 0
+    },
+    "guild_development": {
+        "guild_id": 0
+    },
+    "waitlist": {
+        "waitlist_message_id": 0,
+        "waitlist_channel_id": 0,
+        "waitlist_role": 0
+    },
+    "bot": {
+        "environment": "development",
+        "bot_token_production": "",
+        "bot_token_development": ""
+    },
+    "ai": {
+        "openai_api_key": "",
+        "model": "gpt-4o-mini",
+        "max_input_tokens": 100000,
+        "max_completion_tokens": 5000,
+        "previous_messages": 5,
+        "currently_processing": false,
+        "development_channel": 0,
+        "production_channel": 0
+    },
+    "wiki": {
+        "base_url": "https://the-tower-idle-tower-defense.fandom.com",
+        "all_pages_url": "https://the-tower-idle-tower-defense.fandom.com/wiki/Special:AllPages",
+        "number_of_retries": 5,
+        "page_expiration": 7,
+        "data_directory": "./data/wiki",
+        "chroma_persist_directory": "./cache/chromadb",
+        "purge_special_chars": true,
+        "purge_lines": [
+            ""
+        ],
+        "ignored_pages": [
+            ""
+        ]
+    },
+    "apps": {
+        "flaresolverr": {
+            "cmd": "request.get",
+            "base_url": "http://192.168.1.103:8191/v1",
+            "max_timeout": 60000,
+            "headers": {
+                "Content-Type": "application/json"
+            }
+        }
+    }
+}
