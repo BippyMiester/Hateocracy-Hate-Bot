@@ -11,6 +11,8 @@ from bs4 import BeautifulSoup
 import chromadb
 from chromadb.config import Settings
 from helpers.Logger import Logger
+from nltk.tokenize import word_tokenize
+from nltk.corpus import stopwords
 
 # Load settings.json configuration.
 SETTINGS_PATH = Path("./settings.json")
@@ -44,7 +46,7 @@ DATA_DIR.mkdir(parents=True, exist_ok=True)
 def sanitize_title(title: str) -> str:
     """
     Sanitize a title so that it contains only A-Z, a-z, 0-9, and underscores.
-    Every character not matching these is replaced with an underscore.
+    Every character not matching those is replaced with an underscore.
     """
     return re.sub(r'[^A-Za-z0-9]', '_', title)
 
@@ -75,7 +77,7 @@ def save_last_downloaded(last_downloaded: dict):
 def get_with_flaresolverr(target_url: str):
     """
     Uses FlareSolverr (via POST) to get the HTML for the given target URL.
-    Returns a tuple (content, status_code).
+    Returns a tuple (content, status_code).  
     If the JSON response contains a "solution" key with a "response",
     that HTML portion is used.
     """
@@ -120,7 +122,7 @@ async def index_wiki_pages():
     
     last_downloaded = load_last_downloaded()
     current_time = int(time.time())
-    expiration_seconds = PAGE_EXPIRATION_DAYS * 86400  # days to seconds
+    expiration_seconds = PAGE_EXPIRATION_DAYS * 86400  # Convert days to seconds
 
     pages = []
     next_page_url = WIKI_ALL_PAGES_URL
@@ -172,7 +174,7 @@ async def index_wiki_pages():
 
     Logger.info(f"Total pages discovered: {len(pages)}")
 
-    # Assign unique sanitized titles.
+    # Pre-process pages to assign unique sanitized titles.
     used_ids = {}
     unique_pages = []
     for page in pages:
@@ -188,7 +190,7 @@ async def index_wiki_pages():
         unique_pages.append(page)
     pages = unique_pages
 
-    # Log discovered pages.
+    # Log discovered pages with unique titles.
     for page in pages:
         Logger.debug(f"Discovered URL: {page['url']} (Original: {page['title']}, Unique: {page['unique_title']})")
     
@@ -223,12 +225,12 @@ async def index_wiki_pages():
             continue
         try:
             soup = BeautifulSoup(content, "html.parser")
-            # Extract text only within the div with id "mw-content-text".
+            # Only extract text from the <div id="mw-content-text">.
             content_div = soup.find("div", id="mw-content-text")
             if content_div:
                 text_content = content_div.get_text(separator="\n", strip=True)
             else:
-                Logger.warning(f"Div id 'mw-content-text' not found for {title}; extracting all text.")
+                Logger.warning(f"Div with id 'mw-content-text' not found for {title}; extracting all text.")
                 text_content = soup.get_text(separator="\n", strip=True)
             filename = DATA_DIR / f"{unique_title}.txt"
             with open(filename, "w", encoding="utf-8") as f:
@@ -244,27 +246,35 @@ async def index_wiki_pages():
     try:
         txt_files = list(DATA_DIR.glob("*.txt"))
         Logger.info(f"Found {len(txt_files)} text files in {DATA_DIR} for cleanup.")
+        stop_words = set(stopwords.words('english'))
         for file in txt_files:
             try:
                 with open(file, "r", encoding="utf-8") as f:
                     lines = f.readlines()
                 cleaned_lines = []
+                total_stopwords_removed = 0
                 for line in lines:
                     stripped_line = line.strip()
-                    # If purge_special_chars is true and line consists of a single non-alphanumeric character.
+                    # Purge conditions:
                     if PURGE_SPECIAL_CHARS and len(stripped_line) == 1 and not stripped_line.isalnum():
                         continue
-                    # Remove line if it exactly matches any string in PURGE_LINES.
                     if stripped_line in PURGE_LINES:
                         continue
-                    # Remove line if it starts with "Honest Trailers Commentary".
                     if stripped_line.startswith("Honest Trailers Commentary"):
                         continue
-                    cleaned_lines.append(line.rstrip())
+                    # Remove stop words in the line.
+                    tokens = word_tokenize(stripped_line)
+                    filtered_tokens = [token for token in tokens if token.lower() not in stop_words]
+                    removed_count = len(tokens) - len(filtered_tokens)
+                    total_stopwords_removed += removed_count
+                    new_line = " ".join(filtered_tokens)
+                    # Only include non-empty lines.
+                    if new_line.strip():
+                        cleaned_lines.append(new_line)
                 new_content = "\n".join(cleaned_lines)
                 with open(file, "w", encoding="utf-8") as f:
                     f.write(new_content)
-                Logger.debug(f"Cleaned file: {file.name} (original {len(lines)} lines, cleaned {len(cleaned_lines)} lines)")
+                Logger.debug(f"Cleaned file: {file.name} (original lines: {len(lines)}, cleaned lines: {len(cleaned_lines)}, stopwords removed: {total_stopwords_removed})")
             except Exception as e:
                 Logger.error(f"Error cleaning file {file.name}: {e}")
                 continue

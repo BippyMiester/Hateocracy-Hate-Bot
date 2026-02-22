@@ -11,17 +11,16 @@ import re
 from helpers.Logger import Logger
 import chromadb
 from chromadb.config import Settings
+import tiktoken
 
 # Load settings.json configuration.
 SETTINGS_PATH = Path("./settings.json")
 with open(SETTINGS_PATH, "r", encoding="utf-8") as f:
     settings = json.load(f)
-
 # Extract AI settings.
 ai_settings = settings["ai"]
 # Extract wiki settings (used for local knowledge base persist directory).
 wiki_settings = settings["wiki"]
-
 try:
     openai_api_key = ai_settings["openai_api_key"]
     model = ai_settings["model"]
@@ -30,6 +29,12 @@ try:
     previous_message_count = ai_settings["previous_messages"]
 except KeyError as ke:
     raise Exception(f"Missing required AI setting: {ke}")
+
+# Helper function to get token count using tiktoken.
+def num_tokens_from_string(string: str, encoding_name: str) -> int:
+    encoding = tiktoken.encoding_for_model(encoding_name)
+    num_tokens = len(encoding.encode(string))
+    return num_tokens
 
 # Load the system prompt from the markdown file.
 system_prompt_path = Path("./openai/context.md")
@@ -50,7 +55,6 @@ def remove_stopwords(text: str) -> str:
 
 # File path for storing AI responses ratings.
 AI_RESPONSES_FILE = Path("./data/ai_responses.json")
-
 def load_ai_responses():
     if AI_RESPONSES_FILE.exists():
         try:
@@ -128,12 +132,11 @@ async def call_openai(system_prompt: str, user_text: str, max_tokens: int) -> st
         Logger.warning(f"Truncating user input from {len(tokens)} tokens to {max_input_tokens} tokens.")
         tokens = tokens[:max_input_tokens]
         user_text = ' '.join(tokens)
-    Logger.info(f"Final user text token count: {len(word_tokenize(user_text))} tokens.")
+    Logger.info(f"Final user text token count (using nltk): {len(word_tokenize(user_text))} tokens.")
     messages = [
         {"role": "system", "content": system_prompt},
         {"role": "user", "content": user_text}
     ]
-    
     async def run_api():
         update_currently_processing(True, SETTINGS_PATH)
         try:
@@ -150,7 +153,6 @@ async def call_openai(system_prompt: str, user_text: str, max_tokens: int) -> st
             return result
         finally:
             update_currently_processing(False, SETTINGS_PATH)
-    
     # Wrap run_api using asyncio.to_thread.
     result = await asyncio.to_thread(lambda: asyncio.run(run_api()))
     Logger.info(f"OpenAI returned a response of length {len(result)}")
@@ -199,7 +201,7 @@ class AITask(commands.Cog):
                 })
         except Exception as e:
             Logger.error(f"Error fetching previous messages: {e}")
-        
+
         # Query local knowledge base using ChromaDB.
         context_info = ""
         try:
@@ -237,7 +239,6 @@ class AITask(commands.Cog):
         }
         user_text = json.dumps(user_payload, indent=4)
         Logger.info(f"Constructed user_text payload for OpenAI API:\n{user_text}")
-
         try:
             Logger.debug(f"Calling OpenAI API for user {message.author} with payload.")
             openai_reply = await call_openai(system_prompt, user_text, max_completion_tokens)
@@ -246,14 +247,20 @@ class AITask(commands.Cog):
             await message.channel.send("Something went wrong. Error Code: AITASK002")
             return
 
+        # Compute token counts with tiktoken.
+        payload_token_count = num_tokens_from_string(user_text, model)
+        response_token_count = num_tokens_from_string(openai_reply, model)
+
         # Send OpenAI response with persistent feedback buttons.
         try:
             response_message = await message.channel.send(openai_reply, view=FeedbackView(0))
-            # Create a new entry in the ai_responses file.
+            # Create a new entry in the ai_responses file including token count details.
             ai_data = load_ai_responses()
             ai_data[str(response_message.id)] = {
                 "original_message": message.content,
                 "openai_response": openai_reply,
+                "payload_token_count": payload_token_count,
+                "response_token_count": response_token_count,
                 "good": 0,
                 "bad": 0,
                 "users": []
@@ -264,6 +271,9 @@ class AITask(commands.Cog):
             await response_message.edit(view=feedback_view)
             self.bot.add_view(feedback_view)
             Logger.info(f"Feedback view added for message id: {response_message.id}")
+            # Log the payload token count and response token count.
+            Logger.info(f"Payload token count: {payload_token_count}")
+            Logger.info(f"Response token count: {response_token_count}")
         except Exception as e:
             Logger.error(f"Error sending feedback view: {e}")
 
