@@ -1,0 +1,10 @@
+Auto Pick Perks
+Unlocked in Milestones at tier 4 wave 50 and after Unlock Perk completed. A toggleable ability that will select the first perk available when perks are available. Auto Pick Perks is toggled during a run by clicking the perk bar at the top of the screen. When an offering of perks is presented, and none of them are in the auto perk ranking, the first perk will be chosen. Has 1 level.
+Level
+Time
+Cost
+Value
+1
+4d 23h 26m
+100,000,000
+Unlocked

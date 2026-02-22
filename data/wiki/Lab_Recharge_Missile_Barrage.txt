@@ -1,0 +1,39 @@
+Recharge Missile Barrage
+Unlock
+Lab
+in
+Milestones
+at tier 14 wave 60. Allows Missile Barrage to recharge after a number of waves. Has 7 levels.
+Level
+Time
+Coins
+Expand
+Value
+1
+5d  5h  0m
+550,000,000,000
+1500
+2
+6d  14h  21m
+1,050,000,000,000
+1250
+3
+8d  54m  39s
+1,550,000,000,000
+1000
+4
+9d  23h  10m
+2,050,000,000,000
+750
+5
+14d  1h  58m
+2,560,000,000,000
+500
+6
+24d  19h  29m
+3,070,000,000,000
+350
+7
+51d  8h  12m
+3,600,000,000,000
+200

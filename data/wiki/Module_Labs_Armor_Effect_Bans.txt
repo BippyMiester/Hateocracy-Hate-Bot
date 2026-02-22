@@ -1,0 +1,22 @@
+Armor Effect Bans
+Unlocked Tier 10 wave 40.  Enables the banning of specific armor effects when rerolling armor modules. Has 4 levels 4 for total bans.
+Level
+Time
+Cost
+Value
+1
+37d 12h 0m 0s
+500.00B
+1
+2
+91d 16h 0m 0s
+50.0T
+2
+3
+162d 12h 0m 0s
+5.0q
+3
+4
+204d 4h 0m 0s
+50.00q
+4

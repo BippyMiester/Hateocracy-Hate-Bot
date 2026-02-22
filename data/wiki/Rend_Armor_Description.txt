@@ -1,0 +1,23 @@
+Contents
+1
+Description
+2
+Workshop
+2.1
+Rend Armor Chance
+2.2
+Rend Armor Mult
+Description
+Rend armor gives the chance to apply a damage multiplier. The multiplier is applied to single enemies and increases tower projectile damage only.
+Workshop
+Unlocked in the
+workshop
+for 500,000,000,000 (500 Billion) coins after
+Super Critical
+. Unlocks Rend Armor Chance and Rend Armor Mult. Rend Armor provides a multiplier on effected enemies up to 800% of normal damage.
+Rend Armor Chance
+Chance on enemy hit to permanently increase the damage that enemy takes from projectiles. There are 299 levels with each level increasing the chance by 0.10%. The starting chance is 0.10% and has a maximum of 30.00%.
+Rend Armor Mult
+Amount of additional damage that the enemy takes. Rend can stack to a limit of 800.00%. There are 299 levels with each increasing the multiplier by 0.10% or 0.0010X. The starting value is 0.0010X and has a maximum value of 0.3000X. The multiplier only applies to tower projectiles. Damage from other sources are not modified by Rend Armor.
+1
+8

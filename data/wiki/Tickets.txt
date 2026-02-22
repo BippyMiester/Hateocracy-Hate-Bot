@@ -1,0 +1,7 @@
+Description
+Tickets are the currency used in
+Tournaments
+. They can be used to play one Battle.
+Getting Tickets
+You get a ticket every time a Tournament starts. If you want more you can watch an ad or buy 1 for 10
+Gems

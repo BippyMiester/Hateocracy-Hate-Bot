@@ -1,0 +1,6 @@
+Keys
+Keys are a currency earned by reaching 1st - 15th place in a Legend
+Tournament
+. They are used for unique Tower upgrades in
+Tech Trees
+in the Vault.

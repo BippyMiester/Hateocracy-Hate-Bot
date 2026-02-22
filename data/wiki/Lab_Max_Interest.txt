@@ -1,0 +1,67 @@
+Max Interest
+Max Interest increases the maximum amount of interest you can receive (Starts at $50). There are 15 levels. Max Interest is indicated by the $ by Cash turning bright green.
+Level
+Time
+Cost
+Expand
+Value
+1
+0d  0h 41m
+250
+$100
+2
+0d  1h  9m
+910
+$200
+3
+0d  2h  8m
+2,130
+$350
+4
+0d  4h 33m
+4,860
+$500
+5
+0d  9h 42m
+10,330
+$700
+6
+0d 19h 11m
+20,020
+$1,000
+7
+1d 10h 50m
+35,600
+$1,500
+8
+2d 10h 43m
+58,900
+$2,000
+9
+3d 21h 10m
+91,940
+$2,500
+10
+5d 20h 39m
+136,870
+$3,500
+11
+8d 11h 54m
+195,990
+$5,000
+12
+11d 21h 48m
+271,720
+$7,500
+13
+16d  5h 25m
+366,610
+$10,000
+14
+21d 13h 39m
+483,330
+$12,500
+15
+28d  2h 55m
+624,680
+$15,000

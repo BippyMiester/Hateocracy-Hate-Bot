@@ -1,0 +1,48 @@
+Inner Land Mine - Chrono Jump
+When an enemy is hit by an Inner Land Mine, the Charge of the Inner Land Mine is boosted by this lab times the number of times this enemy has hit an Inner Land Mine. Has 10 levels and requires ILM+.
+Level
+Time
+Cost
+Value
+1
+16d 16h 0m 0s
+1q
+5s
+2
+33d 8h 0m 0s
+2.1q
+10s
+3
+50d 0h 0m 0s
+4.2q
+15s
+4
+66d 16h 0m 0s
+8.6q
+20s
+5
+83d 8h 0m 0s
+17.7q
+25s
+6
+100d 0h 10m 0s
+36.2q
+30s
+7
+116d 16h 0m 0s
+74.2q
+35s
+8
+133d 8h 0m 0s
+152.2q
+40s
+9
+150d 0h 0m 0s
+311.9q
+45s
+10
+166d 16h 0m 0s
+639.4q
+50s
+1
+8

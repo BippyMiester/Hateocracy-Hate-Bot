@@ -1,0 +1,143 @@
+Contents
+1
+Fleet Enemies
+1.1
+Overview
+1.2
+Fleet Rewards
+1.3
+Fleet Enemy Spawns
+1.4
+Fleets at Higher Waves on Lower Tiers
+Fleet Enemies
+Disclaimer:
+Much of this portion is derived from Developer Notes given to me. There are still things in V27 that may have been implemented differently than stated below, or Bugs affecting intended behavior. Time will allow for these differences to be distinguished.
+Fleet Enemies include Saboteur, Commander, and Overcharge and can be encountered on T14 and beyond. Fleet enemies are Immune to Orbs, Death Ray, shockwave, knockback,  Black Hole Damage, and Black Hole Pull. They have 90% resistance to Thorns and 50% resistance to Chrono Field, Chrono Loop(CF+), Thunder bot, Poison Swamp Stun, Land Mine Stun, and Inner Land Mine Stun. The Magnetic Hook module and Plasma cannon card cannot target fleet enemies. Fleet enemies do not collide with other enemies. Commander and Overcharge reach their range outside of tower range while the saboteur will fully approach the tower.
+Overview
+Fleet Enemy Overview
+Fleet Enemy
+Description
+Speed
+Health
+Attack
+Saboteur
+Disables a random Ultimate Weapon when impacting the Tower, re-enabled with then Saboteur dies. Wall can prevent Saboteur from debuffing the tower.
+2x
+20x
+0*
+Commander
+Empowers enemies within an area, providing a 2x buff to enemy health.
+0.5x
+20x
+N/A
+Overcharge
+Shoots a returning projectile at the Tower, dealing double damage with each subsequent hit.
+1x
+20x
+1/65536
+*Saboteur still registers as attacking for thorn effects, but does not proc Energy Shield or break The Wall.
+Fleet Rewards
+Fleet enemies have an 80% chance to drop reroll shards and a 20% chance to drop module shards. The rewards are as follows:
+Fleet Rewards
+Tiers
+Reroll Shards (80%)
+Wave
+Module Shards (20%, 5% per type)
+T14
+1080
+1
+5
+T15
+1200
+250
+6
+T16
+1350
+500
+7
+T17
+1500
+750
+8
+T18
+1650
+1000
+9
+T19
+1800
+1250
+10
+T20
+1950
+1500
+11
+T21
+2100
+1750
+12
+2000
+13
+2250
+14
+2500
+15
+2750
+16
+3000
+17
+3250
+18
+3500
+19
+3750
+20
+4000
+21
+4250
+22
+4500
+23
+4750
+24
+5000+
+25
+Fleet Enemy Spawns
+Fleet enemies will always spawn when they should. Wave skipping a wave where a Fleet Enemy would spawn will spawn the fleet enemy. Fleet enemies spawn with a group of their related enemies. The count of spawned enemies appears to be a random number in the 10-14 range. Fleet spawn time is random within the wave it will spawn. If the enemy spawn count is capped, a related enemy will despawn to allow the fleet to spawn. The related enemy is fast for Saboteur, Tank for Commander, and Ranged for Overcharge.
+Fleets at Higher Waves on Lower Tiers
+Fleets have been added to all tiers. Tier 1 will have Fleets starting at wave 15,000, and each subsequent tier will have Fleets appear 250 waves earlier (T2 = 14,750, T3 = 14,500, etc). Once they appear, they will spawn every 100 waves.
+Spawning Behavior
+Tier
+First Wave
+Frequency
+Wave/fleet
+Tier 14+
+(Legends prior to V27.3)
+895
+30
+Tier 14
+2495
+1000
+Tier 15
+1495
+750
+Tier 16
+995
+500
+Tier 17
+495
+250
+Tier 17+ (Legends from V27.3+)
+895
+30
+Tier 18
+95
+100
+Tier 19
+45
+50
+Tier 20
+5
+10 waves/1fleet
+Tier 21
+5
+10 waves/2 fleet

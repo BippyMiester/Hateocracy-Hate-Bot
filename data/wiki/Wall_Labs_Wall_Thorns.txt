@@ -1,0 +1,88 @@
+Wall Thorns
+Has 20 Levels. Allows the wall to do thorn damage based on a percent of the tower's
+thorn
+damage.
+Level
+Time
+Cost
+Value
+1
+1d  3h 46m
+30B
+1%
+2
+1d 12h  7m
+38,1B
+2%
+3
+1d 20h 49m
+46,35B
+3%
+4
+2d  6h 58m
+54,72B
+4%
+5
+2d 20h 39m
+63,21B
+5%
+6
+3d 17h  8m
+71,81B
+6%
+7
+5d  0h 54m
+80,52B
+7%
+8
+7d  1h 48m
+89,32B
+8%
+9
+10d  3h  3m
+98,22B
+9%
+10
+14d 13h 24m
+107,22B
+10%
+11
+20d 19h  4m
+116,31B
+11%
+12
+29d  7h 56m
+125,49B
+12%
+13
+40d 17h 29m
+134,76B
+13%
+14
+55d 14h 55m
+144,12B
+14%
+15
+74d 17h  9m
+153,56B
+15%
+16
+98d 18h 54m
+163,09B
+16%
+17
+128d 16h 42m
+172,7B
+17%
+18
+165d  8h 56m
+182,4B
+18%
+19
+209d 19h 53m
+192,18B
+19%
+20
+263d  3h 46m
+202,03B
+20%

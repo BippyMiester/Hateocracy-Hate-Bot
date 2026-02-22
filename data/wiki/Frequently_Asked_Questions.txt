@@ -1,0 +1,54 @@
+Contents
+1
+Overview
+2
+Which UW Should I Select?
+3
+Why Don't The Coins On The Stats Page Equal Total Coins?
+4
+Why is (BH, GB, SL) Negative?
+5
+Is perk math correct in game
+6
+Do Themes/Skins Stack?
+7
+What Does a Certain Abbreviation Mean?
+8
+When Should I get Wall?
+9
+I had enough abs defense to not take any damage, why did I die?
+10
+What Should I Spend Medals On?
+Overview
+This page is to help answer questions about features of the game that often get associated as bugs before people understand how they work.
+Which UW Should I Select?
+There is a list/guide to help you located here:
+Which UW do I select?
+Why Don't The Coins On The Stats Page Equal Total Coins?
+V27 brought significant changes to the readability of Coin breakouts. When a good interpretation is available, I will share it here.
+Short answer: Any overlap will cause the multipliers to stack so the amounts given to your GT, BH, SL, DW or GB to include duplicate coins.
+Long answer: best to show an example: start with 100 coins, 20x GT and 10x BH. Assume all coins are stacked on GT and BH.
+total coins = 100 x 20 x 10 = 20,000 total coins
+How many did GT earn? How many were earned without GT?
+Without GT = 100 × 10 = 1,000 coins so GT earned 19,000 coins (20,000-1,000)
+Without BH = 100 × 20 = 2,000 coins so BH earned 18,000 coins (20,000-2,000)
+If you try to add you will get 37,000 coins despite only earning 20,000 because they activated together. This example excluded many factors: some enemies will not be killed while either are active, some will be killed with only 1 active or SL, DW and GB all could also play an effect making bigger differences
+Why is (BH, GB, SL) Negative?
+known visual bug. This does not change your coins earned.
+Is perk math correct in game
+See
+Perks
+Do Themes/Skins Stack?
+See
+Themes
+What Does a Certain Abbreviation Mean?
+See
+Common Abbreviations
+When Should I get Wall?
+You will see varying advice for when specifically to start wall. The wall in it's early stages is actually detrimental to early players since it does not apply thorns fast enough and causes enemies to "Heat-up" doing substantially more damage. Readiness for Wall is dependent on 2 things, having a steady flow of coins for Wall upgrades and Lab Slots available. You will want to be making in the hundreds of Billions of coins per day to afford essential labs. You will also want to have at least 3 lab slots so you can work on getting wall thorns higher, leveling up wall Regen, and boosting the health/fortitude of the wall. Look to the wall as an investment that will take trillions of coins.
+I had enough abs defense to not take any damage, why did I die?
+There is a heat up mechanic that's not really explained in-game: anytime an enemy hits you/your wall and lives, it receives a 1.04x damage multiplier. Early game, when you are likely to have low thorns%, this might lead to enemies hitting for unexpectedly more damage than tooltips indicate - possibly overwhelming your defense% and absolute defense, which would otherwise nullify damage taken.
+This will naturally stop being an issue as you progress a bit further and get a good amount of thorn damage.
+What Should I Spend Medals On?
+See
+Medals Guide

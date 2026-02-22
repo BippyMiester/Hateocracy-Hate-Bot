@@ -1,0 +1,8 @@
+Description
+Fires a net at bosses stunning them for a period of time.
+Use
+The Energy Net
+card
+automatically fires at bosses after entering the tower range. The net has its own movement speed based on your attack speed and is not affected by
+Light Speed Shot
+. Due to the movement speed, bosses will not always be stunned at the tower range line.

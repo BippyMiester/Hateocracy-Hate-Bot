@@ -1,0 +1,60 @@
+Disclaimer and Credit
+This guide was made by discord user IceTæ#6224 for the community
+discord
+. It was made around the time of game version 0.16, but as of 0.17 should still be up to date.
+Should you have a big influx of gems (through the Tapjoy offerwall, stone packs, etc.), get Lab Slots 3 and 4, then 5 card slots and Lab 5 before continuing at step 6.
+Priority List
+2nd Lab Slot
+Have 3 total
+card slots
+, pull
+cards
+until you unlock all 3 of the following:
+Attack Speed
+Enemy Balance
+Coins
+3rd Lab Slot
+Have 5 total
+card slots
+, pull
+cards
+until you also unlock:
+Health
+Cash
+4th Lab Slot
+Have 7 total
+card slots
+, pull
+cards
+until you get either Extra Orb or Death Ray.
+Add Extra Orb or Death Ray, whichever you pulled (Extra Orb improves massively with its
+lab upgrades
+You should aim to unlock the Orb Adjuster Lab. Until then, use another card like Extra Defense or don't unlock the slot.
+Add Wave Skip or Critical Coin, assuming you pulled either. If you pulled both, buy an 8th slot and use both.
+5th Lab Slot
+Go for 10 total
+card slots
+, unlock them as you pull the following cards:
+Wave Skip or Critical Coin, if you haven't already added them
+Plasma Cannon
+Wave Accelerator
+Max most / all cards up to rare that you use and get Death Ray, if you haven't already. Also buy the needed
+card slot
+. * n.b.: But do be aware that Death Ray card is
+not available
+until you've got past wave 250 of the first 10 tiers! Do that first before spending gems looking for a Death Ray card you'll never get until that prerequisite is met.
+Use gems to rush lab speed to your goal. For most that is at least 50, but it depends on how long you plan to play
+The Tower
+Discord user Pi_#5088 made a "Return of Investment Calculator" for Lab Speed, you can find it
+here
+The thought behind this is that researching
+lab speed
+takes up time and a lab spot that could be used for other research. This sheet helps calculate at which point the reduction you gained through lab speed amount to more time than you needed to get lab speed to that point.
+Max all cards and get more card slots as you need them.
+Especially for high waves and tournaments the Slow Aura
+card
+is beneficial due to massively increased enemy speeds.
+Use gems to
+rush
+whatever labs you want to, especially in combination with the "Total lab research time"
+event mission

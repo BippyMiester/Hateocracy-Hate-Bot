@@ -1,0 +1,148 @@
+Contents
+1
+Description
+2
+Use
+3
+Lab
+3.1
+Double Death Ray
+Description
+A ray that kills enemies all enemies it comes into contact with.
+Use
+The Death Ray
+card
+cannot kill bosses or any enemy within the protectors radius. At max, Death Ray will rotate more than 180
+o
+Lab
+Double Death Ray
+Unlocks
+lab
+in
+Milestones
+at tier 3 wave 300. Double Death Ray has a chance to activate that is increased by the lab. When Double Death Ray triggers, the 2nd beam will always be opposite to the first and rotate in the same direction around the tower. Has 30 levels.
+Level
+Time
+Cost
+Expand
+Value
+1
+0d  0h 59m
+2.5M
+1%
+2
+0d   9h 21m
+2.81M
+2%
+3
+0d  17h 53m
+3.42M
+3%
+4
+1d   2h 54m
+5.83M
+4%
+5
+1d  12h 49m
+13.94M
+5%
+6
+2d   0h  6m
+35.25M
+6%
+7
+2d  13h 17m
+82.06M
+7%
+8
+3d   4h 58m
+172.67M
+8%
+9
+3d  23h 49m
+332.58M
+9%
+10
+4d  22h 31m
+595.69M
+10%
+11
+6d   1h 49m
+1.01B
+11%
+12
+7d  10h 30m
+1.62B
+12%
+13
+9d   1h 23m
+2.49B
+13%
+14
+10d  23h 21m
+3.72B
+14%
+15
+13d   5h 18m
+5.38B
+15%
+16
+15d  20h  9m
+7.60B
+16%
+17
+18d  20h 54m
+10.49B
+17%
+18
+22d   8h 32m
+14.21B
+18%
+19
+26d   8h  6m
+18.9B
+19%
+20
+30d  20h 40m
+24.77B
+20%
+21
+35d  23h 19m
+32.01B
+21%
+22
+41d  17h 12m
+40.85B
+22%
+23
+48d   3h 27m
+51.55B
+23%
+24
+55d   7h 16m
+64.37B
+24%
+25
+63d   5h 50m
+79.64B
+25%
+26
+72d   0h 25m
+97.67B
+26%
+27
+81d  16h 17m
+118.82B
+27%
+28
+92d   6h 41m
+143.50B
+28%
+29
+103d  20h 58m
+172.11B
+29%
+30
+116d  12h 28m
+205.12B
+30%

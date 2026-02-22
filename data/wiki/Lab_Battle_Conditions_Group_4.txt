@@ -1,0 +1,51 @@
+Battle Conditions Group 4: Durations/Reductions
+Unlocked Tier 21 Wave 1000. Group 4 consists of the following BCs that each have their own lab and reduce the effect of the BC by X%. Has 10 levels.
+Ultimate Weapon Durations
+Death Defy Down
+Energy Shields Down
+Enemy Level Skip Reduction
+Level
+Time
+Cost(Q)
+Expand
+Value
+1
+26d 23h 58m
+2
+1%
+2
+44d 19h 37m
+4
+2%
+3
+62d 15h 17m
+8
+3%
+4
+80d 10h 57m
+16
+4%
+5
+98d 6h 36m
+32
+5%
+6
+116d 2h 16m
+64
+6%
+7
+133d 21h 56m
+128
+7%
+8
+151d 17h 35m
+256
+8%
+9
+169d 13h 15m
+512
+9%
+10
+187d 8h 55m
+1024
+10%

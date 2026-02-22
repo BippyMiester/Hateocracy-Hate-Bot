@@ -1,0 +1,32 @@
+Contents
+1
+Description
+2
+Use
+2.1
+Wave Based Interactions
+2.2
+Income Based Interactions
+Description
+Chance to skip a wave and receive x1.1 coins, cash, and cells from the previous wave. If the skipped wave contained a Boss, reroll shards/modules chances will also be rolled.
+Use
+The Wave Skip
+card
+is a complex card with many interactions both positive and negative. There are 2 main categories: wave based and income based.
+Wave Based Interactions
+Waves Skipped: Can trigger on multiple waves in a row causing multiple waves to be skipped.
+Free Upgrades
+: Tests for each wave completed after the skips, meaning that skipped waves can trigger more free upgrades.
+Enemy Level Skips
+: Can activate up to as many waves were skipped for both Enemy Health/Attack Level Skip.
+Energy Shield
+: Time is not skipped so Energy Shield will need more waves between charges.
+Demon Mode
+: Time is not skipped so Demon Mode will last more waves.
+Income Based Interactions
+All income earned on the last wave will be x1.1 even if the bonus was earned from
+Ultimate Weapons
+or
+Golden Bot
+Cells are earned based on how many cells were earned on the previous wave.
+When multiple waves are skipped in a row, the amount is calculated x1.1^(# of wave skipped).

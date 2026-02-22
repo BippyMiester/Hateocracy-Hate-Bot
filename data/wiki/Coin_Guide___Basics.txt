@@ -1,0 +1,62 @@
+Contents
+1
+Overview
+2
+Coins/Wave
+3
+Coins/Kill
+3.1
+Multipliers
+3.2
+Syncing
+3.3
+Coins/Kill Sources
+3.4
+Summary
+4
+Daily Missions
+Overview
+Coins are an important part of progress. Understanding how to build your coin economy early on will help you progress more smoothly. As you unlock more tools that make earning coins faster, you will be able to use the concepts on this guide to quickly build your economy. This guide will walk you through how coins are earned and what you need to consider to keep earning more.
+Coins/Wave
+CPW is the weakest source of coins the game has to offer. This is because there are fewer multipliers that allow CPW to grow. There is merit to CPW though. CPW in the earliest part of the game will help you build up coins quickly. This is usually true in the earliest stages of tier 1 and once you start unlocking higher tiers.
+Because of its early game limits, stop upgrading CPW in your lab by level 20. You may not even take it this high but you should be safe taking it here.
+Coins/Kill
+Coins per kill is where the vast majority of your coins will be coming from. To really understand coin earning in this game, we need to discuss multipliers and syncing.
+Multipliers
+All multipliers in this game multiply with each other. This means your packs, themes, cpk workshop, UW coin bonuses and more are all multiplied when they are active on the same enemy. This allows CPK to be incredibly high. For example, Black Hole has a max of 11x and Golden Tower has a max of 20.75. When active together, enemies killed drop x228.25 the normal coins. When looking for ways to earn more coins, new multipliers will be more effective than upgrading heavily improved multipliers. To make these multipliers trigger this way, we need to also discuss syncing.
+Syncing
+The bonuses from UW and Bots are not always active the entire round. Syncing is getting UWs and bots to activate as often as possible together to earn more coins. The secret to syncing is simple: Make the cooldowns multiples of each other. The most common target is to make cooldowns 1:1.
+For example GT starts at 5:00 or 300 seconds while BH starts at 3:20 or 200 seconds. You can reduce GT cooldown to 200 seconds and it will always activate with BH so their coin bonuses combine. Alternatively, you can reduce BH cooldown to 2:30 or 150 seconds. This will make BH trigger 2 times for each GT activation.
+Relates the cooldown of the ultimate weapons (UW) Golden Tower (GT) / Death Wave (DW) to the cooldown of Black Hole (BH). Only exact equal starting points of the UWs are considered as being synced. High values (yellow) show often synchs and low values (dark blue) rarely or no synchs.
+This effect can be mimicked through the Multiverse Nexus armor module, which synchronizes Death Wave, Golden Tower, and Black Hole by averaging their cooldowns with a small penalty.
+The downsides to a 2:1 sync or higher is that it requires more upgrades at the same time to keep the sync. Lets start with a 1:1 sync as our example: GT and BH when at 1:1 requires you to save the stones to upgrade GT and BH 1 time each before upgrading either cooldown. If you upgrade either of them before having the stones for the other the sync breaks. If we now go back to the 2:1 example, you must upgrade GT 2 times and BH 1 time to keep a sync. If you do not save the stones required, the sync will break and activations together will be less frequent.
+Coins/Kill Sources
+This game has several sources for coins. Below are the unlocks that increase CPK. Some of these will affect the Coin bonus overall and some will directly affect the Coins/kill stat in the workshop.
+Packs - Paid for with real money. Includes starter pack, epic pack and disable ads. Also increases CPW.
+Coin Card - Increases as the card level increases. Also increases CPW.
+Enemy Balance - indirectly increases coins by spawning more enemies which drop coins.
+Tier - Increases by tier. Also increases CPW.
+Themes
+- Unlocked with medals. Also increases CPW
+Relics
+- See relics for specific
+relics
+that increase coins. Also increases CPW.
+Coins/Kill
+- Workshop and lab.
+Golden Tower
+- UW, also has a lab.
+Black Hole
+- UW, lab required for coin bonus
+Spotlight
+- UW, lab required for coin bonus
+Death Wave
+- UW, lab required for coin bonus
+Coin Bot
+- Bot from event shop, need to upgrade with medals.
+Summary
+Most of your economy will come from CPK. Work on syncing UWs and combining multipliers to get the most coins possible.
+Daily Missions
+This is a final source of coins. Early game, daily rewards can be a large source of coins. Since the amount of coins earned is based on tiers unlocked, unlocking as many tiers as possible is a valid strategy to get more coins. The amount of coins is limited to the 10s of millions so you will eventually grow to where daily missions are a very small portion of your coins.
+1
+8

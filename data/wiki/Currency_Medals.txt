@@ -1,0 +1,37 @@
+Contents
+1
+Medals
+1.1
+Obtaining Medals
+1.2
+Spending Medals
+1.3
+Relics
+Medals
+Medals are currency used to make purchases from the Event Shop.
+Obtaining Medals
+Medals can be obtained from three sources:
+Completing
+Event
+Missions
+Earning Weekly Rewards from
+Daily Missions
+Guardian
+with Fetch module equipped
+Spending Medals
+Medals can only be spent in the Event Shop and do not expire when an Event ends. Players can save their Medals for a future Event Shop if they choose to do so. Items offered in the Event Shop include the following:
+Gems
+Power Stones
+Shards
+Themes
+Music
+Bots
+Relics
+(Only during an Event rerun)
+Relics
+Relics
+can only be unlocked by earning Medals during their respective
+Event
+; any Medals carried over from a previous Event or earned from
+Daily Mission
+boxes are not counted toward the number of Medals needed to earn a Relic.

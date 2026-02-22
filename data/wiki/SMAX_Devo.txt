@@ -1,0 +1,93 @@
+SMAX Devo
+Below is the SMAX Devo Guide made by discord user Tremnen. This is accurate as of v25.3 to handle DW changes as well as BH position changes.
+Base Requirements:
+Black Hole and Golden Tower in sync (can use Multiverse Nexus)
+SM in sync with BH and GT
+Set Shockwave to ~1.4 to juggle basics to bottom of the stack more if using Wall (1.65-1.75)
+Devo’d workshop Heavy into Defensive Options
+Ability to cash max damage stats early in run (WS Damage at 5k or greater)
+Workshop Devo basics:
+The goal is to remove any ability from the tower that will kill too many units too quickly. Devo strats are all about getting an advantage out of killing enemies with the right multipliers available. We want Black Hole and Golden Tower to go off with as many enemies on screen as possible. To do that we make sure in the workshop and with substats the following stats are at 0.
+Attack Upgrades
+Attack Speed
+Multishot Chance
+Rapidfire Chance
+Bounce Shot Chance
+Defense Upgrades
+Thorns (push up with cash during run to trim basics. As enemy spawns increase you will want to slowly get this up to about 34%) (can run substat if workshop is 0)
+Knockback Chance
+Orbs
+Shockwave Size (can be set at optimal shuffle distance 1.4 without Wall about 1.65 with)
+Landmine Chance
+Landmine Radius
+Utility Upgrades
+Free Attack Upgrade
+Free Defense Upgrade
+Free Utility Upgrade
+Optional stats to Devo
+Crit Chance - Lets you damage Devo for longer for those wishing to pursue those strategies
+Range - Different strategies use different ranges. Always a good idea to leave this at 30m base
+Landmine Damage - For people with Land Mine Radius for Land Mine Stun card or who have Spotlight and want to do Land Mine Orbless.
+Best Cards:
+Required: Coins, CritCoin, Cash, Enemy Balance, Health, Extra Defense, Berserker, Damage, Crit
+Econ Cards: Wave Skip, Wave Accelerator
+Defensive Cards: Regen (if you use Wall or Wormhole Recombinator Mod), Recovery Package Chance if you don't or are using the Galaxy Compressor Mod
+Nice to haves: Ultimate Weapon Crit, Land Mine Stun (do not use or undevo Landmine chance until Land Mine damage is irrelevant in your run. You do not want them to kill your stack. Only to stun to reduce damage. This is only relevant with Mythic or Ancestral Land Mine Radius)
+Nice to haves:
+Maxed Black Hole Coin lab
+Maxed Black Hole Damage lab
+Death Wave (for HP and Coin and Cell increases)
+Spotlight (For Spotlight Coins)
+25s Black Hole Duration (with perk) This is so at max Black Hole Damage Protectors die in 2 cycles when you transition to Orb Devo
+Extra Black Hole Lab
+Garlic Thorns
+Lower Cooldowns on Black Hole, Golden Tower, Death Wave, and Smart Missiles
+UW crit card
+Synced Coin bot if not using Galaxy Compressor
+Strategy:
+Base strategy for SMAX is to Hoard and eHP tank a ton of enemies so when Black Hole and Golden Tower go off together all enemies are pulled up into Black Hole and Smart Missiles will kill the bricks. Offset Smart Missiles to go off a few seconds after Black Hole so Black hole has time to collect the bricks in a ball. Offset it further so more Black Hole Damage can extend how long your Smart Missiles can continue to clear the stack.
+After setup cash should be spent on Offensive stats. Crit, Critfactor, Damage, Supercrit, Supercrit Factor, Enemy Health Level Skips.
+After Offense stats, cash should be spent on Defensive options. This includes Enemy Attack Skips, Wall (if you have it), Health, Regen (if using Wall or Wormhole Redirector Mod), Defense Absolute, Def% etc.
+Micromanage Thorns to Trim basics as they are worth less coins. (picture showing a good stack below)
+When your Smart Missile can no longer clear the stack in one volley it is time to proceed to Orb Devo.
+When you are at risk of dying use cash to max Free Ups and proceed to Blender strategy until death.
+Pitfalls:
+This is a damage based build so is very stone, lab and Enhancement dependent for it to progress. As a damage based build it isn't affected by Protectors as much as Orb Devo.
+How to Improve:
+Focus on Survival stat improvements
+Focus on Damage improvements
+Smart Missile Amp lab (with some Smart Missile Radius) and qty are typically better for more damage than just adding in more stones into SM damage.
+Lower Cooldowns while keeping Black Hole, Golden Tower, and SM in sync.
+Perk Priorities:
+Econ:
+Perk Wave Requirement
+Coin Trade Off
+Golden Tower Bonus
+Black Hole Duration
+Coin
+Extra DeathWave Wave
+Cash
+Damage
+Damage/Boss Health Trade Off
+Defensive:
+Regen Trade Off (this can be bad if not enough wall health/fort. Try not taking it)
+Regen
+Defense%
+Max HP
+Defense Absolute
+Survival Priorities:
+Low Life Time Coin (sub 1T)
+If you are devoing in T1 or T2 Defense absolute is your friend and you will want to pump it up in the workshop to about 1000 or so. After that you will want to prioritize Health as large package recovery is usually the best strategy for survival early on. If you have a Wormhole mod Regen may be of use for you but honestly not usually until you are getting close to 5000 levels in Regen as earlier than that it scales poorly. The goal is to get Health up to about 5000 so you can cash max it in run.
+Lab goals for survival
+Defense % to lvl 23 (so you can def% cap with ancestral substat and maxed Standard Perk Bonus)
+Death Wave Health
+Health lvl 50
+Maxed Standard Perk Bonus
+Enemy Attack Level Skips
+Early Mid Game (3-200T)
+At this point you should have Mod options. Largely Wormhole is the best right now but you always want the highest rarity DEF% substat you can get. Landmine Radius on a mythic or greater armor mod will make Land Mine Stun a very good card in the very tail ends of your run by stunning a ton of enemies. Thorns sub is useful not only for hitting higher breakpoints on Wall Thorns if you choose to go that route and extending blender at the end of the run.
+Thorns Trimming:
+Between each activation (pre wall) the goal is to reduce the amount of basics around the tower to as few as possible to collect the most tanks as possible. Shockwave will shuffle tanks to the back of the pile naturally but you need to increase thorns up slowly to keep up with basic spawn rates. A good place to start is ~15-20% thorns.
+Picture Courtesy of : User: Tap87 in Devo Discord
+1
+8

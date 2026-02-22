@@ -1,0 +1,47 @@
+The Tower
+Contents
+1
+Description
+2
+Upgrading The Tower
+2.1
+Workshop Upgrades
+2.2
+Lab Upgrades
+2.3
+Cards
+2.4
+Ultimate Weapons
+2.5
+Perks
+Description
+The Tower is the blue hexagon in the middle of the screen. This tower has to fight his way through waves of
+Enemies
+to get to the highest
+Tier
+of the game or to get a ranking in a tournament. To achieve this, the tower can get a big power up by upgrading certain aspects of the tower, like damage or defense, or it can buy
+Ultimate Weapons
+and obtain
+Perks
+Upgrading The Tower
+To get further into the tiers or rankings, it is important to upgrade your tower to improve your runs.
+Workshop Upgrades
+Workshop Upgrades
+are the upgrades that can be bought in the workshop. These are upgrades that represent upgrades that can be bought during the run. With it you can upgrade the minimum level of an upgrade.
+Lab Upgrades
+Lab Upgrades
+are the upgrades that can be bought in the Lab. These are upgrades that upgrade the scaling of a workshop upgrade (ex. Damage), or a maximum of an upgrade (ex. Max interest).
+Cards
+Cards
+are items, obtained by
+Gems
+, that give you an extra boost. Only a certain amount of cards can be equipped at the same time, depending on your max card slots. Certain Cards are also locked in and cannot be swapped out during the run, others can.
+Ultimate Weapons
+Ultimate Weapons
+are "Weapons" that can be bought for a certain amount of Power Stones. These weapons give you extra advantages, like extra cash or missiles.
+Perks
+Perks
+are also extra advantages, but these are earned every 200 rounds, but these have to be researched first in the lab.
+1
+8
+Skip Ad

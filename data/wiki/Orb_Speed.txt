@@ -1,0 +1,584 @@
+Contents
+1
+Overview
+2
+Workshop
+2.1
+Orb Speed
+2.1.1
+Extra Orbs Speed
+2.2
+Orbs
+2.2.1
+Orb Damage
+2.3
+Cost
+2.4
+Workshop Enhancement
+2.4.1
+Orb Size
+3
+Lab
+4
+Overview
+Orbs are an unlock that rotate clock-wise around the tower and instantly kill most enemies they touch. Extra Orbs are a separate unlock via Card and lab that rotate counter clock-wise around the tower. In Total, 13 orbs can rotate around a tower - up to 10 going clock-wise and up to 3 going counter clock-wise.
+Workshop
+Unlocked in the
+workshop
+for 15000 coins after
+Knockback
+. Unlocks Orb Speed and Orbs in the workshop. Workshop orbs distance will adjust based on tower
+range
+. The adjustment is lower than a 1:1 adjustment so orbs will be further inside the tower range as tower range gets larger. Workshop orbs have a minimum range of 60m, so when tower range is less than that, the workshop orbs will extend past the tower range.
+Orb Speed
+Speed of the orbs defending your tower. There are 38 upgrades with base value of 0.4. Each level increases the speed by 0.15 for a maximum value of 6.10. Orb speed is in rotations per minute.
+Extra Orbs Speed
+Orb speed affects the Extra Orb
+card
+. Extra Orb speed is the workshop value + the card value. Researching Extra Extra Orb reduces extra orb speed by 5% and the 2nd Extra Extra Orb reduces speed by an additional 5% for a total of a 10% Orb speed reduction. Since orb speed is in rotations per minute, adjusting the orbs with the Extra Orb Adjuster lab to be farther away from the tower will cause them to speed up to complete the rotations in the same amount of time.
+Orbs
+Number of orbs defending your tower. There are 4 levels in the workshop that add one orb per level for a maximum of 4 orbs. Using the orb
+perk
+, the maximum orbs can become 6 orbs. Gaining a +2 orb sub-module effect on an Ancestral Armor takes the maximum orbs up to 8. You can also get the same sub-module effect on an Assist Module with 100% sub-stat efficiency for
+another
+2 orbs taking that maximum to 10 orbs rotating clock-wise around the tower.
+Orb Damage
+Orbs will kill
+enemies
+instantly with the exception of Bosses, Elites, and enemies protected by Protectors. Bosses can receive damage by orbs using the Orb Boss Hit lab up to 2% of maximum health per hit. Protectors cannot receive damage from orbs.
+Heats can prevent kills from instantly killing enemies. The heat level will determine the damage orbs do. Heats do not allow protectors to take damage. Bosses will continue taking damage based on Orb Boss Hit lab.
+Cost
+Orb Speed
+Orbs
+Orb Speed
+Level
+Value
+Cost
+Expand
+Total Cost
+1
+0.55
+125.00
+125.00
+2
+0.70
+163.00
+288.00
+3
+0.85
+214.00
+502.00
+4
+1.00
+283.00
+785.00
+5
+1.15
+374.00
+1.16K
+6
+1.30
+490.00
+1.65K
+7
+1.45
+635.00
+2.28K
+8
+1.60
+811.00
+3.10K
+9
+1.75
+1.02K
+4.12K
+10
+1.90
+1.27K
+5.38K
+11
+2.05
+1.55K
+6.93K
+12
+2.20
+1.87K
+8.81K
+13
+2.35
+2.24K
+11.05K
+14
+2.50
+2.65K
+13.70K
+15
+2.65
+3.11K
+16.81K
+16
+2.80
+3.61K
+20.42K
+17
+2.95
+4.17K
+24.59K
+18
+3.10
+4.77K
+29.36K
+19
+3.25
+5.43K
+34.79K
+20
+3.40
+6.14K
+40.93K
+21
+3.55
+6.91K
+47.83K
+22
+3.70
+7.73K
+55.56K
+23
+3.85
+8.61K
+64.18K
+24
+4.00
+9.56K
+73.73K
+25
+4.15
+10.56K
+84.29K
+26
+4.30
+11.63K
+95.92K
+27
+4.45
+12.76K
+108.67K
+28
+4.60
+13.95K
+122.62K
+29
+4.75
+15.21K
+137.83K
+30
+4.90
+16.54K
+154.37K
+31
+5.05
+17.93K
+172.31K
+32
+5.20
+19.40K
+191.71K
+33
+5.35
+20.94K
+212.65K
+34
+5.50
+22.55K
+235.20K
+35
+5.65
+24.23K
+259.43K
+36
+5.80
+25.99K
+285.42K
+37
+5.95
+27.82K
+313.24K
+38
+6.10
+29.73K
+342.98K
+Orbs
+Level
+Value
+Cost
+Expand
+Total Cost
+1
+1
+3.00K
+3.00K
+2
+2
+20.00K
+23.00K
+3
+3
+120.00K
+143.00K
+4
+4
+350.00K
+493.00K
+Workshop Enhancement
+Orb Size
+Requires 500 trillion coins to be spent on defense enhancements to unlock. Increases Orb Size by x1 when unlocked and increases by 0.01x per level. Has a maximum level of 200 for 3x orb size.
+Level
+Value
+Coins
+Expand
+Total Coins
+1
+1.01x
+5.00B
+5.00B
+10
+1.10x
+477.01B
+1.42T
+20
+1.20x
+15.26T
+41.94T
+30
+1.30x
+174.29T
+878.96T
+40
+1.40x
+1.92q
+9.64q
+50
+1.50x
+8.82q
+60.41q
+60
+1.60x
+63.90q
+379.19q
+70
+1.70x
+257.74q
+1.92Q
+80
+1.80x
+760.97q
+6.91Q
+90
+1.90x
+1.86Q
+19.93Q
+100
+2.00x
+4.02Q
+49.31Q
+110
+2.10x
+7.88Q
+109.01Q
+120
+2.20x
+14.38Q
+220.94Q
+130
+2.30x
+24.75Q
+417.96Q
+140
+2.40x
+40.61Q
+747.38Q
+150
+2.50x
+64.05Q
+1.28s
+160
+2.60x
+97.66Q
+2.09s
+170
+2.70x
+144.65Q
+3.31s
+180
+2.80x
+208.91Q
+5.10s
+190
+2.90x
+295.11Q
+7.64s
+200
+3.00x
+408.77Q
+11.19s
+Lab
+The
+labs
+for Orb Speed, Orb Boss Hit, Extra Orb Adjuster and Extra Extra Orbs are unlocked in
+Milestones
+Orb Speed Research
+Orb Boss Hit
+Extra Orb Adjuster
+Extra Extra Orbs
+Orb Speed
+Unlocked at tier 3 wave 80. There are 20 upgrades. The upgrades add to the orb speed workshop values.
+Level
+Time
+Cost
+Expand
+Value
+1
+0d  1h 19m
+15,000
+0.10
+2
+0d  3h  1m
+22,500
+0.20
+3
+0d  4h 52m
+105,740
+0.30
+4
+0d  7h  8m
+474,530
+0.40
+5
+0d 10h 10m
+1,500,000
+0.50
+6
+0d 14h 17m
+3,700,000
+0.60
+7
+0d 19h 56m
+7,780,000
+0.70
+8
+1d  3h 31m
+14,620,000
+0.80
+9
+1d 13h 32m
+25,250,000
+0.90
+10
+2d  2h 28m
+40,900,000
+1.00
+11
+2d 18h 50m
+62,990,000
+1.10
+12
+3d 15h 12m
+93,080,000
+1.20
+13
+4d 16h  7m
+132,970,000
+1.30
+14
+5d 22h 10m
+184,610,000
+1.40
+15
+7d  9h 59m
+250,140,000
+1.50
+16
+9d  4h 12m
+331,900,000
+1.60
+17
+11d  5h 26m
+432,430,000
+1.70
+18
+13d 14h 22m
+554,440,000
+1.80
+19
+16d  7h 40m
+700,850,000
+1.90
+20
+19d 10h 10m
+874,760,000
+2.00
+Orb Boss Hit
+Unlocked at tier 6 wave 750. There are 10 levels. The lab allows orbs to deal damage to bosses for a % of their total health.
+Level
+Time
+Cost
+Expand
+Value
+1
+1d  3h 46m
+800,000,000
+0.20%
+2
+1d 12h  7m
+1,210,000,000
+0.40%
+3
+1d 20h 40m
+1,670,000,000
+0.60%
+4
+2d  5h 47m
+2,330,000,000
+0.80%
+5
+2d 15h 58m
+3,370,000,000
+1.00%
+6
+3d  3h 49m
+5,060,000,000
+1.20%
+7
+3d 18h  5m
+7,730,000,000
+1.40%
+8
+4d 11h 32m
+11,730,000,000
+1.60%
+9
+5d  9h  6m
+17,510,000,000
+1.80%
+10
+6d 11h 45m
+25,540,000,000
+2.00%
+Extra Orb Adjuster
+Lab unlocks in milestones at tier 6 wave 50. Allows Orbs from the extra orb card to have their range adjusted during rounds. Orbs can be adjusted between a minimum of
+60m
+or
+1x tower range
+(whichever is lower) and a maximum of
+1.3x tower range
+. The orb adjuster does not work while a boss is alive.
+Level
+Time
+Cost
+Value
+1
+2d  1h 59m
+1,500,000
+Unlocked
+Extra Extra Orbs
+Lab unlocks in
+Milestones
+at tier 6 wave 80. Increases the number of orbs when the Extra Orb card is equipped. There are 2 levels.
+Level
+Time
+Cost
+Expand
+Value
+1
+1d 14h 53m
+25,000,000
++1
+2
+5d 18h 53m
+900,000,000
++2
+Workshop Upgrades
+Attack Upgrades
+Damage
+Attack Speed
+Critical Chance
+Critical Factor
+Range
+Damage Per Meter
+Multishot Chance
+Multishot Targets
+Rapid Fire Chance
+Rapid Fire Duration
+Bounce Shot Chance
+Bounce Shot Targets
+Bounce Shot Range
+Super Crit Chance
+Super Crit Mult
+Rend Armor Chance
+Rend Armor Mult
+Defense Upgrades
+Health
+Health Regen
+Defense %
+Defense Absolute
+Thorn Damage
+Lifesteal
+Knockback Chance
+Knockback Force
+Orb Speed
+Orbs
+Shockwave Size
+Shockwave Frequency
+Land Mine Chance
+Land Mine Damage
+Land Mine Radius
+Death Defy
+Wall Health
+Wall Rebuild
+Utility Upgrades
+Cash Bonus
+Cash / Wave
+Coins / Kill Bonus
+Coins/Wave
+Free Attack Upgrade
+Free Defense Upgrade
+Free Utility Upgrade
+Interest / Wave
+Recovery Amount
+Max Recovery
+Package Chance
+Enemy Attack Level Skip
+Enemy Health Level Skip
+Ultimate Weapons
+Chain Lightning
+Smart Missiles
+Death Wave
+Chrono Field
+Inner Land Mines
+Golden Tower
+Poison Swamp
+Black Hole
+Spotlight
+Workshop Enhancement
+Attack Upgrades
+Damage
+Rend Max
+Critical Factor
+Damage/Meter
+Super Crit Mult
+Attack Speed
+Defense Upgrades
+Health
+Health Regen
+Wall Health
+Land Mine Damage
+Defense Absolute
+Orbs Size
+Utility Upgrades
+Cash Bonus
+Coin Bonus
+Cells/Kill Bonus
+Free Upgrades
+Recovery Packages
+Enemy Level Skip

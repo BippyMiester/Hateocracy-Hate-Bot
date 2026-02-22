@@ -1,0 +1,24 @@
+Modules start as 1 of 3 rarities. The starting rarity determines how far a module can be merged and what rarity that module can be merged to.
+Common: Cannot be merged.
+Rare: Can be merged to Legendary+.
+Epic: Can be merged to Ancestral with 5 stars (ancestral is the only rarity with stars)
+What is Merging?
+Increasing a Rare+ to Epic. Stats and Max level are increasing
+Merging is boosting the rarity of a primary module which will also increase the main stat value and the main stat scaling. It also increases the highest level that module can reach.
+Important:
+Rare modules will never receive a unique ability when merging even to epic or higher.
+Important:
+Rare modules keep their original name. No rare will ever match with an epic that you pulled with gems.
+Merge Materials
+A list of merging materials can be found in game and is shown when selecting modules. The image to the left is the list of modules and the materials required in game. There are 2 icons when merging modules: 1) module icon (natural module) 2) wildcard (looks like orbs).
+The module icon will always be used to denote the primary module on the left of the equation. The primary will always be the first module you click on when merging.
+The icons shown after the "+" are the material quantity and type of materials needed to merge. If icon is a module icon, then it means it needs to be the same module as the primary at the rarity shown. The wildcard icon can be any module of the same type (Cannon, Armor, Generator or Core) and of the rarity shown.
+Ancestral modules can be upgraded to 5 stars, each star requires an natural epic+ module and increases the main effect.
+Merge Walkthrough
+Using the image from the previous section, this is a sample of merging a module from rare to rare+.
+Important:
+The first selection screen was filtered by type: armor and rarity: Rares. After the module was selected to be merged, only valid merge materials are shown and can be selected.
+Important:
+Again note the primary rare name never changed and merging to epic does not give it a unique effect. It can still be used as wildcard material for a natural epic later.
+1
+8

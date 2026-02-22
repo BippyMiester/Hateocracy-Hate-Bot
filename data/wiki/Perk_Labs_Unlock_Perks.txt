@@ -1,0 +1,10 @@
+Unlock Perks
+Unlocks perks to be accessed in rounds. Has 1 level. Unlocks other perk labs after completion.
+Level
+Time
+Cost
+Value
+1
+3d 11h 19m
+1,500,000
+Unlocked

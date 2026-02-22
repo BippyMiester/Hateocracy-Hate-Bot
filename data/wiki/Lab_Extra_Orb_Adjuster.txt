@@ -1,0 +1,16 @@
+Extra Orb Adjuster
+Lab unlocks in milestones at tier 6 wave 50. Allows Orbs from the extra orb card to have their range adjusted during rounds. Orbs can be adjusted between a minimum of
+60m
+or
+1x tower range
+(whichever is lower) and a maximum of
+1.3x tower range
+. The orb adjuster does not work while a boss is alive.
+Level
+Time
+Cost
+Value
+1
+2d  1h 59m
+1,500,000
+Unlocked

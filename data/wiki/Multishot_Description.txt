@@ -1,0 +1,21 @@
+Contents
+1
+Description
+2
+Workshop
+2.1
+Multishot Chance
+2.2
+Multishot Targets
+Description
+Multishot gives a chance for the tower to fire at more than one targets when firing.
+Workshop
+Unlocked in the
+workshop
+for 400 coins after
+damage/meter
+. Unlocks Multishot Chance and Multishsot Targets.
+Multishot Chance
+Chance to shoot more than one projectile when firing. There are 99 levels in the workshop. Each level raises the chance by 0.50% for a maximum of 49.50% chance to activate.
+Multishot Targets
+Number of projectiles shot when multishot activates if enough enemies are in range. There are 7 levels. The starting value is 2 targets and increases by 1 target each level for a maximum of 9 targets.

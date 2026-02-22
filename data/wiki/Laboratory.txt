@@ -1,0 +1,105 @@
+Contents
+1
+Description
+2
+Amount Of Labs
+2.1
+Cost
+3
+Rushing Labs
+4
+Lab Upgrades
+Description
+The in-game icon.
+The laboratory, or short "the labs", is a place where you can buy upgrades (different than those of the Workshop). These upgrades consist of scaling upgrades, max cap upgrades and more.
+Most importantly they use an additional currency: your time. Every lab upgrade has a coin cost, and a time that it takes to complete, occupying one lab for that duration. It is therefore advised to try to keep your labs running at all times as as you progress in the game there will come a point where coins are no longer the bottleneck to progress, but time and labs are.
+Amount Of Labs
+3 Different Lab States from top to bottom: Inactive, Active, Locked
+The max amount of labs you can have is 5.
+Cost
+To get all 5 you have to pay 4900
+Gems
+in total.
+Even though they cost a lot of gems without real money payments, it is advised to unlock all of them over time, or at least 4. More information can be found
+here
+Lab 1
+unlocked for free upon reaching wave 30 in T1 for the first time.
+Lab 2
+100 gems
+Lab 3
+400 gems
+Lab 4
+1400 gems
+Lab 5
+3000 gems
+Rushing Labs
+Labs can also be
+rushed
+using
+Gems
+Prior to version 0.17 of the game rushing cost 1 gem for every 8 minutes of lab time skipped. With version 0.17 the developers overhauled this system, massively reducing the rushing costs for long durations.
+These tables were provided by TechTree, more detailed ones are being researched. Emphasis editor, bolded values show changed costs.
+Version 0.16
+Time
+Time (in seconds)
+Cost (in gems)
+0 seconds
+0
+0
+1 second
+1
+0.0020833
+1 minute
+60
+0.125
+1 hour
+3600
+7.5
+1 day
+86400
+180
+1 week
+604800
+1260
+30 days
+2592000
+5400
+Version 0.17
+Time
+Time (in seconds)
+Cost (in gems)
+Discount applied
+0 seconds
+0
+0
+0.00
+1 second
+1
+0.002083
+1.00
+1 minute
+60
+0.125
+1.00
+1 hour
+3600
+7.5
+1.00
+1 day
+86400
+163
+0.91
+1 week
+604800
+1000
+0.79
+30 days
+2592000
+3550
+0.66
+Lab Upgrades
+To find a list of lab upgrades, check
+this
+page.
+1
+8

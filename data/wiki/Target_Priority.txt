@@ -1,0 +1,22 @@
+Description
+Target Priority allows players to set which
+enemy
+type the tower will focus on hitting if in tower range.
+Lab
+Unlock
+lab
+in
+Milestones
+at tier 4 wave 150. Has 2 levels.
+Level
+Time
+Cost
+Ability
+1
+1d 23h 59m
+1,000,000
+Select 1 enemy type to be targeted, Other enemies will be selected by closest
+2
+8d   0h  0m
+1,000,000,000
+Sort priority for all enemies, able to also sort by closest and spotlight

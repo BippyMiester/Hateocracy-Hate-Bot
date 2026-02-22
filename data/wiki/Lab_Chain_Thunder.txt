@@ -1,0 +1,126 @@
+Unlocks lab in Milestone at tier 16 wave 60. Enemy Damage reduced by 10% for every 6% of health an enemy lost from Chain Lightning Damage up to a max percent. Has 30 levels increasing max reduction by 3% per level for a max reduction of 90%.
+level
+Time
+Cost
+Expand
+Value
+1
+8d  7h  59m
+100.00B
+3%
+2
+9d  8h  0m
+150.00B
+6%
+3
+10d  10h  52m
+225.00B
+9%
+4
+11d  16h  59m
+337.50B
+12%
+5
+13d  2h  42m
+506.25B
+15%
+6
+14d  16h  28m
+759.38B
+18%
+7
+16d  10h  45m
+1.14T
+21%
+8
+18d  10h  8m
+1.71T
+24%
+9
+20d  15h  11m
+2.56T
+27%
+10
+23d  2h  36m
+3.84T
+30%
+11
+25d  21h  10m
+5.77T
+33%
+12
+28d  23h  42m
+8.65T
+36%
+13
+32d  11h  11m
+12.97T
+39%
+14
+36d  8h  41m
+19.46T
+42%
+15
+40d  17h  25m
+29.19T
+45%
+16
+45d  14h  42m
+43.79T
+48%
+17
+51d  2h  4m
+65.68T
+51%
+18
+57d  5h  12m
+98.53T
+54%
+19
+64d  1h  59m
+147.79T
+57%
+20
+71d  18h  33m
+221.68T
+60%
+21
+80d  9h  15m
+332.53T
+63%
+22
+90d  46m  11s
+498.79T
+66%
+23
+100d  20h  3m
+748.18T
+69%
+24
+112d  22h  28m
+1.12q
+72%
+25
+126d  11h  43m
+1.68q
+75%
+26
+141d  16h  0m
+2.53q
+78%
+27
+158d  16h  0m
+3.79q
+81%
+28
+177d  16h  58m
+5.68q
+84%
+29
+199d  46m  25s
+8.52q
+87%
+30
+222d  21h  59m
+12.78q
+90%

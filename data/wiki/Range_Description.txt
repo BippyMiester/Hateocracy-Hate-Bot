@@ -1,0 +1,8 @@
+Description
+Increases the range the tower can fire projectiles. It also determines the firing distance enemies that deal ranged damage.
+Workshop
+Unlocked in the
+workshop
+for 50 coins after
+Critical Factor
+. Has 79 levels and a starting value of 30m. Each level increases range by 0.5m per level for a maximum range of 69.5m.

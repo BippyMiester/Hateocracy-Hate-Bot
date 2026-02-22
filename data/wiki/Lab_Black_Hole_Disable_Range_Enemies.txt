@@ -1,0 +1,10 @@
+Black Hole Disable Ranged Enemies
+Ranged enemies inside Black Holes will not be able to fire even when in range. Unlocks Tier 14 Wave 20.
+Level
+Time
+Cost
+Value
+1
+25d  9h 9m
+550,000,000,000
+Unlocked

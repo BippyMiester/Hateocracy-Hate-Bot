@@ -1,0 +1,31 @@
+Overview
+Gems are an important currency in the game that is acquired over time. Because there are very few ways to get gems faster, this means players are often concerned with spending them efficiently. This guide will help determine the best way to spend your gems.
+Priorities
+Lab slot 2 - Labs are the main bottleneck to the game, getting more labs will help you progress at a steady rate.
+Cards & Slots - Work at unlocking the following cards:
+Attack Speed
+Enemy Balance
+, and
+Coins
+, unlock slots to use these 3 cards.
+Lab slot 3
+Cards & Slots - Unlock
+health
+and
+cash
+cards, acquire slots for these cards
+Lab slot 4
+Cards & Slots - Unlock 2 of the following:
+Crit Coin
+Wave Skip
+Extra Orbs
+and unlock 2 slots
+Lab slot 5
+1 Epic Module of each type - Do not go for any particular epic modules at this point. Newer players especial may not be able to use the unique effects of all modules (ex: havoc bringer requires rend armor to be unlocked, most Core modules requires certain UWs). The goal is to have epics for the stat boost over rares and access to more and stronger sub-module effects through rerolls.
+Cards & Slots & Modules - from this point, you will be focusing on cards. Cards like Plasma Cannon or Wave Accelerator have more value than other cards but you should not be hunting for certain cards before adding slots. Instead answer the following question: Do I have a card that would help my build a lot if its equipped now? If yes, buy a card slot. If no, continue buying and upgrading cards until the answer is yes.
+Note:
+While working through this process, you should still be buying modules too. a common way to approach this is to set weekly spending limits on modules like 200 or 400 gems depending on how much you play. Modules are too strong to ignore to only work on cards. This allows you to progress on modules while getting through cards.
+Rush key labs that take time if available to you such as lab speed, attack speed and CF Duration as needed. Keep in mind that modules are often more important than labs for gems especially because of the ability to boost labs.
+Rush all other labs -When longer than 14 days, it is recommended to save all the gems at once then rush the entire time.
+1
+8

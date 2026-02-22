@@ -1,0 +1,92 @@
+Battle Conditions Group 1: Resistances
+Unlocked Tier 19 Wave 100. Group 1 consists of the following BCs that each have their own lab and reduce the effect of the BC by X%. Has 20 levels.
+Knockback Resistance
+Thorns Resistance
+Orb Resistance
+Plasma Cannon Resistance
+Death Ray Resistance
+Level
+Time
+Cost(Q)
+Expand
+Value
+1
+13d 11h 59m
+0.2
+1%
+2
+26d 23h 58m
+0.4
+2%
+3
+40d 11h 57m
+0.6
+3%
+4
+53d 23h 56m
+0.8
+4%
+5
+67d 11h 55m
+1
+5%
+6
+80d 23h 54m
+1.2
+6%
+7
+94d 11h 53m
+1.4
+7%
+8
+107d 23h 53m
+1.6
+8%
+9
+121d 11h 52m
+1.8
+9%
+10
+134d 23h 51m
+2
+10%
+11
+148d 11h 50m
+2.2
+11%
+12
+161d 23h 49m
+2.4
+12%
+13
+175d 11h 48m
+2.6
+13%
+14
+188d 23h 47m
+2.8
+14%
+15
+202d 11h 47m
+3
+15%
+16
+215d 23h 46m
+3.2
+16%
+17
+229d 11h 45m
+3.4
+17%
+18
+242d 23h 44m
+3.6
+18%
+19
+256d 11h 43m
+3.8
+19%
+20
+269d 23h 42m
+4
+20%

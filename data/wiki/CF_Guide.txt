@@ -1,0 +1,38 @@
+Contents
+1
+Currently outdated due to CF+ and Additional Slow reduction
+2
+Overview
+3
+Uptime
+3.1
+Labs vs Stone
+4
+Slow
+5
+Range & Damage Reduction
+6
+Summary
+Currently outdated due to CF+ and Additional Slow reduction
+Overview
+Chrono Field is a necessary UW to progress especially into the late game. The bad news is that CF requires heavy stone investment to be useful. The good news, its nearly impossible to be upgraded wrong but you may still wonder if there is anything you should know before you dive in.
+Uptime
+The first priority for CF is to work on getting it to be active the entire run. This happens at either 1:00 or 1:10. 1:00 is a lower stone investment so basically everyone will upgrade it to this point. CF also offers different ways to reach 1:00 duration: Labs and Stones. CF has 30 duration labs for 30 seconds and 40 seconds worth of duration from stones. This adds to 1:10. So what should you do?
+Labs vs Stone
+The lab time is rather long for duration. The final lab level is 111 days long with no lab speed and still sits close to 2 months long with a lvl 50 lab speed and no relics. In fact, with no lab speed, the last 10 level will take 667 days or 334 days with 50 lab speed. This isn't meant to scare you away but bring awareness to what upgrading CF actually means. So is it worth spending all that time on labs?
+Important:
+Because of these long upgrade times, it is highly recommended to slot duration into your lab the second you can even if you are not ready to spend stones on CF yet.
+The other consideration is if you won't do labs, how many stones will you need to spend? The last 10 levels of duration will cost 2,705 stones. Depending on progression, this can also take several months to save up but could be less time than 1 year. Is it worth spending all these stones to free up a lab?
+Now that we have the questions out of the way, lets discuss the answers. This is the one place where the game allows you to convert stones to gems or stones to time. It is crucially to spend as much time on the lab as you can to allow you to use stones elsewhere. With that said, purposefully delaying max CF could mean losing stones too since your tournament progress could be finished faster.
+The Recommendation: upgrade lab to lvl 26 or 27. This will help balance the amount of stones you need.
+Slow
+Slow can be slightly harmful early on. Slow will cause enemies to group up while CF is active. Bringing slow above 40% before CF has 100% uptime can cause CF to release all the built up enemies at the tower and possibly overwhelming it at high waves.
+Range & Damage Reduction
+We will start with the easier lab. Damage reduction is not an overly important lab in the current state of the game. If you run an ehp build, it may be worth bringing up between lvl 10-15 tops. This is because the time will mostly be wasted when you switch to damage builds.
+The range lab is required on the other hand but has several considerations. First, the build up effect from increasing slow is also a concern for range. Doing too many levels too early can allow more enemies to build up away from the tower, making it easier for the group to overwhelm. Begin the lab when CF uptime is close to complete.
+Range will also cause the screen to zoom out whether or not CF is on. This means enemies will spawn further away from the tower, lowering CPH. For the most part this downside is considered minimal to the benefit received by the chip mitigation for tournaments and farming.
+Summary
+At unlock, begin working CF duration lab. For stones, bring Cooldown to 1:00. Begin bringing CF duration up to 1:00. Use the
+Chrono Field
+page to track your progress. The aim is to either max the lab or stone between lab lvl 25-27. With uptime at 100%, you can work on the Range lab and max out slow.
+There is no concerns on this ultimate weapon with maximizing stats since CF is largely an all or nothing UW with uptime. This makes it very linear.

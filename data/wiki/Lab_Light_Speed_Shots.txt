@@ -1,0 +1,10 @@
+Light Speed Shots
+Light Speed Shots is unlocked in Milestones at tier 7 wave 10. This lab allows projectiles, once fired, to travel instantly to their target. A shot can be blocked by an untargeted enemy when the enemy is between the tower and the target. The untargeted enemy will take damage instead of the target.
+Level
+Time
+Cost
+Value
+1
+0d 19h 59m
+3,000,000
+Unlocked

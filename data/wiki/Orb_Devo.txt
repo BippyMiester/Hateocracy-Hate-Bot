@@ -1,0 +1,105 @@
+Orb Devo
+For the most up-to-date guide refer to
+Tremnen's Orb Devo Document
+Below is the Orb Devo Guide made by discord user Tremnen. This is accurate as of v25.3 to handle DW changes as well as BH position changes.
+Base Requirements:
+Black Hole
+and
+Golden Tower
+in sync (can use Multiverse Nexus)
+Extra Orb card
+Extra Orb Adjuster
+Lab
+Range
+set to 69.5m (use cash in run)
+Extra Orb card set to 60m
+Set
+Shockwave
+to ~1.4 to juggle basics to bottom of the stack more if using Wall (1.65-1.75)
+Devo’d workshop Heavy into Defensive Options
+~38-42m BH minimum so BH can pick up all bricks. More is better for coverage.
+Workshop Devo basics:
+The goal is to remove any ability from the tower that will kill too many units too quickly. Devo strats are all about getting an advantage out of killing enemies with the right multipliers available. We want Black Hole and Golden Tower to go off with as many enemies on screen as possible. To do that we make sure in the workshop and with substats the following stats are at 0.
+Attack Upgrades
+Attack Speed
+Multishot Chance
+Rapidfire Chance
+Bounce Shot Chance
+Defense Upgrades
+Thorns (push up with cash during run to trim basics. As enemy spawns increase you will want to slowly get this up to about 34%) (can run substat if workshop is 0)
+Knockback Chance
+Orbs
+Shockwave Size (can be set at optimal shuffle distance 1.4 without Wall about 1.65 with)
+Landmine Chance
+Landmine Radius
+Utility Upgrades
+Free Attack Upgrade
+Free Defense Upgrade
+Free Utility Upgrade
+Optional stats to Devo
+Crit Chance - Lets you damage Devo for longer for those wishing to pursue those strategies
+Range - Different strategies use different ranges. Always a good idea to leave this at 30m base
+Landmine Damage - For people with Land Mine Radius for Land Mine Stun card or who have Spotlight and want to do Land Mine Orbless.
+Best
+Cards
+Required: Extra Orbs, Coins, CritCoin, Cash, Enemy Balance, Health, Extra Defense
+Econ Cards: Wave Skip, Wave Accelerator
+Defensive Cards: Regen (if you use Wall or Wormhole Redirector Mod), Recovery Package Chance if you don't or are using the Galaxy Compressor Mod
+Nice to haves: Fortress (for early in the run), Land Mine Stun (do not use or undevo Landmine chance until Land Mine damage is irrelevant in your run. You do not want them to kill your stack. Only to stun to reduce damage. This is only relevant with Mythic or Ancestral Land Mine Radius)
+Nice to haves:
+Maxed Black Hole Coin lab
+Maxed Black Hole Damage lab
+Extra Extra Orb labs (both of them)
+Death Wave
+(for HP and Coin and Cell increases, makes strategy significantly stronger)
+Spotlight
+(For Spotlight Coins)
+25s Black Hole Duration (with perk) This is so at max Black Hole Damage Protectors die in 2 cycles
+Extra Black Hole Lab
+Garlic Thorns
+Lower Cooldowns on Black Hole, Golden Tower, and Death Wave
+Extra Orb Mastery
+A
+golden bot
+synced with BH and GT
+Strategy:
+Base strategy for Orb Devo is to Hoard and eHP tank a ton of enemies so when Black Hole and Golden Tower go off together all enemies are pulled up into Black Hole and Orbs will kill the bricks.
+After setup cash should be spent on defensive options. This includes Enemy Attack Skips, Wall (if you have it), Health, Regen (if using Wall or Wormhole Redirector Mod), Defense Absolute, Def% etc.
+Micromanage Thorns to Trim basics as they are worth less coins. (picture showing a good stack below)
+When you are at risk of dying use cash to max Free Ups and proceed to Blender strategy until death.
+Pitfalls:
+Protectors are a huge nuisance. We max Black Hole Damage and have 25s duration so that they guarantee die in 2 cycles of our UWs.
+Low Damage from bullets mean Elites and Bosses are largely killed via Thorns damage.
+How to Improve:
+Focus on Survival stat improvements
+Lower Cooldowns while keeping Black Hole and Golden Tower in sync.
+Perk Priorities:
+Econ:
+Perk Wave Requirement
+Coin Trade Off
+Golden Tower Bonus
+Black Hole Duration
+Coin
+Extra DeathWave Wave
+Cash
+Defensive:
+Regen Trade Off
+Regen
+Defense%
+Max HP
+Defense Absolute
+50/50 Damage Trade Off
+Survival Priorities:
+Low Life Time Coin (sub 1T)
+If you are devoing in T1 or T2 Defense absolute is your friend and you will want to pump it up in the workshop to about 1000 or so. After that you will want to prioritize Health as large package recovery is usually the best strategy for survival early on. If you have a Wormhole mod Regen may be of use for you but honestly not usually until you are getting close to 5000 levels in it as earlier than that it scales poorly. The goal is to get Health up to about 5000 so you can cash max it in run.
+Lab goals for survival
+Defense % to lvl 23 (so you can def% cap with ancestral substat and maxed Standard Perk Bonus)
+Death Wave Health
+Health lvl 50
+Maxed Standard Perk Bonus
+Enemy Attack Level Skips
+Early Mid Game (3-200T)
+At this point you should have Mod options. Largely Wormhole is the best right now but you always want the highest rarity DEF% substat you can get. Landmine Radius on a mythic or greater armor mod will make Land Mine Stun a very good card in the very tail ends of your run by stunning a ton of enemies. Thorns is useful not only for hitting higher breakpoints on Wall Thorns if you choose to go that route but also reducing scatter through wall damage and extending blender at the end of the run.
+Thorns Trimming:
+Between each activation (pre wall) the goal is to reduce the amount of basics around the tower to as few as possible to collect the most tanks as possible. Shockwave will shuffle tanks to the back of the pile naturally but you need to increase thorns up slowly to keep up with basic spawn rates. A good place to start is ~15-20% thorns.
+Picture Courtesy of : User: Tap87 in Devo Discord

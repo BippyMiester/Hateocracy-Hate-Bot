@@ -1,0 +1,70 @@
+Contents
+1
+vO.7.2
+1.1
+Lab Expansion - new researches available when reaching certain tiers • Defense %
+1.2
+Changes
+2
+v0.7.5
+2.1
+Lab Expansion for Ultimate Weapons
+3
+v0.7.8
+4
+Versions
+vO.7.2
+Lab Expansion - new researches available when reaching certain tiers • Defense %
+Orb speed
+Land mine damage
+Land mine decay
+More round stats
+Target priorities
+Changes
+Daily gem gift is now available after 8 AM each day
+v0.7.5
+Lab Expansion for Ultimate Weapons
+Missiles Despawn Time
+Missiles Explosion
+Missiles Radius
+Chrono Field Duration
+Chrono Field Damage Reduction
+Chrono Field Reduction %
+Swamp Radius
+Swamp Stun
+Swamp Stun Chance
+Swamp Stun Time
+Golden Tower Bonus
+Golden Tower Duration
+v0.7.8
+Performance for late game improved a lot
+Death ray stops rotating on long playthrough sometimes
+Second Wind Animation not triggering sometimes
+Other lesser known bugs
+Versions
+v0.27
+v0.26
+v0.25
+v0.24
+v0.23
+v0.22
+v0.21
+v0.20
+v0.19
+v0.18
+v0.17
+v0.16
+v0.15
+v0.14
+v0.13
+v0.12
+v0.11
+v0.10
+v0.9
+v0.8
+v0.7
+v0.6
+v0.5
+v0.4
+v0.3
+v0.2

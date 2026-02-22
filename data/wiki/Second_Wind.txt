@@ -1,0 +1,92 @@
+Description
+Revive the tower with half health once per round and creates an invincible shield for 10/15/20/25/30/35/40 sec.
+Use
+The Second Wind
+card
+is one of several abilities that prevent death, activating in the following order where possible:
+Death Defy
+: If lethal damage would be taken, Death Defy may activate instead.
+Energy Shield
+: If
+any
+damage would be taken and Death Defy did not activate, Energy Shield will expend a charge instead.
+Second Wind: If lethal damage would be taken and no higher-priority death prevention is available, Second Wind will activate instead.
+Demon Mode
+: With
+Smart Demon Mode Automation
+, if lethal damage would be taken and no higher-priority death prevention is available, Demon Mode will activate instead.
+Nuke
+: With
+Smart Nuke Automation
+, if lethal damage would be taken and no higher-priority death prevention is available, Nuke will activate instead. This does not destroy in-flight projectiles, but as of
+v27.3 (18 Dec, 2025)
+Smart Nuke Automation also provides 15 seconds of invulnerability.
+Labs
+Second Wind Blast
+Recharge Second Wind
+Second Wind Blast
+Unlock
+lab
+in
+Milestones
+at tier 3 wave 150. Second Wind Blast clears a percent of spawned enemies after second wind triggers. Has 4 levels.
+Level
+Time
+Cost
+Value
+1
+1d  3h 46m
+1,800,000
+25%
+2
+1d 17h 39m
+3,000,000
+50%
+3
+2d  7h 33m
+4,500,000
+75%
+4
+3d 11h 19m
+75,000,000
+100%
+Recharge Second Wind
+Unlock
+Lab
+in
+Milestones
+at tier 14 wave 60. Allows Second Wind to recharge a number of waves after activating. Has 7 levels.
+Level
+Time
+Cost
+Value
+1
+5d  4h  59m
+550B
+2,000
+2
+6d  14h  21m
+1,05T
+1,500
+3
+8d  54m  39s
+1,55T
+1,250
+4
+9d  23h  10m
+2,05T
+1,000
+5
+14d  1h  58m
+2,56T
+750
+6
+24d  19h  29m
+3,07T
+550
+7
+51d  8h  11m
+3,6T
+400
+1
+8

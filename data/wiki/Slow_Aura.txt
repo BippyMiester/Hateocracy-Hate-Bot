@@ -1,0 +1,11 @@
+Description
+Reduce enemy speed by a percent when in tower range.
+Use
+The slow aura
+card
+is multiplicative with the
+Ultimate Weapon
+Chrono Field
+, and the
+perk
+, -40% enemy speed/x2.5 enemy damage. This prevents enemy speed from being reduced to zero.

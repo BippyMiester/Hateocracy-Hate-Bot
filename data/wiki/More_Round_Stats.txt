@@ -1,0 +1,24 @@
+Description
+More Round Stats adds extra statistics of what happened each round and unlocks battle history.
+Battle History
+Players will now have access to Battle History, which was added to the More Stats lab. This includes your normal runs as well as tournament runs. Once unlocked, it will appear on your Battle menu as well as in your in-run settings menu.
+The battle history displays your last 20 runs and automatically overwrites older entries. To delete entries, press and hold any entry, select the ones you want to remove, and tap
+Delete
+at the bottom to confirm.
+Lab
+Unlock
+lab
+in
+Milestones
+at tier 1 wave 250. Has 1 level.
+Level
+Time
+Cost
+Expand
+Value
+1
+0d 11h 59m
+250,000
+Unlocked
+1
+8

@@ -1,0 +1,87 @@
+Thunder Bot Linger Time
+Unlock Lab In Milestones at tier 10 wave 60. Increase the duration of the linger effect by 0.5s per level. Has 20 levels for a total of 13 seconds.
+Level
+Time
+Cost
+Expand
+Value
+1
+8d 8h 0m
+100.00B
+3.50
+2
+9d 14h 0m
+150.00B
+4.00
+3
+11d 0h 30m
+225.00B
+4.50
+4
+12d 16h 10m
+337.50B
+5.00
+5
+14d 13h 48m
+506.25B
+5.50
+6
+16d 18h 16m
+759.38B
+6.00
+7
+19d 6h 36m
+1.14T
+6.50
+8
+22d 4h 0m
+1.71T
+7.00
+9
+25d 11h 48m
+2.56T
+7.50
+10
+29d 7h 34m
+3.84T
+8.00
+11
+33d 17h 6m
+5.77T
+8.50
+12
+38d 18h 28m
+8.65T
+9.00
+13
+44d 14h 2m
+12.97T
+9.50
+14
+51d 6h 33m
+19.46T
+10.00
+15
+58d 23h 8m
+29.19T
+10.50
+16
+67d 19h 24m
+43.79T
+11.00
+17
+77d 23h 31m
+65.68T
+11.50
+18
+89d 16h 15m
+98.53T
+12.00
+19
+103d 3h 5m
+147.79T
+12.50
+20
+118d 14h 21m
+221.68T
+13.00

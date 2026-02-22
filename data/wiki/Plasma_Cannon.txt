@@ -1,0 +1,6 @@
+Description
+Fires a cannon at bosses doing a % of the boss' total health.
+Use
+The Plasma Cannon
+card
+fires when a boss enters tower range. Its movement speed is based on your attack speed and is not affected by the Light Speed Shots lab. The projectile will pass through any enemies between the tower and the boss without dealing damage to the enemies it passes through. Since the damage is based on total boss health, it is possible for it to kill the boss without other help like Mark for death

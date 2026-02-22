@@ -1,0 +1,4 @@
+Description
+Damage each projectile deals to enemies. Damage is the base state for calculating both tower projectiles and other abilities such as land mines and Ultimate Weapons.
+Workshop
+Unlocked in Workshop at the start of the game. Maximum of 6000 levels in the workshop. Damage can be increased using cards, relics, Modules and Workshop Enhancements.

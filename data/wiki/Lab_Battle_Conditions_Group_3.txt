@@ -1,0 +1,53 @@
+Battle Conditions Group 3: Enemy Ultimates
+Unlocked Tier 19 Wave 500. Group 3 consists of the following BCs that each have their own lab and reduce the effect of the BC by X%. Has 10 levels.
+Fast's Ultimate
+Ranged Ultimate
+Boss's Ultimate
+Basic's Ultimate
+Tank's Ultimate
+Protector's Ultimate
+Level
+Time
+Cost(Q)
+Expand
+Value
+1
+26d 23h 58m
+1.00
+1%
+2
+37d 19h 9m
+1.50
+2%
+3
+48d 14h 20m
+2.25
+3%
+4
+59d 9h 32m
+3.38
+4%
+5
+70d 4h 43m
+5.06
+5%
+6
+80d 23h 54m
+7.59
+6%
+7
+91d 19h 6m
+11.39
+7%
+8
+102d 14h 17m
+17.09
+8%
+9
+113d 9h 28m
+25.63
+9%
+10
+124d 4h 40m
+38.44
+10%

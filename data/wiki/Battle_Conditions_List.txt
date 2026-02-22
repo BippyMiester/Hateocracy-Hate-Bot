@@ -1,0 +1,57 @@
+List of Battle conditions
+Name
+Expand
+Description
+Death Ray Resistance
+Instead of destroying enemies, death ray deals x% enemy health as damage
+Thorns Resistance
+Thorns Deals x% damage
+Enemy Attack Speed
+Enemy attack speed is increased by x%
+Knockback Resistance
+Knockback force applies to enemies is reduced by x%
+Plasma Cannon Resistance
+Plasma Cannon deals x% of normal damage
+More Enemies
+x% more enemies spawn
+Orb Resistance
+Instead of destroying enemies, orbs deal x% enemy health as damage
+More Bosses
+Bosses spawn every x waves instead of 10
+Enemy Speed
+Enemies move x% faster
+Armored Enemies
+Enemies block the first x hits
+Energy Shields Down
+Energy Shield recharge time is increased by x%
+Death Defy Down
+Death Defy chance is reduced by x%
+Ultimate Weapon Durations
+Reduce the durations of Chrono Field, Golden Tower, Poison Swamp, and Black Hole by Xs
+Protector's Ultimate
+Protector shields give knockback, shockwave, and black hole damage immunity (Xs Duration / Xs Cooldown)
+Tank's Ultimate
+Tanks behave like bosses but stop moving once inside tower range (Xs Duration / Xs Cooldown)
+Basic's Ultimate
+Basics have a chance to spawn as different enemies (X% fast, X% tank, X% ranged, X% boss, X% protector)
+Boss's Ultimate
+Bosses receive a boost of health when they spawn, overhealing them by X%
+Ranged Ultimate
+Ranged enemies projectiles disable the tower from firing for Xs
+Fast's Ultimate
+Fasts buff up to X nearby enemies to match their speed
+Scatter Ultimate
+Scatter children have x% more health
+Ray Ultimate
+Ray shoots x% faster
+Vampire Ultimate
+Vampire drains x% faster
+Mass Enforcement
+Surviving enemies mass increases by {x}% per wave they are alive. 2% at Lvl 1
+Skip Decay
+Enemy health and attack level skip chances are reduced by [VAL]% every [N] waves
+Skip Reduction - Multiply
+Enemy health and attack level skip chances are multiplied by x.[VAL]
+Skip Reduction - Subtract
+(Normal Tiers Only)
+Enemy health and attack level skip chances are subtracted by X%

@@ -1,0 +1,213 @@
+Description
+Tiers are the difficulty of this game. They range from tier 1 all the way to tier 21. Unlock the next tier in
+Milestones
+by achieving 100 waves on the current tier. Tiers 16-21 require 300 waves on the previous tier to Unlock.
+List of Tiers
+Tier
+Coin Bonus
+Battle Conditions
+1
+1
+None
+2
+1.8
+None
+3
+2.6
+None
+4
+3.4
+None
+5
+4.2
+None
+6
+5
+None
+7
+5.8
+None
+8
+6.6
+None
+9
+7.5
+None
+10
+8.7
+None
+11
+10.3
+None
+12
+12.2
+None
+13
+14.7
+None
+14
+17.6
+Orb Resistance Lvl 50
+Death Ray Resistance Lvl 50
+Thorns Resistance Lvl 20
+Plasma Cannon Resistance Lvl 20
+More Bosses Lvl 1
+ELS Reduction Lvl 5
+15
+21.3
+Orb Resistance Lvl 60
+Death Ray Resistance Lvl 60
+Thorns Resistance Lvl 30
+Knockback Resistance Lvl 40
+Armored Enemies Lvl 10
+Plasma Cannon Resistance Lvl 30
+More Bosses Lvl 2
+ELS Reduction Lvl 10
+16
+25.2
+Orb Resistance Lvl 70
+Death Ray Resistance Lvl 70
+Thorns Resistance Lvl 40
+Knockback Resistance Lvl 50
+Armored Enemies Lvl 20
+Plasma Cannon Resistance Lvl 40
+Protector's Ultimate Lvl 20
+More Bosses Lvl 3
+ELS Reduction Lvl 15
+17
+29.1
+Orb Resistance Lvl 80
+Death Ray Resistance Lvl 80
+Thorns Resistance Lvl 50
+Knockback Resistance Lvl 60
+Armored Enemies Lvl 30
+Plasma Cannon Resistance Lvl 50
+Protector's Ultimate Lvl 35
+Tank's Ultimate Lvl 20
+More Bosses Lvl 3
+ELS Reduction Lvl 20
+18
+33.0
+Orb Resistance Lvl 90
+Death Ray Resistance Lvl 90
+Thorns Resistance Lvl 60
+Knockback Resistance Lvl 70
+Armored Enemies Lvl 40
+Plasma Cannon Resistance Lvl 60
+Protector's Ultimate Lvl 50
+Tank's Ultimate Lvl 35
+Scatter Ultimate Lvl 20
+Ray Ultimate Lvl 20
+Vampire Ultimate Lvl 20
+More Bosses Lvl 5
+ELS Reduction Lvl 25
+19
+40
+Orb Resistance Lvl 95
+Death Ray Resistance Lvl 95
+Thorns Resistance Lvl 70
+Knockback Resistance Lvl 80
+Armored Enemies Lvl 50
+Plasma Cannon Resistance Lvl 70
+Protector's Ultimate Lvl 65
+Tank's Ultimate Lvl 50
+Scatter Ultimate Lvl 35
+Ray Ultimate Lvl 35
+Vampire Ultimate Lvl 35
+More Bosses Lvl 5
+ELS Reduction Lvl 30
+Fast's Ultimate lvl 20
+20
+48
+Orb Resistance Lvl 95
+Death Ray Resistance Lvl 95
+Thorns Resistance Lvl 80
+Knockback Resistance Lvl 90
+Armored Enemies Lvl 60
+Plasma Cannon Resistance Lvl 80
+Protector's Ultimate Lvl 80
+Tank's Ultimate Lvl 65
+Scatter Ultimate Lvl 50
+Ray Ultimate Lvl 50
+Vampire Ultimate Lvl 50
+More Bosses Lvl 5
+ELS Reduction Lvl 35
+Fast's Ultimate Lvl 35
+Boss Ultimate Lvl 20
+21
+60
+Orb Resistance Lvl 95
+Death Ray Resistance Lvl 95
+Thorns Resistance Lvl 90
+Knockback Resistance Lvl 95
+Armored Enemies Lvl 70
+Plasma Cannon Resistance Lvl 90
+Protector's Ultimate Lvl 95
+Tank's Ultimate Lvl 80
+Scatter Ultimate Lvl 65
+Ray Ultimate Lvl 65
+Vampire Ultimate Lvl 65
+More Bosses Lvl 5
+ELS Reduction Lvl 40
+Fast's Ultimate Lvl 50
+Boss Ultimate Lvl 35
+Basic's Ultimate Lvl 20
+Mass Enforcement Lvl 1
+*Tiers 14 and above also have battle conditions, similar to the tournament battle conditions. However, these are static. See Below to reference the BCs:
+List of Battle conditions
+Name
+Expand
+Description
+Death Ray Resistance
+Instead of destroying enemies, death ray deals x% enemy health as damage
+Thorns Resistance
+Thorns Deals x% damage
+Enemy Attack Speed
+Enemy attack speed is increased by x%
+Knockback Resistance
+Knockback force applies to enemies is reduced by x%
+Plasma Cannon Resistance
+Plasma Cannon deals x% of normal damage
+More Enemies
+x% more enemies spawn
+Orb Resistance
+Instead of destroying enemies, orbs deal x% enemy health as damage
+More Bosses
+Bosses spawn every x waves instead of 10
+Enemy Speed
+Enemies move x% faster
+Armored Enemies
+Enemies block the first x hits
+Energy Shields Down
+Energy Shield recharge time is increased by x%
+Death Defy Down
+Death Defy chance is reduced by x%
+Ultimate Weapon Durations
+Reduce the durations of Chrono Field, Golden Tower, Poison Swamp, and Black Hole by Xs
+Protector's Ultimate
+Protector shields give knockback, shockwave, and black hole damage immunity (Xs Duration / Xs Cooldown)
+Tank's Ultimate
+Tanks behave like bosses but stop moving once inside tower range (Xs Duration / Xs Cooldown)
+Basic's Ultimate
+Basics have a chance to spawn as different enemies (X% fast, X% tank, X% ranged, X% boss, X% protector)
+Boss's Ultimate
+Bosses receive a boost of health when they spawn, overhealing them by X%
+Ranged Ultimate
+Ranged enemies projectiles disable the tower from firing for Xs
+Fast's Ultimate
+Fasts buff up to X nearby enemies to match their speed
+Scatter Ultimate
+Scatter children have x% more health
+Ray Ultimate
+Ray shoots x% faster
+Vampire Ultimate
+Vampire drains x% faster
+Mass Enforcement
+Surviving enemies mass increases by {x}% per wave they are alive. 2% at Lvl 1
+Skip Decay
+Enemy health and attack level skip chances are reduced by [VAL]% every [N] waves
+Skip Reduction - Multiply
+Enemy health and attack level skip chances are multiplied by x.[VAL]
+Skip Reduction - Subtract
+(Normal Tiers Only)
+Enemy health and attack level skip chances are subtracted by X%

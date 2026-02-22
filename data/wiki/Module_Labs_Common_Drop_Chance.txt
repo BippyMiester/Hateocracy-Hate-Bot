@@ -1,0 +1,47 @@
+Common Drop Chance
+Unlock Lab in Milestones at Tier 4 Wave 70. Increases the chance bosses drop common modules. Has 10 levels for a max increase of 1%.
+Note the starting Common Drop Chance is 2%.
+Level
+Time
+Cost
+Value
+1
+4d 4h 0m
+5,000,000
++0.10%
+2
+4d 12h 21m
+40,000,000
++0.20%
+3
+4d 20h 50m
+114,250,000
++0.30%
+4
+5d 5h 39m
+282,700,000
++0.40%
+5
+5d 14h 58m
+610,030,000
++0.50%
+6
+6d 1h 1m
+1,170,000,000
++0.60%
+7
+6d 12h 0m
+2,030,000,000
++0.70%
+8
+7d 0h 10m
+3,290,000,000
++0.80%
+9
+7d 13h 45m
+5,020,000,000
++0.90%
+10
+8d 5h 0m
+7,320,000,000
++1.00%

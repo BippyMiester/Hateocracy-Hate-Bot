@@ -1,0 +1,14 @@
+Unlock
+lab
+in
+Milestones
+at tier 1 wave 250. Has 1 level.
+Level
+Time
+Cost
+Expand
+Value
+1
+0d 11h 59m
+250,000
+Unlocked

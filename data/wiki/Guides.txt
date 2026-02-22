@@ -1,0 +1,77 @@
+Guides are player created. The guides found here are to help give guidance based on what has been found to work well. These guides are used to optimize your gameplay. When reading a guide, always check for the last version it was updated for. Using old guides and advice can lead to undesired results. It is possible to progress without following the guides.
+The most important thing is to play in a way that is fun for you!
+Contents
+1
+Beginner Guides
+1.1
+Resource Guides
+2
+Build Guides
+3
+Advanced Guides
+Beginner Guides
+These guides focus on what new players need to know when starting off. Guides in this section will help get players out of tier 1 and 2 as well as help make important early choices.
+Common Abbreviations
+List of common community abbreviations
+Beginner Guide
+Tier 1 guide - helps complete tier 1 & 2 as well as introduce builds.
+FAQ |
+Guide that answers common questions. Most of these questions are often confused as bugs instead of features.
+Footguns |
+Guide to upgrades that should be avoided or understood before upgrading for optimizing builds. If upgraded, it may take several months to correct or may not be able to be corrected.
+Thinking about Perks
+| Guide to help utilize perks alongside tips and tricks to maximize benefits
+Rushing Tiers
+| Explanation of features useful for squeezing a few extra waves in early-mid game
+Resource Guides
+Medals Guide
+Priority list for spending medals in the event shop. Includes bot unlocks and bot upgrades.
+Gem Guide
+Helps players find the best use of gems.
+Which UW do I select?
+Helps players decide which Ultimate Weapons they should pick and why.
+Coin Guide
+A walkthrough on the basics of earning more coins. This guide will also discuss what syncing UWs is, how to do it and why it matters.
+Event Guide
+An explanation of how to efficiently get as many medals as possible per event.
+Guardian guide
+Guide to using guardian effectively for your build.
+Build Guides
+These guides will help you progress using strategies to optimize stats. These strategies will be look different for each player based on their progress and UWs. The guides are meant to provide you with the concepts and upgrades that will bring you success.
+Health Build
+Early-Mid Game
+This build focuses on using hp to progress. This build will be most useful for new and mid-game players. If you are still on tier 1, you should use the beginner guide above before moving to this build.
+UW Requirements:
+N/A
+Orb Devo
+Early-Late Mid Game
+This Orb Devo guide, created by Tremnen, takes into consideration DW changes and BH placement changes. Up-to-date,
+UW Requirements:
+GT/BH Sync, BH Size at Least 38m
+SMAX Devo
+Mid Game
+This SMAX Devo guide, created by Tremnen, takes into consideration DW changes and BH placement changes. Accurate as of v26
+UW Requirements:
+GT/BH/SM Sync
+50s SMax Devo
+Late Mid - Late Game
+This 50s SMAX Devo guide, created by Yugiohcd10, adjusts SMax into higher CD cooldowns and later game technologies. Contains an early entry and late entry strategy. Accurate as of v26
+UW Requirements:
+Early Entry: Min CDs of GT,DW,BH,GB and 50s SM. GT duration > 55s. See Guide for full lists of requirements
+Orbless
+Late Mid-Late Game
+This guide is targeted to guide players to decide if they are ready for orbless and which orbless style is right for them.  It also gives an outline of what an orbless run looks like. Accurate as of V26.
+UW Requirements:
+Varies between orbless variants. Please reference Guide.
+100% AFK Orb Devo
+Late Mid-Late Game
+This Guide, created by Yugiohcd10, is focused on taking orb devo and removing all micromanaging of stats in order to be 100% AFK. Covers both wall hoard and CF Hoard/Swirly Orb Devo as well as guide to eHP, Hybrid, and Glass Canon use. Accurate as of V26.
+UW Requirements:
+Varies between the orb devo variants. Please reference Guide.
+Advanced Guides
+These guides will build on the smaller details of the game. These will help you optimize your builds using the quirks of the game. These guides will be more helpful to those who have a solid foundation of the game.
+Effective Paths Sheet
+(External Google Sheet) | In depth tool to allow players to specifically enter their tower stats and see the most efficient use of coins, stones, and time for Health, damage, and econ. Please reference the "Who are the coolest guys here?" FAQ question to see all those involved in making this Tool possible.
+[1]
+1
+8

@@ -1,0 +1,59 @@
+Contents
+1
+Description
+2
+Use
+3
+Lab
+3.1
+Energy Shield Extra Hit
+Description
+Shield that ignores a single attack, replenishes after 20/18/16/14/12/10/8 min.
+Use
+The Energy Shield
+card
+'s recharge is based on game time -
+Wave Skip
+and
+Wave Accelerator
+have no effect, while
+Game Speed
+will increase the real time rate at which the shield recharges. At max the shield will take more than 10 waves to recharge.
+Energy Shield is one of several abilities that prevent death, activating in the following order where possible:
+Death Defy
+: If lethal damage would be taken, Death Defy may activate instead.
+Energy Shield: If
+any
+damage would be taken and Death Defy did not activate, Energy Shield will expend a charge instead.
+Second Wind
+: If lethal damage would be taken and no higher-priority death prevention is available, Second Wind will activate instead.
+Demon Mode
+: With
+Smart Demon Mode Automation
+, if lethal damage would be taken and no higher-priority death prevention is available, Demon Mode will activate instead.
+Nuke
+: With
+Smart Nuke Automation
+, if lethal damage would be taken and no higher-priority death prevention is available, Nuke will activate instead. This does not destroy in-flight projectiles, but as of
+v27.3 (18 Dec, 2025)
+Smart Nuke Automation also provides 15 seconds of invulnerability.
+Lab
+Energy Shield Extra Hit
+Unlock Energy Shield Extra Hit
+lab
+in
+Milestones
+at tier 4 wave 300. The extra hits create new charges. Energy Shield recharges one charge at a time. When 2 or more charges have been lost, you will have to wait until the previous charge is back up before the other charges can begin recharging. When a charge is ready, it will be active even if other charges are still charging. Has 2 levels.
+Level
+Time
+Cost
+Expand
+Value
+1
+11d 13h 46m
+40,000,000,000
+1
+2
+32d  9h 46m
+850,000,000,000
+2

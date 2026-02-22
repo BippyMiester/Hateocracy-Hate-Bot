@@ -1,0 +1,84 @@
+This is a guide in order to help people reach tier milestones they ordinarily can't. Keep in mind this guide assumes the standard max of 99% thorns.
+Contents
+1
+Overview
+2
+Helpful things
+2.1
+Death defy
+2.2
+Energy shield
+2.3
+Plasma cannon
+2.4
+Second wind
+2.5
+Demon mode
+2.6
+Nuke
+2.7
+Missile barrage
+2.8
+Intro sprint
+2.9
+Wave accelerator
+2.10
+Slow aura/chrono field
+2.11
+Wave Skip
+2.12
+Modules
+2.13
+Extra Orb
+2.14
+Health Card
+2.15
+Black Hole
+3
+What a rush might look like
+4
+Tier 14
+Overview
+Tier rushing is when someone switches out their normally used build to one specifically designed to get further than a traditional one can in a tier that is considered too strong for normal progression. It is effective for reaching very early wave milestones up to around wave 100, and almost worthless past that point. It is more useful against earlier tiers where scaling is still weak. It can still work on Tier 14 with some luck involved despite the "Heat" level reducing the strategy's effectiveness. Tier 15 is the main breakpoint where this strategy will no longer work as not only plasma cannon damage and thorn damage are reduced further, but the waves required to unlock the next tier jumps from 100 to 300 from Tier 15 onwards.
+Helpful things
+Death defy
+This upgrade provides an up to 30% chance to ignore a hit that would kill the tower. Though its percentage may be unreliable, it applies first before all other death preventing measures, making everything but demon mode, missile barrage and nuke much stronger.
+Energy shield
+This card will provide protection from one hit (or up to 3 with lab upgrades), then charge for a long time. It will likely be used at most once in rushing runs which use wave accelerator. It can get another 10 waves by ensuring a boss's defeat if used with plasma cannon. Energy Shield isn't consumed if Death Defy activates.
+Plasma cannon
+Plasma cannon may not seem useful at first, but it can be very helpful as at max it can do enough damage for the normal 99% of thorns to finish off the boss in one hit. This significantly reduces the load on death defy and energy shield. This is usable at the 2nd to last level if a thorns relic or substat is used to get thorns to 100%.
+Second wind
+This card is the most obviously helpful and effectively guarantees surviving any given attack, but it only works once per effective rush since its cooldown is not available at the time rushing is a viable strategy, and even if it was it is always hundreds of waves at least. If the card is near maxed and bosses decide to spawn at the right times of the wave, this card can have a decent chance of going 20 more waves if intro sprint is being used, otherwise it can always guarantee at least 10 more waves. It doesn't need plasma cannon to tank the hit since it provides ongoing invulnerability. The second wind blast lab can help by killing more enemies. If Death Defy triggers, Second Wind is preserved.
+Demon mode
+This is essentially a manual second wind with longer duration. However, it cannot be activated during intro sprint, so it should be used last either after intro sprint has finished or by cancelling intro sprint early.
+Nuke
+This is another manual method of killing the boss. It is much more forgiving to use than missile barrage, but is very inconsistent when the card is underleveled. It can get another 10 waves if it kills the boss. This should be the last manual method used. It cannot be activated during intro sprint.
+Missile barrage
+In early waves if missile barrage is unlocked it can be used to kill a boss, particularly if missile amplifier is researched. It should be used to save an energy shield charge on the 10th or 20th wave. It can't be activated during intro sprint.
+Intro sprint
+This card is very helpful as it allows runs to go much faster to reach a previous best and possibly exceed it. Since non-maxed nukes, boss spawn times, and death defy are random, speeding up the run can allow for faster retries until the desired wave is reached, while also allowing a high leveled second wind to reach a second boss wave.
+Wave accelerator
+This is a more niche use, but it can help second wind span across two bosses, or demon mode to last long enough to reach a second boss if both are high leveled.
+Slow aura/chrono field
+These both will help boss timing by keeping a boss at bay for a bit longer, allowing more precise timing by turning them on and off. For example, equipping slow aura to delay a boss so it activates second wind later or you can activate demon mode later, then taking it off before the next one spawns so the next boss comes faster and will hit during the activation. Chrono field can be done too by timing it so it will be active during the first boss but not the second, or by simply switching it off for the second boss.
+Wave Skip
+Skipping a boss wave means the boss enemy will not appear at all, which can allow for a little more time if you're lucky. Wave Skip can be useful at Max Level (19% chance) on Tier 14 as a counterplay against the heat reductions on Plasma Cannon and Thorn Damage. It is ineffective during Intro Sprint.
+Modules
+Death penalty kills a percentage of enemies outright on the first shot, including bosses, and harmony conductor gives enemies hit by the poison swamp a chance to deal no damage while still getting a tick of thorns. Equipping these can provide a few more free waves.
+Extra Orb
+Extra Orb gives you more orbs circling around your tower, which can help if Ranged enemies are being problematic by sniping your tower in one hit/taking your Second Wind/Energy Shield away.
+Health Card
+Pretty self-explanatory. More health, more chance to tank boss hits without needing to rely on all of the above as much.
+Black Hole
+Black Hole can be used as a means to reduce the amount of enemies you are dealing with in between Bosses, especially when it deals 2% of an enemy's Max HP/sec.
+What a rush might look like
+The first boss should be tanked via eHP if possible. Otherwise, use missile barrage. Energy shield can kill the next boss (or more, if multiple charges is unlocked). After energy shield is depleted, second wind will be consumed and will kill 1-2 bosses. At this point deactivate intro sprint. Use demon mode just as the next boss hits so it might stretch into the next boss wave. Finally, use nuke to kill one more boss. Death Defy, Wave Skip and boss spawns will have a large effect on how long this strategy can go, so attempt many times until you get your target wave count.
+Tier 14
+Tier 14 is when the "Heat" conditions come into play. Whilst the wave requirement to unlock Tier 15 remains at 100, Plasma Cannon and Thorn Damage is reduced (80% damage), Orbs and Death Ray no longer one-shot (50% damage), and bosses spawn on an increment of 9 waves instead of 10. Meaning, you will have to face 11 Bosses to reach Wave 100 (last one being at 99). Death Defy and Wave Skip are crucial to provide you the best possible chance of success as well as holding on to Nuke, Second Wind, Demon Mode and Energy Shields as long as you can.
+Wave Skip: Gives you a chance to skip a boss wave, which can get you closer to Wave 100 if you're lucky.
+Energy Shield: By this stage you should aim to get a second layer on Energy Shield, in order to preserve Second Wind as long as you can.
+Extra Orb: Having two layers of orbs can act as a counterplay against Orb Resistance.
+Death Ray: Can be paired alongside Extra Orb to kill as many enemies as you can.
+Aim to tank Wave 18 if you're unable to skip it.
+Demon Mode must be used at Wave 90 to ensure success (on the assumption it's at level 7, providing protection for 5 minutes.)
+Intro Sprint is not recommended for this, since this relies too much on Death Defy.

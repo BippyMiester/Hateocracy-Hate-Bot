@@ -1,0 +1,96 @@
+Black Hole Coin Bonus
+Extra coins are earned by enemies killed within Black Hole. Enemies do not need to be killed by Black Hole to be given this bonus, nor do they need to be affected by its pull.
+Level
+Time
+Cost
+Expand
+Value
+1
+1d 15h 59m
+20,000,000
+1.50x
+2
+2d  0h 21m
+21,405,405
+2.00x
+3
+2d  8h 53m
+23,124,324
+2.50x
+4
+2d 17h 54m
+26,627,027
+3.00x
+5
+3d  3h 49m
+35,837,838
+3.50x
+6
+3d 15h  6m
+58,248,649
+4.00x
+7
+4d  4h 17m
+106,162,162
+4.50x
+8
+4d 19h 58m
+197,870,270
+5.00x
+9
+5d 14h 49m
+358,875,676
+5.50x
+10
+6d 13h 31m
+623,091,892
+6.00x
+11
+7d 16h 49m
+1,030,000,000
+6.50x
+12
+9d  1h 30m
+1,640,000,000
+7.00x
+13
+10d 16h 23m
+2,520,000,000
+7.50x
+14
+12d 14h 21m
+3,740,000,000
+8.00x
+15
+14d 20h 18m
+5,410,000,000
+8.50x
+16
+17d 11h  9m
+7,630,000,000
+9.00x
+17
+20d 11h 54m
+10,520,000,000
+9.50x
+18
+23d 23h 32m
+14,230,000,000
+10.00x
+19
+27d 23h  5m
+18,930,000,000
+10.50x
+20
+32d 11h 40m
+24,800,000,000
+11.00x
+1
+8
+36:00
+1.48%
+00:00
+36:00
+Pause
+Video Quality
+Auto (360p)

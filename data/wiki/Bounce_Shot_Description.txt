@@ -1,0 +1,30 @@
+Contents
+1
+Description
+2
+Workshop
+2.1
+Bounce Shot Chance
+2.2
+Bounce Shot Targets
+2.3
+Bounce Shot Range
+Description
+Gives the tower a chance for their projectiles to bounce after hitting an enemy a certain number of times when enemies are in range.
+Workshop
+Unlocked in
+workshop
+for 10000 coins after unlocking
+Rapid Fire
+. Unlocks Bounce Shot Chance, Bounce Shot Targets and Bounce Shot Range.
+Bounce Shot Chance
+Chance for a projectile to bounce to another enemy after hitting. There are 85 levels in the workshop. Each level increases the chance by 0.80% for a maximum chance of 68.00%.
+Bounce Shot Targets
+Number of times a projectile can bounce from enemy to enemy. There are 7 levels in the workshop with each level adding 1 target. The base number of targets is 1 and has a maximum of 8 targets. The maximum targets can be increased to 14 using the Bounce Shot
+perk
+. Enemies targeted by bounce shot cannot be hit toward the tower with
+knockback
+Bounce Shot Range
+Range that a projectile can bounce from enemy to enemy if activated. There are 60 levels with each level increasing the range by 0.1m. The starting value is 2.0m and has a maximum distance of 8.0m. Once a target has been selected by bounce shot, the projectile will chase that enemy even if it has been knocked farther than the maximum bounce range.
+1
+8

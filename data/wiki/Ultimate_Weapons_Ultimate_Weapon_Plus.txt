@@ -1,0 +1,232 @@
+Ultimate Weapon Plus
+Ultimate Weapon Plus abilities are additional abilities you can use to further improve your Ultimate Weapons and their base abilities.
+Unlocking
+Ultimate Weapon Plus abilities can only be unlocked when all 9 Ultimate Weapons are unlocked. Unlike buying Ultimate Weapons, you can buy Ultimate Weapon Plus abilities in any order you want. Each time you buy an ability, the cost for the next ability will increase. The level of the ability once unlocked will be level 0.
+Unlock
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Cost
+500
+625
+750
+975
+1250
+1650
+2200
+2900
+3800
+Abilities
+Abilities can be upgraded 10 times. The level of the ability once unlocked will be level 0. The cost of upgrades currently follow 1 of 3 price trees.
+300 Base Scaling
+Total Cost: 23800
+Unlock
+300
+375
+475
+600
+725
+925
+1150
+1450
+1800
+2200
+2650
+3150
+3700
+4300
+Chain Lightning
+Smite
+Every Chain Lightning Hit has a {Chain Lightning Chance}% chance to do extra damage equal to X% the current wave HP (Max hits: 100/enemy)
+0.05
+0.1
+0.15
+0.2
+0.25
+0.3
+0.35
+0.4
+0.45
+0.5
+0.55
+0.6
+Smart Missiles
+Cover Fire
+Launch an additional Smart Missile every x seconds.
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+Poison Swamp
+Death Creep
+Every time PS damage ticks, it is increased by x% of its base damage.
+120%
+190%
+260%
+330%
+400%
+470%
+540%
+610%
+680%
+750%
+820%
+890%
+960%
+1030%
+1110%
+300 Base Scaling
+Total Cost: 18570
+Unlock
+300
+360
+430
+510
+620
+750
+900
+1100
+1350
+1650
+2050
+2600
+3300
+4150
+Golden Tower
+Golden Combo
+After Golden Tower finishes, gain extra cash and coins of x% per enemy killed.
+0.03%
+0.06%
+0.09%
+0.12%
+0.15%
+0.18%
+0.21%
+0.24%
+0.27%
+0.30%
+0.33%
+0.36%
+0.39%
+0.42%
+0.45%
+Inner Land Mines
+Charged Mines
+The damage of Inner Land Mines increases X times per second as long as they are alive.
+0.50
+1.5
+2.9
+4.7
+6.9
+9.5
+12.5
+15.9
+19.7
+23.9
+28.5
+33.5
+38.9
+44.7
+50.9
+400 Base Scaling
+Total Cost: 19050
+Unlock
+400
+500
+610
+730
+860
+1000
+1150
+1300
+1500
+1700
+1950
+2200
+2450
+2700
+Death Wave
+Kill Wall
+Each Effect Wave hit amplifies the Death Wave damage store by x (additively).
+3
+4
+6
+9
+13
+18
+24
+31
+39
+48
+58
+69
+81
+94
+108
+Black Hole
+Consume
+Each Black Hole deals X% the current wave HP to every enemy affected at the end of its activation.
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+55
+60
+65
+70
+75
+Chrono Field
+Chrono Loop
+Enemies affected by Chrono Field spiral towards the tower with a rotation rate of X
+0.1
+0.15
+0.2
+0.25
+0.3
+0.35
+0.4
+0.45
+0.5
+0.55
+0.6
+0.65
+0.7
+0.75
+Spotlight
+Light Range
+Spotlight damage bonus is boosted by X times your damage/meter (Note: this depends on your tower range).
+0.01
+0.02
+0.03
+0.04
+0.05
+0.06
+0.07
+0.08
+0.09
+0.1
+0.11
+0.12
+0.13
+0.14
+0.15

@@ -1,0 +1,19 @@
+Energy Shield Extra Hit
+Unlock Energy Shield Extra Hit
+lab
+in
+Milestones
+at tier 4 wave 300. The extra hits create new charges. Energy Shield recharges one charge at a time. When 2 or more charges have been lost, you will have to wait until the previous charge is back up before the other charges can begin recharging. When a charge is ready, it will be active even if other charges are still charging. Has 2 levels.
+Level
+Time
+Cost
+Expand
+Value
+1
+11d 13h 46m
+40,000,000,000
+1
+2
+32d  9h 46m
+850,000,000,000
+2

@@ -1,0 +1,18 @@
+Generator Effect Bans
+Unlocked Tier 10 wave 40.  Enables the banning of specific generator effects when rerolling generator modules. Has 3 levels 3 for total bans.
+Level
+Time
+Cost
+Value
+1
+62d 12h 0m 0s
+5.00T
+1
+2
+162d 12h 0m 0s
+500T
+2
+3
+204d 4h 0m 0s
+50.00q
+3

@@ -1,0 +1,10 @@
+First Perk Choice
+Unlocked in Milestones at tier 2 wave 250 and after Unlock Perk completed. Allows players to select a standard perk as a guaranteed choice when selecting the first perk of the round. Can only be selected outside of a round on the home screen in the top right corner. Has 1 level.
+Level
+Time
+Cost
+Value
+1
+4d 15h  6m
+1,000,000,000
+Unlocked

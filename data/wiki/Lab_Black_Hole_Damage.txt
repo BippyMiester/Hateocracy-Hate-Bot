@@ -1,0 +1,47 @@
+Black Hole Damage
+Black Hole will do a percent damage of enemy total health per second. Protectors do not reduce damage from Black Hole. Has 10 levels.
+Level
+Time
+Cost
+Expand
+Value
+1
+1d 15h 59m
+20,000,000
+0.20%
+2
+2d  0h 21m
+20,810,000
+0.40%
+3
+2d  8h 53m
+21,850,000
+0.60%
+4
+2d 17h 54m
+24,050,000
+0.80%
+5
+3d  3h 49m
+29,500,000
+1.00%
+6
+3d 15h  6m
+41,790,000
+1.20%
+7
+4d  4h 17m
+66,330,000
+1.40%
+8
+4d 19h 58m
+110,660,000
+1.60%
+9
+5d 14h 49m
+184,660,000
+1.80%
+10
+6d 13h 31m
+300,870,000
+2.00%

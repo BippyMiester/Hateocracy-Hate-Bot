@@ -1,0 +1,126 @@
+Unlock Lab in Milestones on tier 16 wave 60. Increases damage chain lightning damage done to scatters by each consecutive hit as an additive bonus. This means all values will be 1+ higher than shown to add to the original 1x damage from the first hit.
+level
+Time
+Cost
+Expand
+Value
+1
+8d 8h 0m
+100.00B
+x1.25
+2
+9d 8h 0m
+150.00B
+x2.5
+3
+10d 10h 52m
+225.00B
+x3.75
+4
+11d 16h 59m
+337.50B
+x5
+5
+13d 2h 42m
+506.25B
+x6.25
+6
+14d 16h 28m
+759.38B
+x7.5
+7
+16d 10h 45m
+1.14T
+x8.75
+8
+18d 10h 8m
+1.71T
+x10
+9
+20d 15h 11m
+2.56T
+x11.25
+10
+23d 2h 36m
+3.84T
+x12.5
+11
+25d 21h 10m
+5.77T
+x13.75
+12
+28d 23h 42m
+8.65T
+x15
+13
+32d 11h 11m
+12.97T
+x16.25
+14
+36d 8h 41m
+19.46T
+x17.5
+15
+40d 17h 25m
+29.19T
+x18.75
+16
+45d 14h 42m
+43.79T
+x20
+17
+51d 2h 4m
+65.68T
+x21.25
+18
+57d 5h 12m
+98.53T
+x22.5
+19
+64d 1h 59m
+147.79T
+x23.75
+20
+71d 18h 33m
+221.68T
+x25
+21
+80d 9h 15m
+332.53T
+x26.25
+22
+90d 46m 11s
+498.79T
+x27.5
+23
+100d 20h 3m
+748.18T
+x28.75
+24
+112d 22h 28m
+1.12q
+x30
+25
+126d 11h 43m
+1.68q
+x31.25
+26
+141d 16h 0m
+2.53q
+x32.5
+27
+158d 16h 0m
+3.79q
+x33.75
+28
+177d 16h 58m
+5.68q
+x35
+29
+199d 46m 25s
+8.52q
+x36.25
+30
+222d 21h 59m
+12.78q
+x37.5

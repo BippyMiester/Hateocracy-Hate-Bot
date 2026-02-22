@@ -1,0 +1,27 @@
+Flame Bot - Burn Stack
+Unlock Lab in Milestones at Tier 10 wave 50. Allows for successive hits by flame bot to the same enemy to stack the burn effect and cause the burn to tick faster. 2 stacks would make the enemy take damage every 0.5 seconds (2 ticks per second). Has 5 levels adding 1 stack each level. There is a cap of 10 stacks of burn. So at lab level 1 it takes 10 hits to reach max stacks, and at max lab (level 5) it only takes two hits from flame bot to reach max burn stacks.
+Level
+Time
+Cost
+Expand
+Value
+1
+45d 15h 0m
+43.00T
+1
+2
+52d 11h 15m
+64.50T
+2
+3
+60d 8h 8m
+96.75T
+3
+4
+69d 9h 21m
+145.13T
+4
+5
+79d 19h 9m
+217.69T
+5

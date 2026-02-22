@@ -1,0 +1,14 @@
+Perk Option Quantity
+Unlocked in Milestones at tier 4 wave 80 and after Unlock Perk completed. Increases the number of choices when selecting perks. Has 2 levels for a maximum of four perks at a time to select between.
+Level
+Time
+Cost
+Value
+1
+4d 23h 26m
+200,000,000
++1
+2
+10d  4h 26m
+2,000,000,000
++2

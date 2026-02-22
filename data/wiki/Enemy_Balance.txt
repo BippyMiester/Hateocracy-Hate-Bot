@@ -1,0 +1,6 @@
+Description
+Increase the cash earned for each kill but increases the number of enemies that spawn.
+Use
+The Enemy Balance
+card
+averages 1.8x the amount enemies spawned. Cash and coins can be dropped from spawned enemies making the card effective for boosting both cash and coins. The multiplier on the card only boosts cash and will not increase coins.

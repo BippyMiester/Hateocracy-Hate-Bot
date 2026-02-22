@@ -1,0 +1,95 @@
+Event Themes
+Themes in the chart include both tower and background themes from each event.
+Theme
+Expand
+Rerun
+Interstellar
+Yes
+Volcano
+Yes
+Plasma
+Yes
+Honeycomb
+Yes
+Aurora
+Yes
+Alien
+Yes
+Ocean Night
+Yes
+Sakura
+Yes
+Easter
+Yes
+Retrowave
+Yes
+Prismatic Lines
+Yes
+Cobweb
+Yes
+Matrix
+Yes
+Virus Field
+Yes
+Mountain Night
+Yes
+Sandstorm
+Yes
+Autumn Forest
+Yes
+Haunted House
+Yes
+Arcade
+Yes
+New Years
+Yes
+Dark Strands
+Yes
+Deep Blue Sea
+Yes
+Hyper Space
+Yes
+Invasion
+Yes
+Sunset River
+Yes
+Hurricane
+No
+Rainfall
+No
+TV wall
+Yes
+Abduction
+No
+Snowstorm
+Yes
+Forest of Cats
+No
+Event Horizon
+No
+Clock Tower
+No
+Pi Disk
+No
+Koi Pond
+No
+Camping
+No
+Cthulu
+No
+Cyberpunk
+No
+Crystal Cave
+No
+1
+8
+28:15
+0:06
+2.59%
+00:06
+28:09
+Pause
+Video Quality
+Auto (360p)
+Advertisement
+Skip Ad

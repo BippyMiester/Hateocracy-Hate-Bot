@@ -1,0 +1,113 @@
+Contents
+1
+v0.18
+1.1
+Milestones
+1.2
+Performance
+1.3
+Standard Rounds
+1.4
+Tournaments
+1.5
+Workshop
+1.6
+Cards
+1.7
+Lab Balancing
+1.8
+Perks
+1.9
+Events
+1.10
+Other Features
+1.11
+Bugs
+2
+Versions
+v0.18
+Milestones
+• New feature, milestones. Earn rewards for completing higher and higher waves on each tier. This will be how new game features are unlocked going forward. You can earn new lab research, cards, and premium currency. It currently gives rewards up to wave 2000, but 2500 will be coming in an upcoming update that includes exclusive tower skins as well
+Performance
+• Massive performance improvement for how enemies interact with each other. Defensive builds should be much less laggy. (this was completed in 0.17.12)
+• Orbs are no longer reliant on game FPS
+Standard Rounds
+• New Enemy: Protector - Enemies inside protector's range cannot be insta killed by orbs or death ray. The goal of this enemy is to reduce reliance on insta kills, make rounds end sooner, and make higher range towers more viable. The smaller the tower range, the more impactful the protector is since it's radius remains unchanged. This enemy may set wave records back a bit, but other upgrades were added to further push your tower's limits
+• Enemy speed growth for normal rounds reduced a bit
+• Enemy mass now grows very slowly starting on wave 50. Example: Wave 500 = 500 x1.14 mass, Wave 3000 = x1.89
+• Max enemies on screen raised from 100 to 120
+• Enemy spawn rate above wave 3000 for every tier increased slightly
+• Resume round feature restrictions loosened. Max resumes from 3 to 10. Minimum wave progression from 15 to 10 waves
+• Tier 13 added
+Tournaments
+• Cooldown wave timer reduced by 50% to speed up runs, and add a bit of difficulty
+• Enemy speed growth reduced
+• Enemy health and attack scaling increased slightly
+• Enemy mass now slowly grows after wave 50, reducing knockback
+• Protector enemy slightly more prevalent in tournaments than standard rounds
+• Enemy spawn rate above wave 50 increased, and slightly grows faster
+Workshop
+• Land mine damage max level raised from 90 to 200
+• Land mine radius max level raised from 35 to 50
+Cards
+• Some cards can now be unlocked via completing milestones. This way I can add cards that use later game mechanics safely. For example, land mine stun card is unlocked as a possible card after completing Tier 7, wave 250
+• New Rare Card (milestone unlock): Land Mine Stun
+• New Rare Card (milestone unlock): Recovery Package Chance
+New Lab Research
+• Recovery package amount
+• Recovery package max
+• Recovery package chance
+• Flame bot frequency
+• Stun bot frequency
+• Coin bot frequency
+• Amplify bot frequency
+• Super tower bonus damage
+• 13 new researches regarding enemy debuffs
+Lab Balancing
+• Recovery package coin costs reduced
+Perks
+• New Perk: Blackhole duration +12 seconds
+• New Perk: Spotlight damage bonus x1.5
+Events
+• Large numbers use the converter now
+• Prep for upcoming events
+Other Features
+• Wave Detail Panel - tap the lower right wave information box to access. Shows more details about the current wave and enemies
+• 120 FPS option added in settings panel (60 FPS remains default, only works for devices that allow it)
+• Target priority now includes Protector enemy
+• Card purchasing now shows your current gems in the claim viewing panel
+• Backend improvements to help with player support
+Bugs
+• Name for bot frequency upgrade fixed from "Chance" to "Frequency"
+• Name for spotlight Angle upgrade fixed
+• Bot upgrades show when maxed now
+• Card preset name change panel text fixed
+• Stone pack 2 showing gems visually on claim screen instead of stones
+• Improved a lot of translations
+Versions
+v0.27
+v0.26
+v0.25
+v0.24
+v0.23
+v0.22
+v0.21
+v0.20
+v0.19
+v0.18
+v0.17
+v0.16
+v0.15
+v0.14
+v0.13
+v0.12
+v0.11
+v0.10
+v0.9
+v0.8
+v0.7
+v0.6
+v0.5
+v0.4
+v0.3
+v0.2

@@ -1,0 +1,26 @@
+Second Wind Blast
+Unlock
+lab
+in
+Milestones
+at tier 3 wave 150. Second Wind Blast clears a percent of spawned enemies after second wind triggers. Has 4 levels.
+Level
+Time
+Cost
+Value
+1
+1d  3h 46m
+1,800,000
+25%
+2
+1d 17h 39m
+3,000,000
+50%
+3
+2d  7h 33m
+4,500,000
+75%
+4
+3d 11h 19m
+75,000,000
+100%

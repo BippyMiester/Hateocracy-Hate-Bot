@@ -1,0 +1,6 @@
+Description
+Number of projectiles fired from your tower over time. Attack speed increases the movement speed of the projectiles too until the lab "Light Speed Shots" is researched.
+Workshop
+Unlocked in the
+workshop
+for free. Attack speed has 99 levels in the workshop with a base of 1.00 where each level increases by 0.05 for a total of 5.95.

@@ -1,0 +1,39 @@
+Ban Perks
+Unlocked in Milestones at tier 5 wave 40 and after Unlock Perk completed. Allows perks to be banned from appearing as a choice during a round. Perks can be banned from the home screen when you are not in a run. Has 8 levels.
+Level
+Time
+Cost
+Expand
+Value
+1
+2d 7h 33m
+10.00M
+1
+2
+4d 15h 6m
+100.00M
+2
+3
+9d 6h 13m
+1.00B
+3
+4
+20d 19h 59m
+15.00B
+4
+5
+41d 16h 0m 15m
+100.00B
+5
+6
+83d 8h 0m
+1.00T
+6
+7
+166d 15h 59m
+100.00T
+7
+8
+333d 8h 0m
+1.00q
+8

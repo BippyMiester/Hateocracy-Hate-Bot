@@ -1,0 +1,62 @@
+The Guardian is an addition to the tower, obtained by buying for 200
+bits
+in the
+guild
+menu for it.
+Contents
+1
+Chips
+2
+Attack
+2.1
+Usage
+3
+Ally
+3.1
+Usage
+4
+Bounty
+4.1
+Usage
+5
+Fetch
+5.1
+Usage
+6
+Summon
+6.1
+Usage
+Chips
+Once unlocked, the Guardian starts with two
+chips
+, which provide the guardian with unique abilities. These chips are Attack and Ally, there are also three chips that can (or could) be purchased, being Steal Fetch and Summon. Attack deals damage based off of enemy missing health (does more damage based on damage enemy has already taken), Ally causes enemies to transform into recovery packages, Bounty attaches a coin bonus to an enemy, Fetch makes the guardian search for various currencies, and Summon causes it to create more enemies which don't have ultimate conditions while providing a cash mult. All chips have a cooldown upgrade, a target amount upgrade, and a third upgrade for the unique effect of the chip, excluding Fetch and Summon which have two unique upgrades. The guardian starts with one chip slot but more can be bought for more bits. All chips upgrades are increased via bits.
+Attack
+Attack functions by causing the guardian to fire a small red projectile at the lowest health enemy, dealing x% of damage enemy has already taken, having y cooldown and z targets. Starts with 1% damage, 120 second cooldown, and 1 target.
+Usage
+This chip works best as an "execute" as it does proportionately more damage based on the amount the enemy has already been damaged, doing a percentage of missing health. It acts as a supplement to the damage the tower is already capable of, so it can likely easily piggyback off of percent based damage (eg. black hole or plasma cannon) to deal extra. This will be particularly useful at higher levels of damage, as it can potentially make certain combinations do much more damage, eg. 54% plasma cannon being increased to 64% via a guardian with 20% damage. Cooldown should be calibrated so that it can activate with ultimate weapons to take advantage of damage done. Targets should be increased for overall efficiency and increasing chance of hitting high priority enemies (eg. bosses and protectors)
+Ally
+Converts an enemy into a recovery package recovering for x%, with y% max to the effect based off current max recovery, and z cooldown.
+Usage
+Ally can increase HP over the normal max for recovery packages and is as such useful for
+eHP builds
+. Later game it is much less effective as HP's scaling is much weaker but when farming in earlier tiers it can still assist. Recovery amount and cooldown should be leveled up a lot for recovery max to become useful.
+Bounty
+applies x coin bonus to enemies, cooldown of y affecting z targets. Starts with 0.01x, 120 second cooldown, 1 target.
+Usage
+Has no actual compact impact, similarly to
+golden bot
+. It's usage lies in farming
+coins
+. Similar to other coin multipliers, cooldown works best if it is synced to
+GT
+so it can take advantage of the multiplier.
+Fetch
+Finds gems, medals, a module, module shards, or coins with an x% chance, a cooldown of y and a z% chance of finding twice in one go. Starts with 10% proc chance, 120 second cooldown, 2% double find chance. Cooldown costs 2 additional bits / level & maxes out @ 60s.
+Usage
+Similarly to Bounty, it has no impact directly it battle. It is useful because it finds other currencies. Gems, Medals, etc. now become much more easily farmable with a bit of the luck upgrade. As it currently is, find chance should be prioritized over its other two upgrades. A tick of double find can be gotten every 4-5 normal upgrades, cooldown should be upgraded frequently too in order to cause procs to happen more often from sheer volume of tries. This chip doesn't need to be synced with other UWs since it does not benefit from their bonuses.
+Summon
+Creates a portal which spawns enemies at a rate of 2/sec, every x seconds with a cooldown of y seconds and applying a global cash multiplier of Zx. starts with 140s cd, 5s duration, and 1x cash bonus.
+Usage
+This chip's main function is dumping enemies into GT to strengthen GT+, though it has a small (but not negligible) increase in coin gain before GT+ since it is able to summon enemies which drop coins, especially tanks. Its cash bonus is not negligible either, especially with high durations, though it falls off later game when cash becomes less and less valuable to a build. This chip is relatively valuable to sync to GT since its cash bonus will stack with GT's and it will spawn enemies to be killed while GT is active.
+1
+8

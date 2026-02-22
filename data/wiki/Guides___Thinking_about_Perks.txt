@@ -1,0 +1,101 @@
+Contents
+1
+Understanding Perks
+1.1
+Early use - Priorities
+1.2
+Established Towers
+1.2.1
+Coin runs
+1.2.2
+Milestone Runs
+1.2.2.1
+Reducing Perks
+1.3
+Priority Perks
+1.3.1
+Generic Long Term
+1.3.2
+L.T. Reduced Perk
+1.4
+Common Pitfalls, Footguns and misconceptions
+Understanding Perks
+Perks
+are achieved relatively early, in Tier 2, this can give many players a chance to boost their Towers beyond their capabilities regardless of playstyle or F2P. Without proper
+Perk labs
+they're capable of becoming a double edge sword but more often than not they will be the factor in obtaining the milestone or other goal you're after. The underdeveloped Perks will look like
+one pick of two random choices at every 200 waves.
+This as expected, isn't viable at all for those wishing to break tier barriers, even when fully developed, nonetheless are powerful in raising survivability for farm runs.  Perks
+are unavailable
+in Tournaments and solely for propelling individual runs.
+This
+Guide
+will be here to assist you thinking more critically about their use as a catalyst, maximizing their benefits, lab priorities, short and long term strategies, etc.  This guide will also dabble in other subjects albeit focusing on Perks tips and tricks. It will be expanded upon.
+Early use - Priorities
+Perk as they initially are, aren't great.
+Two options
+, no
+banned perks
+, no
+first perk choice
+. There will be times when you get stuck with two trade-off perks that would doom your run and so you're force to pick or forget about perks for the rest of the run entirely. In such early stages, there are arguably better picks for using your limited lab slots, however to truly get perks jump started, you must obtain at least one level in Perk option Quantity for 3 choices;
+U
+n
+d
+iscounted (Ud) at 200mil.
+Players throughout every stage focus on
+economy, their coins
+. One must look at it in at least two ways: Short Term and Long Term. Although some of these fall in-between, like perks.
+Short Term: Your individual runs and
+daily and weekly missions
+Long Term:
+Labs
+Relics
+Themes
+, etc.
+Perks will noticeably impact your short term and it's long term isn't too costly or lengthy to be effective. With a single level into quantity for the most part will provide enough room where you're unlikely finding yourself locked between two damning Trade-off perks as often. As important and cheaper in its first couple levels,
+Ban Perks
+will help reduce those perks deemed useless or waste of a choice slot, pick these at your own discretion although it is advised first pick Trade-offs that you know have no value to your playstyle. Leaving length invests like the investing perk itself as 3rd or 4th banned option.
+Established Towers
+At this point, you're either in or entering midgame. Ideally you have choice of 3 perks, perhaps you even have
+First perk choice
+. You have your labs built up or close to your last lab slot. Your Farming runs reach at least 1k waves. Maybe there are a few milestones your short a couple hundred levels of. This guide was made for you in mind. When finding the best solution we must dissect the problem, for example;
+Coin runs
+Your long term is moving fine but short feels lackluster. What perks are you prioritizing? Naturally Perk Wave Requirement. Even with 4 options and first choice, there's no guarantee you'll get all 3 reduce perk wave requirement. Take it if you see it, especially if your max wave is under 2k. What should be your second choice? Well its a coin run so you think coins, many cases, yes its the right call especially if you come across the Trade-off perk or your limit with good perks is just over 1k waves on higher tiers but on those lower and more drawn out games, where you aren't seeing the majority of your coins until the 2000+ waves,  you must focus on perks whose value shines the best in these long runs. Such as but not limited to; Free Upgrade Chance, Game Speed, Enemies Damage -50%, but Tower Damage -50%.
+Ex.1  You get lucky, get at least 2/3 perk wave reduces, game speed, some free choice, etc, all before 2k!
+Now what? This still is a coin run! If you see a coin perk or GT 1.5x bonus, grab it otherwise its the generic survivability perks such as: Def%, Damage, Health and so on.
+Milestone Runs
+When aiming for milestones, survivability is what counts. PWR is still first grab followed by Free Upgrades if the milestone is in the thousands. A note on FU, to get the best out of them, its smart to micromanage the first few hundred waves. Cash card in play to obtain max interest if it helps focusing on completing expensive battle upgrades and those nearly maxed out. I.E. Critical Factor, Bounce Range, Landmine radius, damage / m %,  etc. As these finale few workshop upgrades get costly.  Proper micromanaging the initial 100 waves can determine meeting that milestone goal. If you have Super Crit or Enemy Atk/Health skip, focus those as they will become costly the quickest. For Shorter milestone runs, it is correct to focus  Def %, Health and  Attack Perks instead of Free Upgrades, regardless, you shouldn't neglect the power of Free upgrades when you're earnings of a single wave barely afford you a battle upgrade.
+Reducing Perks
+There are several ways to reduce perks and expand upon finding the ones you desire. There are long and short term options with varying degrees of effectiveness. The
+Long Term
+is entirely
+lab dependent,
+these labs being banned perks, perk quantity, first choice perk, standard perk bonus and waves required. These are far more reliable than the short term alternative which is a game of chance with Perk Wave Requirement reduction. The short term also has another route that is easily overlooked.
+"There is value in nothing" - Greg
+probably
+EX.2; It's  early in your run you're given a choice of Random UW, Health, DMG and an unremarkable UW perk. What do you pick? A random UW is hit or miss, DMG and health are critical for survival and the UW perk is for one that has barely any investment. You're thinking Dmg or Health, naturally. Wrong! The useless UW perk! Why? Because you wont see it again. You can only have one UW boost perk per UW and getting it out of the way early in your run will open the door for more important perks down the road. Don't just think about what you need but where you are and what you got. Reducing the amount of unnecessary perks this way is only rivalled by the perk wave reduction itself. If your options sucks, pick the less shitty one with least investing required.
+One must exercise caution with this strategy
+, as after 20 perks, the numbers of waves between each pick is increased, see
+"Perks
+Waves Required" for a more in-depth formula.
+Priority Perks
+These are Based off run variables and goals, generally
+P
+erk
+W
+ave
+R
+equirement -20% is assumed first priority if not mentioned directly, but varies on your target, like needing a UW for a event mission but keep in mind that passing up the perk Wave reduction will affect how much of said UW mission you'll be able to complete simply from losing those given extra perks that would impact survivability. These examples are just a few possible routes and will include the total perks taken in brackets, under the assumption it is max quantity, obtain in the ideal situations. These are merely to give a better understanding when calculating Waves Required.
+Generic Long Term
+(3)PWR > (4)-50/-50 dmg > (5)game speed > (10) free upgrades >(17) Coin perks >(23) Def% >(28) Damage ≥(33) Health > (41) UWs perks
+Coin perks include 1.8 coin and Gold Tower x1.5 boost
+L.T. Reduced Perk
+(3)PWR > (4) Game speed > (17)single quantity perks  > (22)Bounce/orb  ≥ (##) Favored perks per run conditions/goals
+Single Quantity includes but not limited to: -50/-50, 1.8 coin, all UW perks
+Common Pitfalls, Footguns and misconceptions
+These seemly good payouts and investments aren't worth the labs presently. These are but a few examples:
+Raising Waves Required lab. Costly, time consuming and of little appeal pass level 10.
+Auto Pick Perks. Costly, time consuming, multi-stage prep. to be viable after other perk labs are leveled.
+First Choice perk. While still a must get, it does not include Trade-off Perks,  no cheesing 1.8 coin.
+Still W.I.P

@@ -1,0 +1,236 @@
+Contents
+1
+Description
+2
+Themes
+2.1
+Tower Themes
+2.2
+Background Themes
+2.3
+Menu Themes
+2.4
+Guardian Themes
+2.5
+Passive Coin Bonus Calculation
+2.6
+Milestone Themes
+2.7
+Event Themes
+2.8
+Guild Themes
+3
+Songs
+4
+Relics
+Description
+The Theme Menu (commonly called skins) is where players can select tower themes, background themes, choose music and view relics.
+Themes
+There are 4 main themes: Tower, Background, Menu, and Guardian. Each provide a passive coin bonus even while not active. You are able to randomize themes or select them from the Tower and Background Submenus.
+Tower Themes
+Changes appearance of the tower. The tower themes can be unlocked in
+Milestones
+on wave 2,500 of each tier as well as being purchased during
+events
+. The passive coin multiplier is 0.4% for each owned.
+Background Themes
+Changes appearance of the background. Background themes can be purchased during events. The passive coin multiplier is 0.8% for each owned.
+Menu Themes
+Changes appearance of the Menu. Menu themes can be purchased in Guilds. The passive coin multiplier is 0.6% for each owned.
+Guardian Themes
+Changes appearance of the Guardian. Guardian themes can be purchased in Guilds. The passive coin multiplier is 0.6% for each owned.
+Passive Coin Bonus Calculation
+The bonuses between themes is additive for a cumulative multiplier. The total multiplier is displayed in the tier multiplier menu. It is calculated as:
+Coin Bonus = 1 + 0.004 x Tower Theme Quantity + 0.008 x Background Theme Quantity + 0.006 x Menu Theme Quantity + 0.006 x Guardian Theme Quantity.
+Milestone Themes
+Theme
+Expand
+Free/Paid
+Shurken
+Free
+Donut
+Paid
+Yin-Yang
+Free
+Smile
+Free
+Butterfly
+Paid
+Sheep
+Free
+Fried Egg
+Free
+Mush-mush Skin
+Paid
+Turtle
+Free
+Cheese
+Free
+Cat
+Paid
+Skull
+Free
+Creepy Clown
+Free
+Panda
+Paid
+Tech Tree
+Free
+Cactus
+Free
+Dragon
+Paid
+Rhino
+Free
+Atomic
+Free
+Cyber
+Paid
+Eclipse
+Free
+Event Themes
+Themes in the chart include both tower and background themes from each event.
+Theme
+Expand
+Rerun
+Interstellar
+Yes
+Volcano
+Yes
+Plasma
+Yes
+Honeycomb
+Yes
+Aurora
+Yes
+Alien
+Yes
+Ocean Night
+Yes
+Sakura
+Yes
+Easter
+Yes
+Retrowave
+Yes
+Prismatic Lines
+Yes
+Cobweb
+Yes
+Matrix
+Yes
+Virus Field
+Yes
+Mountain Night
+Yes
+Sandstorm
+Yes
+Autumn Forest
+Yes
+Haunted House
+Yes
+Arcade
+Yes
+New Years
+Yes
+Dark Strands
+Yes
+Deep Blue Sea
+Yes
+Hyper Space
+Yes
+Invasion
+Yes
+Sunset River
+Yes
+Hurricane
+No
+Rainfall
+No
+TV wall
+Yes
+Abduction
+No
+Snowstorm
+Yes
+Forest of Cats
+No
+Event Horizon
+No
+Clock Tower
+No
+Pi Disk
+No
+Koi Pond
+No
+Camping
+No
+Cthulu
+No
+Cyberpunk
+No
+Crystal Cave
+No
+Guild Themes
+Themes in the chart include the available themes in the guild per season.
+Expand
+Guild Season
+Tower
+Background
+Menu
+Profile
+Guardian
+Rerun?
+1
+Crown
+Throne Room
+Dark Being
+Butter
+no
+2
+Mech Warrior
+Mech world
+Mech world
+Mech world
+Muse, Finn
+no
+3
+DJ
+Party
+Party
+Party
+Nyra, Rolo
+no
+4
+Pixel Soldier
+Pixel Alien War
+Pixel Alien War
+Pixel Alien War
+Glenn, Zepe
+no
+5
+Restless Eye
+Crimson Horror
+Crimson Horror
+Crimson Horror
+Iris, Silk
+no
+6
+Shining Star
+Cozy Cosmos
+Cozy Cosmos
+Cozy Cosmos
+Mickey, Gaia
+no
+7
+Space Telescope
+Supernova
+Supernova
+Supernova
+Arwing, Frank
+no
+Songs
+The Song submenu can be found with themes. This submenu allows you to select which songs will play during rounds as well as an alternative location to mute game sounds.
+Relics
+The Relic submenu lets you view which relics you have unlocked and the cumulative bonuses given. For more information, see
+Relics

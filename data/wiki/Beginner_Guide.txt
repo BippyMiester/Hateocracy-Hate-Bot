@@ -1,0 +1,71 @@
+Contents
+1
+Overview
+2
+Upgrades - Step 1
+2.1
+Workshop Between Rounds
+2.2
+Workshop During a Run
+3
+Upgrades - Step 2
+3.1
+Workshop Between Round
+3.2
+Workshop During a Run
+4
+Transitioning to Tier 2 & Beyond
+Overview
+This guide will help get started move through tier 1 and introduce tier 2. This guide is based on the
+Discord Tier 1 Completion Guide
+as well as the Discord
+Beginner Guides
+. Please note the first linked guide was last updated for v0.14.8 but much of the information remains relevant in the current version for tier 1. In the current state of the game, Tier 1 focuses on a turtle build - making the tower defense really strong so enemies cannot hurt the tower. Tier 1 is the only tier where a turtle build is able to be used.
+Upgrades - Step 1
+Workshop Between Rounds
+Economy
+Cash & Coins/Wave - in the earliest parts of the game, per wave bonuses scale quickly and provide players easy access to cash for upgrades during runs and coins for upgrades out of runs.
+Cash Bonus & Coins/Kill - enemy spawns increase later in rounds. When you can pass wave 100, begin working on Cash bonus
+Interest - This can provide a decent boost to cash early in the game however, this stat is limited to $50 of interest until max interest is unlocked in tier 2 wave 80 so you do not need to spend much time on this
+Health
+Def abs - While this will be the most useful stat in rounds when getting started, it only needs about 50 levels in the workshop outside of rounds. Don't worry if you increase it by more. The coins at the lower levels will barely be a dent in your coins in the long run.
+Health - try to increase this little bits at a time when getting started (1-2 levels). This stat will become more important later.
+Def% - Once def abs is level 50, begin increasing this stat with coins
+Thorns - Main source of damage. To avoid issues with rounding, you should try to keep this 1% higher than a fraction. (Ex: 6%, 11%, 21%, 26% etc..)
+Workshop During a Run
+Boost Cash/Wave for 5-9 waves
+Boost Coins/Wave 10-20 waves
+Boost Cash Bonus & Coins/Kill until you are taking damage through def abs
+Improve Def Abs
+If you can afford getting thorns to the next fraction with coins, improve thorns in round as it reduces the hits you receive per enemy - when def abs cost too much
+Upgrades - Step 2
+The previous steps should be able to unlock tier 2. Continue farming on tier 1 as tier 2 is approximately x20 harder than tier 1. T3-9 do not follow the same extreme jumps. Begin adding the next stats to your build go farther on t1 as well as move to tier 2.
+You will want to stop using def abs. The way to progress farther in the game is either by building more HP or damage. HP scales faster by itself than damage does. This means switching into a health build at this point will be easier than trying to increase damage. Surviving with health will require you to begin keeping enemies away from the tower and healing damage as quickly as possible.
+Workshop Between Round
+Continue working on the stats above until they can be maxed during a round while using the below to improve your build.
+Economy
+Coins/Kill Bonus - This stat is how you will make money, increase it. Also takes 20 mil coins to max but upgrading it in the meantime will help you get that much.
+Cash Bonus - Start working on this as it's how you're going to get cash later on.
+Coins/Wave - Not too important as most of your coins will come from kills. Feel free to max this once 20 mil coins isn't an issue to spend for a little boost.
+Cash/Wave - How you make money in the early early rounds before Cash Bonus becomes more powerful. Leave this stat alone, you can level it up in rounds.
+Health
+Lifesteal - becomes main source of healing. Can only heal using tower projectile damage.
+Knockback - This becomes more important when orbs are unlocked, as it can knock enemies into orbs. This will allow players to start killing enemies without thorns and survive longer. Bosses will still hit the tower.
+Orbs - orb speed will increase the reliability of orbs hitting enemies while quantity helps have more chances to hit enemies. Increasing orbs and knockback will prevent as many hits to your tower.
+Damage
+Attack Speed - increases the number of shots your tower fires. Pairs with knockback by hitting the enemy more often. Improves lifesteal by more frequent hits
+Damage - Improves lifesteal
+Crit Chance & Crit Factor - Improves lifesteal. Crit Factor final levels will get very expensive. Do not to expect to max quickly.
+Range - ignore for now. Does not hurt if upgraded but will not help you much yet.
+Damage/meter - behaves closer to damage/10 meters. This helps improve lifesteal by increasing damage. Works well with good knockback.
+Multishot - Work on when you can max attack speed in a round.
+Repeat step 6 with rapid fire when multishot can be maxed. and repeat for Bounce Shot when rapid fire can be maxed.
+Super Crit - Very useful but does not need to be unlocked until 100 mil is not too difficult to unlock.
+Workshop During a Run
+Repeat Step 1 phases
+Begin focusing on health when def abs begins to be less effective and costly.
+Improve stats that improve orbs and lifesteal as needed. Orbs to clear up enemies if you are knocking back too many at a time, more lifesteal if damage is becoming too much.
+Check here for help with cards and labs.
+Transitioning to Tier 2 & Beyond
+Tier 2 is harder but has nearly a 2x increase in coins. You should check your progress on tier 2 every several rounds after you start making it 1000 waves on tier 1. Around 300 waves, tier 2 should be better for coins than tier 1.
+When you advance to tier 2, you will want to stop improving def abs during a run. Health and def% become the main source of survival. Reducing hits through knockback and using orbs becomes a key to surviving longer.

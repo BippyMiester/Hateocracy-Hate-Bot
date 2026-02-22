@@ -1,0 +1,180 @@
+Ultimate Weapon Plus - Chrono Loop
+Ultimate Weapon Plus abilities can only be unlocked when all 9 Ultimate Weapons are purchased. Enemies affected by Chrono Field will spiral around the tower based on the rotation rate.
+Cost
+Expand
+UW+ Cost Table
+Level
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+Cost
+Unlocked
+400
+500
+610
+730
+860
+1000
+1150
+1300
+1500
+1700
+1950
+2200
+2450
+2700
+Value
+0.10
+0.15
+0.20
+0.25
+0.30
+0.35
+0.40
+0.45
+0.50
+0.55
+0.60
+0.65
+0.70
+0.75
+N/A
+Chrono Loop Mechanics
+The following is accredited to Priesten, yournicknm, and Tremnen:
+CF+ exerts a tangental force on enemies within CF Range, causing them to spiral around the tower as they approach. The rotation rate stated in-game for each CF+ level is the theta value (θ), or the distance measured in radians traveled per 2 seconds. With low enough enemy speeds, enemies will appear to be perpetually in orbit around the tower, having faster orbital cycles with higher CF+ levels
+CF+ Analysis by Priesten, yournicknm, and Tremnen
+Expand
+CF+ Level
+Rotation Rate (radians per 2 seconds)
+Rotation Rate (degrees per second)
+Full Orbit Time
+Hidden CF+ Slow%
+Original Enemy Speed
+New Enemy Speed
+Enemy Speed Rate
+0
+0.1
+2.864788976
+125.7 seconds
+0.025
+10
+9.75
+2.6% slower
+1
+0.15
+4.297183463
+83.8 seconds
+0.05
+10
+9.5
+5.3% slower
+2
+0.2
+5.729577951
+62.9 seconds
+0.1
+10
+9
+11.1% slower
+3
+0.25
+7.161972439
+50.3 seconds
+0.15
+10
+8.5
+17.6% slower
+4
+0.3
+8.594366927
+41.9 seconds
+0.2
+10
+8
+25% slower
+5
+0.35
+10.02676141
+36 seconds
+0.25
+10
+7.5
+33.3% slower
+6
+0.4
+11.4591559
+31.5 seconds
+0.3
+10
+7
+42.9% slower
+7
+0.45
+12.89155039
+28 seconds
+0.35
+10
+6.5
+53.8% slower
+8
+0.5
+14.32394488
+25.2 seconds
+0.4
+10
+6
+66.7% slower
+9
+0.55
+15.75633937
+22.9 seconds
+0.45
+10
+5.5
+81.8% slower
+10
+0.6
+17.18873385
+21 seconds
+0.5
+10
+5
+100% slower
+11
+0.65
+18.62112834
+19.4 seconds
+0.55
+10
+4.5
+122.2% slower
+12
+0.7
+20.05352283
+18 seconds
+0.6
+10
+4
+150% slower
+13
+0.75
+21.48591732
+16.8 seconds
+0.65
+10
+3.5
+185.7% slower
+1
+8

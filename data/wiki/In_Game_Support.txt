@@ -1,0 +1,5 @@
+In-Game Support Tickets
+A Support button has been added to the in-game Settings menu. Ticket submissions automatically include your player ID and account linked email, after which you can select your issue type and provide a subject and description. Once the ticket is submitted, you will see a ticket number in-game, which can also be found in your email inbox.
+Official Tech Tree Support Page
+If you’re unable to access the game or your account, you can contact support through the official Tech Tree website at
+https://www.techtreegames.com/?support

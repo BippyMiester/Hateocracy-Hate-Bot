@@ -1,0 +1,50 @@
+Contents
+1
+Waves and Rounds
+1.1
+Waves
+1.2
+Rounds
+2
+Tower
+3
+Enemies
+4
+Currencies
+Waves and Rounds
+Rounds and waves are not interchangeable terms. Each has set definitions used throughout the game.
+Waves
+Waves have 2 phases: length and cooldown. These phases have separate timers and once both timers complete, the next wave will begin. The length is when enemies spawn while the cooldown does not have any spawns. Waves can be tracked on the wave counter next to the tower health bar.
+Timers at x1 Speed
+Normal Wave
+Length
+Cooldown
+26.00 Seconds
+9.00 Seconds
+*Wave cooldown is halved for tournaments
+Rounds
+Rounds are the entire run. Rounds start at wave 1 and end when you die. If an ability can be used once per round, it can only be used once until you die.
+Tower
+The tower sits center of the screen with the workshop upgrades available at the bottom. The workshop menu can be collapsed by clicking the same icon that is currently opened.
+Above the workshop is a summary of the tower stats. Damage, Health regen and all coin bonuses are listed above the health bar. The health bar sits above the workshop on the left hand side of the screen. Activation buttons and wall health bar will appear above the tower health bar when available.
+Game speed is located above the wave counter.
+Enemies
+There are 6 enemy type (see:
+Enemies
+). Enemy information can be viewed during a round in the Wave Info Menu by clicking the wave counter on the right side of the screen. This menu will show all enemy types and their stats. This includes spawn rate.
+Health and damage for basic enemies are located next to the wave counter on the bottom right of the screen.
+Currencies
+There are 7 main currencies: Cash, Coins, Gems, Power Stones, Medals, Keys, and 5 types of Shards. The top left corner shows 3
+currencies
+: Cash, Coins and Gems. By clicking on the currencies you can switch the display from current owned to currency/min for cash and coins.
+Cash is used for upgrades during a round. Cash is earned during rounds from killing enemies, and at the end of each wave. Temporary boots to Cash multipliers can come from Cards, Sub-modules, and Ultimate Weapons.
+Coins are used for Workshop Upgrades, Lab Research, and upgrading Modules. Coins are earned during rounds from completing daily and weekly missions, killing enemies, at the end of each wave, participating in Tournaments, and completing Milestones. Temporary boosts to coin multipliers can come from Cards, Modules, Sub-modules, Bots, and Ultimate Weapons. Permanent Coin multipliers can be unlocked in Milestones, purchased for Medals during events, and purchased for real world money.
+Gems are used for buying Cards, unlocking Card Slots, rushing Labs, unlocking Lab Slots, & buying Modules. Gems can be earned by watching ads, completing 3rd party offers from the Offer Wall, a daily free Gem bonus, completing daily and weekly Missions, purchased during events in exchange for Medals, are found floating during rounds, and for participating in Tournaments. Gems can also be purchased for real world money.
+Power Stones are used for unlocking and upgrading Ultimate Weapons. Stones can be earned for participating in Tournaments, purchased during events in exchange for Medals, and are. Power Stone packs can be purchased for real world money available ~monthly.
+Medals are earned for completing Event Missions and spent in the Event Shop. Medals can be spent purchasing other currencies, unlocking Bots, and upgrading Bots.
+Keys are earned through placements in the Legends Tier of Tournament. Their use is found in
+The Vault
+Shards are used for upgrading Modules. The 5 kinds of Shards are Reroll, Attack, Defense, Utility, and Ultimate Weapon. Each type of Shard upgrades it's respective Module, and Reroll Shards are used to reroll Sub-modules. Shards can be earned completing daily missions, shattering common or rare modules, and for participating in Tournaments.
+Under gems, Energy Shield charges will be shown when equipped.
+1
+8

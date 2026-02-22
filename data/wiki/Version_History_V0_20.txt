@@ -1,0 +1,88 @@
+Contents
+1
+v0.20
+1.1
+New Tiers
+1.2
+Battle Conditions
+1.3
+Relics
+1.4
+Player Profile
+1.5
+Lightspeed Shots
+1.6
+Milestones
+1.7
+New Card: Ultimate Crit
+1.8
+Range Controls
+1.9
+Poison Swamp Visual Overhaul
+1.10
+Bug Fixes and Details
+2
+Versions
+v0.20
+New Tiers
+T14 and T15 have been added, introducing new challenges and opportunities for advancement
+Battle Conditions
+Battle conditions modify typical battles with special rules, often increasing the difficulty
+Expect to encounter them in T14 and T15, adding new twists to the gameplay in these tiers
+Relics
+Relics are collectibles that permanently improve your tower with stacking effects.
+Discover them by achieving difficult tasks and participating in  events
+Player Profile
+Show your progress to other players
+Choose a tower skin as your avatar, which will be displayed in tournaments and rankings
+Lightspeed Shots
+Research the lab to enable your tower to shoot at lightspeed, eliminating the travel time of shots to the enemy
+Milestones
+A unique 4,500 milestone reward has been added to each tier
+Milestone Premium Pass 5 added
+New Card: Ultimate Crit
+Introducing the Ultimate Crit card
+Grants your ultimate weapons a chance to critically hit using the Tower Critical Factor Workshop multiplier
+Range Controls
+Players can now adjust their Range Lab research to any level. Visit the Range lab to adjust the level
+Poison Swamp Visual Overhaul
+The Poison Swamp ultimate weapon has received a visual overhaul to better match the game style
+Bug Fixes and Details
+iPad optimized for better menu and visuals
+Fixed Golden Tower position not centered on tower
+Fixed a bug that could cause you to start the game with a trade-off perk
+Resolved an issue with Cloud save when changing devices on iOS, where it could load an older save
+Fixed the Force Cloud Save function not updating the last save time correctly
+Resolved issues with all Ultimate Weapons where sometimes smart missiles or inner land mines would keep growing on screen
+Resuming a round will no longer remove the number of protectors you had on the screen
+Fixed Multishot not selecting targets correctly, sometimes shooting at the same target simultaneously
+The mail panel has been enlarged with a bigger font.
+Fixed a bug that could display more than one tournament daily mission
+Translations updated and Arabic added as a new language
+Versions
+v0.27
+v0.26
+v0.25
+v0.24
+v0.23
+v0.22
+v0.21
+v0.20
+v0.19
+v0.18
+v0.17
+v0.16
+v0.15
+v0.14
+v0.13
+v0.12
+v0.11
+v0.10
+v0.9
+v0.8
+v0.7
+v0.6
+v0.5
+v0.4
+v0.3
+v0.2

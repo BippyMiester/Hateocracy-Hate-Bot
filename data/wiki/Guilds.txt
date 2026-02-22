@@ -1,0 +1,163 @@
+Icon for Guilds in-game.
+In Progress.
+Contents
+1
+Unlocking Guilds
+2
+Creating a Guild
+3
+Joining a Guild
+4
+Guild Rewards
+4.1
+Guild Weekly Reward Chests
+5
+Guild Shop
+5.1
+Currencies
+5.2
+Themes
+5.3
+Relics
+5.4
+Chips
+5.4.1
+Chip Description
+Unlocking Guilds
+Guilds are unlocked with Milestone Tier 3 Wave 10, once unlocked a player can join an existing guild or create their own. A total of 30 players may be in any one guild.
+Creating a Guild
+A user once in the guild screen can create their own Guild for 50
+Gems
+, in doing so they will select their own Name, Description and Icon.  In addition they are able to set the joining criteria for the guild,
+Free ( No Approval required), With Approval (Guild Leader to approve each joiner), Invitation Only (The guild will not appear on the available guild list).
+Joining a Guild
+A Player can search the available guild list and request to join the shown guilds.  Depending on the admission requirements of the guild the player may automatically join the guild.
+Guild Rewards
+Joining a guild will give you access to your
+Guardian
+.  The players contribution to the guild is earnt from
+Weekly Challenge
+boxes. The coin reward is based off of highest unlocked tier. A player can find their base coin reward by looking at
+Daily Missions
+Unspent Guild
+Tokens
+will be auto cashed out at the end of each Guild
+Season
+(8 weeks), with any unspent tokens will be converted into gems at a 5:1 ratio, rounded up (5 Guild Tokens = 1 Gem).
+Guild Weekly Reward Chests
+Guild Contribution
+Tokens
+Bits
+Coins
+Gems
+100
+10
+10
+1x
+5
+250
+20
+25
+2x
+10
+500
+40
+50
+3x
+15
+750
+80
+100
+5x
+30
+Total
+150
+185
+11x
+60
+Guild Shop
+The Guilds shop is where tokens can be spent. The shop offers
+currencies
+themes
+, and
+Chips
+Currencies
+Gems
+Bits
+and shards are available to be purchased each season. The cost increases each purchase and will reset at the beginning of the next season. Exchanging Tokens will give 100 gems, or 250 shards.
+There are 4 types of shards available for purchase corresponding with each
+Module
+type. Each purchase of shards will only increase the cost of that shard.
+Quantity Purchased
+1
+2
+3
+4
+Bits
+25
+50
+75
+N/A
+Gems
+15
+25
+40
+N/A
+Shards
+5
+10
+15
+N/A
+*As shown in the table above, there is a limit on the purchase in shop (3 times for each of the currencies presented).
+Themes
+Themes
+will rotate each season. Themes are available for a limited time and can be missed. Themes have returned in the past but there is no certainty a theme will return in the future. Once purchased, theme will be available for use forever. There will be 1 tower theme available for 100 tokens, 1 background for 100 tokens, 1 Menu for 100 Tokens and 1 Guardian Skin for 150 tokens.
+Relics
+The relics are at the price-points of 75 and 150 tokens. The relics are also designated as
+'limited,'
+so they may be unique to the event that sponsors them.
+Chips
+2 Chips (Ally and Attack) are unlocked when the
+guardian
+is unlocked. Other Chips can only be purchased exclusively with tokens in the guild shop for 200 tokens each.
+Chip Description
+Chip
+Description
+Upgrade 1
+(Base)
+Cooldown
+(Base)
+Upgrade 2
+(Base)
+Ally
+Converts an enemy into an Ally Recovery Package that can heal the Tower beyond the basic Maximum Recovery amount
+Recovery Amount: 1%
+120s
+Max Recovery: x1.10
+Attack
+Tower Guardian attacks nearby enemies, dealing damage equal to the damage they have already taken
+Percentage: 1%
+120s
+Targets: 1
+Bounty
+Tower guardian places a bounty on nearby non-common enemies causing them to grant more coins on death.
+Multiplier:  x0.01
+120s
+Targets: 1
+Fetch
+Tower Guardian locates and retrieves hidden loot: coins, gems, medals, shards, and modules.
+Find Chance: 10%
+120s
+Double Find Chance: 2%
+Scout
+Scouts enemies on screen. While active, all enemies are treated as being farther from the Tower for damage calculations [new to Guild Season 7]
+Range Bonus: x2.0
+105s
+Duration: 5s
+Summon
+Summons a new enemy (Basic, Ranged, Tank, and Fast) twice a second when active. Applies cash bonus to all enemies when active. Summon enemies cannot become Ultimate from a Battle Condition.
+Duration: 5s
+140s
+Cash Bonus: x1.00
+1
+8

@@ -1,0 +1,348 @@
+Platinum League
+Contents
+1
+Description
+2
+Entering A Tournament
+2.1
+Getting Tickets
+3
+Promoting
+4
+Tournament Difficulty
+4.1
+Enemy Stat Scaling
+4.2
+Battle Conditions
+4.2.1
+List of Battle conditions
+5
+Rewards
+5.1
+Copper Rewards
+5.2
+Silver Rewards
+5.3
+Gold Rewards
+5.4
+Platinum Rewards
+5.5
+Champion Rewards
+5.6
+Legend Rewards
+Description
+Tournaments are events in game that you can participate in. The tournament consists of 30 players in a certain league. The 6 leagues are Copper, Silver, Gold, Platinum, Champion and Legend. They give you
+Gems
+and
+Power Stones
+for ranking in a certain position. Legend league will additionally reward
+keys
+, which can be used to unlock additional upgrades. Tournaments are the main source of power stones that are used to buy
+Ultimate Weapons
+Entering A Tournament
+Tournaments are unlocked in
+Milestones
+at tier 1 wave 60. To enter a tournament you need to spend 1 Tournament
+Ticket
+to play 1 run. The highest wave of this run is entered into the tournament. Based on who has the highest wave you get assigned a position and rewards.
+Note that tournaments can not be joined during an active run
+A tournament is held every Wednesday and Saturday at 0:00AM UTC
+Getting Tickets
+You get a free ticket every time a tournament starts. To get extra tickets, you can either watch an ad or spend 10 gems per ticket. The gem cost increases By 10 gems for each additional ticket.
+Promoting
+As of v25, in each tier, top 4 players get promoted to the next league, and starting from Platinum, 6 bottom ones demoted to the league below. Bronze, Silver and Gold are "protected" tiers; once you leave Bronze and Silver, you cannot get demoted back to them.
+Tournament Difficulty
+Tournament leagues are based on tier +. The "+" is to indicate stronger enemy scaling than the normal tier. The differences will be an increase to how quickly enemy stats scale and the presence of Heat (Battle Conditions).
+Enemy Stat Scaling
+Enemy stats increase with each league where Copper League is more difficult than Tier 1 but less difficult than Tier 2 and Champion League is between Tier 11 and 12 stats. All stats will scale faster including enemy mass which effects knockback and enemy speed.
+See this app for stats by wave:
+https://tower-enemy-stats.netlify.app/
+Battle Conditions
+Every league aside from Bronze has a Heat mechanic, adding additional modifiers to make the tournaments more varied. This starts off weak, but ramps up in strength as you progress through the waves, reaching maximum strength at wave 1000 (with exception of "more bosses" - see below)
+Each league has a "More bosses" heat; starting from a boss every 10 waves in Bronze, you have one every 9 waves in Silver, every 8 in Gold, etc. - up to every 5 waves in Legends. Unlike other heat mechanics, this stays static over waves. For a full list of Tournament Battle conditions, see below.
+List of Battle conditions
+Name
+Expand
+Description
+Death Ray Resistance
+Instead of destroying enemies, death ray deals x% enemy health as damage
+Thorns Resistance
+Thorns Deals x% damage
+Enemy Attack Speed
+Enemy attack speed is increased by x%
+Knockback Resistance
+Knockback force applies to enemies is reduced by x%
+Plasma Cannon Resistance
+Plasma Cannon deals x% of normal damage
+More Enemies
+x% more enemies spawn
+Orb Resistance
+Instead of destroying enemies, orbs deal x% enemy health as damage
+More Bosses
+Bosses spawn every x waves instead of 10
+Enemy Speed
+Enemies move x% faster
+Armored Enemies
+Enemies block the first x hits
+Energy Shields Down
+Energy Shield recharge time is increased by x%
+Death Defy Down
+Death Defy chance is reduced by x%
+Ultimate Weapon Durations
+Reduce the durations of Chrono Field, Golden Tower, Poison Swamp, and Black Hole by Xs
+Protector's Ultimate
+Protector shields give knockback, shockwave, and black hole damage immunity (Xs Duration / Xs Cooldown)
+Tank's Ultimate
+Tanks behave like bosses but stop moving once inside tower range (Xs Duration / Xs Cooldown)
+Basic's Ultimate
+Basics have a chance to spawn as different enemies (X% fast, X% tank, X% ranged, X% boss, X% protector)
+Boss's Ultimate
+Bosses receive a boost of health when they spawn, overhealing them by X%
+Ranged Ultimate
+Ranged enemies projectiles disable the tower from firing for Xs
+Fast's Ultimate
+Fasts buff up to X nearby enemies to match their speed
+Scatter Ultimate
+Scatter children have x% more health
+Ray Ultimate
+Ray shoots x% faster
+Vampire Ultimate
+Vampire drains x% faster
+Mass Enforcement
+Surviving enemies mass increases by {x}% per wave they are alive. 2% at Lvl 1
+Skip Decay
+Enemy health and attack level skip chances are reduced by [VAL]% every [N] waves
+Skip Reduction - Multiply
+Enemy health and attack level skip chances are multiplied by x.[VAL]
+Skip Reduction - Subtract
+(Normal Tiers Only)
+Enemy health and attack level skip chances are subtracted by X%
+From Platinum upwards, Death Defy or Energy Shield battle condition will be active. Additionally to these, Silver league will have one additional random battle condition, Gold will have 2, and so on until Legends rank which will have 5. Gold, Platinum, Champion, and Legends also will always the Enemy Level Skip battle condition at 10%, 20%, 30%,and 50% respectively.
+Rewards
+In the event that players tie, the rewards for all players will match that of the lowest rank held by a tied player.
+Copper Rewards
+Rank
+Gems
+Expand
+Stones
+1
+100
+20
+2
+80
+18
+3 - 4
+65
+16
+5 - 6
+50
+12
+7 - 8
+45
+10
+9 - 10
+40
+9
+11 - 12
+30
+8
+13 - 15
+20
+7
+16 - 22
+15
+6
+23 - 30
+10
+5
+Silver Rewards
+Rank
+Gems
+Expand
+Stones
+1
+200
+40
+2
+150
+35
+3 - 4
+100
+30
+5 - 6
+75
+20
+7 - 8
+65
+19
+9 - 10
+60
+18
+11 - 12
+55
+17
+13 - 15
+50
+16
+16 - 22
+45
+14
+23 - 30
+40
+12
+Gold Rewards
+Rank
+Gems
+Expand
+Stones
+1
+300
+80
+2
+250
+70
+3 - 4
+200
+60
+5 - 6
+150
+40
+7 - 8
+125
+30
+9 - 10
+100
+28
+11 - 12
+90
+26
+13 - 15
+80
+24
+16 - 22
+70
+22
+23 - 30
+50
+20
+Platinum Rewards
+Rank
+Gems
+Expand
+Stones
+1
+400
+160
+2
+350
+140
+3 - 4
+300
+120
+5 - 6
+250
+70
+7 - 8
+225
+65
+9 - 10
+200
+60
+11 - 12
+175
+56
+13 - 15
+150
+53
+16 - 24
+125
+50
+25 - 30
+100
+20
+Champion Rewards
+Rank
+Gems
+Expand
+Stones
+1
+600
+320
+2
+500
+300
+3-4
+400
+280
+5-6
+350
+200
+7-8
+325
+175
+9-10
+300
+150
+11-12
+275
+125
+13-15
+250
+100
+16-24
+200
+90
+25-30
+150
+20
+Legend Rewards
+Legends league introduces Keys, which are used for
+Tech Trees
+upgrades in the Vault.
+Rank
+Gems
+Stones
+Expand
+Keys
+1
+800
+425
+25
+2
+700
+400
+20
+3 - 4
+600
+375
+15
+5 - 6
+500
+350
+10
+7 - 8
+475
+325
+8
+9 - 10
+450
+300
+6
+11 - 12
+425
+275
+4
+13 - 15
+400
+250
+2
+16 - 24
+375
+225
+0
+25 - 30
+200
+120
+0
+1
+8

@@ -1,0 +1,8 @@
+Description
+Increases damage based on the distance of the enemy from the tower. Damage is calculated per 1m of distance between the enemy and the tower. It does not fractionally increase between Meters and rounds down. (EX: 51.9 meters from the tower will take the same dmg as an enemy 51 meters away.)
+Workshop
+Unlocked in the
+workshop
+for 50 coins with
+range
+. There are 200 levels in the workshop with a base of 0%. The increase provided by each level will decrease until level 70 then will increase by a constant 0.0002% for a max value of 5.9%.

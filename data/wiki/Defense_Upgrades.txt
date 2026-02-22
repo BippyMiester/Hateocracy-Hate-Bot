@@ -1,0 +1,22 @@
+Description
+Defense upgrades are workshops that focus on increasing the tower's ability to survive. These upgrades range from increasing tower health to reducing damage or preventing death.
+Workshop Upgrades
+Defense Upgrades
+Health
+Health Regen
+Defense %
+Defense Absolute
+Thorn Damage
+Lifesteal
+Knockback Chance
+Knockback Force
+Orb Speed
+Orbs
+Shockwave Size
+Shockwave Frequency
+Land Mine Chance
+Land Mine Damage
+Land Mine Radius
+Death Defy
+Wall Health
+Wall Rebuild

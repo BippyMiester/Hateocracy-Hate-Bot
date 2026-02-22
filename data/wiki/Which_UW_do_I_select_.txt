@@ -1,0 +1,33 @@
+Choosing UWs is incredibly important since the cost to select the next one goes up. Each UW has a place in the game but some are better to get early while others are best when you have others to support it.
+https://what-uw-should-i-pick.netlify.app/
+- Made by Skye, this link explains which choice you should make based on what you have and what your current choices are. This currently isn't up-to-date but is good for understanding why a UW may/may not be good.
+General Ranking
+1.
+Golden Tower
+Golden Tower is a massive economy boost and helps make progress feel much faster. Unlocking is an immediate 20% increase to both cash and coins. This should be your top priority above any other pick.
+2.
+Black Hole
+Black hole is very underwhelming when first unlocked. Its main power is unlocked with labs. BH labs allow it to generate coins and also deal a % damage of enemy health per second. Take care with cooldown reduction on this UW, as majority of its economic power comes from being synced with other UWs, especially GT (the coin bonuses stack multiplicatively). A well levelled BH duration and cooldown mixed with damage % helps kill protectors on any build.
+3.
+Death Wave
+As of 0.24.3, Death Wave has had a significant rework and is now a very powerful pick at nearly all stages of game. Without labs, it will give you 1.5x coins on the enemies it hits, and increase your health up to 5x; labs will upgrade these numbers to x2.5 and x12.5, while also providing up to x3 Elite Cells, making this the only in-run way to boost their gains currently. The bonuses are applied on hit, rather than on kill, making them useful long past the waves where DW can kill enemies. Syncing DW with above UWs is again very useful, as the coin bonus stacks multiplicatively.
+4.
+Spotlight
+This UW seriously improves damage and has a coin lab too. It will feel odd taking this UW early in your build as damage may not yet be your focus but you should still take this one over most UWs. This UW provides a x3 coin bonus that is up constantly and can easily cover most of the area with full coverage at max. Additionally the SLM lab and damage boost will make damage stronger in the mid game.
+5.
+Chrono Field
+This UW is the king of crowd control. The UW can be up for 100% of the time after its first activation. The slow makes it much harder for enemies to hit you. Increasing the range will prevent how many enemies can make it past your orbs.
+NOTE: If you are grabbing your 5th UW before you can dedicate a lab boost to 3x, take this 5th. If you can continuously run a 3x lab boost, you will want this 6th or 7th since the lab time can be greatly reduced.
+6.
+Chain Lightning
+Chain lightning used to be a support UW, useful only for stripping armor or applying debuffs to enemies. 0.24 buffed the damage scaling on CL and made it a much stronger damage dealer than it used to be. Chain Lightning is also fairly cheap to upgrade to a powerful spot for strong mid game damage. This will help players deal with elites while building up CF.
+Note: If you can run 1 3x lab boost constantly, take this 5th if you have the choice.
+7.
+Smart Missiles
+Main damage output in the late game. SM will dwarf any other form of damage especially when paired with SL. The labs make it deadlier by making the damage AoE and amp up. The cost to make SM completely outperform CL is the main reason CL should be taken first.
+8.
+Inner Land Mine
+While this UW is listed second last, it is certainly not terrible. ILM also has a stun ability with a great radius once upgraded. ILM allows you to stun bosses and elites, providing more time for SM to fire on a closer more concentrated target. The rotation also allows for stun locking for a good deal of time allowing for even more SM barrages. Once again, this UW is cheap to upgrade see its effects shine. This UW was much stronger in a damage meta than the current hybrid meta most players are going through.
+9.
+Poison Swamp
+PS was heavily reworked in V26. As it currently stands it is a very impactful UW once you have a developed Chrono Field, and preferably CF+ levels. Developing Poison swamp is not advised until then as consistency will be very low and will underperform almost every other UW. PS has the ability to do very high amounts of damage if enemies can be poisoned and then be kept from attacking the tower for a long period of time as its damage ramps up over time.

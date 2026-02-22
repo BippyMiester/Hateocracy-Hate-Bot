@@ -1,0 +1,47 @@
+Orb Boss Hit
+Unlocked at tier 6 wave 750. There are 10 levels. The lab allows orbs to deal damage to bosses for a % of their total health.
+Level
+Time
+Cost
+Expand
+Value
+1
+1d  3h 46m
+800,000,000
+0.20%
+2
+1d 12h  7m
+1,210,000,000
+0.40%
+3
+1d 20h 40m
+1,670,000,000
+0.60%
+4
+2d  5h 47m
+2,330,000,000
+0.80%
+5
+2d 15h 58m
+3,370,000,000
+1.00%
+6
+3d  3h 49m
+5,060,000,000
+1.20%
+7
+3d 18h  5m
+7,730,000,000
+1.40%
+8
+4d 11h 32m
+11,730,000,000
+1.60%
+9
+5d  9h  6m
+17,510,000,000
+1.80%
+10
+6d 11h 45m
+25,540,000,000
+2.00%

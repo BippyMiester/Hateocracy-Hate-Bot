@@ -1,0 +1,134 @@
+Disclaimer: Some acronyms may have multiple uses and requires you to look at the context to confirm that the acronym usage matches the definition.
+Contents
+1
+Ultimate Weapons (UW)
+2
+Cards
+3
+Labs
+4
+Workshop (WS)
+5
+Modules
+6
+Common Lazy Talk
+Ultimate Weapons (UW)
+BH - Black Hole
+CF - Chrono Field
+CL - Chain Lightning
+DW - Death Wave
+GT - Golden Tower
+ILM - Inner Land Mines
+PS - Poison Swamp
+SL - Spotlight
+SM -  Smart Missiles
+Adding a "+" to any of these usually refers to the Ultimate Weapon Plus(UW+) abilities unlocked for stone purchase after unlocking all 9 UWs. The number following usually refers to the level of that UW+, starting at 0 at base unlock.
+Additionally, sometimes a letter(s) will be added onto a UW to notate a stat of that specific ultimate weapon such as the following suffixes:
+d - Damage
+dur - Duration
+CD - CoolDown
+b - Bonus
+q - Quantity
+c - Chance
+A - Angle
+SR - Speed Reduction
+Cards
+CC - Critical Chance
+EB - Enemy Balance
+PC - Plasma Cannon
+CC - Critical Coin
+WS - Wave Skip
+IS - Intro Sprint
+DR - Death Ray
+EN - Energy Net
+EO - Extra Orbs
+RPC - Recovery Package Chance
+SA - Slow Aura
+ST - Super tower
+SW - Second Wind
+DM - Demon Mode
+ES - Energy Shield
+UW Crit - Ultimate Crit
+WA - Wave Accelerator
+Zerk - Berserker
+Adding a "#" or "m" to any of these Usually refers to that cards Mastery, which is unlocked for purchase with stones after T16W100 and all cards are maxed. The number following usually refers to the labs level of that card mastery, starting at 0 at base unlock.
+Labs
+DDR - Double Death Ray
+CFR - Chrono Field Damage Reduction
+SLM - Spotlight Missile
+SPB - Standard Perk Bonus
+Workshop (WS)
+ASPD - Attack Speed
+BSC - Bounce Shot Chance
+BSR = Bounce Shot range
+BST - Bounce Shot Target
+CPK - Coins per Kill
+C%/Crit Chance  - Critical Chance
+CritF - Critical Factor
+DD - Death Defy
+DEF% - Defense $
+DPM (D/M) - Damage Per Meter
+ELS/EALS/EHLS - Enemy (/Attack/Health) Level Skip
+FU - Free-Upgrades
+KN - Knockback
+LMC - Land Mine Chance
+LMD - Land Mine Damage
+LMR - Land Mine Radius
+MSC - Multishot Chance
+MST - Multishot Targets
+RFC - Rapid Fire Chance
+SCC - Super Critical Chance
+SCM - Super Critical Multiplier
+SW  - Shock Wave
+SWs - ShockWave size
+SWf - Shockwave frequecy
+Adding a "+" to some of these will reference the WorkShop Enhancements (WS+)version. Not all Workshop stats have a corresponding WS+ upgrade and vice-versa.
+Modules
+ACP - Anti-Cube Portal
+AD - Astral Deliverance
+AS - Amplifying Strike
+BA - Being Annihilator
+BHD - Black Hole Digestor
+DC - Dimension Core
+DP - Death Penalty
+GComp - Galaxy Compressor
+HB - Havoc Bringer
+HC - Harmony Conductor
+MH - Magnetic Hook
+MVN/MN - Multiverse Nexus
+NMP - Negative Mass Projector
+OC/Om - Om Chip
+PC - Primordial Collapse
+PF - Project Funding
+PH - Pulsar Harvester
+SD - Space Displacer
+SF - Sharp Fortitude
+SH - Singularity Harness
+SR - Shrink Ray
+WR/WHR - Wormhole Redirector
+Common Lazy Talk
+BC - Battle Condition
+BW - Bounce Web, a recent strategy that involves maximizing projectile counts to trigger Pulsar Harvester more frequently.
+CB - Coin Bonus
+CC - Crowd Control (anything that hinders enemies from hitting you)
+CPM - Coins per Minute
+CPH - Coins per Hour
+Devo - Devolve, encompasses strategies that devolve killing power to a specific time or place for coin benefit
+DWEW - Death Wave Effective Wave
+eHP - effective Health Points. How much damage you can survive, after taking any damage mitigation into account
+ePaths - Effective Paths Collection. A set of Google sheets to help calculate specific ROI of upgrades per player.
+F2P - Free to Play
+GC - Glass Cannon
+LTC - Life Time Coins
+LTS - Life Time Stones
+P2P - Pay to Play
+pb - Personal Best
+PWR - Perk Wave Requirement
+RNG - random number generator, refers to random chance
+ROI - Return on Investment
+SMEW - Smart Missile Effective Wave, wave where SM volley stops killing in SMax Devo
+SPB - Standard Perk Bonus a Perk lab
+T(D)C - Tower (Data) Collection, a huge compilation of incredibly useful optimisation tools by Cris and community
+WAWSIS - Wave Accelerator + Wave Skip + Intro Sprint. This used to be a tournament tactic based on running out the clock with high card levels, but is now more commonly a high tier farming tactic using the WAWSIS card masteries.
+1
+8

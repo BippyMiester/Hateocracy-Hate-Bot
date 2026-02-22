@@ -1,0 +1,30 @@
+Unlock lab in Milestones on tier 16 wave 50. Allows Swamp Rend to apply to other enemy types. Enemies will receive the same % effect as basics. Has 6 levels.
+Level
+Time
+Cost
+Expand
+Value
+1
+8d 7h 59m
+100.00B
+Ranged enemies
+2
+9d 8h 0m
+150.00B
+Fast enemies
+3
+10d 10h 52m
+225.00B
+Tank Enemies
+4
+11d 16h 59m
+337.50B
+Protector Enemies
+5
+13d 2h 42m
+506.25B
+Boss Enemies
+6
+14d 16h 28m
+759.38B
+Vampire

@@ -1,0 +1,79 @@
+Contents
+1
+v0.6.0
+1.1
+Features
+1.2
+Balance
+1.3
+Bugs
+2
+vO.6.5
+2.1
+Balance
+2.2
+Small Changes
+3
+Versions
+v0.6.0
+Features
+Cloud save for android devices, accessible in the settings panel
+New Common Card: Extra Defense
+Back button functionality for android
+Balance
+Waves starting at roughly wave 60 and above will have higher scaling for difficulty to end rounds a bit earlier (more health, slightly faster spawn rate, slightly higher chance of tanks and fast enemies). The general reason for this is to shorten rounds across the board as it was never designed to run for an hour plus. It will also help balance defensive builds as below, expect more changes though
+Scaling of attack damage of enemies reduced to help make defensive builds better
+Tier's difficulty spread out a wee bit more making higher tiers more difficult
+Health upgrade scaling buffed considerably
+Defense Absolute and Health Regen buffed
+Lifesteal max level decreased from 99 to 80
+Smart missiles starting missile quantity raised from 3 to 4
+Smart missiles max quantity raised from 14 to 15
+Bugs
+Tournament didn't show text for not updated version of game
+Health card math was incorrectly applied
+Ad loading cancel button works now
+More translation fixes
+Other small fixes
+vO.6.5
+Balance
+Lifesteal nerfed - with the new health balancing, it became quite overpowered for defensive builds
+Smart missiles adapt to tower range much better
+Max distance research max level lowered from 100 to 80
+Copper league promotion includes 2 more players, Silver includes 1 more player
+Small Changes
+Enemies damage increase by x1.04 each consecutive hit from the same enemy if not killed
+iOS UI optimizations
+Tablet optimizations
+Text for username on tournament panel fixed
+Max range visual radius updates instantly if earned from free upgrade now
+Other minor bug fixes
+Versions
+v0.27
+v0.26
+v0.25
+v0.24
+v0.23
+v0.22
+v0.21
+v0.20
+v0.19
+v0.18
+v0.17
+v0.16
+v0.15
+v0.14
+v0.13
+v0.12
+v0.11
+v0.10
+v0.9
+v0.8
+v0.7
+v0.6
+v0.5
+v0.4
+v0.3
+v0.2
+1
+8

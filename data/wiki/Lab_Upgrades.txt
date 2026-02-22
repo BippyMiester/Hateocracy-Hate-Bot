@@ -1,0 +1,686 @@
+Contents
+1
+Description
+2
+Features of Research
+3
+Number of Labs
+4
+Rushing Labs
+5
+Boosting Labs
+6
+List of Lab Upgrades
+Description
+The upgrades that can be bought in the lab, that help with scaling, or max caps. Most labs will be unlocked in
+Milestones
+before you can research them.
+Features of Research
+The labs page has a few features that affect research or are QoL improvements.
+Switching labs:
+When currently researching a lab, a player can click the lab and change to a different research. Coins used for the lab are refunded and progress on the lab is preserved and displayed as a green lab time. When continuing that research, the coins will need to be paid again.
+Auto Research:
+When looking at the labs there is a small clock/timer icon to the left of the progress bar. Enabling this button will have the lab start researching there next level of current lab, once the current research is finished.
+Lab Search:
+When selecting a new lab, a player can type the name of a lab in the search bar to pull up related labs without scrolling.
+Lab History:
+When selecting a new  lab, a user can click the History Tab to see a list of labs completed chronologically and the date/time they were completed.
+Number of Labs
+You will start with one lab when unlocked in Milestones at tier 1 wave 30. You can unlock up to 5 labs. The total cost is 4,900 gems.
+Lab Number
+1
+2
+3
+4
+5
+Cost
+Free
+100
+400
+1,400
+3,000
+Rushing Labs
+You can skip lab time by spending gems. When rushing labs, you can only skip the entire remaining lab time. Longer lab times have built in discounts making it cost less gems per time. When you gold box labs, it increases your gem rush efficiency, making gem rushing more powerful (less gems needed to rush). Each fully gold-boxed lab increases the efficiency of gems by 0.015x (additively).
+Credit to Shantymatic for calculations (Outdated due to gem rush efficiency update)
+Time
+Gems
+Gems/Day rate
+Discount
+1 hour
+7.5
+180
+1 day
+163
+163
+9%
+1 week
+1000
+142.9
+21%
+30 days
+3550
+118.3
+34%
+90 days
+8000
+88.9
+51%
+360 days
+25000
+69.4
+61%
+>360 days
+25000
+N/A
+N/A
+Boosting Labs
+Labs can be boosted using
+Elite Cells
+.  Labs can be sped up by 1.5x, 2x, 3x, 4x, 5x, 6x, 7x and 8x for 1 hour, 8 hours or 24 hours. The way that you do this is as follows: select "Speed Up" in the lab, choose the duration (1, 8, or 24 hours), then choose the multiplier (1.5x through 8x). Once both are selected, the lab shows you the cost in Elite Cells for that boost. All lab boosts cost a flat rate since v25.5.
+The cost of boosting goes up faster than the boost multiplier, for example 1.5x to 2x is a 50% base or a ~33% relative increase vs a 6.67 times cost increase. Thus it is advisable to boost multiple labs at the same time instead of boosting at higher multipliers unless you have the cell generation to replenish the cost before the time runs out. For example, seven 1.5x boosts at a 1 hour duration (equal to 105 cells) is 3.5 hours of research time being skipped, while a single 2x boost at a 1 hour duration (100 cells) only skips 1 hour of research time.
+Lab Boosts can be set up to automatically queue when completed. This is done with the "Speed Up" Button and the multiplier and duration can be setup within the menu. Additionally, lab speed ups only tick while a lab is slotted for research.
+Boost
+Cost
+One lab
+Cost
+All labs
+1.5x
+1 hr
+15
+75
+1.5x
+8 hrs
+120
+600
+1.5x
+24 hrs
+360
+1 800
+2x
+1 hr
+100
+500
+2x
+8 hrs
+800
+4 000
+2x
+24 hrs
+2 400
+12 000
+3x
+1 hr
+840
+4 200
+3x
+8 hrs
+6 720
+33 600
+3x
+24 hrs
+20 160
+100 800
+4x
+1 hr
+3 360
+16 800
+4x
+8 hrs
+26 880
+134 400
+4x
+24 hrs
+80 640
+403 200
+5x
+1 hr
+11 900
+59 500
+5x
+8 hrs
+95 200
+476 000
+5x
+24 hrs
+285 600
+1 428 000
+6x
+1 hr
+60 000
+300 000
+6x
+8 hrs
+480 000
+2 400 000
+6x
+24 hrs
+1 440 000
+7 200 000
+7x
+1 hr
+250 000
+1 250 000
+7x
+8 hr
+2 000 000
+10 000 000
+7x
+24 hr
+6 000 000
+30 000 000
+8x
+1 hr
+1 000 000
+5 000 000
+8x
+8 hr
+8 000 000
+40 000 000
+8x
+24 hr
+24 000 000
+120 000 000
+List of Lab Upgrades
+Expand
+Main Research
+Game Speed
+Max Lv  7
+Starting Cash
+Max Lv 99
+Workshop Attack Discount
+Max Lv 99
+Workshop Defense Discount
+Max Lv 99
+Workshop Utility Discount
+Max Lv 99
+Labs Coin Discount
+Max Lv 99
+Labs Speed
+Max Lv 99
+Buy multiplier
+Max Lv  4
+More Round Stats
+Max Lv  1
+Target Priority
+Max Lv  2
+Card Presets
+Max Lv  1
+Workshop Respec
+Max Lv  1
+Reroll Daily Missions
+Max Lv 1
+Workshop Enhancement
+Max Lv 1
+Enhancment Coin Discount
+Max Lv 100
+Expand
+Attack Research
+Damage
+Max Lv 100
+Attack Speed
+Max Lv 99
+Critical Factor
+Max Lv 99
+Range
+Max Lv 80
+Damage/Meter
+Max Lv 99
+Super Crit Chance
+Max Lv 50
+Super Crit Mult
+Max Lv 40
+Max Rend Armor Multiplier
+Max Lv 30
+Light Speed Shots
+Max Lv 1
+Expand
+Defense Research
+Health
+Max Lv 100
+Health Regen
+Max Lv 100
+Defense Absolute
+Max Lv 100
+Defense %
+Max Lv 50
+Orb Speed
+Max Lv 20
+Land Mine Damage
+Max Lv 20
+Land Mine Decay
+Max Lv 35
+Shockwave Size
+Max Lv 20
+Orb Boss Hit
+Max Lv 10
+Wall Health
+Max Lv 50
+Wall Rebuild
+Max Lv 20
+Wall Regen
+Max Lv 30
+Wall Thorn
+Max Lv 20
+Wall Invincibility
+Max Lv 10
+Wall Fortification
+Max lv 60
+Garlic Thorns
+Max Lv 10
+Expand
+Utility Research
+Cash Bonus
+Max Lv 99
+Cash / Wave
+Max Lv 99
+Coins / Kill Bonus
+Max Lv 99
+Coins/wave
+Max Lv 99
+Interest
+Max Lv 99
+Max Interest
+Max Lv 15
+Package After Boss
+Max Lv 1
+Recovery Package Amount
+Max Lv 20
+Recovery Package Max
+Max Lv 20
+Recovery Package Chance
+Max Lv 20
+Enemy Attack Level Skip
+Max Lv 20
+Enemy Health Level Skip
+Max Lv 20
+Expand
+Ultimate Weapon Research
+Missiles Despawn Time
+Max Lv 20
+Missiles Explosion
+Max Lv 1
+Missiles Radius
+Max Lv 20
+Chrono Field Duration
+Max Lv 30
+Chrono Field Damage Reduction
+Max Lv 1
+Chrono Field Reduction %
+Max Lv 30
+Swamp Radius
+Max Lv 30
+Swamp Stun
+Max Lv 1
+Swamp Stun Chance
+Max Lv 30
+Swamp Stun Time
+Max Lv 30
+Golden Tower Bonus
+Max Lv 25
+Golden Tower Duration
+Max Lv 20
+Chain Lightning Shock
+Max Lv 1
+Shock Chance
+Max Lv 30
+Shock Multiplier
+Max Lv 14
+Death Wave Health
+Max Lv 30
+Death Wave Coin Bonus
+Max Lv 20
+Inner Mine Blast Radius
+Max Lv 20
+Inner Mine Rotation Speed
+Max Lv 20
+Chrono Field Range
+Max Lv 20
+Missle Amplifier
+Max Lv 25
+Missile Barrage
+Max Lv 1
+Missile Barrage Quantity
+Max Lv 6
+Inner Mine Stun
+Max Lv 1
+Black Hole Damage
+Max Lv 10
+Extra Black Hole
+Max Lv 1
+Black Hole Coins Bonus
+Max Lv 20
+Spotlight Coin Bonus
+Max Lv 20
+Spotlight Missiles
+Max Lv 18
+Black Hole Disable Ranged Enemies
+Max lv 1
+Recharge Missile Barrage
+Max lv 7
+Swamp Rend - Basic Enemies
+Max lv 30
+Swamp Rend - Additional Enemies
+Max lv 6
+Chain Thunder
+Max lv 30
+Lightning Amplifier
+Max lv 30
+Death Wave Cell Bonus
+Max lv 20
+Death Wave Damage Amplifier
+Max lv 30
+Death Wave Armor Stripping
+Max lv 10
+Inner Land Mine - Chrono Jump
+Max lv 10
+Expand
+Card Research
+Second Wind Blast
+Max Lv 4
+Double Death Ray
+Max Lv 30
+Extra Orb Adjuster
+Max Lv 1
+Extra Extra Orbs
+Max Lv 2
+Energy Shield Extra Hit
+Max Lv 2
+Super Tower Bonus
+Max Lv 30
+Recharge Second Wind
+Max Lv 7
+Recharge Demon Mode
+Max Lv 7
+Recharge Nuke
+Max Lv 7
+Card Mastery
+(1 lab per card)
+Max Lv 9
+Expand
+Perk Research
+Unlock Perks
+Max Lv 1
+Waves Required
+Max Lv 100
+Auto Pick Perks
+Max Lv 1
+Standard Perks Bonus
+Max Lv 25
+Perk Option Quantity
+Max Lv 2
+First Perk Choice
+Max Lv 1
+Ban Perks
+Max Lv 8
+Improve Trade-Off Perks
+Max Lv 10
+Auto Pick Ranking
+Max Lv 32
+Expand
+Bot Research
+Flame Bot Cooldown
+Max Lv 25
+Thunder Bot Cooldown
+Max Lv 25
+Golden Bot Cooldown
+Max Lv 25
+Amplify Bot Cooldown
+Max Lv 25
+Flame Bot - Burn Stacks
+Max lv 5
+Thunder Bot - Linger Time
+Max lv 20
+Golden Bot - Duration
+Max lv 20
+Amplify Bot - Duration
+Max lv 20
+Expand
+Enemies Research
+Common Enemy Health
+Max Lv 30
+Common Enemy Attack
+Max Lv 30
+Fast Enemy Health
+Max Lv 30
+Fast Enemy Attack
+Max Lv 30
+Fast Enemy Speed
+Max Lv 30
+Tank Enemy Health
+Max Lv 30
+Tank Enemy Attack
+Max Lv 30
+Ranged Enemy Health
+Max Lv 30
+Ranged Enemy Attack
+Max Lv 30
+Boss Health
+Max Lv 30
+Boss Attack
+Max Lv 30
+Protector Health
+Max Lv 30
+Protector Radius
+Max Lv 30
+Protector Damage Reduction
+Max Lv 20
+Ranged Enemy Range
+Max Lv 30
+Vampire Enemy Attack
+Max Lv 30
+Vampire Enemy Health
+Max Lv 30
+Ray Enemy Attack
+Max Lv 30
+Ray Enemy Health
+Max Lv 30
+Scatter Enemy Attack
+Max Lv 30
+Scatter Enemy Health
+Max Lv 30
+Expand
+Module Research
+Common Drop Chance
+Max Lv 10
+Reroll Shards
+Max Lv 100
+Daily Mission Shards
+Max Lv 50
+Module Shard Costs
+Max Lv 30
+Module Coin Cost
+Max Lv 30
+Rare Drop Chance
+Max Lv 10
+Unmerge Module
+Max Lv 1
+Shatter Shards
+Max lv 5
+Cannon Effect Bans
+Max Lv 4
+Armor Effect Bans
+Max lv 4
+Generator Effect Bans
+Max Lv 3
+Core Effect Bans
+Max lv 7
+Assist Module Substats
+Max Lv 30
+Assist Module Bonus
+Max Lv 30
+Expand
+Battle Condition
+Battle Condition Reduction
+Max Lv 10
+Battle Condition Reduction Group 1
+Max Lv 20
+Battle Condition Reduction Group 2
+Max Lv 20
+Battle Condition Reduction Group 3
+Max Lv 10
+Battle Condition Reduction Group 4
+Max Lv 10
+Lab Upgrades
+Main Research
+Game Speed
+Starting Cash
+Workshop Attack Discount
+Workshop Defense Discount
+Workshop Utility Discount
+Labs Coin Discount
+Labs Speed
+Buy multiplier
+More Round Stats
+Target Priority
+Card Presets
+Workshop Respec
+Reroll Daily Mission
+Workshop Enhancement
+Enhancement Coin Discount
+Attack Research
+Damage
+Attack Speed
+Critical Factor
+Range
+Damage Per Meter
+Super Crit Chance
+Super Crit Mult
+Max Rend Armor Multiplier
+Light Speed Shots
+Defense Research
+Health
+Health Regen
+Defense Absolute
+Defense Percent
+Orb Speed
+Land Mine Damage
+Land Mine Decay
+Shockwave Size
+Orb Boss Hit
+Wall Health
+Wall Rebuild
+Wall Regen
+Wall Thorn
+Wall Invincibility
+Wall Fortification
+Garlic Thorns
+Utility Research
+Cash Bonus
+Cash Per Wave
+Coins/Kill Bonus
+Interest
+Max Interest
+Package After Boss
+Recovery Package Amount
+Recovery Package Max
+Recovery Package Chance
+Enemy Attack Level Skip
+Ultimate Weapon Research
+Missile Despawn Time
+Missiles Explosion
+Missile Radius
+Chrono Field Duration
+Chrono Field Damage Reduction
+Chrono Field Reduction %
+Swamp Radius
+Swamp Stun
+Swamp Stun Chance
+Swamp Stun Time
+Swamp Rend
+Golden Tower Bonus
+Golden Tower Duration
+Chain Lightning Shock
+Shock Chance
+Shock Multiplier
+Chain Thunder
+Lightning Amplifier-Scatter
+Death Wave Health
+Death Wave Coin Bonus
+Death Wave Damage Amplifier
+Death Wave Armor Stripping
+Inner Mine Blast Radius
+Inner Mine Rotation Speed
+Chrono Field Range
+Missiles Amplifier
+Missile Barrage
+Missile Barrage Quantity
+Inner Mine Stun
+Black Hole Damage
+Extra Black Hole
+Black Hole Coins Bonus
+Spotlight Coin Bonus
+Spotlight Missiles
+Black Hole Disable Ranged Enemies
+Recharge Missile Barrage
+Inner Land Mine - Chrono Jump
+Card Research
+Second Wind Blast
+Double Death Ray
+Extra Orb Adjuster
+Extra Extra Orbs
+Energy Shield Extra Hit
+Super Tower Bonus
+Recharge Second Wind
+Recharge Demon Mode
+Recharge Nuke
+Card Mastery Labs
+Perk Research
+Unlock Perks
+Waves Required
+Auto Pick Perks
+Standard Perks Bonus
+Perk Option Quantity
+First Perk Choice
+Ban Perks
+Improve Trade-Off Perks
+Bot Research
+Flame Bot Cooldown
+Flame Bot-Burn Stack
+Thunder Bot Cooldown
+Thunder Bot-Linger Time
+Golden Bot Cooldown
+Golden Bot- Duration
+Amplify Bot Cooldown
+Amplify Bot-Duration
+Enemies Research
+Common Enemy Health
+Common Enemy Attack
+Fast Enemy Health
+Fast Enemy Attack
+Fast Enemy Speed
+Tank Enemy Health
+Tank Enemy Attack
+Ranged Enemy Health
+Ranged Enemy Attack
+Boss Health
+Boss Attack
+Protector Health
+Protector Radius
+Protector Damage Reduction
+Ranged Enemy Range
+Vampire Enemy Health
+Vampire Enemy Attack
+Ray Enemy Health
+Ray Enemy Attack
+Scatter Enemy Health
+Scatter Enemy Attack
+Module Research
+Common Drop Chance
+Reroll Shards
+Daily Mission Shards
+Module Shard Cost
+Module Coin Cost
+Rare Drop Chance
+Unmerge Module
+Shatter Shards
+Cannon Effect Bans
+Armor Effect Bans
+Generator Effect Bans
+Core Effect Bans
+Assist Module Labs
+Battle Condition Research
+Battle Condition Reduction
+Group 1: Resistances
+Group 2: Enemy/Spawn Buffs
+Group 3: Enemy Ultimates
+Group 4: Durations/Reductions

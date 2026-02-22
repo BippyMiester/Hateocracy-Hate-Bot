@@ -1,0 +1,93 @@
+Battle Conditions Group 2: Enemy/Spawn Buffs
+Unlocked Tier 20 Wave 60. Group 2 consists of the following BCs that each have their own lab and reduce the effect of the BC by X%. Has 20 levels.
+Armored Enemies
+Enemy Speed
+More Enemies
+Enemy Attack Speed
+Level
+Time
+Cost(Q)
+Expand
+Value
+1
+16d 4h 46m
+0.5
+1%
+2
+32d 9h 33m
+1
+2%
+3
+48d 14h 20m
+1.5
+3%
+4
+64d 19h 7m
+2
+4%
+5
+80d 23h 54m
+2.5
+5%
+6
+97d 4h 41m
+3
+6%
+7
+113d 9h 28m
+3.5
+7%
+8
+129d 14h 15m
+4
+8%
+9
+145d 19h 2m
+4.5
+9%
+10
+161d 23h 49m
+5
+10%
+11
+178d 4h 36m
+5.5
+11%
+12
+194d 9h 23m
+6
+12%
+13
+210d 14h 10m
+6.5
+13%
+14
+226d 18h 57m
+7
+14%
+15
+242d 23h 44m
+7.5
+15%
+16
+259d 4h 31m
+8
+16%
+17
+275d 9h 18m
+8.5
+17%
+18
+291d 14h 5m
+9
+18%
+19
+307d 18h 52m
+9.5
+19%
+20
+323d 23h 39m
+10
+20%
+1
+8

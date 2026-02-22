@@ -1,0 +1,28 @@
+Contents
+1
+Description
+2
+Workshop
+2.1
+Critical Chance
+2.1.1
+Cards
+2.2
+Critical Factor
+Description
+The Critical Workshop provides bonus damage to tower projectiles. The critical workshops are used in calculating Ultimate Weapon and Land Mine damage.
+Workshop
+Unlocked in
+Workshop
+for free. Critical Chance and Critical Factor are unlocked at the start of the game.
+Critical Chance
+Chance of each projectile to deal critical damage. Critical Chance has 79 levels in the workshop. Each level raises the chance by 1% for a maximum of 80% chance from the workshop. Critical Chance can be increased with the Critical Chance Card and Critical Chance
+Cannon Module Effect
+Cards
+The Critical Chance
+card
+raises the chance up to 11%.
+Critical Factor
+Damage multiplier for critical hits. Critical Factor is used to calculate Ultimate Weapon critical hits when using the Ultimate Crit
+card
+. Has 150 levels with a base multiplier of 1.2 that increase the multiplier by 0.1 each level for a maximum of 16.2. Critical Factor max can be increased using the Critical Factor Lab, Critical Factor Cannon Module Effect and Critical Factor Enhancement.

@@ -1,0 +1,52 @@
+Contents
+1
+Overview
+2
+Ultimate Weapons:
+2.1
+Choosing an ultimate weapon
+2.2
+Black Hole Cooldown
+2.3
+Changing the cooldown of any ultimate weapon
+2.4
+Not immediately going straight for natural GT/BH sync when possible
+3
+Lab upgrades:
+3.1
+Bot Cooldowns
+3.2
+Chrono field range
+Overview
+Footguns are upgrades that can set your account behind and may take months to years to correct if it can be corrected. In the current state of the game, most footguns will lower your maximum potential but will not completely take away your ability to compete with other.
+Footguns are not misallocation of resources such as: waiting to unlock 5 labs, failing to do tournaments and missing stones or unlocking wall early and needing to respec.
+Ultimate Weapons:
+UW picks are permanent (although you will eventually have them all). Further, UW upgrades are permanent and cannot be undone. Be careful in the following situations:
+Choosing an ultimate weapon
+Why: Choosing ultimate weapons cannot be reversed and picking new Ultimate Weapons get more expensive. Taking some UWs early when there are better choice can set your account further behind.
+Solution: This can be corrected by unlocking more UWs. This can become an expensive process. To avoid this footgun, use the
+UW guide
+Black Hole Cooldown
+Why: BH Cooldown can be harmful to upgrade without GT in sync. By lowering cooldown, it becomes more expensive to get GT to a 1:1 sync ratio. For more on why you want this see
+Coin Guide
+Solution: BH cooldown will eventually self correct, you will either spend enough to get GT to match 1:1 or BH will max and have its best sync with a max GT cooldown at 2:1.
+Changing the cooldown of any ultimate weapon
+Why: There are many strategies that require UWs to be synced even if the UWs don't seem to pair. For example, there is a version of devo that uses SM to weaken enemies and extend it. Having SM timed correctly is required for this strat.
+Solution: Check what strategies exist and what syncs are needed before upgrading cooldowns. There are occasions where 1:1 syncs are not required but many do require it, missing these can lock you out of certain strategies.
+Not immediately going straight for natural GT/BH sync when possible
+Why: This is a common misconception, being that people either severely underestimate/are unknowledgeable about the fact that your bonus per GT activation goes an entire order of magnitude higher and then a bit more. Many people also assume that Multiverse Nexus is a simple "get out of natural sync" card early on, but this is absolutely not the case. First of all, even until mythic, MVN still takes off possible uptime from your cooldowns by adding seconds to your average UW cooldowns, which can make the module itself a minor footgun until further levelling or later sync with Death Wave/eventual permanent/very low cooldown GT/BH/DW. MVN should be used as training wheels to assist in farming until you hit natural sync, as UW desync is a strategy that typically involves either dumping all future stones for the next lengthy period of time into the same UW (think max BH cooldown), or having a failsafe that will not absolutely destroy your economy.
+Solution: Even while running MVN in the pursuit of GT/BH sync, continue dropping stones fully to ensure you hit at least 3:20 natural sync. You will thank yourself in the long run.
+Lab upgrades:
+Lab upgrades are permanent and (except for range) cannot be turned off once acquired. Currently, the only labs where more upgrades may be worse than fewer upgrades are:
+Bot Cooldowns
+Bot medal upgrades can be respeced, but labs cannot. This means it can be expensive and difficult in order to to resync bots to UWs or even to each other. This isn't as significant until later game when bot's effects become stronger but is still a hindrance, since bots synergize very well with UWs and each other when they have decent stats. Having a sync with Golden Bot is crucial for some farming strategies. Knowing what CDs you may want to reach is important. A 69s MVN sync is an example that a maxed Golden Bot cannot respec to match.
+To avoid: Sync your bots (excluding Flame bot) by getting:
+6 medal and 2 lab cooldown upgrades to get the cooldown to 100 seconds
+additional upgrades in intervals of 5 seconds (1 medal + 2 labs) or 10 seconds (3 medals + 1 lab) until your bot is half of your GT/DW sync CD.
+This allows a 2:1 sync to any UW sync that is a multiple of 10 seconds. If a bot is troublesome for your strategy, simply turn it off in the medals menu.
+Solution: Eventually at max cooldowns, all bots(excluding FlameBot) and BH/DW will have a 50 second cooldown while GT has a cooldown of 100. There is a tech tree upgrade available which gives sliders to bot cooldown for more precise syncing.
+Chrono field range
+Why: CF Range zooms out the screen which causes enemies to spawn further from the tower and take longer to be killed. This upgrade lowers CPH.
+Solution: The difference in CPH is minimal and often is outweighed by the benefit in tournaments. You will want to max this lab despite any downside since it is usually positive.
+1
+8

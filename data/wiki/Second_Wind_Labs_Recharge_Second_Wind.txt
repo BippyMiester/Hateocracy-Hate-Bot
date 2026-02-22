@@ -1,0 +1,38 @@
+Recharge Second Wind
+Unlock
+Lab
+in
+Milestones
+at tier 14 wave 60. Allows Second Wind to recharge a number of waves after activating. Has 7 levels.
+Level
+Time
+Cost
+Value
+1
+5d  4h  59m
+550B
+2,000
+2
+6d  14h  21m
+1,05T
+1,500
+3
+8d  54m  39s
+1,55T
+1,250
+4
+9d  23h  10m
+2,05T
+1,000
+5
+14d  1h  58m
+2,56T
+750
+6
+24d  19h  29m
+3,07T
+550
+7
+51d  8h  11m
+3,6T
+400

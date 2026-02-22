@@ -1,0 +1,77 @@
+Contents
+1
+Description
+2
+Use
+3
+Labs
+3.1
+Recharge Nuke
+Description
+Destroy 25/35/45/55/65/80/100% enemies.
+Use
+The Nuke
+card
+requires manual activation. Use it to destroy groups of dangerous enemies like
+Elites
+and
+Fleets
+before they can overwhelm your tower.
+With
+Smart Nuke Automation
+, it is one of several abilities that prevent death, activating in the following order where possible:
+Death Defy
+: If lethal damage would be taken, Death Defy may activate instead.
+Energy Shield
+: If
+any
+damage would be taken and Death Defy did not activate, Energy Shield will expend a charge instead.
+Second Wind
+: If lethal damage would be taken and no higher-priority death prevention is available, Second Wind will activate instead.
+Demon Mode
+: With
+Smart Demon Mode Automation
+, if lethal damage would be taken and no higher-priority death prevention is available, Demon Mode will activate instead.
+Nuke: With Smart Nuke Automation, if lethal damage would be taken and no higher-priority death prevention is available, Nuke will activate instead. This does not destroy in-flight projectiles, but as of
+v27.3 (18 Dec, 2025)
+Smart Nuke Automation also provides 15 seconds of invulnerability.
+Labs
+Recharge Nuke
+Unlock
+Lab
+in
+Milestones
+at tier 14 wave 60. Nuke will recharge after a number of waves. Has 7 levels.
+Level
+Time
+Cost
+Expand
+Value
+1
+5d  4h  59m
+550,000,000,000
+1,500
+2
+6d  14h  21m
+1,050,000,000,000
+1,250
+3
+8d  54m  39s
+1,550,000,000,000
+1,000
+4
+9d  23h  10m
+2,050,000,000,000
+750
+5
+14d  1h  58m
+2,560,000,000,000
+550
+6
+24d  19h  29m
+3,070,000,000,000
+400
+7
+51d  8h  11m
+3,600,000,000,000
+300

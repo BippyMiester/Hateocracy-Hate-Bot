@@ -1,0 +1,61 @@
+Contents
+1
+vO.12.0
+1.1
+Features
+1.2
+New End Round Stats
+1.3
+Bugs
+2
+vO.12.2
+3
+Versions
+vO.12.0
+Features
+New Utility Upgrades - Recovery Package
+New Card - Intro Sprint
+Duration of demon mode shown on the symbol now
+New End Round Stats
+Gameplay Time
+Bonus coins from death wave
+HP gained from death wave
+Coins from golden tower
+Cash from golden tower Waves Skipped
+Recovery Packages collected
+Bugs
+Wave skip not counted into round end coin stat (coins were being earned before though)
+vO.12.2
+New Lab Research - Workshop Respec (Tier 4)
+Buy multiplier works for the workshop now
+Round real time added to end round stats panel
+Intro sprint card doesn't affect tap and hold time on card panel now
+Versions
+v0.27
+v0.26
+v0.25
+v0.24
+v0.23
+v0.22
+v0.21
+v0.20
+v0.19
+v0.18
+v0.17
+v0.16
+v0.15
+v0.14
+v0.13
+v0.12
+v0.11
+v0.10
+v0.9
+v0.8
+v0.7
+v0.6
+v0.5
+v0.4
+v0.3
+v0.2
+1
+8

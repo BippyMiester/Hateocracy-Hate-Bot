@@ -1,0 +1,46 @@
+Wall Invincibility
+Has 10 upgrades. Wall will be invincible for a number of seconds after it rebuilds, up to 10 seconds.
+Level
+Time
+Cost
+Value
+1
+3d 11h 19m
+300,000,000,000
+1.0s
+2
+4d 1h 14m
+351,000,000,000
+2.0s
+3
+4d 15h 29m
+403,030,000,000
+3.0s
+4
+5d 7h 11m
+455,800,000,000
+4.0s
+5
+6d 2h 26m
+509,190,000,000
+5.0s
+6
+7d 4h 28m
+563,130,000,000
+6.0s
+7
+8d 17h 48m
+617,580,000,000
+7.0s
+8
+11d 0h 15m
+672,500,000,000
+8.0s
+9
+14d 7h 3m
+727,860,000,000
+9.0s
+10
+18d 22h 57m
+783,630,000,000
+10.0s

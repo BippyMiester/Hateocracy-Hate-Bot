@@ -1,0 +1,215 @@
+Expand
+Tiers 7, 8 & 9
+Tier
+Tier 7
+Tier 8
+Tier 9
+Wave
+Standard
+Premium
+Standard
+Premium
+Standard
+Premium
+10
+Light Speed Shots
+3m Coins
+Wall Health
+6m Coins
+Common Enemy Health
+15m Coins
+Wall Rebuild
+Common Enemy Attack
+20
+25 Gems
+30 Gems
+Unmerge Module
+30 Gems
+Fast Enemy Health
+35 Gems
+Fast Enemy Attack
+30
+Missile Despawn Time
+5m Coins
+5 Stones
+5 Stones
+Tank Enemy Health
+45 Gems
+Missile Amplifier
+Missile Explosion
+Tank Enemy Attack
+Missile Radius
+40
+Inner Mines Blast Radius
+30 Gems
+30 Gems
+40 Gems
+Ranged Enemy Health
+10 Stones
+Inner Mines Rotation Speed
+Ranged Enemy Attack
+Inner Mines Stun
+50
+Swamp Radius
+7m Coins
+Missile Barrage
+12m Coins
+Boss Enemy Health
+50 Gems
+Swamp Stun
+Swamp Stun Chance
+Missile Barrage Quantity
+Boss Enemy Attack
+Swamp Stun Time
+60
+Chain Lightning Shock
+10 Stones
+35 Gems
+50 Gems
+Protector Enemy Health
+3.5m Coins
+Shock Chance
+Protector Enemy Attack
+Shock Multiplier
+70
+5m Coins
+10m Coins
+10m Coins
+20m Coins
+40 Gems
+50 Gems
+80
+Spotlight Coin Bonus
+10 Stones
+5 Stones
+10 Stones
+70 Gems
+80 Gems
+90
+Chrono Field Duration
+15m Coins
+40 Gems
+60 Gems
+5 Stones
+10 Stones
+Chrono Field Range
+Chrono Damage Reduction
+Chrono Field Damage Reduction
+100
+Tier 8
+100 Gems
+Tier 9
+110 Gems
+Tier 10
+130 Gems
+150
+40 Gems
+50 Gems
+45 Gems
+50 Gems
+50 Gems
+50 Gems
+200
+45 Gems
+60 Gems
+5 Stones
+15 Stones
+5 Stones
+10 Stones
+250
+Card:
+Land Mine Stun
+10 Stones
+50 Gems
+60 Gems
+55 Gems
+60 Gems
+300
+50 Gems
+70 Stones
+Super Tower Bonus
+15 Stones
+Fast Enemy
+15 Stones
+400
+5 Stones
+15 Stones
+60 Gems
+75 Gems
+Protector Damage Red
+80 Gems
+500
+50 Gems
+75 Gems
+10 Stones
+15 Stones
+10 Stones
+15 Stones
+750
+10 Stones
+15 Stones
+70 Gems
+85 Gems
+75 Gems
+90 Gems
+1,000
+60 Gems
+85 Gems
+10 Stones
+20 Stones
+10 Stones
+20 Stones
+1,250
+10 Stones
+15 Stones
+75 Gems
+100 Gems
+75 Gems
+100 Gems
+1,500
+70 Gems
+100 Gems
+10 Stones
+20 Stones
+10 Stones
+20 Stones
+2,000
+10 Stones
+20 Stones
+85 Gems
+110 Gems
+85 Gems
+120 Gems
+2,500
+Fried Egg Skin
+20 Stones
+25 Stones
+Mush-mush Skin
+Turtle Skin
+25 Stones
+4,500
+Relic: Coins +5%
+25 Stones
+Relic: Damage / Meter +5%
+30 Stones
+Relic: Health +5%
+30 Stones
+Totals
+5m Coins
+40m Coins
+10m Coins
+38m Coins
+0 Coins
+18.5m Coins
+340 Gems
+600 Gems
+490 Gems
+770 Gems
+450 Gems
+890 Gems
+35 Stones
+140 Stones
+70 Stones
+130 Stones
+40 Stones
+155 Stones

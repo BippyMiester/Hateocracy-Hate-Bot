@@ -1,0 +1,5 @@
+Overview
+When a player purchases content for the game, they can enter the content creator code in order to have a small percentage of the proceeds directed towards that player. The creator code can be entered in the settings tab to apply for in-game purchases and can be entered on the
+Webstore
+for webstore related purchases. The codes entered remain active for 30 days, or until another code is entered or reapplied.  The owner of the creator code will get 5% of revenue from In-app purchases and 8% revenue for Webstore purchases at no additional cost to the player. Sometimes an option to tip the content creator may be present. The program is currently closed access and not available for application.
+If you have benefitted greatly from using the Wiki, please see [Page not created yet] for Creator Code an specific plans about this code.

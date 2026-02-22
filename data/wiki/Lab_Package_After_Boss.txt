@@ -1,0 +1,10 @@
+Package After Boss
+Package spawns after boss wave.
+Level
+Time
+Cost
+Value
+1
+8d  2h 26m
+1,000,000,000
+Unlocked

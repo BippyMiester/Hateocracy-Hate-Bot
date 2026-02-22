@@ -1,0 +1,22 @@
+Orbs
+Level
+Value
+Cost
+Expand
+Total Cost
+1
+1
+3.00K
+3.00K
+2
+2
+20.00K
+23.00K
+3
+3
+120.00K
+143.00K
+4
+4
+350.00K
+493.00K

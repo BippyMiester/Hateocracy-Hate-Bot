@@ -1,0 +1,10 @@
+Poison Swamp Stun
+Chance to stun enemies entering Poison Swamp. Enemies can be stunned once per entry into a Poison Swamp and may be stunned again upon re-entry or entering another Poison swamp. Has 1 level. Unlocks Swamp Stun Chance and Swamp Stun Time after completion. Starts with a 5% chance to stun for 1 second.
+Level
+Time
+Cost
+Value
+1
+0d 19h 59m
+700,000
+Unlocked

@@ -1,0 +1,17 @@
+Description
+Utility upgrades help provide support to the tower in and out of the round. This upgrades include increase cash and coin production as well as free upgrades to the tower and skipping enemy level increases.
+Workshop Upgrades
+Utility Upgrades
+Cash Bonus
+Cash / Wave
+Coins / Kill Bonus
+Coins Per Wave
+Free Attack Upgrade
+Free Defense Upgrade
+Free Utility Upgrade
+Interest / Wave
+Recovery Amount
+Max Recovery
+Package Chance
+Enemy Attack Level Skip
+Enemy Health Level Skip

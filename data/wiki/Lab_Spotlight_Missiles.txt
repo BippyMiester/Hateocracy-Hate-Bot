@@ -1,0 +1,83 @@
+00:00
+Loading ad 2/2
+Spotlight Missiles
+Tower fires missiles from the tower after a period of time. Missile damage is determined by
+Smart Missiles
+damage. When Smart Missiles are not unlocked, they will do the base damage of 14x. When the lab is unlocked in milestones, the display will show that missiles are fired every 20 seconds. Spotlight will not fire missiles until the first level is unlocked and frequency is 19 seconds. Has 18 levels.
+Level
+Time
+Cost
+Expand
+Value
+1
+6d 15h 58m
+200,000,000
+19.00
+2
+7d  0h 20m
+200,313,514
+18.00
+3
+7d  8h 52m
+200,854,054
+17.00
+4
+7d 17h 52m
+202,551,351
+16.00
+5
+8d  3h 48m
+207,502,703
+15.00
+6
+8d 15h  5m
+219,286,486
+14.00
+7
+9d  4h 17m
+243,329,730
+13.00
+8
+9d 19h 57m
+287,156,757
+12.00
+9
+10d 14h 47m
+360,659,459
+11.00
+10
+11d 13h 30m
+476,367,568
+10.00
+11
+12d 16h 48m
+649,686,486
+9.00
+12
+14d  1h 29m
+899,091,892
+8.00
+13
+15d 16h 22m
+1,243,243,243
+7.00
+14
+17d 14h 20m
+1,718,918,919
+6.00
+15
+19d 20h 16m
+2,335,135,135
+5.00
+16
+22d 11h  8m
+3,145,945,946
+4.00
+17
+25d 11h 53m
+4,172,972,973
+3.00
+18
+28d 23h 32m
+5,470,270,270
+2.00

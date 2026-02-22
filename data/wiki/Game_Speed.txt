@@ -1,0 +1,221 @@
+Contents
+1
+Description
+2
+Rounds
+3
+Lab
+4
+Description
+"Game speed" increases the max game speed
+Rounds
+Game speed increases the pace of the game and has an affect on multiple in game numbers. In the stats screen, real time and game time will be different due to game speed. Any ability that relies on a timer will be sped up by game speed. Using the Game Speed
+perk
+and the
+Standard Perk Bonus
+lab, game speed has a maximum value of 6.25 and will display as 6.3.
+Game speed is not accurate.
+x5.0 speed behaves closer to x4.0 while 6.25 is closer to x5.
+Lab
+Unlocks with
+labs
+in
+Milestones
+at tier 1 wave 30. There are maximum of 7 levels.
+Level
+Cost
+Time
+Expand
+Value
+1
+300
+9m
+x2.0
+2
+2,500
+2h 30m
+x2.5
+3
+12,000
+9h 48m
+x3.0
+4
+50,000
+1d 10h 2m
+x3.5
+5
+150,000
+3d 19h 39m
+x4.0
+6
+500,000
+14d 1h 46m
+x4.5
+7
+1,000,000
+25d 11h 6m
+x5.0
+Lab Upgrades
+Main Research
+Game Speed
+Starting Cash
+Workshop Attack Discount
+Workshop Defense Discount
+Workshop Utility Discount
+Labs Coin Discount
+Labs Speed
+Buy multiplier
+More Round Stats
+Target Priority
+Card Presets
+Workshop Respec
+Reroll Daily Mission
+Workshop Enhancement
+Enhancement Coin Discount
+Attack Research
+Damage
+Attack Speed
+Critical Factor
+Range
+Damage Per Meter
+Super Crit Chance
+Super Crit Mult
+Max Rend Armor Multiplier
+Light Speed Shots
+Defense Research
+Health
+Health Regen
+Defense Absolute
+Defense Percent
+Orb Speed
+Land Mine Damage
+Land Mine Decay
+Shockwave Size
+Orb Boss Hit
+Wall Health
+Wall Rebuild
+Wall Regen
+Wall Thorn
+Wall Invincibility
+Wall Fortification
+Garlic Thorns
+Utility Research
+Cash Bonus
+Cash Per Wave
+Coins/Kill Bonus
+Interest
+Max Interest
+Package After Boss
+Recovery Package Amount
+Recovery Package Max
+Recovery Package Chance
+Enemy Attack Level Skip
+Ultimate Weapon Research
+Missile Despawn Time
+Missiles Explosion
+Missile Radius
+Chrono Field Duration
+Chrono Field Damage Reduction
+Chrono Field Reduction %
+Swamp Radius
+Swamp Stun
+Swamp Stun Chance
+Swamp Stun Time
+Swamp Rend
+Golden Tower Bonus
+Golden Tower Duration
+Chain Lightning Shock
+Shock Chance
+Shock Multiplier
+Chain Thunder
+Lightning Amplifier-Scatter
+Death Wave Health
+Death Wave Coin Bonus
+Death Wave Damage Amplifier
+Death Wave Armor Stripping
+Inner Mine Blast Radius
+Inner Mine Rotation Speed
+Chrono Field Range
+Missiles Amplifier
+Missile Barrage
+Missile Barrage Quantity
+Inner Mine Stun
+Black Hole Damage
+Extra Black Hole
+Black Hole Coins Bonus
+Spotlight Coin Bonus
+Spotlight Missiles
+Black Hole Disable Ranged Enemies
+Recharge Missile Barrage
+Inner Land Mine - Chrono Jump
+Card Research
+Second Wind Blast
+Double Death Ray
+Extra Orb Adjuster
+Extra Extra Orbs
+Energy Shield Extra Hit
+Super Tower Bonus
+Recharge Second Wind
+Recharge Demon Mode
+Recharge Nuke
+Card Mastery Labs
+Perk Research
+Unlock Perks
+Waves Required
+Auto Pick Perks
+Standard Perks Bonus
+Perk Option Quantity
+First Perk Choice
+Ban Perks
+Improve Trade-Off Perks
+Bot Research
+Flame Bot Cooldown
+Flame Bot-Burn Stack
+Thunder Bot Cooldown
+Thunder Bot-Linger Time
+Golden Bot Cooldown
+Golden Bot- Duration
+Amplify Bot Cooldown
+Amplify Bot-Duration
+Enemies Research
+Common Enemy Health
+Common Enemy Attack
+Fast Enemy Health
+Fast Enemy Attack
+Fast Enemy Speed
+Tank Enemy Health
+Tank Enemy Attack
+Ranged Enemy Health
+Ranged Enemy Attack
+Boss Health
+Boss Attack
+Protector Health
+Protector Radius
+Protector Damage Reduction
+Ranged Enemy Range
+Vampire Enemy Health
+Vampire Enemy Attack
+Ray Enemy Health
+Ray Enemy Attack
+Scatter Enemy Health
+Scatter Enemy Attack
+Module Research
+Common Drop Chance
+Reroll Shards
+Daily Mission Shards
+Module Shard Cost
+Module Coin Cost
+Rare Drop Chance
+Unmerge Module
+Shatter Shards
+Cannon Effect Bans
+Armor Effect Bans
+Generator Effect Bans
+Core Effect Bans
+Assist Module Labs
+Battle Condition Research
+Battle Condition Reduction
+Group 1: Resistances
+Group 2: Enemy/Spawn Buffs
+Group 3: Enemy Ultimates
+Group 4: Durations/Reductions

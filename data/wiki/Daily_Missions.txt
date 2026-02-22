@@ -1,0 +1,161 @@
+Contents
+1
+Description
+2
+Challenges
+3
+Rewards
+3.1
+Weekly Rewards
+4
+Lab
+4.1
+Reroll Daily Mission
+Description
+Daily missions are progress based challenges given every 8 hours. Completion of daily challenges provide coins and gems. Completing enough daily missions will earn access to weekly rewards.
+Challenges
+Unlike
+events
+, daily missions are given based on player progress. This means you will only be given
+card
+and
+ultimate weapon
+challenges when you have the corresponding unlock. Players will have different challenges than each other and are able to complete all challenges received.
+Rewards
+Daily missions will give 3 gems and a number of coins and shards based on the highest tier unlocked. The highest tier unlocked will also impact coins from weekly rewards and guild rewards. The amount of shards per mission can be increased with the
+Daily Mission Shards
+lab.
+Tier
+Coins
+Shards
+1
+25
+N/A
+2
+100
+3
+3
+1000
+5
+4
+10,000
+8
+5
+25,000
+12
+6
+80,000
+15
+7
+250,000
+20
+8
+500,000
+25
+9
+1.00 Mil
+30
+10
+3.00 Mil
+34
+11
+5.00 Mil
+38
+12
+8.00 Mil
+42
+13
+15.00 Mil
+48
+14
+30.00 Mil
+55
+15
+75.00 Mil
+60
+16
+150.00 Mil
+65
+17
+300.00 Mil
+70
+18
+500 Mil
+75
+19
+750 Mil
+80
+20
+1.25 Bil
+85
+21
+2.00 Bil
+90
+Weekly Rewards
+Weekly rewards are earned for every 5 daily missions completed until 35 missions complete. The rewards give coins, medals, gems and stones. The coin reward is based on your tier coin reward level from daily missions. The rewards can be re-earned each week.
+Weekly Missions
+Completed
+Coins
+Gems
+Medals
+Stones
+Tokens
+5
+x3
+10
+0
+0
+5
+10
+x4
+15
+10
+0
+5
+15
+x5
+20
+15
+0
+5
+20
+x7
+25
+20
+0
+5
+25
+x10
+30
+25
+10
+5
+30
+x15
+35
+30
+15
+5
+35
+x20
+50
+35
+20
+5
+Total
+x64
+185
+135
+45
+35
+Lab
+Reroll Daily Mission
+Allows missions to be rerolled for 5 gems. A different mission will always be rolled. Unlocked at Tier 4 Wave 30. Has 1 level.
+Level
+Time
+Cost
+Value
+1
+1d 15h 59m
+20,000,000
+Unlocked

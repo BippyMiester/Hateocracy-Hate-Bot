@@ -1,0 +1,259 @@
+Contents
+1
+Navigating Advanced Analysis
+2
+Contributing to Advanced Analysis
+3
+Advanced Analysis Goodies
+3.1
+Bots
+3.1.1
+Bot Geometry
+3.1.2
+Golden Bot
+3.2
+Cards and Masteries
+3.2.1
+Berserker
+3.2.2
+Cash
+3.2.3
+Critical Chance
+3.2.4
+Critical Coin
+3.2.5
+Death Ray
+3.2.6
+Demon Mode
+3.2.7
+Enemy Balance
+3.2.8
+Energy Net
+3.2.9
+Energy Shield
+3.2.10
+Extra Defense
+3.2.11
+Extra Orb
+3.2.12
+Free Upgrades
+3.2.13
+Fortress
+3.2.14
+Health
+3.2.15
+Health Regen
+3.2.16
+Intro Sprint
+3.2.17
+Land Mine Stun
+3.2.18
+Nuke
+3.2.19
+Plasma Canon
+3.2.20
+Recovery Package Chance
+3.2.21
+Second Wind
+3.2.22
+Slow Aura
+3.2.23
+Super Tower
+3.2.24
+Ultimate Crit
+3.2.25
+Wave Accelerator
+3.2.26
+Wave Skip
+3.3
+Enemies
+3.4
+Miscellaneous
+3.5
+Modules-Themselves
+3.5.1
+Death Penalty(DP)
+3.5.2
+Astral Deliverance(AD)
+3.5.3
+Being Annihilator(BA)
+3.5.4
+Havoc Bringer(HB)
+3.5.5
+Galaxy Compressor(GC,Gcomp)
+3.5.6
+Black Hole Digestor(BHD)
+3.5.7
+Pulsar Harvester(PH)
+3.5.8
+Singularity Harness(SH)
+3.5.9
+Project Funding(PF)
+3.5.10
+Anti-Cube Portal(ACP)
+3.5.11
+Wormhole Redirector(WHR)
+3.5.12
+Space Displacer(SD)
+3.5.13
+Negative Mass Projector(NMP)
+3.5.14
+Dimension Core(DC)
+3.5.15
+Multiverse Nexus(MVN)
+3.5.16
+Harmony Conductor(HC)
+3.5.17
+Om Chip(Om, OC)
+3.5.18
+Magnetic Harness(MH)
+3.6
+Modules (Shards, Rerolls, Bans, etc.)
+3.7
+Tournaments
+3.8
+Ultimate Weapons
+3.8.1
+Black Hole (BH)
+3.8.2
+Chain Lightning (CL)
+3.8.3
+Chrono Field (CF)
+3.8.4
+Death Wave (DW)
+3.8.5
+Golden Tower (GT)
+3.8.6
+Inner Land Mines (ILM)
+3.8.7
+Poison Swamp (PS)
+3.8.8
+Smart Missiles (SM)
+3.8.9
+Spotlight (SL)
+3.9
+Workshop
+3.9.1
+Orb geometry
+3.10
+Workshop Enhancements
+Navigating Advanced Analysis
+There are 2 main methods to navigate this page:
+Use the table of contents to head to the section and/or subsection of interest. For example, if interested in Black Hole Digestor you may navigate to "Modules-Themselves" and then to the "Black Hole Digestor" section.
+Use the browser built in search, usually accessed by pressing "ctrl + F" on PC, or finding your browser app's "Find on page" button for mobile. Type in a key word of interest and click through all associated content.
+On mobile, thumbnails should open fully when clicked. On PC, after opening an image you can select "See Full Image" in the Top Left, for better resolution.
+Contributing to Advanced Analysis
+When contributing to this page, please follow these rules:
+Please be sure that the work is still relevant and accurate as to the current released version of the game
+Content should show some sort of undocumented analysis, that is not game given info, hence being Advanced Analysis.
+Contributions should be in Thumbnail format with the "Wrap text around this item" turned off.
+The caption and description, should be in the following format: Author(s) if Known, Quick description, (comma separated list of tags not already in description)
+On the Caption please then select the list of tags and change the text type to "Subscript" to make it smaller.
+If the content belongs in 2-3 places, please just copy/paste the content w/ caption into the other sections (3 sections max please)
+If you need help, have suggestions, or just want someone else to upload content so you don't need to make a Fandom account, give me a ping(not a dm) on discord at Yugiohcd10, or on reddit as u/HubbyLord.
+Advanced Analysis Goodies
+Bots
+Bot Geometry
+Displayed Range Golden Bot (might be true for other Bots): RangeBot x 1.33 x (RangeTower/69.5m) // Random Sampling: Mean: RangeTower / 2 // Min: 0 // Max 1.25 RangeTower allows for estimate of coverage
+Golden Bot
+Shows Golden Bot sync overlaps of 48s Sync and discusses 50s Sync for BHD strategies.
+(GB, Black Hole Digestor, Death Wave, DW,MVN)
+Cards and Masteries
+Berserker
+Cash
+Critical Chance
+Critical Coin
+Death Ray
+Demon Mode
+Enemy Balance
+Shows the impact of elite kills/wave with Enemy Balance Mastery when at max spawn chances.
+(EB#, GT+, Golden Combo)
+Energy Net
+Energy Shield
+Extra Defense
+Extra Orb
+By Yugiohcd10. Shows breakpoints in coin efficiency of blender vs orbless with SLA and EO#.
+(Extra Orbs Mastery,  Spotlight angle)
+RegentOfAtziluth: Estimation of the displayed Wall, Orbs and Extra Orbs positions as a function of Tower Range (x). This can be used to estimate the Orb Positions relative to the Black Hole Center.
+Free Upgrades
+Fortress
+Health
+Health Regen
+Intro Sprint
+Land Mine Stun
+Nuke
+Plasma Canon
+Recovery Package Chance
+Gives estimation for total Daily Mod shard income when including things such as Drop chance labs, Daily Mission Shard, Shatter labs, and Recovery Package Chance mastery.
+(RPC#,DMS)
+Second Wind
+Slow Aura
+Super Tower
+Ultimate Crit
+Wave Accelerator
+Shows the relative waves to reach Max Spawn rate with different Wave Accelerator Mastery levels.
+(WA#)
+Wave Skip
+By Yugiohcd10. Shows BHD average increase with Free-ups vs WS#.
+(Black Hole Digestor, Free Upgrades, Wave Skip Mastery)
+Shows the probability of different multi-skips with Maxed Wave Skip card, WS#0, and WS#9.
+(Wave Skip Mastery)
+Poisson distribution is intended to address multiple occurrences of rare events. Poisson Distribution is applied to Wave Skips.
+Enemies
+Miscellaneous
+Cells Required to boost labs to varying levels.
+(Cells, Boost)
+Modules-Themselves
+Death Penalty(DP)
+Astral Deliverance(AD)
+Being Annihilator(BA)
+Havoc Bringer(HB)
+Galaxy Compressor(GC,Gcomp)
+Black Hole Digestor(BHD)
+By Yugiohcd10. Shows BHD average increase with Free-ups vs WS#.
+(Black Hole Digestor, Free Upgrades, Wave Skip Mastery)
+Shows Golden Bot sync overlaps of 48s Sync and discusses 50s Sync for BHD strategies.
+(GB, Black Hole Digestor, Death Wave, DW,MVN)
+Pulsar Harvester(PH)
+Singularity Harness(SH)
+Project Funding(PF)
+Anti-Cube Portal(ACP)
+Wormhole Redirector(WHR)
+Space Displacer(SD)
+Negative Mass Projector(NMP)
+Dimension Core(DC)
+Multiverse Nexus(MVN)
+Shows Golden Bot sync overlaps of 48s Sync and discusses 50s Sync for BHD strategies.
+(GB, Black Hole Digestor, Death Wave, DW,MVN)
+Harmony Conductor(HC)
+Om Chip(Om, OC)
+Magnetic Harness(MH)
+Modules (Shards, Rerolls, Bans, etc.)
+Gives estimation for total Daily Mod shard income when including things such as Drop chance labs, Daily Mission Shard, Shatter labs, and Recovery Package Chance mastery.
+(RPC#,DMS)
+Tournaments
+Ultimate Weapons
+Black Hole (BH)
+RegentOfAtziluth: Examplary Tower Layout for Black Hole and Orbs. To estimate, the following formulas can be used // BH Distance: 0.85 x Tower Range // Displayed BH Diameter: 1.33 x BH Diameter x SQRT(Tower Range / 69.5m)
+Chain Lightning (CL)
+Chrono Field (CF)
+By Priesten, Tremnen, yournnicknm. Documents Rotation and orbiting times of varying CF+ upgrades.
+(Chrono Loop, Chrono Field)
+By priesten, yournicknm. Documents effective enemy speed effects of varying CF+ upgrades.
+(Chrono Loop, Chrono Field)
+Death Wave (DW)
+Golden Tower (GT)
+Shows the impact of elite kills/wave with Enemy Balance Mastery when at max spawn chances.
+(EB#, GT+, Golden Combo)
+Inner Land Mines (ILM)
+Poison Swamp (PS)
+By u/Malice_Striker. A quick analysis of the stone costs to achieve perma Poison Swamp and the most stone efficient way to do so.
+(PS)
+Smart Missiles (SM)
+Spotlight (SL)
+By Yugiohcd10. Shows breakpoints in coin efficiency of blender vs orbless with SLA and EO#.
+(Extra Orbs Mastery, Spotlight angle)
+Workshop
+Orb geometry
+RegentOfAtziluth: Estimation of the displayed Wall, Orbs and Extra Orbs positions as a function of Tower Range (x). This can be used to estimate the Orb Positions relative to the Black Hole Center.
+Workshop Enhancements

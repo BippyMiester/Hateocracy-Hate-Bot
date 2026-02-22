@@ -1,0 +1,102 @@
+Shockwave Size
+Unlock
+lab
+in
+Milestones
+at tier 3 wave 50. Each level adds to the shockwave size workshop value. There are 20 upgrades.
+The Shockwave Size lab screen has an adjuster that allows players to select the desired level up to what they have researched when not in a round.
+Level
+Time
+Cost
+Expand
+Value
+1
+0d  2h 46m
+100,000
+0.05
+2
+0d  6h 41m
+119,000
+0.10
+3
+0d 10h 47m
+314,980
+0.15
+4
+0d 15h 31m
+1,250,000
+0.20
+5
+0d 21h 23m
+4,020,000
+0.25
+6
+1d  5h  8m
+10,270,000
+0.30
+7
+1d 15h 34m
+22,340,000
+0.35
+8
+2d  5h 37m
+43,210,000
+0.40
+9
+3d  0h 21m
+76,610,000
+0.45
+10
+4d  0h 54m
+127,020,000
+0.50
+11
+5d  8h 31m
+199,720,000
+0.55
+12
+7d  0h 32m
+300,800,000
+0.60
+13
+9d  2h 24m
+437,210,000
+0.65
+14
+11d 15h 38m
+616,750,000
+0.70
+15
+14d 17h 48m
+848,140,000
+0.75
+16
+18d 10h 38m
+1,140,000,000
+0.80
+17
+22d 19h 52m
+1,510,000,000
+0.85
+18
+27d 23h 21m
+1,950,000,000
+0.90
+19
+33d 23h  0m
+2,500,000,000
+0.95
+20
+40d 20h 49m
+3,150,000,000
+1.00
+1
+8
+38:10
+0:01
+1.57%
+00:01
+38:09
+Pause
+Video Quality
+Auto (360p)

@@ -1,0 +1,60 @@
+Contents
+1
+v0.22 - The Modules Update
+1.1
+Modules
+1.1.1
+Module Types:
+2
+Bug Fixes and balance changes
+3
+Versions
+v0.22 - The Modules Update
+Modules
+Unlock the modules in Milestones (Tier 2, Wave 90) and start making your Tower even stronger!
+You will be able to equip modules of 4 different categories to enhance your tower capabilities. Each category has a main stat and some random sub stats
+Epic Modules also have a Unique Effect that you can't find anywhere else
+Module Types:
+Cannon
+Main stat - x% Tower Damage
+Sub-Effects - Attack Upgrades
+Armor
+Main stat - x% Tower Health
+Effects - Defense Upgrades
+Generator
+Main stat » x% Coin Bonus
+Effects » Utility Upgrades
+Core
+Main stat » x% Ultimate Weapon Damage
+Effects » Ultimate Weapons Upgrades
+Bug Fixes and balance changes
+Fixed performance issues that was being caused by bounce shot
+Increased limit of Def% from 90% to 98%
+Fixed Ranged attack not charging Berserk
+Versions
+v0.27
+v0.26
+v0.25
+v0.24
+v0.23
+v0.22
+v0.21
+v0.20
+v0.19
+v0.18
+v0.17
+v0.16
+v0.15
+v0.14
+v0.13
+v0.12
+v0.11
+v0.10
+v0.9
+v0.8
+v0.7
+v0.6
+v0.5
+v0.4
+v0.3
+v0.2

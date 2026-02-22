@@ -1,0 +1,51 @@
+Rare Drop Chance
+Unlock
+Lab
+in
+Milestones
+at tier 10 wave 40. Increases the chance for bosses to drop rare modules. Has 10 levels for an additional 1% chance.
+Note the starting Rare Drop Chance is 0.5%.
+Level
+Time
+Cost
+Value
+1
+8d 16h 20m
+70B
++0.10%
+2
+9d 3h 27m
+76B
++0.20%
+3
+9d 14h 44m
+128,57B
++0.30%
+4
+10d 2h 19m
+306,83B
++0.40%
+5
+10d 14h 25m
+714B
++0.50%
+6
+11d 3h 14m
+1,47T
++0.60%
+7
+11d 17h 0m
+2,72T
++0.70%
+8
+12d 7h 57m
+4,61T
++0.80%
+9
+13d 0h 18m
+7,32T
++0.90%
+10
+13d 18h 19m
+11,01T
++1.00%

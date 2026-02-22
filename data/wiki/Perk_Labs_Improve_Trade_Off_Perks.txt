@@ -1,0 +1,46 @@
+Improve Trade-Off Perks
+Unlocks in Milestones at tier 2 wave 400 and after Unlock Perk completed. A multiplier improving the benefit of the trade-off perk (doesn't improve ranged enemy trade-off). Has 10 levels.
+Level
+Time
+Cost
+Value
+1
+1d  0h 59m
+600,000,000
+1%
+2
+1d 14h 54m
+700,030,000
+2%
+3
+2d  5h  0m
+801,180,000
+3%
+4
+2d 19h 40m
+910,140,000
+4%
+5
+3d 11h 24m
+1,050,000,000
+5%
+6
+4d  4h 49m
+1,250,000,000
+6%
+7
+5d  0h 38m
+1,600,000,000
+7%
+8
+5d 23h 39m
+2,200,000,000
+8%
+9
+7d  2h 46m
+3,230,000,000
+9%
+10
+8d 10h 58m
+4,920,000,000
+10%

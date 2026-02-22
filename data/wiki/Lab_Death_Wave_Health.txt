@@ -1,0 +1,136 @@
+Death Wave Health
+Maximum health bonus from killing enemies marked/killed by Death Wave increased (Max of 12.5x Base). Bonus health is tracked during a round by clicking on health in the workshop (Will not display until at least one level of Death Wave Health Lab is researched).
+Level
+Time
+Cost
+Expand
+Value
+1
+0d 19h 59m 59s
+250,000
+525%
+2
+1d 4h 21m 9s
+560,000
+550%
+3
+1d 12h 53m 11s
+1,100,000
+575%
+4
+1d 21h 54m 33s
+2,800,000
+600%
+5
+2d 7h 49m 19s
+7,750,000
+625%
+6
+2d 19h 6m 5s
+19,540,000
+650%
+7
+3d 8h 17m 16s
+43,580,000
+675%
+8
+3d 23h 58m 44s
+87,410,000
+700%
+9
+4d 18h 49m 30s
+160,910,000
+725%
+10
+5d 17h 31m 29s
+276,620,000
+750%
+11
+7d 4h 48m 55s
+334,620,000
+775%
+12
+7d 14h 48m 11s
+347,440,000
+800%
+13
+8d 1h 1m 58s
+363,460,000
+825%
+14
+8d 11h 30m 53s
+383,110,000
+850%
+15
+8d 22h 15m 35s
+406,870,000
+875%
+16
+9d 9h 16m 39s
+435,210,000
+900%
+17
+9d 20h 34m 39s
+468,640,000
+925%
+18
+10d 8h 10m 10s
+507,670,000
+950%
+19
+10d 20h 3m 42s
+552,830,000
+975%
+20
+11d 8h 15m 49s
+604,680,000
+1000%
+21
+11d 20h 46m 59s
+663,770,000
+1025%
+22
+12d 9h 37m 43s
+730,690,000
+1050%
+23
+12d 22h 48m 31s
+806,040,000
+1075%
+24
+13d 12h 19m 49s
+890,410,000
+1100%
+25
+14d 2h 12m 6s
+984,430,000
+1125%
+26
+14d 16h 25m 49s
+1,090,000,000
+1150%
+27
+15d 7h 1m 25s
+1,200,000,000
+1175%
+28
+15d 21h 59m 19s
+1,330,000,000
+1200%
+29
+16d 13h 19m 57s
+1,470,000,000
+1225%
+30
+17d 5h 3m 44s
+1,620,000,000
+1250%
+1
+8
+36:00
+1.48%
+00:00
+36:00
+Pause
+Video Quality
+Auto (360p)

@@ -1,0 +1,17 @@
+Extra Extra Orbs
+Lab unlocks in
+Milestones
+at tier 6 wave 80. Increases the number of orbs when the Extra Orb card is equipped. There are 2 levels.
+Level
+Time
+Cost
+Expand
+Value
+1
+1d 14h 53m
+25,000,000
++1
+2
+5d 18h 53m
+900,000,000
++2

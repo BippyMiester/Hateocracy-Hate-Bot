@@ -1,0 +1,14 @@
+Overview
+Medals are a currency that is considered slower to acquire than stones. While stones are considered more valuable by many, medals take longer to gain as many as needed. Knowing the best order to spend them in is crucial.
+Order
+1) High value past relics - if there is a lab speed or coins relic available to buy from a past event, these should be top priority. Rest are optional.
+2) Songs and Themes - the theme bonus is small but stacks to be a significant coin bonus. Buying both will take 400 medals each event. Currently there are three available songs, offering +0.6% coins for each.
+3) Stones - 1 or 2 packs max. The cost increases making the value less and less. Many people will also skip stone packs altogether so they have more for bot upgrades
+4) Gems - This is only before you acquire all labs. Gems are considered easy to get and medals should not be wasted on them. There is some benefit to buying 1 pack only if it is to speed up unlocking labs. After all 5 labs are unlocked, stop getting gems.
+5) Bots - See priority below
+Bot Order
+When working on bots, you do not want to unlock all 4 before upgrading. Unlock a bot and begin upgrading it instead of unlocking more. Bots are very weak when first unlocked and their value comes from the upgrades. Do not upgrade cooldown unless you understand what you are doing or don't care about optimization.
+1) Golden Bot - Once unlocked work on range and bonus and put no upgrades into cooldown. Range is considered the best of the upgrades but should only stay a couple of levels ahead of bonus. Begin the next bot when range and bonus are either maxed or at least well upgraded.  Cooldown provides little improvement unless targeting a sync with GT/BH. Syncing Golden bot is not very beneficial unless Golden bot range/bonus is high and GT/BH synch has strong multipliers.
+2) Amplify Bot - Work on range and bonus. Range is more valuable since it will increase the chance the boss goes through the bot's area. Bonus can be worked on after range is well upgraded for a better damage modifier.
+3) Thunder Bot - Needs to be maxed to be useful. The bot is good for crowd control but can also create problems for some builds when the bot is low levelled.
+4) Flame Bot - Only work on when everything else is maxed or properly levelled.
