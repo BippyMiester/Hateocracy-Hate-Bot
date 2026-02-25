@@ -8,6 +8,7 @@ import shutil
 import asyncio
 # Now import Logger after the logs directory has been cleared.
 from helpers.Logger import Logger
+
 Logger.set_debug(True)
 
 # Set a custom NLTK data path and add it to NLTK paths.
@@ -24,11 +25,11 @@ with open(settings_path, "r", encoding="utf-8") as f:
     
     if environment == "development":
         # Get the bot token from the settings.json file.
-        bot_token = settings["bot"]["bot_token_development"]
+        bot_token = settings["tokens"]["bot_token_development"]
         guild_id = settings["guild_development"]["guild_id"]
     else:
         # Get the bot token from settings.json.
-        bot_token = settings["bot"]["bot_token_production"]
+        bot_token = settings["tokens"]["bot_token_production"]
         guild_id = settings["guild_production"]["guild_id"]
 
 # Clear the logs directory BEFORE the Logger is loaded.
@@ -63,6 +64,8 @@ class Client(commands.Bot):
         intents.members = True
         self.youtube_credentials = None
         super().__init__(command_prefix=command_prefix, intents=intents)
+        # Store global settings in the bot instance for later reference
+        self.settings = settings
 
     async def on_ready(self):
         Logger.info("-----------------------------")
@@ -79,7 +82,6 @@ class Client(commands.Bot):
         
         # Handle NLTK Downloads
         await self.DownloadNLTKData()
-
         Logger.info("Bot is now ready and online!")
         Logger.info("-----------------------------")
 
@@ -130,28 +132,48 @@ class Client(commands.Bot):
         await asyncio.to_thread(nltk.download, 'all', download_dir=str(NLTK_DATA_PATH), quiet=True)
         Logger.info("NLTK resources downloaded successfully.")
 
+    async def process_ai(self, message):
+        if self.settings["ai"]["enabled"]:
+            try:
+                # Reference settings stored in the bot instance.
+                env = self.settings["bot"]["environment"]
+                if env == "development":
+                    target_channel_id = self.settings["ai"].get("development_channel")
+                else:
+                    target_channel_id = self.settings["ai"].get("production_channel")
+                Logger.debug(f"Target AI channel id is {target_channel_id} for environment {env}")
+                if target_channel_id and message.channel.id == target_channel_id:
+                    Logger.info(f"Message received in target AI channel {target_channel_id}; invoking AIHelper.pong for user {message.author}")
+                    AI = self.get_cog("AIHelper")
+                    if AI:
+                        await AI.pong(message)
+                    else:
+                        Logger.error("AIHelper cog not loaded.")
+            except Exception as e:
+                Logger.error(f"Error processing AI in on_message: {e}")
+        else:
+            Logger.warning("AI is currently turned off. I'm not going to process this message through AI.")
+
+    async def process_moderation(self, message):
+        try:
+            mod_cog = self.get_cog("AutoModeration")
+            if mod_cog:
+                await mod_cog.process_moderation(message)
+            else:
+                Logger.error("AutoModeration cog not loaded.")
+        except Exception as e:
+            Logger.error(f"Error processing moderation in on_message: {e}")
+
     async def on_message(self, message):
         Logger.debug(f"Received message from {message.author} in channel {message.channel.id}")
         try:
             # Prevent responding to its own messages.
             if message.author == self.user:
                 return
-
-            # Determine target channel id from the ai section based on the environment.
-            if environment == "development":
-                target_channel_id = settings["ai"].get("development_channel")
-            else:
-                target_channel_id = settings["ai"].get("production_channel")
-                
-            Logger.debug(f"Target AI channel id is {target_channel_id} for environment {environment}")
-
-            if message.channel.id == target_channel_id:
-                Logger.info(f"Message received in target channel {target_channel_id}; invoking AITask.pong for user {message.author}")
-                AI = self.get_cog("AITask")
-                if AI:
-                    await AI.pong(message)
-                else:
-                    Logger.error("AITask cog not loaded.")
+            # Process AI related messages.
+            await self.process_ai(message)
+            # Process AutoModeration.
+            await self.process_moderation(message)
         except Exception as e:
             Logger.error(f"Error processing on_message event: {e}")
         # Ensure commands still get processed.

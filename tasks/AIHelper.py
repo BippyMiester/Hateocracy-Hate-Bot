@@ -21,8 +21,10 @@ with open(SETTINGS_PATH, "r", encoding="utf-8") as f:
 ai_settings = settings["ai"]
 # Extract wiki settings (used for local knowledge base persist directory).
 wiki_settings = settings["wiki"]
+# Extract Token Settings
+token_settings = settings["tokens"]
 try:
-    openai_api_key = ai_settings["openai_api_key"]
+    openai_api_key = token_settings["openai_api_key"]
     model = ai_settings["model"]
     max_input_tokens = ai_settings["max_input_tokens"]
     max_completion_tokens = ai_settings["max_completion_tokens"]
@@ -161,7 +163,7 @@ async def call_openai(system_prompt: str, user_text: str, max_tokens: int) -> st
         raise Exception("Empty response from OpenAI")
     return result
 
-class AITask(commands.Cog):
+class AIHelper(commands.Cog):
     def __init__(self, bot: commands.Bot):
         self.bot = bot
 
@@ -178,11 +180,9 @@ class AITask(commands.Cog):
             Logger.error(f"Error loading settings.json in AITask: {e}")
             await message.channel.send("Something went wrong. Error Code: AITASK001")
             return
-
         if currently_processing:
             Logger.info("Currently processing OpenAI API request, skipping AITask Pong message.")
             return
-
         # Build conversation history.
         original_message = {
             "user": message.author.id,
@@ -201,7 +201,6 @@ class AITask(commands.Cog):
                 })
         except Exception as e:
             Logger.error(f"Error fetching previous messages: {e}")
-
         # Query local knowledge base using ChromaDB.
         context_info = ""
         try:
@@ -228,7 +227,6 @@ class AITask(commands.Cog):
         except Exception as e:
             Logger.error(f"Error querying knowledge base: {e}")
             context_info = ""
-
         # Construct final payload.
         user_payload = {
             "original_message": original_message,
@@ -246,11 +244,9 @@ class AITask(commands.Cog):
             Logger.error(f"Error in OpenAI API call: {e}")
             await message.channel.send("Something went wrong. Error Code: AITASK002")
             return
-
         # Compute token counts with tiktoken.
         payload_token_count = num_tokens_from_string(user_text, model)
         response_token_count = num_tokens_from_string(openai_reply, model)
-
         # Send OpenAI response with persistent feedback buttons.
         try:
             response_message = await message.channel.send(openai_reply, view=FeedbackView(0))
@@ -289,8 +285,8 @@ async def register_persistent_views(bot: commands.Bot):
             Logger.error(f"Error registering persistent view for message id {message_id}: {e}")
 
 async def setup(bot: commands.Bot):
-    cog = AITask(bot)
+    cog = AIHelper(bot)
     await bot.add_cog(cog)
-    Logger.info("AITask cog loaded from tasks/ai.py")
+    Logger.info("AITask cog loaded from tasks/AIHelper.py")
     # Register persistent views so that feedback buttons work after restarts.
     await register_persistent_views(bot)
