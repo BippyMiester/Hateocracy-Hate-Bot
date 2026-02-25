@@ -1,53 +1,144 @@
 {
+    "bot": {
+        "version": "1.1.1",
+        "environment": "development"
+    },
+    "tokens": {
+        "bot_token_production": "",
+        "bot_token_development": "",
+        "openai_api_key": ""
+    },
     "guild_production": {
-        "guild_id": 0,
-        "logs_channel": 0,
-        "inactivity_channel": 0,
-        "test_channel": 0,
-        "admin_role": 0,
-        "developer_role": 0,
-        "officer_role": 0,
-        "player_active_role": 0,
-        "player_away_role": 0,
-        "player_inactive_role": 0,
-        "member_role": 0
+        "guild_id": 1366451607436267897,
+        "logs_channel": 1428503356074364958,
+        "inactivity_channel": 1428538515657982103,
+        "test_channel": 1428503681262948422,
+        "admin_role": 1368756605830824096,
+        "developer_role": 1368756787335004200,
+        "officer_role": 1366452375149215774,
+        "player_active_role": 1428510677911207956,
+        "player_away_role": 1428510774493450384,
+        "player_inactive_role": 1428510715387314266,
+        "member_role": 1368766781598203904
     },
     "guild_development": {
-        "guild_id": 0
+        "guild_id": 1335470070410772642
     },
     "waitlist": {
-        "waitlist_message_id": 0,
-        "waitlist_channel_id": 0,
-        "waitlist_role": 0
-    },
-    "bot": {
-        "environment": "development",
-        "bot_token_production": "",
-        "bot_token_development": ""
+        "waitlist_message_id": 1471418636223778840,
+        "waitlist_channel_id": 1428503681262948422,
+        "waitlist_role": 1471417399944286410
     },
     "ai": {
-        "openai_api_key": "",
+        "enabled": true,
         "model": "gpt-4o-mini",
         "max_input_tokens": 100000,
         "max_completion_tokens": 5000,
         "previous_messages": 5,
         "currently_processing": false,
-        "development_channel": 0,
-        "production_channel": 0
+        "development_channel": 1474344451705933886,
+        "production_channel": 1368767971412938783
     },
     "wiki": {
         "base_url": "https://the-tower-idle-tower-defense.fandom.com",
         "all_pages_url": "https://the-tower-idle-tower-defense.fandom.com/wiki/Special:AllPages",
+        "skip_downloads": true,
+        "skip_indexing": false,
         "number_of_retries": 5,
         "page_expiration": 7,
         "data_directory": "./data/wiki",
         "chroma_persist_directory": "./cache/chromadb",
         "purge_special_chars": true,
         "purge_lines": [
-            ""
+            "Skip",
+            "Ad",
+            "Continue watching",
+            "after the ad",
+            "Visit Advertiser website",
+            "GO TO PAGE",
+            "Placeholder for upcoming Wiki Implementation. Stay tuned.",
+            "Honest Trailers Commentary | Fast X",
+            "Read More",
+            "Video Player is loading.",
+            "Play Video",
+            "Unmute",
+            "Duration",
+            "0:00",
+            "Current Time",
+            "Advanced Settings",
+            "Loaded",
+            "0%",
+            "Remaining Time",
+            "Fullscreen",
+            "Play",
+            "Rewind 10 Seconds",
+            "Up Next",
+            "This is a modal window.",
+            "Share",
+            "Settings",
+            "Playback Speed",
+            "Normal",
+            "Closed Captions",
+            "Off",
+            "Replay the list",
+            "TOP ARTICLES",
+            "Powered by AnyClip",
+            "Privacy Policy",
+            "Keyboard Shortcuts",
+            "1/1",
+            "More",
+            "00:11",
+            "1/2",
+            "The video player is currently playing an ad. You can skip the ad in 5 sec with a mouse or keyboard",
+            "The Complete Indiana Jones Movie and TV Timeline (1908-1993)"
         ],
         "ignored_pages": [
-            ""
+            "Contributors",
+            "Common_cards",
+            "Brick_Discriptions",
+            "Challenges"
+        ]
+    },
+    "moderation": {
+        "model": "omni-moderation-latest",
+        "logging_enabled": true,
+        "logging_channel_development": 1476036640580436242,
+        "logging_channel_production": 1475987617890959522,
+        "rules_channel": 1368767541215887400,
+        "timeout_enabled": true,
+        "timeout_duration": "1m",
+        "minimum_category_score": 0.8875,
+        "dm_user": false,
+        "ignored_categories": [
+            "self-harm",
+            "sexual",
+            "violence",
+            "violence/graphic"
+        ],
+        "excluded_channels": [
+            1368767541215887400,
+            1468812209466376406,
+            1471411225886855299,
+            1474344451705933886,
+            1348307649187414218,
+            1348481558910341181,
+            1350941522803167237,
+            1384066732335042560,
+            1412893914792333342,
+            1417040139552686090,
+            1448510003768983643,
+            1462706763290771619,
+            1476036640580436242
+        ],
+        "excluded_categories": [
+            1368769895390646304,
+            1368770186961879061,
+            1471429156137992273,
+            1335470070410772643,
+            1342364106539139092,
+            1364143369915203595,
+            1399343906075840512,
+            1413779549791195207
         ]
     },
     "apps": {
