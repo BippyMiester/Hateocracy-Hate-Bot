@@ -51,6 +51,12 @@ class AutoModeration(commands.Cog):
     async def process_moderation(self, message: discord.Message):
         Logger.debug(f"Starting AutoModeration for message {message.id} from {message.author}")
         
+        # Check if the message author is excluded.
+        excluded_users = self.mod_settings.get("excluded_users", [])
+        if message.author.id in excluded_users:
+            Logger.debug(f"Message {message.id} author {message.author.id} is excluded from moderation.")
+            return
+
         # Check if the message is in any excluded channel.
         excluded_channels = self.mod_settings.get("excluded_channels", [])
         if message.channel.id in excluded_channels:
@@ -219,10 +225,10 @@ class AutoModeration(commands.Cog):
             timeout_str = self.mod_settings.get("timeout_duration", "1m")
             timeout_delta = parse_timeout(timeout_str)
             if timeout_delta:
-                # Instead of calculating a datetime, pass the timedelta directly.
                 member = message.guild.get_member(message.author.id)
                 if member:
                     try:
+                        # Pass the timeout_delta as a positional argument.
                         await member.timeout(timeout_delta, reason="Content moderation violation")
                         Logger.info(f"Timed out user {message.author.id} for duration {timeout_delta}")
                     except Exception as e:
