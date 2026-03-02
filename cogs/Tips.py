@@ -22,17 +22,17 @@ class Tips(commands.Cog):
 
     @app_commands.command(
         name="tip-add",
-        description="Add a tip from a message ID."
+        description="Add a tip via message id."
     )
     async def tip_add(self, interaction: discord.Interaction, id: str):
-        # Parse the input message id.
+        # Parse the provided message id.
         try:
             original_message_id = int(id)
         except Exception:
             await interaction.response.send_message("Invalid message ID.", ephemeral=True)
             return
 
-        # Retrieve the original message from the channel where the slash command was used.
+        # Retrieve the original message from the channel where the command is run.
         try:
             original_message = await interaction.channel.fetch_message(original_message_id)
         except Exception as e:
@@ -40,15 +40,17 @@ class Tips(commands.Cog):
             await interaction.response.send_message("Could not retrieve the message.", ephemeral=True)
             return
 
-        # Create an embed from the original message content.
-        embed = discord.Embed(
-            title="New Tip",
-            description=original_message.content,
-            color=discord.Color.blue(),
-            timestamp=datetime.datetime.utcnow()
+        # Create an embed for the tip voting channel with the original message content.
+        voting_embed = discord.Embed(
+            title="Is this a good tip?",
+            description=f"**Tip Content:**\n{original_message.content}",
+            color=discord.Color.blue()
         )
+        voting_embed.add_field(name="Submitted by", value=interaction.user.mention, inline=True)
+        voting_embed.add_field(name="Created by", value=original_message.author.mention, inline=True)
+        voting_embed.set_footer(text="Vote to approve this tip as a verified tip!")
 
-        # Choose the tip voting channel from settings (development/production).
+        # Determine the tip voting channel based on environment.
         env = self.settings["bot"]["environment"]
         if env == "development":
             voting_channel_id = self.settings["tips"]["development"]["tip_voting_channel"]
@@ -60,15 +62,15 @@ class Tips(commands.Cog):
             await interaction.response.send_message("Tip voting channel not found.", ephemeral=True)
             return
 
-        # Post the embed in the tip voting channel.
+        # Post embed in the tip voting channel.
         try:
-            tip_vote_message = await tip_voting_channel.send(embed=embed)
+            tip_vote_message = await tip_voting_channel.send(embed=voting_embed)
         except Exception as e:
             Logger.error(f"Failed to send tip embed: {e}")
             await interaction.response.send_message("Failed to post tip.", ephemeral=True)
             return
 
-        # Save the tip with the key as the new tip vote message ID.
+        # Save tip data with additional keys.
         try:
             with open(self.tips_file, "r", encoding="utf-8") as f:
                 tips_data = json.load(f)
@@ -80,7 +82,9 @@ class Tips(commands.Cog):
             "content": original_message.content,
             "upvotes": 0,
             "downvotes": 0,
-            "approved": False  # Marker to indicate if the tip has been approved.
+            "approved": False,
+            "submitted_by": interaction.user.id,
+            "original_author": original_message.author.id
         }
         try:
             with open(self.tips_file, "w", encoding="utf-8") as f:
@@ -103,7 +107,7 @@ class Tips(commands.Cog):
 
     @commands.Cog.listener()
     async def on_raw_reaction_add(self, payload: discord.RawReactionActionEvent):
-        # Ignore if the reaction was made by the bot.
+        # Ignore if the reaction is by the bot.
         if payload.user_id == self.bot.user.id:
             return
 
@@ -121,12 +125,12 @@ class Tips(commands.Cog):
         emoji = str(payload.emoji)
         if emoji == "👍":
             tip_entry["upvotes"] += 1
-            Logger.info(f"Incremented upvotes for tip {payload.message_id}: now {tip_entry['upvotes']}")
+            Logger.info(f"Tip {payload.message_id} upvotes increased to {tip_entry['upvotes']}")
         elif emoji == "👎":
             tip_entry["downvotes"] += 1
-            Logger.info(f"Incremented downvotes for tip {payload.message_id}: now {tip_entry['downvotes']}")
+            Logger.info(f"Tip {payload.message_id} downvotes increased to {tip_entry['downvotes']}")
         else:
-            return  # Ignore other emojis.
+            return
 
         try:
             with open(self.tips_file, "w", encoding="utf-8") as f:
@@ -134,7 +138,7 @@ class Tips(commands.Cog):
         except Exception as e:
             Logger.error(f"Error saving updated tips data: {e}")
 
-        # Check if the tip is not already approved and if upvotes meet the minimum threshold.
+        # Check for approval if not already approved.
         if not tip_entry.get("approved", False):
             min_votes = self.settings["tips"].get("min_votes", 5)
             if tip_entry["upvotes"] >= min_votes:
@@ -147,15 +151,28 @@ class Tips(commands.Cog):
                 if tips_channel is None:
                     Logger.error("Approved tips channel not found!")
                     return
-                # Repost the tip embed (without reactions).
-                embed = discord.Embed(
-                    title="Approved Tip",
-                    description=tip_entry["content"],
-                    color=discord.Color.green(),
-                    timestamp=datetime.datetime.utcnow()
-                )
+
+                # Fetch user objects for original author and submitted_by.
                 try:
-                    approved_message = await tips_channel.send(embed=embed)
+                    original_author = await self.bot.fetch_user(tip_entry["original_author"])
+                    submitted_by = await self.bot.fetch_user(tip_entry["submitted_by"])
+                except Exception as e:
+                    Logger.error(f"Error fetching user info: {e}")
+                    original_author = None
+                    submitted_by = None
+
+                # Create approved tip embed using usernames rather than mentions.
+                title = f"Tip by {original_author.name}" if original_author else "Tip"
+                approved_embed = discord.Embed(
+                    title=title,
+                    description=tip_entry["content"],
+                    color=discord.Color.green()
+                )
+                footer_text = f"This tip submitted by {submitted_by.name}" if submitted_by else "Tip submitted"
+                approved_embed.set_footer(text=footer_text)
+
+                try:
+                    approved_message = await tips_channel.send(embed=approved_embed)
                     Logger.info(f"Tip {payload.message_id} approved and posted in tips channel: {approved_message.id}")
                     tip_entry["approved"] = True  # Mark tip as approved.
                     with open(self.tips_file, "w", encoding="utf-8") as f:
@@ -174,15 +191,15 @@ class Tips(commands.Cog):
 
         tip_entry = tips_data.get(str(payload.message_id))
         if tip_entry is None:
-            return  # Not a tracked tip.
+            return  # Not tracked.
 
         emoji = str(payload.emoji)
         if emoji == "👍":
             tip_entry["upvotes"] = max(0, tip_entry["upvotes"] - 1)
-            Logger.info(f"Decremented upvotes for tip {payload.message_id}: now {tip_entry['upvotes']}")
+            Logger.info(f"Tip {payload.message_id} upvotes decreased to {tip_entry['upvotes']}")
         elif emoji == "👎":
             tip_entry["downvotes"] = max(0, tip_entry["downvotes"] - 1)
-            Logger.info(f"Decremented downvotes for tip {payload.message_id}: now {tip_entry['downvotes']}")
+            Logger.info(f"Tip {payload.message_id} downvotes decreased to {tip_entry['downvotes']}")
         else:
             return
 
