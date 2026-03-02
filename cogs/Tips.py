@@ -62,7 +62,7 @@ class Tips(commands.Cog):
             await interaction.response.send_message("Tip voting channel not found.", ephemeral=True)
             return
 
-        # Post embed in the tip voting channel.
+        # Post the embed in the tip voting channel.
         try:
             tip_vote_message = await tip_voting_channel.send(embed=voting_embed)
         except Exception as e:
@@ -70,7 +70,7 @@ class Tips(commands.Cog):
             await interaction.response.send_message("Failed to post tip.", ephemeral=True)
             return
 
-        # Save tip data with additional keys.
+        # Save tip data to JSON.
         try:
             with open(self.tips_file, "r", encoding="utf-8") as f:
                 tips_data = json.load(f)
@@ -79,6 +79,7 @@ class Tips(commands.Cog):
             tips_data = {}
         tips_data[str(tip_vote_message.id)] = {
             "original_message_id": original_message_id,
+            "original_channel_id": original_message.channel.id,
             "content": original_message.content,
             "upvotes": 0,
             "downvotes": 0,
@@ -107,7 +108,7 @@ class Tips(commands.Cog):
 
     @commands.Cog.listener()
     async def on_raw_reaction_add(self, payload: discord.RawReactionActionEvent):
-        # Ignore if the reaction is by the bot.
+        # Ignore if the reaction was made by the bot.
         if payload.user_id == self.bot.user.id:
             return
 
@@ -130,7 +131,7 @@ class Tips(commands.Cog):
             tip_entry["downvotes"] += 1
             Logger.info(f"Tip {payload.message_id} downvotes increased to {tip_entry['downvotes']}")
         else:
-            return
+            return  # Ignore other emojis.
 
         try:
             with open(self.tips_file, "w", encoding="utf-8") as f:
@@ -138,21 +139,20 @@ class Tips(commands.Cog):
         except Exception as e:
             Logger.error(f"Error saving updated tips data: {e}")
 
-        # Check for approval if not already approved.
+        # Check for approval only if not already approved.
         if not tip_entry.get("approved", False):
             min_votes = self.settings["tips"].get("min_votes", 5)
             if tip_entry["upvotes"] >= min_votes:
                 env = self.settings["bot"]["environment"]
                 if env == "development":
-                    tips_channel_id = self.settings["tips"]["development"]["tips_channel"]
+                    approved_channel_id = self.settings["tips"]["development"]["tips_channel"]
                 else:
-                    tips_channel_id = self.settings["tips"]["production"]["tips_channel"]
-                tips_channel = self.bot.get_channel(tips_channel_id)
-                if tips_channel is None:
+                    approved_channel_id = self.settings["tips"]["production"]["tips_channel"]
+                approved_channel = self.bot.get_channel(approved_channel_id)
+                if approved_channel is None:
                     Logger.error("Approved tips channel not found!")
                     return
 
-                # Fetch user objects for original author and submitted_by.
                 try:
                     original_author = await self.bot.fetch_user(tip_entry["original_author"])
                     submitted_by = await self.bot.fetch_user(tip_entry["submitted_by"])
@@ -161,7 +161,7 @@ class Tips(commands.Cog):
                     original_author = None
                     submitted_by = None
 
-                # Create approved tip embed using usernames rather than mentions.
+                # Create approved tip embed using usernames (not mentions) and include the vote counts.
                 title = f"Tip by {original_author.name}" if original_author else "Tip"
                 approved_embed = discord.Embed(
                     title=title,
@@ -170,9 +170,20 @@ class Tips(commands.Cog):
                 )
                 footer_text = f"This tip submitted by {submitted_by.name}" if submitted_by else "Tip submitted"
                 approved_embed.set_footer(text=footer_text)
-
+                # Add field with a link to the original message.
                 try:
-                    approved_message = await tips_channel.send(embed=approved_embed)
+                    guild_id = payload.guild_id
+                    original_channel_id = tip_entry["original_channel_id"]
+                    original_message_id = tip_entry["original_message_id"]
+                    original_link = f"https://discord.com/channels/{guild_id}/{original_channel_id}/{original_message_id}"
+                    approved_embed.add_field(name="Original Message Link", value=f"[Click here]({original_link})", inline=False)
+                except Exception as e:
+                    Logger.error(f"Error constructing original message link: {e}")
+                # Add field showing the vote counts.
+                vote_field_value = f"Upvotes: {tip_entry['upvotes']} | Downvotes: {tip_entry['downvotes']}"
+                approved_embed.add_field(name="Votes", value=vote_field_value, inline=False)
+                try:
+                    approved_message = await approved_channel.send(embed=approved_embed)
                     Logger.info(f"Tip {payload.message_id} approved and posted in tips channel: {approved_message.id}")
                     tip_entry["approved"] = True  # Mark tip as approved.
                     with open(self.tips_file, "w", encoding="utf-8") as f:
