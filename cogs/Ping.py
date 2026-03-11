@@ -12,13 +12,6 @@ class Ping(commands.Cog):
         bot_latency = round(self.bot.latency * 1000)
         response = f"Ping command used; latency: {bot_latency} ms"
         Logger.info(response)
-        
-        # Log the command execution details via Logger.LogDiscord
-        await Logger.LogDiscord(
-            self.bot,
-            command="ping",
-            user=str(interaction.user)
-        )
 
         await interaction.response.send_message(response, ephemeral=False)
 
