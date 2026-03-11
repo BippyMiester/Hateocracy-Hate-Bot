@@ -3,9 +3,6 @@ import sys
 import time
 import logging
 import re
-import json
-import datetime
-import discord
 
 LOGS_DIR = "logs"  # Or your preferred logs directory
 
@@ -41,8 +38,7 @@ class Logger:
 
         timestamp = int(time.time())
         date_str = time.strftime("%Y-%m-%d")
-        script_name = os.path.splitext(os.path.basename(sys.argv[0]))[0]
-        log_filename = f"{date_str}-{timestamp}-{script_name}.log"
+        log_filename = f"{date_str}-{timestamp}.log"
         log_path = os.path.join(LOGS_DIR, log_filename)
 
         logger = logging.getLogger("process_uploads")
@@ -109,48 +105,3 @@ class Logger:
     @classmethod
     def set_debug(cls, debug=True):
         cls._initialize(debug=debug)
-
-    @classmethod
-    async def LogDiscord(cls, bot, command: str, user: str):
-        """
-        Logs command details to the Discord logs channel using an embed.
-        
-        Parameters:
-            bot: The running Discord bot/client instance.
-            command: The command being executed.
-            user: The user who executed the command.
-        """
-        # Automatically capture the current UTC time as a string using a timezone-aware datetime.
-        command_time = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%d %H:%M:%S %Z")
-        
-        # Load settings from settings.json
-        try:
-            with open("./settings.json", "r", encoding="utf-8") as f:
-                settings = json.load(f)
-        except Exception as e:
-            cls.error("Failed to load settings.json: " + str(e))
-            return
-        
-        logs_channel_id = settings.get("logs_channel")
-        if logs_channel_id is None:
-            cls.error("logs_channel not defined in settings.json")
-            return
-        
-        # Get the channel by its ID from the bot
-        channel = bot.get_channel(logs_channel_id)
-        if channel is None:
-            cls.error(f"Logs channel with ID {logs_channel_id} not found.")
-            return
-
-        # Create an embed message
-        embed = discord.Embed(title="Command Executed", color=discord.Color.blue())
-        embed.add_field(name="Command", value=command, inline=False)
-        embed.add_field(name="User", value=user, inline=False)
-        embed.add_field(name="Time", value=command_time, inline=False)
-        embed.set_footer(text="Command log")
-
-        try:
-            await channel.send(embed=embed)
-            cls.info(f"Logged command execution to Discord: {command} by {user} at {command_time}")
-        except Exception as e:
-            cls.error("Failed to send command log embed: " + str(e))
