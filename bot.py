@@ -120,11 +120,8 @@ class Client(commands.Bot):
         Logger.info("Syncing commands to the Bot's tree")
         Logger.info("Copying Global To Guild")
         self.tree.copy_global_to(guild=discord.Object(id=guild_id))
-        if environment == "production":
-            Logger.warning("Bot is in PRODUCTION mode, syncing to Discord servers.")
-            await self.tree.sync(guild=discord.Object(id=guild_id))
-        else:
-            Logger.info("Bot is in DEVELOPMENT mode, skipping sync to Discord servers.")
+        Logger.info("Copying Commands To Discord Servers")
+        await self.tree.sync()
         Logger.info("Commands are now synced!")
 
     async def DownloadNLTKData(self):
